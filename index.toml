@@ -165,6 +165,10 @@ file = "config/ding.toml"
 hash = "e8256181f8df08a3763a52aff327278e168402cce131da9cf289a4dfe8e70ab0"
 
 [[files]]
+file = "config/e4mc/e4mc.toml"
+hash = "d16202f5f771e2e9e69d001e5122ca1b98a0e66f496aa1967b2f37ebd155e22c"
+
+[[files]]
 file = "config/easyanvils-common.toml"
 hash = "643de42a3b9cd02a9c0d82d2b2119daa3373d51b7394baeba6b98332de6ecb8d"
 
@@ -5261,7 +5265,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "2ed92e0adb8781d7abd20b7ec54a472c1a14e63309b49499e9c12f2d70b2e28a"
+hash = "f1f7c42b136f84bfad76304f00f9a07d33a3cdeef08e0682d77c87a164c5db16"
 metafile = true
 
 [[files]]
@@ -5316,7 +5320,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "ce701e35cfaeb74acafc6907d43ccd6713cdee07c649920f23e486b2d16ac653"
+hash = "5bbece927db938f58e7ce0f5d0f2776e4c7a2fe7b314abb4696bc0aa8a8b6890"
 metafile = true
 
 [[files]]
