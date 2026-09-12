@@ -5,7 +5,7 @@ const range = 8
 
 function getRandomNearbyCreature( level, pos ) {
     let ents = level.getEntitiesWithin(AABB.ofBlock(pos).inflate(range)).filter(ent => ent.isLiving())
-    return ents[Math.floor(Math.random()*ents.length)]
+    return ents[Math.round(Math.random()*ents.length)]
 }
 
 function popCreature( level, entity, source ) {
