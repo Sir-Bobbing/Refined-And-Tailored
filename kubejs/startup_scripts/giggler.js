@@ -1,11 +1,15 @@
 const playSound = 'playSound(net.minecraft.world.entity.player.Player,net.minecraft.core.BlockPos,net.minecraft.sounds.SoundEvent,net.minecraft.sounds.SoundSource,float,float)'
 
-const enabled = false // Hiding functionality for now
+const enabled = false
 const range = 8
 
-function getRandomNearbyCreature( level, pos ) {
-    let ents = level.getEntitiesWithin(AABB.ofBlock(pos).inflate(range)).filter(ent => ent.isLiving())
-    return ents[Math.round(Math.random()*ents.length)]
+function getRandomNearbyCreature( level, pos, user ) {
+    let ents = level.getEntitiesWithin(AABB.ofBlock(pos).inflate(range)).filter(ent =>{
+        return ent.isLiving() && (!ent.hasCustomName() || ent.isPlayer())
+    })
+    let random = Math.floor(Math.random()*ents.length)
+    console.log("Giggler",random,ents)
+    return ents[random]
 }
 
 function popCreature( level, entity, source ) {
@@ -16,10 +20,10 @@ function popCreature( level, entity, source ) {
 
     let centerY = entity.y + entity.bbHeight / 2
     
-    level.runCommandSilent(`particle supplementaries:streamer ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 100 force`)
-    level.runCommandSilent(`particle supplementaries:confetti ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 100 force`)
-    level.runCommandSilent(`particle minecraft:poof ${entity.x} ${centerY} ${entity.z} 0.25 0.25 0.25 0.1 30 force`)
-    level.runCommandSilent(`particle minecraft:flash ${entity.x} ${centerY} ${entity.z} 0 0 0 0 1 force`)
+    level.runCommandSilent(`particle supplementaries:streamer ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 125 force`)
+    level.runCommandSilent(`particle supplementaries:confetti ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 400 force`)
+    level.runCommandSilent(`particle minecraft:flash ${entity.x} ${centerY} ${entity.z} 0 0 0 0 2 force`)
+    level.runCommandSilent(`particle minecraft:end_rod ${entity.x} ${centerY} ${entity.z} 0.25 0.25 0.25 0.25 50 force`)
 
     if (entity.isPlayer()) {
         const keep = level.runCommandSilent('gamerule keepInventory') == 'Gamerule keepInventory is currently set to: true'
@@ -43,7 +47,7 @@ StartupEvents.registry('item', event => {
     .texture('kubejs:item/giggler')
     .parentModel('kubejs:item/giggler.json')
     .rarity('UNCOMMON')
-    .tooltip('§e☻ §lLAUGH WITH YOUR FRIENDS!!!§r §e☻')
+    .tooltip('§e☻ §7laugh with your friends §e☻')
     .useAnimation('bow')
     .useDuration(itemstack => 20)
 
@@ -54,7 +58,9 @@ StartupEvents.registry('item', event => {
         })
         .finishUsing((itemstack, level, entity) => {
             if (!level.isClientSide()) {
+                if (entity.isFakePlayer()) {return itemstack}
                 let nearbyEntity = getRandomNearbyCreature(level, entity.blockPosition())
+                if (nearbyEntity == null) {nearbyEntity = entity}
                 if (nearbyEntity != null) {
                     popCreature( level, nearbyEntity, entity )
                     // Long cooldown if you target yourself with the giggler
