@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:tfmg:lead_sword",
+    "item:tfmg:lead_axe"
+  ],
+  "text": "kubejs.info.tools_lead"
+}

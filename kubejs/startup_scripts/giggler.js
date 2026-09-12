@@ -1,9 +1,72 @@
+const playSound = 'playSound(net.minecraft.world.entity.player.Player,net.minecraft.core.BlockPos,net.minecraft.sounds.SoundEvent,net.minecraft.sounds.SoundSource,float,float)'
+
+const enabled = false // Hiding functionality for now
+const range = 8
+
+function getRandomNearbyCreature( level, pos ) {
+    let ents = level.getEntitiesWithin(AABB.ofBlock(pos).inflate(range)).filter(ent => ent.isLiving())
+    return ents[Math.floor(Math.random()*ents.length)]
+}
+
+function popCreature( level, entity, source ) {
+    for (let i = 0; i < 3; i++) {
+        level[playSound](null, entity.blockPosition(), "supplementaries:item.confetti_popper", "master", 1, 1 )
+    }
+    level[playSound](null, entity.blockPosition(), "minecraft:entity.firework_rocket.twinkle", "master", 1, 1 )
+
+    let centerY = entity.y + entity.bbHeight / 2
+    
+    level.runCommandSilent(`particle supplementaries:streamer ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 100 force`)
+    level.runCommandSilent(`particle supplementaries:confetti ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 100 force`)
+    level.runCommandSilent(`particle minecraft:poof ${entity.x} ${centerY} ${entity.z} 0.25 0.25 0.25 0.1 30 force`)
+    level.runCommandSilent(`particle minecraft:flash ${entity.x} ${centerY} ${entity.z} 0 0 0 0 1 force`)
+
+    if (entity.isPlayer()) {
+        const keep = level.runCommandSilent('gamerule keepInventory') == 'Gamerule keepInventory is currently set to: true'
+        if (!keep) {level.runCommandSilent('gamerule keepInventory true')}
+        entity.damage(10000, new DamageSource['(net.minecraft.core.Holder,net.minecraft.world.entity.Entity)']('kubejs:giggler', source))
+        entity.setPos(entity.x, entity.y - 6, entity.z)
+        if (!keep) {level.runCommandSilent('gamerule keepInventory false')}
+    }
+    else {
+        entity.setPos(entity.x, -1024, entity.z)
+        entity.damage(10000, new DamageSource['(net.minecraft.core.Holder,net.minecraft.world.entity.Entity)']('kubejs:giggler', source))
+    }
+
+    level.explode(null, entity.x, centerY, entity.z, 1, "mob")
+}
+
 StartupEvents.registry('item', event => {
 
-    event.create('giggler')
+    let itemBuilder = event.create('giggler')
     .displayName("Giggler")
     .texture('kubejs:item/giggler')
     .parentModel('kubejs:item/giggler.json')
     .rarity('UNCOMMON')
+    .tooltip('§e☻ §lLAUGH WITH YOUR FRIENDS!!!§r §e☻')
+    .useAnimation('bow')
+    .useDuration(itemstack => 20)
 
+    if (enabled) {
+        itemBuilder.use((level, player, hand) => {
+            level[playSound](null, player.blockPosition(), "malum:legalize_nuclear_bombs", "master", 1, 2)
+            return true
+        })
+        .finishUsing((itemstack, level, entity) => {
+            if (!level.isClientSide()) {
+                let nearbyEntity = getRandomNearbyCreature(level, entity.blockPosition())
+                if (nearbyEntity != null) {
+                    popCreature( level, nearbyEntity, entity )
+                    // Long cooldown if you target yourself with the giggler
+                    entity.addItemCooldown("kubejs:giggler", (nearbyEntity == entity ?  20 : 3) * 20)
+                    itemstack.shrink(1)
+                } 
+            }
+            return itemstack
+        })
+        .releaseUsing((itemstack, level, entity) => {
+            entity.addItemCooldown("kubejs:giggler", 3 * 20);
+        })
+    }
+    
 })

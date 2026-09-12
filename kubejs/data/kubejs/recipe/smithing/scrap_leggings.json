@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:waxed_copper_block"
+  },
+  "base": {
+    "item": "minecraft:chainmail_leggings"
+  },
+  "result": {
+    "id": "scguns:scrap_leggings"
+  },
+  "template": {
+    "item": "scguns:copper_blueprint"
+  }
+}

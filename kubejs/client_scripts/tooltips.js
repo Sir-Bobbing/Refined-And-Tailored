@@ -4,6 +4,9 @@ ItemEvents.modifyTooltips(event => {
 
     event.add('nomansland:warding_effigy', Text.gray('Prevents hostile mob spawns in a radius, stackable'))
 
+    event.add('tfmg:lead_sword', Text.gray('Attacks apply poison'))
+    event.add('tfmg:lead_axe', Text.gray('Attacks apply poison'))
+
     event.add('tfmg:circuit_board', Text.gray('Dropped by the Scamppanzer boss'))
     event.add('tfmg:steel_mechanism', Text.gray('Rarely dropped by hostile Cog enemies'))
     event.add('powergrid:electrical_gizmo', Text.gray('Rarely dropped by Cog mobs'))

@@ -399,3 +399,13 @@ ServerEvents.tags('enchantment', event => {
 
 
 })
+
+ServerEvents.tags('damage_type', event => {
+	const id = 'kubejs:giggler'
+	event.add('minecraft:bypasses_armor',id)
+	event.add('minecraft:bypasses_resistance',id)
+	event.add('minecraft:bypasses_effects',id)
+	event.add('minecraft:bypasses_enchantments',id)
+	event.add('minecraft:bypasses_shield',id)
+	event.add('minecraft:bypasses_cooldown',id)
+})

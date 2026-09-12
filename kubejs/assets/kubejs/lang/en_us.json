@@ -3,5 +3,10 @@
   "kubejs.info.sluice_obtainable": "Can be obtained by sluicing. Check uses for sluice grate for more details.",
   "kubejs.info.blight_obtainable": "Can be obtained by spreading blight with bonemeal or otherwise. Blight can occur from certain totem magic.",
   "kubejs.info.circuit": "Circuits are dropped by the Scamppanzer boss which can be summoned via a Scamppanzer Transmitter",
-  "kubejs.info.cog_drops": "Rare drops from Cog mobs"
+  "kubejs.info.cog_drops": "Rare drops from Cog mobs",
+  "kubejs.info.tools_lead": "I think you might have lead poisoning for even thinking about these tools... You can give others lead poisoning though so it's okay!",
+  "kubejs.info.tools_steel": "Diamond tier tool. Has stats between iron and diamond.",
+  "kubejs.info.tools_aluminum": "Iron tier tool. Unbreakable but has stats between wood and stone plus a 40% mining speed penalty. Best used when enchanted. Useful for deployer automation.",
+
+  "death.attack.giggler": "%1$s laughed too hard..."
 }
