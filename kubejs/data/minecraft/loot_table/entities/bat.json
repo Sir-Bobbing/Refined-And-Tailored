@@ -2,10 +2,77 @@
   "type": "minecraft:entity",
   "pools": [
     {
-      "bonus_rolls": 0.0,
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "malum:astral_weave",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        }
+      ],
+      "functions": [],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.25
+        },
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "type": "minecraft:bat",
+            "nbt": {
+              "neoforge:attachments": {
+                "mixed_litter:variants": [
+                  "kubejs:bat/phantasmal"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "condition": "minecraft:damage_source_properties",
+          "predicate": {
+            "source_entity": {
+              "equipment": {
+                "mainhand": {
+                  "items": "#malum:soul_shatter_capable_weapon"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "bonus_rolls": 0,
       "conditions": [
         {
           "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "type": "minecraft:bat",
+            "nbt": {
+              "neoforge:attachments": {
+                "mixed_litter:variants": [
+                  "kubejs:bat/phantasmal"
+                ]
+              }
+            }
+          }
         }
       ],
       "entries": [
@@ -16,16 +83,16 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 0.75,
-                "min": 0.0
+                "max": 1,
+                "min": 0
               },
               "function": "minecraft:set_count"
             },
             {
               "count": {
                 "type": "minecraft:uniform",
-                "max": 1.0,
-                "min": 0.0
+                "max": 1,
+                "min": 0
               },
               "enchantment": "minecraft:looting",
               "function": "minecraft:enchanted_count_increase"
@@ -34,7 +101,7 @@
           "name": "minecraft:phantom_membrane"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:entities/bat"
