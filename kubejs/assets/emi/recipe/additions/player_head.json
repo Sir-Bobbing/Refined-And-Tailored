@@ -4,12 +4,12 @@
   "right": [
     {
       "type": "item",
-      "id": "tfmg:steel_sword",
+      "id": "tfmg:lead_sword",
       "nbt": "{lore:['{text:\"Kill a player with this weapon\"}']}"
     },
     {
       "type": "item",
-      "id": "tfmg:steel_axe",
+      "id": "tfmg:lead_axe",
       "nbt": "{lore:['{text:\"Kill a player with this weapon\"}']}"
     },
     {
