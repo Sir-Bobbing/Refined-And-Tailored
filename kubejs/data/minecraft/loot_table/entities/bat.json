@@ -30,7 +30,6 @@
           "condition": "minecraft:entity_properties",
           "entity": "this",
           "predicate": {
-            "type": "minecraft:bat",
             "nbt": {
               "neoforge:attachments": {
                 "mixed_litter:variants": [
@@ -64,7 +63,6 @@
           "condition": "minecraft:entity_properties",
           "entity": "this",
           "predicate": {
-            "type": "minecraft:bat",
             "nbt": {
               "neoforge:attachments": {
                 "mixed_litter:variants": [
