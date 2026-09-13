@@ -1,0 +1,31 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:minecraft:player_head",
+  "right": [
+    {
+      "type": "item",
+      "id": "tfmg:steel_sword",
+      "nbt": "{lore:['{text:\"Kill a player with this weapon\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "tfmg:steel_axe",
+      "nbt": "{lore:['{text:\"Kill a player with this weapon\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:mace",
+      "nbt": "{lore:['{text:\"Kill a player with this weapon\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:anvil",
+      "nbt": "{lore:['{text:\"Squish a player with an anvil\"}']}"
+    }
+  ],
+  "output": {
+    "type": "item",
+    "id": "minecraft:player_head",
+    "nbt": "{lore:['{text:\"Drops the head of a killed player\"}','{text:\"Linked to killed player\"}']}"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:minecraft:player_head"
+  ],
+  "text": "kubejs.info.player_head"
+}

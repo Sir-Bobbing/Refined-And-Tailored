@@ -397,7 +397,6 @@ ServerEvents.tags('enchantment', event => {
     event.remove('minecraft:on_random_loot', removeEnchants)
     event.remove('minecraft:on_mob_spawn_equipment', removeEnchants)
 
-
 })
 
 ServerEvents.tags('damage_type', event => {

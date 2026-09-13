@@ -31,5 +31,4 @@ ServerEvents.recipes(event => {
         "copycats:copycat_wooden_pressure_plate",
         "copycats:copycat_wooden_button",
     ], 8)
-
 })

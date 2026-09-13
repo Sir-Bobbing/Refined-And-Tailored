@@ -7,6 +7,6 @@
   "kubejs.info.tools_lead": "I think you might have lead poisoning for even thinking about these tools... You can give others lead poisoning though so it's okay!",
   "kubejs.info.tools_steel": "Diamond tier tool. Has stats between iron and diamond.",
   "kubejs.info.tools_aluminum": "Iron tier tool. Unbreakable but has stats between wood and stone plus a 40% mining speed penalty. Best used when enchanted. Useful for deployer automation.",
-
+  "kubejs.info.player_head": "Can be used in a navigation table to track a player. Obtained by killing a player with heavy things. Can be renamed to a valid username in an anvil to change skin.",
   "death.attack.giggler": "%1$s laughed too hard..."
 }
