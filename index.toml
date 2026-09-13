@@ -897,6 +897,14 @@ file = "kubejs/assets/emi/recipe/additions/nephrite_condensation.json"
 hash = "8ba6878cf76ac65f1177bf66b786b2d6624a8f48650427b69314f0100c8273b0"
 
 [[files]]
+file = "kubejs/assets/emi/recipe/additions/player_head.json"
+hash = "9637c8486dbb5edf1f86aa6c5bade7d3fae60920bca9db6b89e08a4e8723a7c9"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/player_head_info.json"
+hash = "fa8609682f88a36f9c1ef68774e2cf7890d1c5e890ecb01652b40a0e5a5fea26"
+
+[[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/crude_oil/passive.json"
 hash = "576203450ff61c3275f377b7d602ac1bd0ad838f2c0cbcdd39f898194276e219"
 
@@ -1038,7 +1046,7 @@ hash = "1276bd1fd7360de8527a093383fd0d7517e528c7775d4714b9936d59d5632d39"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "a4e3f3f82a335a39f3e753bce014e4fdcf9cb888d0964595e4be62d434c4fcde"
+hash = "efd4ad14a5063cd8326da822bab454362913b7934c0eca0ed4ff2a1c81a7657e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/crystal_resonator.json"
@@ -3518,12 +3526,20 @@ file = "kubejs/data/minecraft/function/whats_this/remember.mcfunction"
 hash = "c38278b5161a2b3f7f1b6014da354f1932524e747d82e883a12f6a5c66a135a5"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_table/blocks/player_head.json"
+hash = "9e44fa3f5ae4ff5ede34416ea987356af33433fdd97135e2c345d9849fbf5ead"
+
+[[files]]
 file = "kubejs/data/minecraft/loot_table/entities/bat.json"
 hash = "7c3a257de8fd57382f666267492989a0c2e87fb86ffd4342195bbc99390e942d"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/entities/iron_golem.json"
 hash = "ff800229bcbadf21c73e4f4fa4b06b8fb3fc08c7cf5148d25aabebb53137523e"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_table/entities/player.json"
+hash = "3a190c776786ba03f2e7170eceecfa39bda68756bb52433f9d0b84f5c76382e4"
 
 [[files]]
 file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_2.json"
@@ -4470,8 +4486,12 @@ file = "kubejs/server_scripts/nephrite_condensation.js"
 hash = "1492dccf1eef0b5358385a2547b7c6cfccd3fa641fab25a33adf2ebc772891b5"
 
 [[files]]
+file = "kubejs/server_scripts/player_head.js"
+hash = "8262e3d9bc6d81cc3f755f879f5340f24dd5072c1122783e0f27cb1a96d11a72"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "b6ff840bc44c7111a6e392bc6891a5781a84e82b269c6ad7bbc5f6b8cfbc992d"
+hash = "69066589ebec326fd97b0eb5b29f13d2f43354e6cb68ce85f7f15e3ff2dfd8d0"
 
 [[files]]
 file = "kubejs/server_scripts/respawn_fade.js"
@@ -4483,7 +4503,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "dbc31d414b33a100a46f10b4e9bd6db90af976bd2e0ae8da6c6d28dbbf2f57e7"
+hash = "966471297f7e3480906596cc20d3ae24ca277d5e77b35d9cfd45cd60789cb644"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -4516,6 +4536,10 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 [[files]]
 file = "kubejs/startup_scripts/ore_deposits.js"
 hash = "dec599956a9774a66880b3992079d5cf44fb68aaaf5f9d05ce5444d60585675f"
+
+[[files]]
+file = "kubejs/startup_scripts/player_navigation.js"
+hash = "a8b62a26e25e518eb27d0d2d98c7c204eea138abb42ca281742142474099aa10"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
