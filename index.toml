@@ -114,7 +114,7 @@ hash = "dac18a20718319d6556a7b2709d8f7a64b5da718d2b05ab9d32604087860322a"
 
 [[files]]
 file = "config/corpse-server.toml"
-hash = "f6921890078d010da2e16b8a51ebff1bbd78cb1cdf5ae9732ca5842ecc976222"
+hash = "3f049032df9e13ec556a08eddba0631fe3106e7f1f851399a9e40d0b1febcbca"
 
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
@@ -358,7 +358,7 @@ hash = "30f32069e04a0885e75a581e54f0f2368f4d55f2d2439f3b744ac40ab8c80031"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "313e91add111f0e63711cc13e055d200af78d543f91e806fe711316631edc775"
+hash = "22cbbe65900cab55181b34fd97d5204d99ff5a6010b9644ba0eb95ee9f3bf77e"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1005,6 +1005,18 @@ file = "kubejs/assets/emi/recipe/additions/tap/resin.json"
 hash = "e6adb968cd672c88e770b0b86283a3f6fd8a492c2aeb6e24a67766a69cd040ca"
 
 [[files]]
+file = "kubejs/assets/emi/recipe/additions/tools/aluminum.json"
+hash = "120a5e77f0739e486a1080de4f272b4fcc358269e787718da3f5a4e4e17c93c8"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/tools/lead.json"
+hash = "51ab307043bfa574b4289df2efa4798c3b37fc4667b6e1d4312f0bb0898eace4"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/tools/steel.json"
+hash = "8627ebcefede566ad9fb6121c8c9684583c2dc2628ccf46d536c5b6fdd78e8e6"
+
+[[files]]
 file = "kubejs/assets/emi/recipe/filters/sluice_filter.json"
 hash = "5426e254fdf5962087bf50bd2b983257325f5bf619ddb5eedb6d08a6d83ecf9e"
 
@@ -1026,11 +1038,15 @@ hash = "1276bd1fd7360de8527a093383fd0d7517e528c7775d4714b9936d59d5632d39"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "86d9faf4cd2280d603827d3ff0e50424daf10cf51cef741fe8e62d8e7391351e"
+hash = "a4e3f3f82a335a39f3e753bce014e4fdcf9cb888d0964595e4be62d434c4fcde"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/crystal_resonator.json"
+hash = "15a222437799d75bf18e3adb5a9b2443762afdc4c6823ee4fae375b74a95a28f"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/giggler.json"
-hash = "225b84ce4786efcc234a42f2eb2a82e9b32a06764e7263bcafdd47dde8df4c6d"
+hash = "4586196df1dae2ba2a18816592878652a8fdc250154cc0c1cf6a86bdba00d907"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/guide.json"
@@ -1053,8 +1069,24 @@ file = "kubejs/assets/kubejs/textures/block/crimsite_iron_ore.png"
 hash = "4d791771cf9ff54212accb22460f800fd4875d59a292496f8b42a20d1a7d7f78"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/crystal_resonator.png"
-hash = "4a3e2f741523d5c9c73743b22a27338618a4bf19f4e1e3925b4d373651c2bbef"
+file = "kubejs/assets/kubejs/textures/block/crystal_resonator_bud.png"
+hash = "c036ac980149958be9247430d7b9dc3ba5f36c728d1c0ab723e211050c53bb54"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/crystal_resonator_core.png"
+hash = "ab881fcf17bc9428d62493da39efd9a9892a6c76c5187b6a7544d307eb8ecaae"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/crystal_resonator_frame.png"
+hash = "45375f5f10fc3bfeb06a37489ea52207120b1916d2813e227a7bbb0c78029ed4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/crystal_resonator_inside1.png"
+hash = "ed6d911e2c252297a33a0f788bdea4361959e04184ce0acd09799002d8addb71"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/crystal_resonator_inside2.png"
+hash = "5214f229430b0bad652c580c1da6ca837bff614cd0778e0c9e43d3b71cab05d7"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/dripstone_iron_ore.png"
@@ -1807,7 +1839,7 @@ hash = "66b37b095497ddc88e1368778ad79384f5d1698011d68749414a67ce0810d6fb"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "66a3aa5466deefef6a9ee161b9ba2cd161b16a1e0d0b2f258e79c067801675ec"
+hash = "66ccecc367a02608ac995f0ebfb0cfe65118d5fb9536e804530828c3d9cef40f"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -2794,6 +2826,10 @@ file = "kubejs/data/kobolds/worldgen/structure_set/kobold_den.json"
 hash = "c220bf75e12ef51e7511b4f766bd7f38474095a4f70ffa2196febf0f8a4a81ee"
 
 [[files]]
+file = "kubejs/data/kubejs/damage_type/giggler.json"
+hash = "43118f758d7750ec364fc8f0b278513753a71a95f2d9a4d0357fb1337e260d6c"
+
+[[files]]
 file = "kubejs/data/kubejs/function/first_world_load.mcfunction"
 hash = "9a7b2705a4c9a279777cb8914d63b97c22732899337a3ebadc8a84572d323711"
 
@@ -3026,6 +3062,22 @@ file = "kubejs/data/kubejs/recipe/mixing/soap.json"
 hash = "103eb4cd26528d7cda8f395676679af11b418fed9c3473b453975f808d4dedc0"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/smithing/scrap_boots.json"
+hash = "76b33da46e0d0fe67a29fbc008ae3ffdab05c549d03847a9ab623f929bd44117"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/smithing/scrap_chestplate.json"
+hash = "e2f7820f2d74438081b6774276d44e162ce009f48d9351999ba6998c9207e98e"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/smithing/scrap_helmet.json"
+hash = "290910e63a9f84a57142b95c1e7a410c53b6aedc689a9e12b210bea3851551a7"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/smithing/scrap_leggings.json"
+hash = "c44880f485913e3ad7a4ea68c0667dc7cd73d43d2d1926f81ba7faf4f1a4a429"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/arcane_scamppanzer_beacon.json"
 hash = "8d98c2db67f3a2baa700bea09c14309e603826e030d1ea782ce472710ac13d26"
 
@@ -3039,7 +3091,7 @@ hash = "c75f517b48a4369cec555bb3635e8cb34a9c33b2c455c2e8431ca8207b09710b"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/crystal_resonator.json"
-hash = "fca6d4044e571d58cf4e8911822fe5c903ec196d266489894c364c9581060372"
+hash = "9ce4668cf0dcf2c51ae75f9af4a315a101ff2c9b03a8c7871379c5973776f1e2"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/echo_shard.json"
@@ -3698,6 +3750,10 @@ file = "kubejs/data/scguns/loot_table/entities/sky_carrier.json"
 hash = "fad0e51df942f046b7d5ed7b3f46a7693e9f630e0406f48c0f92e1c27cc22869"
 
 [[files]]
+file = "kubejs/data/scguns/loot_table/entities/sulfurhead.json"
+hash = "a8f3d909b7a3c356eeeb5004c86369f5e2c9e71d56a1431fb31bc951e1876c5d"
+
+[[files]]
 file = "kubejs/data/scguns/loot_table/entities/supply_scamp.json"
 hash = "e47fad2e71d0d1c1ae56048f82238693d220299f04b2832dcffaf291f7458ade"
 
@@ -4023,7 +4079,7 @@ hash = "38f951421c0d102a48d3ab54cef81530d07172dabcad43563494afac4efc06e1"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/suit_grease.json"
-hash = "ce93ecac157aedc07b67c476be6f2c6cfe028f45942c7fc6c2193de169d35e5a"
+hash = "6f1657ab08c5c26e959a76a7aa546ee2dfdfa005c34d7ddf1ce12b95047e4ff4"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/target_tracker_module.json"
@@ -4427,7 +4483,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "6005f9eb480cb3b4e2bd653b00a090cfa68d214b75ff47f93a4f294f4e4a3548"
+hash = "dbc31d414b33a100a46f10b4e9bd6db90af976bd2e0ae8da6c6d28dbbf2f57e7"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -4439,7 +4495,7 @@ hash = "e28138f90e13b48cd7bba8ab85f3ed6e64135bdfb756c573dc638ed749983d70"
 
 [[files]]
 file = "kubejs/startup_scripts/crystal_resonator.js"
-hash = "a546e775414c4761843e679fd007c7e1a2d5f933ba854d102434c2349ec2e73b"
+hash = "e94c9fd23dcba0484640d0ef65305dbb49482648e08eb102b02f40bc58a3d63f"
 
 [[files]]
 file = "kubejs/startup_scripts/fluid_registry.js"
@@ -4447,11 +4503,11 @@ hash = "6c869c3727dc13171713a7f0af8507756da13e75d1cdd5e4582b6e74f7d7bc8b"
 
 [[files]]
 file = "kubejs/startup_scripts/giggler.js"
-hash = "3b82abc5d38873a11f6528ffe3a09addd9044d92ed599135b2caeb65b1f0ed63"
+hash = "2c5153f632db8fb544bf5cb0853d6fcf8a1279641fa37c61dac3a8d7d0eb3318"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
-hash = "0185d893e745b3fac970a9ed99dd915547de87c738aa97e5bfb75d86e51f5cb5"
+hash = "08540afe7adc042d7fc8918fded4a0f1e9eaea8accaffc4393e01af13d73f02e"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"

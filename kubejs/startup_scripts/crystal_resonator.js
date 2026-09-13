@@ -51,4 +51,7 @@ StartupEvents.registry('block', event => {
     .resistance(4)
     .requiresTool(true)
     .tagBlock('minecraft:mineable/pickaxe')
+    .renderType('cutout')
+    .waterlogged()
+    .notSolid()
 })
