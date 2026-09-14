@@ -69,10 +69,6 @@ file = "config/biggerstacks-rules.xml"
 hash = "b21c2ab3b7e77a4b17bace8d11ec8fbee0a8d9c63c5bea2de68e56a623a878fe"
 
 [[files]]
-file = "config/blueprint-client.toml"
-hash = "cf742e2b9b3d16a1a9cb448b47f2434f7c7148b6af74192d59a4006c19ddc557"
-
-[[files]]
 file = "config/blueprint-common.toml"
 hash = "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
 
@@ -87,10 +83,6 @@ hash = "5d806b6ed8afb75401205ad55be40c1f9d118e9d41665e9922e17c292ebb767c"
 [[files]]
 file = "config/cirrus-client.json"
 hash = "68c78e0befba551c691c809de7f49a064489debee40b6bf03bbf1ab312edad08"
-
-[[files]]
-file = "config/combatnouveau-client.toml"
-hash = "d8bddc364abcee6b260746e0e2b841cca6be31696dc6f42ca3747fa0682e8952"
 
 [[files]]
 file = "config/combatnouveau-common.toml"
@@ -115,10 +107,6 @@ hash = "dac18a20718319d6556a7b2709d8f7a64b5da718d2b05ab9d32604087860322a"
 [[files]]
 file = "config/corpse-server.toml"
 hash = "3f049032df9e13ec556a08eddba0631fe3106e7f1f851399a9e40d0b1febcbca"
-
-[[files]]
-file = "config/cosmeticarmorreworked-client.toml"
-hash = "98abc386a142611a852bb7f7166777b195ecc35f0be48b2287d257efccbe004c"
 
 [[files]]
 file = "config/cosmeticarmorreworked-common.toml"
@@ -147,10 +135,6 @@ hash = "3f46b28dd04096de92f6ed6ad7192ac1a53f2134dbdb1accef10d459f6901c68"
 [[files]]
 file = "config/create_connected-server.toml"
 hash = "97ab42f2c742b3dcd16fd05ed590654da629f223d0f15eb544dcc4026b1508fb"
-
-[[files]]
-file = "config/createpropulsion-client.toml"
-hash = "ed4c5599ccd8916b39fd40ec83b9b665cd7ed511bf4c773cb56e1e9a22d34055"
 
 [[files]]
 file = "config/createpropulsion-common.toml"
@@ -191,10 +175,6 @@ hash = "205388dcbd6c4a6ecb4c632b0adc4da7e2d78dbe93ee8132a28e3827b6ce9de5"
 [[files]]
 file = "config/envelope-server.toml"
 hash = "4cbb24caf054a3760391bf7181077875852743db32609e6db2478124a5262924"
-
-[[files]]
-file = "config/everycomp-client.toml"
-hash = "f4d0c2784c248ec9df8c21f5c809083435ea0d9b645cc648184f06f223e7cba6"
 
 [[files]]
 file = "config/everycomp-common.toml"
@@ -245,10 +225,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "config/farmersdelight-client.toml"
-hash = "4404ba02b39d4de63e4ab8fb5dd74e7994c23c67b15319c30f9fa207fa23ab1b"
-
-[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "1eecc5b541b94652f11619de138f2f958a71034e3466a7d7096f1b739060dce6"
 
@@ -261,12 +237,8 @@ file = "config/immediatelyfast.json"
 hash = "030d7c2c4b33a367d6e0ac009e0c47523c61d38ccb9fb68ea920f773645d6f19"
 
 [[files]]
-file = "config/immersive_paintings/client_config.toml"
-hash = "592a2f080591b5eea6ca0289eddeb82a54d97f7de9a3592a98b5df898f565388"
-
-[[files]]
 file = "config/immersive_paintings/common_config.toml"
-hash = "65d5ad82d3a8e18bb224d839d757de883c33863e0420c5c0e81661f697b0933e"
+hash = "42213e234a72454daa1956f71c3de6225277df826e3f9a77afe0932ad071fea1"
 
 [[files]]
 file = "config/immersiveenchanting-server.toml"
@@ -319,10 +291,6 @@ hash = "dff5d7af96730f2054dab42d85b360298c335dd1da379477c86a8ecfb8f36082"
 [[files]]
 file = "config/personality-common.toml"
 hash = "6a982727d3c071c5f4c4a2140a6a665b4c4d414255fc900f790585a7ec115db0"
-
-[[files]]
-file = "config/powergrid-client.toml"
-hash = "78af02862314c3fb9b8db7e5b639c6e3fc1f6877754803fddce8aa38b437b671"
 
 [[files]]
 file = "config/powergrid-common.toml"
@@ -379,10 +347,6 @@ hash = "bf58c5a19ec4c8b1baf1b87aec9126b053dac3e7041edc6a0b732d34a40d2c42"
 [[files]]
 file = "config/scguns-server.toml"
 hash = "ae6bce535be8b129f11d95ba93fc9edf7fc683edfe120c7d7bfa3906d8d784f7"
-
-[[files]]
-file = "config/simulated-client.toml"
-hash = "39e1269b6b3cec623ab69a170ee184c7504c302968c0213ccfbb0dcec71e3964"
 
 [[files]]
 file = "config/sleep_tight-client.toml"
@@ -4976,7 +4940,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "b4caad8aa8362bdb71d116f8a22d747de466695ddbf28ab739fd7eb36d63670f"
+hash = "e15c24588c0c10abac8dfbecfddceb5c57ba8d3e797da293ef0a510e1b3daf52"
 metafile = true
 
 [[files]]
@@ -5051,7 +5015,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eeb0607145aeafa4a1294b88d441d67b84c5104ee87f5180fb8b3d3b39b5e3ae"
+hash = "a4a0e38208546588ca1ff4ae41aada9c459c8ad01bbd37d973cc2e1a658fec2f"
 metafile = true
 
 [[files]]
@@ -5236,7 +5200,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "4c8964369aee4768ca033bc7b09b9b1cb8d7ccb96b31c9f78f4e0b8b9f6afc73"
+hash = "001e8928ed29c51c93d99b27177b8bc39cf8a32ec6c83c656e2ac8d723ecbd5d"
 metafile = true
 
 [[files]]
@@ -5310,7 +5274,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "c4f1e9fb91fb9fa7fa5e2521566bbbfb20abda8cfcf17c66322c4175a05a6a65"
+hash = "eefc9f3b27968efffb48bbbc2187def2726cad7858df10d14190c3443aca692e"
 metafile = true
 
 [[files]]
