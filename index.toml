@@ -4535,7 +4535,7 @@ hash = "6c869c3727dc13171713a7f0af8507756da13e75d1cdd5e4582b6e74f7d7bc8b"
 
 [[files]]
 file = "kubejs/startup_scripts/giggler.js"
-hash = "82afbfe1aef723000fdda18a671be8315dc67a1d8737223dcd89c1ff977a3d64"
+hash = "c626239517c65788b4daa8e0d5816846b2b15eb43700d90c5a61f24949611b34"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
