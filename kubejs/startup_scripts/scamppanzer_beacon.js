@@ -4,8 +4,7 @@ StartupEvents.registry('item', event => {
   let $CustomData = Java.loadClass('net.minecraft.world.item.component.CustomData')
   let $CompoundTag = Java.loadClass('net.minecraft.nbt.CompoundTag')
 
-  const playSound = 'playSound(net.minecraft.world.entity.player.Player,net.minecraft.core.BlockPos,net.minecraft.sounds.SoundEvent,net.minecraft.sounds.SoundSource,float,float)'
-
+  
   let defaultTag = new $CompoundTag()
   defaultTag.putInt("kubejs:scamppanzer_beacon_charge", 0) 
   defaultTag.putInt("kubejs:scamppanzer_beacon_x", 0)
@@ -27,24 +26,24 @@ StartupEvents.registry('item', event => {
   }
 
   function useSound(level, entity) {
-    level[playSound](null, entity.blockPosition(), "malum:ritual_forms", "master", 1, Math.random()*0.1 + 0.2 )
+    level[lib.sound](null, entity.blockPosition(), "malum:ritual_forms", "master", 1, Math.random()*0.1 + 0.2 )
   }
 
   function chargeSound(level, entity, arcane, charge) {
     if (arcane) {
-      level[playSound](null, entity.blockPosition(), "malum:ritual_begins", "master", 1, charge*0.1 + 0.6 )
+      level[lib.sound](null, entity.blockPosition(), "malum:ritual_begins", "master", 1, charge*0.1 + 0.6 )
     }
     else {
-      level[playSound](null, entity.blockPosition(), "malum:spirit_diode_open", "master", 1, charge*0.15 + 0.4 )
+      level[lib.sound](null, entity.blockPosition(), "malum:spirit_diode_open", "master", 1, charge*0.15 + 0.4 )
     }
   }
 
   function finishSound(level, entity) {
-    level[playSound](null, entity.blockPosition(), "malum:ritual_completed", "master", 1, Math.random()*0.1 + 0.7 )
+    level[lib.sound](null, entity.blockPosition(), "malum:ritual_completed", "master", 1, Math.random()*0.1 + 0.7 )
   }
 
   function failSound(level, entity, arcane) {
-    level[playSound](null, entity.blockPosition(), arcane ? "malum:ritual_evolves" : "malum:spirit_diode_close", "master", 1, Math.random()*0.1 + 0.4 )
+    level[lib.sound](null, entity.blockPosition(), arcane ? "malum:ritual_evolves" : "malum:spirit_diode_close", "master", 1, Math.random()*0.1 + 0.4 )
   }
 
   function searchArea(level, pos, radius, callback) {
@@ -89,18 +88,18 @@ StartupEvents.registry('item', event => {
 
   function summonScamppanzer(level, bpos, arcane) {
     console.info('summon scguns:scamp_tank '+positionString(bpos)+(arcane ? ' ' + defaultScampData : ''))
-    level.runCommandSilent('summon scguns:scamp_tank '+positionString(bpos)+(arcane ? ' ' + defaultScampData : ''))
+    lib.runServerCommand(level,'summon scguns:scamp_tank '+positionString(bpos)+(arcane ? ' ' + defaultScampData : ''))
   }
 
   function lightningParticles(level, bpos) {
-    level.runCommandSilent('particle nomansland:moonlight_spark ' + positionString(bpos) + ' 0.25 0 0.25 0 20')
+    lib.runServerCommand(level,'particle nomansland:moonlight_spark ' + positionString(bpos) + ' 0.25 0 0.25 0 20')
   }
 
   function enchantParticles(level, bpos, charge) {
     const comStr = 'particle minecraft:enchant ' + positionString(bpos)
     for (var i = 0; i < 30; i = i + 2) {
       level.server.scheduleInTicks(i, function() {
-        level.runCommandSilent(comStr + ' 0 5 0 ' + (0.5 + charge*0.25) + ' ' + (10 + charge*5) )
+        lib.runServerCommand(level,comStr + ' 0 5 0 ' + (0.5 + charge*0.25) + ' ' + (10 + charge*5) )
       })
     }
   } 
@@ -155,7 +154,7 @@ StartupEvents.registry('item', event => {
       effects.add("minecraft:levitation", 40, 0, true, false)
     }
     if (charge > 1) {
-      level.spawnLightning(pos.x, pos.y + 1, pos.z, true)
+      level.spawnLightning(pos.x+0.5, pos.y + 1, pos.z+0.5, true)
       lightningParticles(level, pos.offset(0, 1, 0))
     }
     if (charge >= 5) {

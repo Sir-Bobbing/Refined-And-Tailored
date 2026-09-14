@@ -4,6 +4,8 @@ ItemEvents.modifyTooltips(event => {
 
     event.add('nomansland:warding_effigy', Text.gray('Prevents hostile mob spawns in a radius, stackable'))
 
+    event.add('simulated:navigation_table', Text.gray('Supports player heads'))
+
     event.add('tfmg:lead_sword', Text.gray('Attacks apply poison'))
     event.add('tfmg:lead_axe', Text.gray('Attacks apply poison'))
 
@@ -15,6 +17,7 @@ ItemEvents.modifyTooltips(event => {
     event.add('nomansland:budding_quartzite', Text.darkPurple('Can be removed with a hammer and chisel'))
 
     event.add('kubejs:crystal_resonator', Text.gray('Accelerates growth of adjacent crystaline budding blocks'))
+    event.add('kubejs:loader', Text.gray('Forceloads physics contraptions it is placed on'))
 
     event.add(['scguns:whispers', 'scguns:echoes_2', 'scguns:sculk_resonator', 'scguns:forlorn_hope'], Text.aqua('Capable of soul shattering'))
 

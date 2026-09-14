@@ -237,12 +237,13 @@ ServerEvents.recipes(event => {
 })
 
 function positionString( entity ) {
-    return entity.getX() + ' ' + entity.getY() + ' ' + entity.getZ()
+    return `${entity.getX()} ${entity.getY()} ${entity.getZ()}`
 }
 
 EntityEvents.spawned(event => {
-    if (event.entity.isItem()) {
-        let i = event.entity.getItem()
+    let {level, entity} = event
+    if (entity.isItem()) {
+        let i = entity.getItem()
         let c = i.getComponentMap()
         let customData = c.get("custom_data")
         if (customData != null && customData.contains("creature_conjuration")) {
@@ -250,11 +251,11 @@ EntityEvents.spawned(event => {
             let cd = customData.copyTag()
             console.log(cd.getByte("creature_conjuration"))
             if (cd.getByte("creature_conjuration") == 1) {
-                event.level.runCommandSilent('summon '+entityData.getString("id")+' '+positionString(event.entity)+' '+entityData.toString())
+                lib.runServerCommand(level,'summon '+entityData.getString("id")+' '+positionString(entity)+' '+entityData.toString())
                 event.cancel()
             }
             else {
-                event.level.runCommandSilent('summon '+entityData.getString("id")+' '+positionString(event.entity))
+                lib.runServerCommand(level,'summon '+entityData.getString("id")+' '+positionString(entity))
                 event.cancel()
             }
         }

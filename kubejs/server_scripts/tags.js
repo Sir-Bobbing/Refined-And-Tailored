@@ -111,7 +111,7 @@ ServerEvents.tags('fluid', event => {
     event.add('c:fuel', 'nomansland:resin_oil_bottle')
 })
 
-    ServerEvents.tags('block', event => {
+ServerEvents.tags('block', event => {
 // Prospecting pick ore tagging
     event.add('c:ores', 'malum:primordial_soup')
     event.add('c:ores/weeping', 'malum:primordial_soup')
@@ -120,6 +120,14 @@ ServerEvents.tags('fluid', event => {
     event.add('c:ores/oil', 'tfmg:crude_oil')
     event.add('c:ores/oil', 'tfmg:oil_deposit')
     event.add('c:ores/deposits/redstone', 'spelunkery:calcite_redstone_ore')
+
+// Chunkloader Tagging
+    event.add('kubejs:chunkloaders', 'chunkloaders:single_chunk_loader')
+    event.add('kubejs:chunkloaders', 'chunkloaders:basic_chunk_loader')
+    event.add('kubejs:chunkloaders', 'chunkloaders:advanced_chunk_loader')
+    event.add('kubejs:chunkloaders', 'chunkloaders:ultimate_chunk_loader')
+    event.add('simulated:non_movable', '#kubejs:chunkloaders')
+    event.add('create:non_movable', '#kubejs:chunkloaders')
 
 // Rubbery
     event.add('stoat:rubbery', 'tfmg:asphalt')
