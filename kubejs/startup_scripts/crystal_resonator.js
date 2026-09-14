@@ -40,7 +40,7 @@ StartupEvents.registry('block', event => {
         }
     })
     .soundType('vault')
-    .hardness(2)
+    .hardness(1)
     .resistance(4)
     .requiresTool(true)
     .tagBlock('minecraft:mineable/pickaxe')

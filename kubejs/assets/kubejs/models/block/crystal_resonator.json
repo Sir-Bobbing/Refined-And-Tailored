@@ -7,7 +7,7 @@
 		"2": "kubejs:block/crystal_resonator_frame",
 		"3": "kubejs:block/crystal_resonator_core",
 		"4": "kubejs:block/crystal_resonator_bud",
-		"particle": "kubejs:block/crystal_resonator_inside2"
+		"particle": "kubejs:block/crystal_resonator_frame"
 	},
 	"elements": [
 		{

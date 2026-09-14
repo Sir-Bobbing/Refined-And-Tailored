@@ -13,9 +13,9 @@
     "model": "kubejs:item/guide"
   },
   "custom_colors": {
-    "testmod:test_color": {
-      "dark_mode": "#ff0000",
-      "light_mode": "#00ff00"
+    "kubejs:house": {
+      "dark_mode": "#CFCFDF",
+      "light_mode": "#CFCFDF"
     }
   }
 }

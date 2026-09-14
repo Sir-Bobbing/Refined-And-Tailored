@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "kubejs:block/jarred_loader"
+		"1": "kubejs:block/jarred_loader",
+		"particle": "kubejs:block/jarred_loader"
 	},
 	"elements": [
 		{
