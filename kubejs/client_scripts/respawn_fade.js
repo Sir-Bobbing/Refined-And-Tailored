@@ -27,7 +27,6 @@ NativeEvents.onEvent(Java.loadClass("net.neoforged.neoforge.client.event.Registe
             $RenderSystem.depthMask(true);
         }
     }
-
     event.registerAboveAll(ID.kjs("respawn_fade_effect"), (gui, delta) => respawnFadeGuiLayer(gui, delta))
 })
 
