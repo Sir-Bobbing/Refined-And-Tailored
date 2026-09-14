@@ -1,5 +1,4 @@
 - [Aeronautics Propeller Blur](https://modrinth.com/mod/uKFK3MBp) by LopyLuna
-- [AeronauticsCompat](https://modrinth.com/mod/aLVC5usA) by rohan
 - [Aileron](https://modrinth.com/mod/b8kG1VGq) by Team Lodestar
 - [AlfinoLib](https://modrinth.com/mod/I7x1hGed)
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
@@ -13,7 +12,9 @@
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
 - [Armourer's Workshop](https://modrinth.com/mod/y4JF3gXL) by RiskyKen, SAGESSE
 - [Artifacts](https://modrinth.com/mod/P0Mu4wcQ) by ochotonida
+- [AsyncParticles](https://modrinth.com/mod/c3onkd5k) by Harvey\_Husky
 - [Barebones McQoy](https://modrinth.com/mod/tNmWwdI2) by Sisby folk\. Contributions by cassiancc\.
+- [Better Advanced Tooltips](https://modrinth.com/mod/iHLDc0eo) by latvian\.dev
 - [Better Ping Display](https://modrinth.com/mod/ZvaHbwoZ) by Quintinity
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) by TreyRuffy and cominixo
 - [Bigger Stacks \(Unofficial\)](https://modrinth.com/mod/cYBdnuCT) by PORTB
@@ -77,6 +78,7 @@
 - [Etched](https://modrinth.com/mod/zi3Fnfmc) by Ocelot, Jackson, Farcr \(Art\), AstraZoey \(Sound Design\)
 - [Every Compat](https://modrinth.com/mod/eiktJyw1) by MehVahdJukaar, Xel'Bayria, WenXin2
 - [Exposure](https://modrinth.com/mod/hB899VmG) by mortuusars
+- [FancyMenu](https://modrinth.com/mod/Wq5SjeWM) by Keksuccino
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) by vectorwing
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [Figura](https://modrinth.com/mod/s9gIPDom) by skyrina, lumelia, UnlikePaladin, omoflop
@@ -96,6 +98,7 @@
 - [ItemPhysic](https://modrinth.com/mod/aT8BzaOj) by CreativeMD
 - [Ixeris](https://modrinth.com/mod/p8RJPJIC) by decce
 - [Kobolds](https://modrinth.com/mod/ufaxN0Ay) by Jusey1
+- [Konkrete](https://modrinth.com/mod/J81TRJWm) by Keksuccino
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
 - [KubeJS](https://modrinth.com/mod/umyGl7zF) by latvian\.dev
 - [KubeJS Tweaks](https://www.curseforge.com/projects/1306367) by Uncandango
@@ -108,13 +111,16 @@
 - [Lootr](https://modrinth.com/mod/EltpO5cN) by Noobanidus
 - [Malum](https://modrinth.com/mod/jgzwYsAN) by Sammy Semicolon
 - [Mannequins](https://modrinth.com/mod/wfGzjtBG) by Jackson
+- [Melody](https://modrinth.com/mod/CVT4pFB2) by Keksuccino
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) by embeddedt
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) by MehVahdJukaar
+- [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS, 1Foxy2
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6) by Farcr, Tazer, and many Contributors
 - [NoExplodeItems](https://modrinth.com/mod/FnYjkHdc) by FifthTundraG
 - [Noisium](https://modrinth.com/mod/hasdd01q) by Steveplays28
 - [Nowheel](https://modrinth.com/mod/c47YxuuI) by Lap2ka
+- [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) by Nyfaria
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Pehkui](https://modrinth.com/mod/t5W7Jfwy) by Virtuoel
@@ -123,7 +129,6 @@
 - [PrickleMC](https://modrinth.com/mod/aaRl8GiW) by Darkhax
 - Prospecting Picks Modified by EIG
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
-- [Raised](https://modrinth.com/mod/nCQRBEiR) by yurisuika
 - [ReadyPlayerFun](https://modrinth.com/mod/AwiAYDUq) by wendall911
 - [Redomesticate](https://modrinth.com/mod/4QTKALKe) by Evan
 - [Reliable Advancements](https://modrinth.com/mod/xVwaUG1g) by Evan
@@ -156,7 +161,6 @@
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) by SuperMartijn642
 - [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) by MehVahdJukaar, Plantkillable
 - [Surveyor Map Framework](https://modrinth.com/mod/4KjqhPc9) by Sisby folk\. Contributions by Ampflower, falkreon, jaskarth, Garden System
-- [TFMG x Sable Compatibility](https://modrinth.com/mod/iiew33xt)
 - [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy) by tom5454
 - [TooManyRecipeViewers](https://modrinth.com/mod/yFypjcfd) by Nolij \(@xdMatthewbx\#1337\) & the Craftoria team
 - [Trading Post](https://modrinth.com/mod/8pcjMDgj) by Fuzs

@@ -1,14 +1,11 @@
-# Datapack work
-### Grunt datapack work
-> Shadowzofthedark,
-> Sir Bobbing
-### Peak datapack & KubeJS work
-> Shadowzofthedark
-### Ore Generation
-> Shadowzofthedark
-### Enchant costs and balancing
-> Shadowzofthedark
-
-# Asset work
-### GUI textures
-> Sir Bobbing
+### Sir Bobbing 
+- Recipes 
+- UI textures 
+- Block Textures 
+- Phantasmal Bat Texture 
+### Shadowzofthedark
+- KubeJS work 
+- Ore generation 
+- Enchantment balancing 
+### 55
+- Modpack Icon/Logo
