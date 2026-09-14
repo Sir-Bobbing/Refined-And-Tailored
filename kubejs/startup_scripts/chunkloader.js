@@ -1,5 +1,6 @@
 StartupEvents.registry('block', event => {
-    event.create("loader")
+
+    event.create("jarred_loader")
     .displayName('Physics Chunk Loader')
     .blockEntity(entity => {
         entity.serverTicking()
@@ -14,3 +15,5 @@ StartupEvents.registry('block', event => {
     .waterlogged()
     .notSolid()
 })
+
+

@@ -898,7 +898,7 @@ hash = "8ba6878cf76ac65f1177bf66b786b2d6624a8f48650427b69314f0100c8273b0"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/player_head.json"
-hash = "9637c8486dbb5edf1f86aa6c5bade7d3fae60920bca9db6b89e08a4e8723a7c9"
+hash = "af7a98664ff8619740a45e6eb3dea723a40fed5ff57647684b44076b4398f412"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/player_head_info.json"
@@ -1053,6 +1053,10 @@ file = "kubejs/assets/kubejs/models/block/crystal_resonator.json"
 hash = "15a222437799d75bf18e3adb5a9b2443762afdc4c6823ee4fae375b74a95a28f"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/block/jarred_loader.json"
+hash = "4dca938e91695ebf2feaa6a953302924d02c5d465fc8c48bc5735b002937822c"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/giggler.json"
 hash = "4586196df1dae2ba2a18816592878652a8fdc250154cc0c1cf6a86bdba00d907"
 
@@ -1101,6 +1105,10 @@ file = "kubejs/assets/kubejs/textures/block/dripstone_iron_ore.png"
 hash = "f9c6e54e2ca607e9e1a93c7555b9c1d9ca293417fb6ded36eede4e43750c40a8"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/jarred_loader.png"
+hash = "573b24b6fb43d6cfcffc2b074a33b4e12984c5005870d0b9a2a30f4394112c28"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/lignite_coal_ore.png"
 hash = "f0c5bcd76149483bceea5de6bf500c3271a056aa93e9720b3f4e7abd78d1abc9"
 
@@ -1141,6 +1149,10 @@ file = "kubejs/assets/kubejs/textures/entity/mob_variants/bat/phantasmal_bat.png
 hash = "f4dcc9438f9ff5fd1bfac0b3d0fdbcea35bfd7ff5fd991bb59006b844f47ada2"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/gui/sprites/overlay.png"
+hash = "3bb4c5bf2cf3d177b91f99c3162319585695a44358d27b1dcd5343ebf558102e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/giggler.png"
 hash = "dd17d01b8c0f6edc5474c2e2dc54e1ea06c140410e98dd69592ebc4017e77520"
 
@@ -1150,7 +1162,7 @@ hash = "33b6f7c419928a38489b138c5195c0adde98a1cb41e53876a2d7c81bc5fbfbe3"
 
 [[files]]
 file = "kubejs/assets/malum/lang/en_us.json"
-hash = "7c314b8c6c78746c4e51986e8c614501df9c42edc57bcb19ff7a48df59d5bd09"
+hash = "dc1543796c5447a114e1c6f7aaa40fbb1ea1a54885f698059ff05e75abf3ddd3"
 
 [[files]]
 file = "kubejs/assets/malum/sounds/totem/spark/spark_direct1.ogg"
@@ -1842,12 +1854,16 @@ file = "kubejs/client_scripts/jsconfig.json"
 hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
+file = "kubejs/client_scripts/lib.js"
+hash = "42879cfa2467ed6b9df680178fe949e08d35038ee3c77105725181d2e593e04b"
+
+[[files]]
 file = "kubejs/client_scripts/respawn_fade.js"
-hash = "66b37b095497ddc88e1368778ad79384f5d1698011d68749414a67ce0810d6fb"
+hash = "e7df02d5c28858a3ba50929fefbb28c1d5175af8a22c7d4451fefe240ee4e405"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "66ccecc367a02608ac995f0ebfb0cfe65118d5fb9536e804530828c3d9cef40f"
+hash = "66686ceed501697eabb64570cb825d823308c9da6bcbc4b959409a21ca5012c4"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -2047,7 +2063,7 @@ hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
 
 [[files]]
 file = "kubejs/data/bng_ore.zip"
-hash = "0628ead921678e6d5326839b356de4d74e4b574b60a03d6b4e4a4c2f5d56fc06"
+hash = "cc596ae28c4732cdce5eb4ff387144707925019d20e7d6f66c22dbd89f1da627"
 
 [[files]]
 file = "kubejs/data/brewinandchewin/advancement/main/place_keg.json"
@@ -2858,10 +2874,6 @@ file = "kubejs/data/kubejs/item_contents_provider/safe.json"
 hash = "34e4364495a6f08908b0beed42060c3d34ff545d96b81d8661a4baf606d6c1fa"
 
 [[files]]
-file = "kubejs/data/kubejs/lithostitched/worldgen_modifier/add_hotsprings.json"
-hash = "55823ef1221fd4a608144158e4d3c2dd56c66cad26943ed995dc876f6b850fd7"
-
-[[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/calcite_lapis_ore.json"
 hash = "04568cc875d890d57336dbeb3573017502dd9ed8a69016e378f447540b686bf5"
 
@@ -2904,6 +2916,10 @@ hash = "a9f4d4dd675bd79ba6976e4b6242b0eb877eda52aa0366c0709e80f576bf4e21"
 [[files]]
 file = "kubejs/data/kubejs/mixed_litter/variants/bat/phantasmal.json"
 hash = "5d7b9f0f77b9d68d6d183e1967dd1872effdb196721aa93059ea1d48ccd88287"
+
+[[files]]
+file = "kubejs/data/kubejs/neoforge/biome_modifier/add_hotsprings.json"
+hash = "7a9629b2c8b40a48338caca59838447d882fb0a4b46dcb1bc37d7f26adb0646b"
 
 [[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/deep_cold_ocean/remove_features.json"
@@ -3068,6 +3084,10 @@ hash = "a58607ca4cd772bcb470bc3fce0b3e0cca681659ab874c615b4be5837a2ad05a"
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/soap.json"
 hash = "103eb4cd26528d7cda8f395676679af11b418fed9c3473b453975f808d4dedc0"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/mixing/wither_skull.json"
+hash = "9cb01b6b9081eeca93e5deb9a8ec47e899b9c0319127a36f5efa590b1143fc28"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/smithing/scrap_boots.json"
@@ -3295,7 +3315,7 @@ hash = "103f14303d1111f4660d6fa9e5bae0dc3912bc89f0fc7728e4f20dd88e9a4df8"
 
 [[files]]
 file = "kubejs/data/malum/reaping_data/phantom.json"
-hash = "921ffc73f595490b58e27ac385b8ff943ebedc809335dcaeaa356b57451a89d1"
+hash = "e2c6657d23854515dcdce1a8feda3593eeb25e47c913ebf9e6c5e06cf8bca29f"
 
 [[files]]
 file = "kubejs/data/malum/recipe/malum/spirit_repair/common/aluminum.json"
@@ -3531,7 +3551,7 @@ hash = "9e44fa3f5ae4ff5ede34416ea987356af33433fdd97135e2c345d9849fbf5ead"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/entities/bat.json"
-hash = "7c3a257de8fd57382f666267492989a0c2e87fb86ffd4342195bbc99390e942d"
+hash = "6b01df6f8bebd6f61853ac517421e2d289c0a0662296b63b7552f8cf7f69a64f"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_table/entities/iron_golem.json"
@@ -4466,8 +4486,12 @@ file = "kubejs/package.json"
 hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
 [[files]]
+file = "kubejs/server_scripts/chunkloader.js"
+hash = "707043fe7cb0a7f7d50517f72289cda7985efca53ecc5dd576b8a6acdddb5a63"
+
+[[files]]
 file = "kubejs/server_scripts/creature_conjuration.js"
-hash = "93fa5b47837dfeeb98ec32c8eb97b9eb628dae4919fcbce717d9ee377d235c00"
+hash = "144caed807c93d7546e714eb90e74f50a04faab2ce775edad9e65ebe79e69518"
 
 [[files]]
 file = "kubejs/server_scripts/emi.js"
@@ -4478,12 +4502,20 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 
 [[files]]
+file = "kubejs/server_scripts/lib.js"
+hash = "42879cfa2467ed6b9df680178fe949e08d35038ee3c77105725181d2e593e04b"
+
+[[files]]
 file = "kubejs/server_scripts/metallurgy.js"
 hash = "254dbd976bf64927ef4c5da994b8c7cdae5bfcc40108e077db22711191e6c824"
 
 [[files]]
 file = "kubejs/server_scripts/nephrite_condensation.js"
-hash = "1492dccf1eef0b5358385a2547b7c6cfccd3fa641fab25a33adf2ebc772891b5"
+hash = "60f7a4b20b42229d17ace98f7e514ab404c1714c44f01a73ab8aeb3df32b650e"
+
+[[files]]
+file = "kubejs/server_scripts/phys_contraption_blacklist.js"
+hash = "0568b97518462daa88300608b21a064b9ed6c5fdbd2e1102bc4d84214675cf97"
 
 [[files]]
 file = "kubejs/server_scripts/player_head.js"
@@ -4503,7 +4535,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "966471297f7e3480906596cc20d3ae24ca277d5e77b35d9cfd45cd60789cb644"
+hash = "bda29fd131ad1f27b0819e3bbdb17b5cc98e32429b2593eaf155394651617d9f"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -4514,8 +4546,12 @@ file = "kubejs/startup_scripts/block_modification.js"
 hash = "e28138f90e13b48cd7bba8ab85f3ed6e64135bdfb756c573dc638ed749983d70"
 
 [[files]]
+file = "kubejs/startup_scripts/chunkloader.js"
+hash = "33d96a26fead4fb7fb49764796b62aafba7f6ff9cd9f6069ab0cb6f32ec8fc08"
+
+[[files]]
 file = "kubejs/startup_scripts/crystal_resonator.js"
-hash = "e94c9fd23dcba0484640d0ef65305dbb49482648e08eb102b02f40bc58a3d63f"
+hash = "8e9d5cb05973197910fa8019499235890b3512cbff7d692dd675995b09837d06"
 
 [[files]]
 file = "kubejs/startup_scripts/fluid_registry.js"
@@ -4523,7 +4559,7 @@ hash = "6c869c3727dc13171713a7f0af8507756da13e75d1cdd5e4582b6e74f7d7bc8b"
 
 [[files]]
 file = "kubejs/startup_scripts/giggler.js"
-hash = "2c5153f632db8fb544bf5cb0853d6fcf8a1279641fa37c61dac3a8d7d0eb3318"
+hash = "82afbfe1aef723000fdda18a671be8315dc67a1d8737223dcd89c1ff977a3d64"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
@@ -4532,6 +4568,10 @@ hash = "08540afe7adc042d7fc8918fded4a0f1e9eaea8accaffc4393e01af13d73f02e"
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
+
+[[files]]
+file = "kubejs/startup_scripts/lib.js"
+hash = "b1722885a287ff63af1de51d253eb6dc12fc7706e1a22bf271f977d8ad73252c"
 
 [[files]]
 file = "kubejs/startup_scripts/ore_deposits.js"
@@ -4543,7 +4583,7 @@ hash = "a8b62a26e25e518eb27d0d2d98c7c204eea138abb42ca281742142474099aa10"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
-hash = "9e4778d2807fb38ec70aab68046ebbd57aaa5bb815ce8bc82090b5c01f57ad3f"
+hash = "c130e1eb47823fc129a02d65d93943bd4d57339f3005471d2d32347ec33d6c65"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
@@ -4742,11 +4782,6 @@ metafile = true
 [[files]]
 file = "mods/cpmoscc.pw.toml"
 hash = "07d4a4e17176f56e21f6714a1706384dad8f596d09edcb750c17c6f9d93b8786"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-compatability.pw.toml"
-hash = "aa12b9347675c1dba8a3567b90fdd3a5749abde2503c423c9188f2743d07b640"
 metafile = true
 
 [[files]]
@@ -5026,7 +5061,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "00f847512616fbbf5e7d56ba2ac0ac3f0ecd1ad3e9ed27bcaafe0a79eb1010f2"
+hash = "def793e0282e789cc45de892bbe675fbf0b21956c4a0e8eee69ea8cf8d3667d9"
 metafile = true
 
 [[files]]
@@ -5096,7 +5131,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "ad5c0b2ee53eeb59db917b48bdc0bdff69eb6222a2706c32bf6e948aa0e20e80"
+hash = "bfbaa32e7b349313cdbda7e7fc64a8308d3a39e870684f36c2bc18a7b86ab757"
 metafile = true
 
 [[files]]
@@ -5167,6 +5202,11 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "a92097d7a2743abeb37669cedee7efd91854a1aae045f1be7b2f83c347def454"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "efd6536ab480527089d936247ab413d03ee3a8d777ba78b18d34cefdedd90b10"
 metafile = true
 
 [[files]]
@@ -5261,11 +5301,6 @@ metafile = true
 [[files]]
 file = "mods/sable-cleanup.pw.toml"
 hash = "855f420a37514259be42124e53ea42c1527ad2ae7bfcba983eeca6669c57f7f5"
-metafile = true
-
-[[files]]
-file = "mods/sable-weighted-create-tfmg.pw.toml"
-hash = "f9e02ca033026827c296db83d5b8938ae23f850f9abf42909bde942d1d830bf7"
 metafile = true
 
 [[files]]
@@ -5375,7 +5410,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
-hash = "f4a92a4a75cf824917ed855cd2e6e7502bbd95ef88cf1c49fa7bd03f2fe6ca80"
+hash = "eb4e0e79d629e345da470a0e68ed10daae1da004bcf169502a93cf3daa63c755"
 metafile = true
 
 [[files]]
@@ -5400,7 +5435,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "5bbece927db938f58e7ce0f5d0f2776e4c7a2fe7b314abb4696bc0aa8a8b6890"
+hash = "d65608533378b9e15f2915d83a192ef3d709cfa47fe1cbe724ae8647df7562ce"
 metafile = true
 
 [[files]]
