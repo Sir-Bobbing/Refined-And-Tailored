@@ -21,6 +21,9 @@ ItemEvents.modifyTooltips(event => {
 
     event.add(['scguns:whispers', 'scguns:echoes_2', 'scguns:sculk_resonator', 'scguns:forlorn_hope'], Text.aqua('Capable of soul shattering'))
 
+    event.add(['supplementaries:sack', '#c:shulker_boxes', 'supplementaries:safe'], Text.gray('Shares mechanics with the bundle'))
+    event.add('minecraft:ender_chest', Text.gray('Can be used in the inventory.'))
+
     /*
     event.modify('immersiveenchanting:ancient_book', tooltip => {
         tooltip.dynamic('ancient_book_tooltip')

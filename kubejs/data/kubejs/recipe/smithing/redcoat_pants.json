@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "farmersdelight:canvas"
+  },
+  "base": {
+    "item": "minecraft:leather_leggings"
+  },
+  "result": {
+    "id": "scguns:redcoat_pants"
+  },
+  "template": {
+    "item": "scguns:antique_blueprint"
+  }
+}
