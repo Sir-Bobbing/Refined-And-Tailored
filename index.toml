@@ -306,7 +306,7 @@ hash = "84ccea01cf443aec50e3ba787a2d6d865752e98e919f45512868a41861a56732"
 
 [[files]]
 file = "config/powergrid-server.toml"
-hash = "ebfd5a41c99a066c2dd26cf482731bf35223ce87121f5eb589f2ed6e13c8f309"
+hash = "3848bbd54ee4666e40e3ef7bb21fc74a59d3895f2de7ed379146b0954583024a"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -4882,7 +4882,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
-hash = "db8de34e628ead7533a8b4aa7dd1487f9e0a026f74c37c4744e7e30dda3055d5"
+hash = "391fc7d455f4401393d4bec523eb44a7eddbef3c07509f6638963762f3e935bb"
 metafile = true
 
 [[files]]
@@ -4997,7 +4997,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "320810701022098a72aec7b907adba156bd2615aeb0c30576d7f46c1abe0325c"
+hash = "ff269c064ad46bb865d11009960f3ab44a710664c64ae164f3bac1b1f53e55d3"
 metafile = true
 
 [[files]]
@@ -5246,7 +5246,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "feb367da56cf6b2c787e2c525cb8fd47b591351fbc9cb31f43cd2f3875816a82"
+hash = "4b7c646abfcd9880ce9ba08b700197ddab3db9105af1bae75e40fed907a86e6d"
 metafile = true
 
 [[files]]
@@ -5256,7 +5256,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "1e513e579db2c535f635a16d3d718e297ce59d63826a1bd751b0ff97569426f5"
+hash = "b9f2dc79764182c31fa83ae3750938ae18a4201a0bc813af56945febd6eca846"
 metafile = true
 
 [[files]]
@@ -5366,7 +5366,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "4e1572dc05a0164a7982e7f5acc91f26564bcf5bd031536d66aa7384d21a2244"
+hash = "1552fc84a66ce68175624faa1c6c25fbd91fe1ddcadf8707f25f845254f33271"
 metafile = true
 
 [[files]]
@@ -5391,7 +5391,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
-hash = "eb4e0e79d629e345da470a0e68ed10daae1da004bcf169502a93cf3daa63c755"
+hash = "ea42c54c9bade4f4521d152377cd2bf3cc3effdc1dd5f63ba8d58082244f628b"
 metafile = true
 
 [[files]]
@@ -5416,7 +5416,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "d65608533378b9e15f2915d83a192ef3d709cfa47fe1cbe724ae8647df7562ce"
+hash = "24affc4b9740030a231c987f926073f014162b562446c89790f166dd42243a17"
 metafile = true
 
 [[files]]
