@@ -278,7 +278,7 @@ hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "c602072afffc8e2db7433daf73ff71083dfba67835844ea7e080d282b88a8fdd"
+hash = "f0df2f6036f59d645f8475000e74b621d43c6e126d0179db7feea31be7769594"
 
 [[files]]
 file = "config/nomansland-common.toml"
@@ -1002,7 +1002,7 @@ hash = "5f3b1e95b5769a0bc2ae3fa60ce32e45bf7ea9339d5193ecea4977239b43ac38"
 
 [[files]]
 file = "kubejs/assets/guide.zip"
-hash = "86b8cb2fc993aae1363e036d1c1adcf362093e7d832c9c1e7ee6b1ec33018e77"
+hash = "85e1d141d80b6155f88c0f0f7ff77d7b5038a07fdb817a5919da583ac1a47617"
 
 [[files]]
 file = "kubejs/assets/handcrafted/lang/en_us.json"
@@ -1835,7 +1835,7 @@ hash = "e7df02d5c28858a3ba50929fefbb28c1d5175af8a22c7d4451fefe240ee4e405"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "66686ceed501697eabb64570cb825d823308c9da6bcbc4b959409a21ca5012c4"
+hash = "05dbb4359503f9a7fdb2d07f8ef69d89d818bb623f1260e2ac2dd7043c1e37b1"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -2982,22 +2982,6 @@ file = "kubejs/data/kubejs/recipe/crafting/rebreather_module.json"
 hash = "a8dd4ec65bd2d168e3bb8e3fb0bf8d1a020dc9dc465424aa69df0d58cdbf0a24"
 
 [[files]]
-file = "kubejs/data/kubejs/recipe/crafting/redcoat_boots.json"
-hash = "554d2a4eb2f579d31bb2ff80ffd58c4f66fcd1ff0974e7f15aa3a09ff7910dd5"
-
-[[files]]
-file = "kubejs/data/kubejs/recipe/crafting/redcoat_coat.json"
-hash = "3507d906348cf6d18c0b82f1f7980a6bae24d477f32241971d2e24b498417bd7"
-
-[[files]]
-file = "kubejs/data/kubejs/recipe/crafting/redcoat_hat.json"
-hash = "3c21e9b8c38f8e4cb407305262ea7c5fabaf3a645412478f8d506a84a2602637"
-
-[[files]]
-file = "kubejs/data/kubejs/recipe/crafting/redcoat_pants.json"
-hash = "754e45c3acddefdf33a5f746cbf719d06921ed694e50241c848bbc9e6cc8fe88"
-
-[[files]]
 file = "kubejs/data/kubejs/recipe/crafting/saddle.json"
 hash = "f8ec55785413ba7a99180792edbcddc4d136199d22501eae0b169469034cd7e7"
 
@@ -3064,6 +3048,22 @@ hash = "103eb4cd26528d7cda8f395676679af11b418fed9c3473b453975f808d4dedc0"
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/wither_skull.json"
 hash = "9cb01b6b9081eeca93e5deb9a8ec47e899b9c0319127a36f5efa590b1143fc28"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/smithing/redcoat_boots.json"
+hash = "abe98fd123a47f911ebacb61106739dc1d01ddd33cbdff9f261282dddc1911be"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/smithing/redcoat_coat.json"
+hash = "77ef884ac86bad1f0c9b22371426a43dc7fe098bd1517f893bcaad1b7d0b06cb"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/smithing/redcoat_hat.json"
+hash = "e7e35c8d4b200761e01c838ad96b11f005371dfaef7f51f03024c1f6accfc3c5"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/smithing/redcoat_pants.json"
+hash = "940492d2b521d72bbd0f5d8e34f394df29d45a80010eb0be23746041966a9ab8"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/smithing/scrap_boots.json"
