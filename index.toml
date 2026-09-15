@@ -82,7 +82,7 @@ hash = "5d806b6ed8afb75401205ad55be40c1f9d118e9d41665e9922e17c292ebb767c"
 
 [[files]]
 file = "config/cirrus-client.json"
-hash = "68c78e0befba551c691c809de7f49a064489debee40b6bf03bbf1ab312edad08"
+hash = "a8b9fd6dde0a02d8762b06e1881afeebd7044c6b7907f64989b87b2a0c6e5e39"
 
 [[files]]
 file = "config/combatnouveau-common.toml"
@@ -2895,15 +2895,19 @@ hash = "7a9629b2c8b40a48338caca59838447d882fb0a4b46dcb1bc37d7f26adb0646b"
 
 [[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/deep_cold_ocean/remove_features.json"
-hash = "7cefdd1a15546329436d3b718723bb0ed715210fe90e3e736b974df67d3a3210"
+hash = "dd70cc97de48e092e16b2f8657d9acc386e03d6176af78e05090772935349583"
+
+[[files]]
+file = "kubejs/data/kubejs/neoforge/biome_modifier/deep_frozen_ocean/remove_features.json"
+hash = "036d5ab565291504563a7315b62ba0b4d5f7fd0df2de9e6f3611965a52c27f30"
 
 [[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/deep_lukewarm_ocean/remove_features.json"
-hash = "5658bc93a237533954f4146681adff25573bc90ce06e141780a76b39e46d30ba"
+hash = "b29282193df340e3a4190af98186eedc2f2fccfd912b92fbb083537ff68ea146"
 
 [[files]]
 file = "kubejs/data/kubejs/neoforge/biome_modifier/deep_ocean/remove_features.json"
-hash = "3a626998390fe41a31773fbf23ebd1e686eccca081f995b67599d6971dbd6554"
+hash = "f4438135014129f535d53b254c9720df5aaa5239a40e97ab0e268e2bd46eb213"
 
 [[files]]
 file = "kubejs/data/kubejs/predicate/nether_to_over.json"
@@ -4642,7 +4646,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "c4672fd9a421ad142c16f896af06e3914bb4f16c784afeac53bdfe924a348ae2"
+hash = "6a67695a7cc10d0782d5f0e1dfdd685565a4c4674d18b045d859775afb21c12d"
 metafile = true
 
 [[files]]
@@ -4837,7 +4841,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "de4da0e3331d297ce76174e5bdbe7a832731bb1585b12650e690c573387ad957"
+hash = "8ddfd785675561f0d26ad80356cee0ab404a475e47719382e768805d0cf4407a"
 metafile = true
 
 [[files]]
@@ -5017,7 +5021,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "3b5f17975c3b0f999b016ff015fa73b2aecd7652df73652c6b07ca28b98cafa2"
+hash = "78cd4d766d56fc65252de5589a0a752f0669495ad88e866cf7e06f6e4f61d447"
 metafile = true
 
 [[files]]
@@ -5366,7 +5370,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "1552fc84a66ce68175624faa1c6c25fbd91fe1ddcadf8707f25f845254f33271"
+hash = "47c91585190e9255e05505e2c806ca7c50ad6725991a10d7a685b197901978af"
 metafile = true
 
 [[files]]

@@ -4,6 +4,7 @@
   "features": [
       "minecraft:seagrass_deep_cold",
       "minecraft:seagrass_simple",
-      "minecraft:kelp_cold"
+      "minecraft:kelp_cold",
+      "minecraft:seagrass_normal"
   ]
 }
