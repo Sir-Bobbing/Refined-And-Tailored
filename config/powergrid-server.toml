@@ -218,7 +218,7 @@ configVersion = 5
 	#Multiplier of the base fan bulk processing time applied to items processed with the heating coil (lower value means faster processing)
 	# Default: 0.75
 	# Range: 0.0 ~ 3.4028234663852886E38
-	heaterFanProcessingSpeedMultiplier = 0.75
+	heaterFanProcessingSpeedMultiplier = 0.25
 	#.
 	#Radius of the area affected by growth lamp effect
 	# Default: 2
@@ -251,7 +251,7 @@ configVersion = 5
 	#Capacity of the acid battery, measured in watt-hours
 	# Default: 120.0
 	# Range: 0.0 ~ 3.4028234663852886E38
-	acidBatteryCapacity = 120.0
+	acidBatteryCapacity = 360.0
 	#.
 	#Initial charge of the acid battery
 	# Default: 0.8999999761581421
