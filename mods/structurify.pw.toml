@@ -1,20 +1,20 @@
-filename = 'structurify-neoforge-2.0.35+mc1.21.1.jar'
+filename = 'structurify-neoforge-2.0.37+mc1.21.1.jar'
 name = 'Structurify'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'neoforge-2.0.35+mc1.21.1'
+x-prismlauncher-version-number = 'neoforge-2.0.37+mc1.21.1'
 
 [download]
-hash = '29655c6ce656ab1e5bde99dd2a46bc10948a31ad29779b8687fa835f47ffb25f2672913bb830c1876bb2ca7d85d60c85d95eefd763059ff2b3f4c884f007a491'
+hash = 'a62623137ecd480c5807f1a97f754f6e92faceb09807950330a69185b3849e2d2750dd31ce8ba705e94cf138f25b2f5ad6bf5ef1c5c291f4af92300725610200'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yz7AM2zx/versions/xjI3j7S7/structurify-neoforge-2.0.35%2Bmc1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/yz7AM2zx/versions/lYocU07r/structurify-neoforge-2.0.37%2Bmc1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'yz7AM2zx'
-version = 'xjI3j7S7'
+version = 'lYocU07r'
 
 [[x-prismlauncher-dependencies]]
 addonId = '1eAoo2KR'

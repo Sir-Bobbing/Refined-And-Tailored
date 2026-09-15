@@ -1,26 +1,18 @@
-filename = 'tfmg-1.21.1-1.3.0-community.jar'
+filename = 'tfmg-1.21.1-1.3.1-community.jar'
 name = 'Create: The Factory Must Grow'
 side = 'both'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.0'
+x-prismlauncher-version-number = '1.3.1'
 
 [download]
-hash = '6abe0d37bbcb72b082e5fa721fa86e859d88854be273b14c2732457b220b09f55f241aaddd5d34214fa80693f652022e5a440ec33ec8203c98ebf999b1efd877'
+hash = '7849d9f3f7f81f6b5139d057f2b366bbe5b625925e7af6b654ff8c2617f99f88bf9c01104fb21b7584b3c4cc98da7f8c326712ac4f0d46103c24a1ed824550c6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/hC1xYvnS/versions/oJp3qBnO/tfmg-1.21.1-1.3.0-community.jar'
+url = 'https://cdn.modrinth.com/data/hC1xYvnS/versions/LNfoHEO4/tfmg-1.21.1-1.3.1-community.jar'
 
 [update.modrinth]
 mod-id = 'hC1xYvnS'
-version = 'oJp3qBnO'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'T9PomCSv'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'
-version = 'UjX6dr61'
+version = 'LNfoHEO4'

@@ -30,7 +30,7 @@
   },
   "sky": {
     "smoothTimeTransitions": true,
-    "timeTransitionSpeed": 1.0,
+    "timeTransitionSpeed": 4.0,
     "customStarsEnabled": false,
     "starDensity": 2000,
     "starMinimumOpacity": 0.25,
