@@ -26,4 +26,5 @@ StartupEvents.registry('block', event => {
     .notSolid()
     .box(1,0,1,15,16,15)
     .tagBlock('sable:end_stones')
+    .tagBlock('create:non_movable')
 })
