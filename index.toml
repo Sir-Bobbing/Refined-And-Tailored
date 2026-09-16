@@ -306,7 +306,7 @@ hash = "84ccea01cf443aec50e3ba787a2d6d865752e98e919f45512868a41861a56732"
 
 [[files]]
 file = "config/powergrid-server.toml"
-hash = "3848bbd54ee4666e40e3ef7bb21fc74a59d3895f2de7ed379146b0954583024a"
+hash = "f011340e58c08b072d4fb79b0ad1e67de54516e25961eb69cadee2b1bc0a067b"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -2922,6 +2922,10 @@ file = "kubejs/data/kubejs/predicate/over_to_nether_dismount.json"
 hash = "46577abfe051008371e420079547916729056771e68f3867f0bbc64ed3151498"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/compacting/star_processing_infernal.json"
+hash = "495ef6f60fe5ed2ac84e6ea993c3a2fdba64351a6fbcca5e1bf5d1232b07385e"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crafting/andesite_alloy_from_copper.json"
 hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
 
@@ -2998,6 +3002,14 @@ file = "kubejs/data/kubejs/recipe/crushing/crush_rock_salt.json"
 hash = "bc44a56d390ae7f6a3d6abc30af89057aed4db0d4a2a01e7b05a0c3abba139f6"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crushing/star_processing_arcane.json"
+hash = "195fe8bdaaf82aa3d1e20484596316576a1ff84209972b5ee2815ebe2859b3fb"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/cutting/star_processing_wicked.json"
+hash = "0dbdf93d62ee4ea28c1374b3288e01ce6f9b24c52f33c6a1ebac1e28611a0a6a"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/distillation/slag_3.json"
 hash = "17f9afe23876b38ba32da98c4514333ba83d89f14cc3114bfa981f71a983faba"
 
@@ -3014,12 +3026,20 @@ file = "kubejs/data/kubejs/recipe/distillation/slag_6.json"
 hash = "0aad50924e68a11566511416ae7c5a3050fe1f17b529eedd07fed72b658f36f8"
 
 [[files]]
-file = "kubejs/data/kubejs/recipe/filling/air_tank.json"
-hash = "22249453837c3ec7938d7fe4cc5d777e790ed2d0539fcb09a4cb72cfd7721c80"
-
-[[files]]
 file = "kubejs/data/kubejs/recipe/item_application/jarred_loader.json"
 hash = "3e8eef24c85ae280911b3083641b3a9b89070cf5da7aaf85943a51fefd47199b"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/magnetization/crushed_raw_anthralite.json"
+hash = "19294392e3f783cbd915772ac2b725588ab637e2208bb47c45a2c2995165a9ed"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/magnetization/crushed_raw_nickel.json"
+hash = "98d9e7c8192691c83e4e81c45867676da93a0669cfcbf34890821cff3f241a83"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/magnetization/star_processing_eldritch.json"
+hash = "4329452bca987ad2b525e328442f0e309c2dbf3a17bb5458ed1716b93457c60a"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/mechanical_crafting/scamppanzer_beacon.json"
@@ -3050,8 +3070,20 @@ file = "kubejs/data/kubejs/recipe/mixing/soap.json"
 hash = "103eb4cd26528d7cda8f395676679af11b418fed9c3473b453975f808d4dedc0"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/mixing/star_processing_aqueous.json"
+hash = "f3421b10c91014444a5902cf703617480da755dd45006b352e53abc50ef4298d"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/mixing/wither_skull.json"
 hash = "9cb01b6b9081eeca93e5deb9a8ec47e899b9c0319127a36f5efa590b1143fc28"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/pressing/star_processing_earthen.json"
+hash = "8389ece699a84ed0d78cc8cee2ebba6fb327fa52d632ba49cbecd2c9c0bc882f"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/sawing/star_processing_aerial.json"
+hash = "3fda320ad1a0450a7d20e46b02e091c70b0e1c4cec9b0d10bca1c61bd518292a"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/smithing/redcoat_boots.json"
@@ -3196,6 +3228,10 @@ hash = "290e2f245775d31c6e75eb12c43984bf4ab19449798770e044f7ba1ec196a6f7"
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_transmutation/salt/sulfur_from_saltpeter.json"
 hash = "3c5b7ebd1db02c04dd2f8922b2c08121010c3d266aff5a17034b7eaf512d046c"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/splashing/star_processing_sacred.json"
+hash = "72f925339f35881284b84a8cd96e141de6699a653e264df972318abab33c0550"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/void_favor/giggler.json"
@@ -3726,6 +3762,10 @@ file = "kubejs/data/powergrid/recipe/item_application/conductive_casing.json"
 hash = "792c694b603688dc7ecc067d69afc6b4e51a04187ce3e1b9f20b592722e9fa0a"
 
 [[files]]
+file = "kubejs/data/powergrid/recipe/magnetization/crushed_raw_iron.json"
+hash = "fce20094e099041ac74887bbca1b99bccdaecb6bdc36f713fb2c1030b46a55f0"
+
+[[files]]
 file = "kubejs/data/powergrid/recipe/mechanical_crafting/basin_heater.json"
 hash = "b6ecf2aae9fef1a16059c571aa3b04d93741abfee999473c8efb011fd4504e8f"
 
@@ -3855,7 +3895,7 @@ hash = "d3a23cf3d21a929fae0ac377cfda422d77990a15c3eef43b555d23c767eac71e"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/nether_star_fragment.json"
-hash = "c6d23f8178cef3fed2c46ceddcd269a86bbb13efc0de364133a9b5e8672eabaa"
+hash = "7945a475da773e6c91d6d72ddb02fec52d5e19dd3faea75146d683148650f365"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/nitro_powder_from_mixing.json"
@@ -4527,7 +4567,7 @@ hash = "e28138f90e13b48cd7bba8ab85f3ed6e64135bdfb756c573dc638ed749983d70"
 
 [[files]]
 file = "kubejs/startup_scripts/chunkloader.js"
-hash = "bc4f52c80ed1d8984a1e48eabc0f3c13181625bc3cdfbbb60803863ac0c03990"
+hash = "ca83e2a4d41d93e69308b2dc61196a48d196b7eda70538029db0265ee5998a46"
 
 [[files]]
 file = "kubejs/startup_scripts/crystal_resonator.js"
