@@ -1,0 +1,19 @@
+{
+  "type": "powergrid:magnetization",
+  "ingredients": [
+    {
+      "item": "scguns:nether_star_fragment"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.9994,
+      "id": "scguns:nether_star_fragment"
+    },
+    {
+      "chance": 0.6,
+      "count": 1,
+      "id": "malum:eldritch_spirit"
+    }
+  ]
+}

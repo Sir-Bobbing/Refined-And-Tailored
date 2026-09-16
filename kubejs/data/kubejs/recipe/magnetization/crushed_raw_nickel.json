@@ -1,0 +1,19 @@
+{
+  "type": "powergrid:magnetization",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_nickel"
+    }
+  ],
+  "results": [
+    {
+      "count": 15,
+      "id": "tfmg:nickel_nugget"
+    },
+    {
+      "chance": 0.1,
+      "count": 1,
+      "id": "scguns:raw_anthralite"
+    }
+  ]
+}

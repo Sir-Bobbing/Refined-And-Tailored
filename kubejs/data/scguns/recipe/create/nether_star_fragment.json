@@ -11,14 +11,14 @@
       "item": "minecraft:nether_star"
     }
   ],
-  "processing_time": 100,
+  "processing_time": 6000, "": "24000 is 1 minute @ max rpm with one item to process",
   "results": [
     {
       "id": "minecraft:nether_star"
     },
     {
-      "chance": 0.01,
       "count": 1,
+      "chance": 0.25,
       "id": "scguns:nether_star_fragment"
     }
   ]

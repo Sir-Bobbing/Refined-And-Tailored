@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "scguns:nether_star_fragment"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 100,
+      "tag": "c:lava"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.9995,
+      "id": "scguns:nether_star_fragment"
+    },
+    {
+      "count": 1,
+      "chance": 0.5,
+      "id": "malum:infernal_spirit"
+    }
+  ]
+}

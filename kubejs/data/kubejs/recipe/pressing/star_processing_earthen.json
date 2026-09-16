@@ -1,0 +1,19 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "scguns:nether_star_fragment"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.9996,
+      "id": "scguns:nether_star_fragment"
+    },
+    {
+      "count": 1,
+      "chance": 0.4,
+      "id": "malum:earthen_spirit"
+    }
+  ]
+}

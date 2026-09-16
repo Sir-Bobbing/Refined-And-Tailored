@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "scguns:nether_star_fragment"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.9999,
+      "id": "scguns:nether_star_fragment"
+    },
+    {
+      "count": 1,
+      "chance": 0.1,
+      "id": "malum:arcane_spirit"
+    }
+  ],
+  "processingTime": 0
+}

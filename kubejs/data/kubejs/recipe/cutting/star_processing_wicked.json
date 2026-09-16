@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "scguns:nether_star_fragment"
+    }
+  ],
+  "result": [
+    {
+      "chance": 0.9996,
+      "item": {
+        "count": 1,
+        "id": "scguns:nether_star_fragment"
+      }
+    },
+    {
+      "chance": 0.4,
+      "item": {
+        "count": 1,
+        "id": "malum:wicked_spirit"
+      }
+    }
+  ],
+  "tool": [
+    {
+      "type": "farmersdelight:item_ability",
+      "action": "knife_dig"
+    },
+    {
+      "tag": "c:tools/knife"
+    }
+  ]
+}
