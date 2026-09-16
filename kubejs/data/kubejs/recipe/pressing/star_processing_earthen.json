@@ -7,12 +7,12 @@
   ],
   "results": [
     {
-      "chance": 0.9996,
+      "chance": 0.9997,
       "id": "scguns:nether_star_fragment"
     },
     {
       "count": 1,
-      "chance": 0.4,
+      "chance": 0.3,
       "id": "malum:earthen_spirit"
     }
   ]
