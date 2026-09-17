@@ -1,0 +1,25 @@
+filename = 'voicechat-neoforge-1.21.1-2.6.23.jar'
+name = 'Simple Voice Chat'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'neoforge-1.21.1-2.6.23'
+
+[download]
+hash = '8d3dfb8b34658dfa9786a7a8db3b80e4a49ef602905ec35e449d197e327e5baee114f8a6724cfbfee08df44654761d08610f2552a156a222135fb98422da0486'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9eGKb6K1/versions/Dv1fH2I2/voicechat-neoforge-1.21.1-2.6.23.jar'
+
+[update.modrinth]
+mod-id = '9eGKb6K1'
+version = 'Dv1fH2I2'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9eGKb6K1'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'

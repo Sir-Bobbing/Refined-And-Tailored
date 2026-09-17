@@ -1,18 +1,18 @@
-filename = 'StreamsReflowing-1.21.1-neoforge-2.13.5.jar'
+filename = 'StreamsReflowing-1.21.1-neoforge-2.13.8.jar'
 name = 'StreamsReflowing'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.13.5'
+x-prismlauncher-version-number = '2.13.8'
 
 [download]
-hash = '9944b635c60c2826081a4ead882ded398e82ca0c0200fa6fbde22ee132167b4bdaf98bdd6c5c4f14c26569a1b1a8700980b5eb75ae0f04d4a0d9a89a54459263'
+hash = 'b529c07e9877ce515b0387d952b2b3bbf80504919e3b7698009caf88a158b3cd1bebc9bd962ff69fb0d729f58a0deb4a38c1da84cbb2364138a7ead3343f27dc'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/oLS8HdJ1/versions/D0vIdKvL/StreamsReflowing-1.21.1-neoforge-2.13.5.jar'
+url = 'https://cdn.modrinth.com/data/oLS8HdJ1/versions/uvDKPoVs/StreamsReflowing-1.21.1-neoforge-2.13.8.jar'
 
 [update.modrinth]
 mod-id = 'oLS8HdJ1'
-version = 'D0vIdKvL'
+version = 'uvDKPoVs'
