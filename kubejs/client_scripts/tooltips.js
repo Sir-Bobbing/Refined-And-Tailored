@@ -24,7 +24,7 @@ ItemEvents.modifyTooltips(event => {
     event.add(['supplementaries:sack', '#c:shulker_boxes', 'supplementaries:safe'], Text.gray('Shares mechanics with the bundle'))
     event.add('minecraft:ender_chest', Text.gray('Can be used in the inventory.'))
 
-    event.add('minecraft:enchanted_book', Text.darkRed('Books are no longer obtainable in survival'))
+    event.add('minecraft:enchanted_book', Text.darkRed('Enchanting only possible through ancient books'))
     event.modify('immersiveenchanting:ancient_book', tooltip => {
         tooltip.dynamic('ancient_book_tooltip')
     })
