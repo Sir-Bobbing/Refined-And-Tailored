@@ -237,6 +237,10 @@ file = "config/gallery-common.toml"
 hash = "166ee45e1a1592251dbcd025e97cd201446904878c3ac49e3f823e8a89b3277c"
 
 [[files]]
+file = "config/guideme.toml"
+hash = "4d32d1e60aa387310e48dd5a2da27c3524faf8ac9f160fe225a344f281093698"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "030d7c2c4b33a367d6e0ac009e0c47523c61d38ccb9fb68ea920f773645d6f19"
 
@@ -1174,7 +1178,7 @@ hash = "b9f16d449308c4590784b6db2a642df9931e31d55c2dda5ec4285a3ffbb02b87"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "f97b5a08223a6d1b4edc32d798ec92440d5eec34a9b6323155c2dfa2bce8bee5"
+hash = "296640433843049a1667a48f2eceef345854315bdc4abe12eba176d32ecfafda"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/entity/warden/warden.png"
@@ -1209,12 +1213,20 @@ file = "kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_it
 hash = "61d1759e0d6d92bb7f66adf3fe64794156dc0a96a1e7747139aa7d3d80d4c959"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "3e5cf982f5bb2d8e5d147a2b739b54fb9b326575aa71fd437e289e1974eb318e"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/furnace.png"
 hash = "ecb7b1b27140791d3c19bc92d64febe072d233bbd58a28080f2cf3b6d8363049"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/generic_54.png"
-hash = "a1a5eb0e2b062cde2f78fc5aa5bb95248a3afb7db19451e3d9f993809b9a96dd"
+hash = "a7f4d238c9d8057b4ed5bdbcb3a8bf8d377cc94ac78ef363b73a96b30f18087f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/hopper.png"
+hash = "e3c7c79de83b0f7a0e06d152404838059fcc3933ad8dec1a27ba532ba4a463bd"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/inventory.png"
@@ -1226,7 +1238,11 @@ hash = "6570ceffe4b7a85171368cea90d648206f52c1e8678d7b1358f962adfebeb751"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/shulker_box.png"
-hash = "d766328ad4dcd012ea372c7d1017756756aa65d0e0074a98ab0f70b8c3942a94"
+hash = "c99eb89a3760cae67b0726ea3fd5bfb493042349a7f4edf471e3b99b1f742f0e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/stonecutter.png"
+hash = "2c81f354cf145f03ca1369438e722595548e50c0b7ece55c39e797f4594e11cd"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/scroller.png"
@@ -1374,6 +1390,14 @@ hash = "603aabac9838dbea96701eab50ebfba783b7bcbe848632f2004c4cf1e3044fbe"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/container/loom/scroller_disabled.png"
+hash = "677b4ab90befd6d7061691bf6157650802a7cd095acb8257c226de6c02c24a1e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/stonecutter/scroller.png"
+hash = "603aabac9838dbea96701eab50ebfba783b7bcbe848632f2004c4cf1e3044fbe"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/stonecutter/scroller_disabled.png"
 hash = "677b4ab90befd6d7061691bf6157650802a7cd095acb8257c226de6c02c24a1e"
 
 [[files]]
@@ -1835,7 +1859,7 @@ hash = "e7df02d5c28858a3ba50929fefbb28c1d5175af8a22c7d4451fefe240ee4e405"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "05dbb4359503f9a7fdb2d07f8ef69d89d818bb623f1260e2ac2dd7043c1e37b1"
+hash = "942238ff6f56045fb05d77d1e1cabad0fd67cdd54d62f0bf6d91f8edc7ad7be1"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -2984,6 +3008,10 @@ hash = "1b67bcff2517746bb95a6d97a4fe5742d6bed6f98d1e4156241cbdcd85dce4fe"
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/night_vision_module.json"
 hash = "1f299da6075b8b87c77612cd9a22c6652f2c33737742709d5319ed887f5d291e"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crafting/pearachute.json"
+hash = "a562e3e17942e5737afe3220e490120372928a321727c3d3950ef751ad89e0cd"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/rebreather_module.json"
@@ -4515,7 +4543,7 @@ hash = "144caed807c93d7546e714eb90e74f50a04faab2ce775edad9e65ebe79e69518"
 
 [[files]]
 file = "kubejs/server_scripts/emi.js"
-hash = "2d7bf846ce60cf9a0d218972c5261e2b116a1656997604e9ba0c31d92738a0d3"
+hash = "5619c76fef6fede2ce95cd649e8bfea7c8c8d4b1aa79448805be3ee3362bf328"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -5101,7 +5129,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "d31ccb71ec7f521efbc6f41c6069dc06166f2b44b9628b1f15d0eef28774f6e2"
+hash = "1c003dc22de09c976212d510cd8bb22d1af8444d78f44552180b9d058ff79856"
 metafile = true
 
 [[files]]
@@ -5285,7 +5313,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "1142a620a66b7f9b012134d2edc46d3da2f2520fcc0f69411b737031b1ac984e"
+hash = "c7369bfdc66cb423a35a5283a1bf5e8c0c4551f579009f1a16c3abde9a58d3ea"
 metafile = true
 
 [[files]]
@@ -5349,6 +5377,11 @@ hash = "4fc21e7bac0dfd2d036a41139a80ec546c60881cb99252a86189ad914e2dadd6"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "7d045c118a31a462e20a0b0a278844bbf23bf2a336faaf63bfcc80300f3edec1"
+metafile = true
+
+[[files]]
 file = "mods/sleep-tight.pw.toml"
 hash = "124a3e3d33d8858f658806fec1e88f78c2230b3d87f901a1b814e19c3b96237b"
 metafile = true
@@ -5405,7 +5438,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "f1f7c42b136f84bfad76304f00f9a07d33a3cdeef08e0682d77c87a164c5db16"
+hash = "d478582f9a1eb773a4a986a37e37092ded19aaa583e8ddb9cc8b0e994508803d"
 metafile = true
 
 [[files]]

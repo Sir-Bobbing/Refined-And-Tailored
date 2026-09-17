@@ -143,6 +143,7 @@
 - [Scholar](https://modrinth.com/mod/fX4dIQCo) by mortuusars
 - [Scorched Guns](https://modrinth.com/mod/GwtIopV4) by ribs
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
+- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) by Max Henkel
 - [Sinytra Connector](https://modrinth.com/mod/u58R1TMW)
 - [Sleep Tight](https://modrinth.com/mod/tNai0h2Y) by MehVahdJukaar, Plantkillable
 - [Snow Under Trees](https://modrinth.com/mod/Q3vyMuj2) by bl4ckscor3
