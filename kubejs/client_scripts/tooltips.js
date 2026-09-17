@@ -24,16 +24,25 @@ ItemEvents.modifyTooltips(event => {
     event.add(['supplementaries:sack', '#c:shulker_boxes', 'supplementaries:safe'], Text.gray('Shares mechanics with the bundle'))
     event.add('minecraft:ender_chest', Text.gray('Can be used in the inventory.'))
 
-    /*
+    event.add('minecraft:enchanted_book', Text.darkRed('Books are no longer obtainable in survival'))
     event.modify('immersiveenchanting:ancient_book', tooltip => {
         tooltip.dynamic('ancient_book_tooltip')
     })
-    */
-
 })
 
-/*
 ItemEvents.dynamicTooltips('ancient_book_tooltip', event => {
-    event.add(Text.gray("Not sure how to pull this off"))
+    let {item} = event
+    if (true) {
+        let enchantments = item.get('minecraft:stored_enchantments')
+        if (enchantments == null) {return}
+        let enchant = enchantments.keySet()[0].getRegisteredName().split(':')
+        let mod = enchant[0]
+        let id = enchant[1]
+        if (mod == "farmersdelight") {
+            event.add(Text.gray(Text.translatable(`enchantment.${mod}.${id}.description`)))
+            return
+        }
+        if (mod == 'nova_structures') {mod = 'dnt'}
+        event.add(Text.gray(Text.translatable(`enchantment.${mod}.${id}.desc`)))
+    }
 })
-*/
