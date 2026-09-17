@@ -170,6 +170,9 @@
         "/handcrafted:(?<stem>.+?)(?<end>_pillar_trim)/": [
             "handcrafted:${stem}_corner_trim"
         ],
+        "/handcrafted:(?<stem>.+?)(?<end>_desk)/": [
+            "handcrafted:${stem}_nightstand"
+        ],
         "/handcrafted:(?<stem>.+?)(?<end>_thin_pot)/": [
             "handcrafted:${stem}_medium_pot",
             "handcrafted:${stem}_wide_pot",
@@ -183,6 +186,9 @@
         ],
         "/everycomp:af/(?<stem>.+?)(?<end>_table)/": [
             "everycomp:hc/${stem}_table"
+        ],
+        "/everycomp:hc/(?<stem>.+?)(?<end>_desk)/": [
+            "everycomp:hc/${stem}_nightstand"
         ],
         "/everycomp:af/(?<stem>.+?)(?<end>_drawer)/": [
             "everycomp:hc/${stem}_drawer"

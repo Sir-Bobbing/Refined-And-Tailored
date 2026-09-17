@@ -195,6 +195,8 @@
     "minecraft:gold_ingot_from_smelting_gold_ore",
     "minecraft:gold_ingot_from_smelting_deepslate_gold_ore",
 
+    "spelunkery:zinc_ore_smelting",
+    "spelunkery:zinc_ore_blasting",
     "tfmg:smelting/lead_ingot_blasting",
     "tfmg:smelting/nickel_ingot_blasting",
     "copper_tools_armor_backport:copper_ingot_from_nuggets",

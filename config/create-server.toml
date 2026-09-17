@@ -198,15 +198,15 @@
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		amethystMovement = "NO_PICKUP"
+		amethystMovement = "MOVABLE"
 		#.
 		#Configure how Obsidian blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableObsidian = "UNMOVABLE"
+		movableObsidian = "MOVABLE"
 		#.
 		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableReinforcedDeepslate = "UNMOVABLE"
+		movableReinforcedDeepslate = "NO_PICKUP"
 		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
 		moveItemsToStorage = true
@@ -509,7 +509,7 @@
 	#The Maximum Distance at which a Toolbox can interact with Players' Inventories.
 	# Default: 10
 	# Range: > 1
-	toolboxRange = 10
+	toolboxRange = 32
 	#.
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	# Default: 900
