@@ -85,6 +85,10 @@ file = "config/cirrus-client.json"
 hash = "a8b9fd6dde0a02d8762b06e1881afeebd7044c6b7907f64989b87b2a0c6e5e39"
 
 [[files]]
+file = "config/clientsort.json"
+hash = "42d0a1580a3abc0122ab3940983a328e3e3d436640017164026d8e1a1d8bdc27"
+
+[[files]]
 file = "config/combatnouveau-common.toml"
 hash = "2d5233abbb0c0bf7014ee8b16f29bad036c0f708956643d9c6ddad054b8f0e01"
 
@@ -473,6 +477,102 @@ file = "kubejs/assets/chunkloaders/textures/ultimate_chunk_loader.png"
 hash = "04754e5c405214465214a8e1fdf7aa80d0ab1f2dac88bd01876135bb54bb93cc"
 
 [[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_down.png"
+hash = "6566bb202176aa50f09d8b293be3884401c8b47735a6358f38245573f79796bd"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_down_disabled.png"
+hash = "bbec9bdd4717bc624673306fbac28d4a5dd856646bec4039040a161840c2568a"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_down_highlighted.png"
+hash = "8c66f3f637cc6a5e2f13e6a421245dea69619a10cb6c0223a04b00a9586d479b"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_up.png"
+hash = "3359e72cb5374ef964ade962df15a2e2f103ab545d3f2e4fcaa8406d95a847ab"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_up_disabled.png"
+hash = "4b2bcde2ee66e30a385c5cc0cc01307807cc699916fb8b91d099238a1ad96090"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_up_highlighted.png"
+hash = "04b87b89cb0d5ad6366c63a1327b537f6d832f27b901fab839ee2ac9f8254b01"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/sort.png"
+hash = "9de6ecf40dcdc5faca894e0e81b3253438f187667da3c90ab9126587c5a7153e"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/sort_disabled.png"
+hash = "2752c4a962a211d988411763a723afdaac78cd0a5c0e615098246dba685b3162"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/sort_highlighted.png"
+hash = "4a2b00b49376f99993e68d7b98367d03db221e421d35e17bfc3e6580d1f2f11a"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_down.png"
+hash = "c039903ee5d86f5ec7a7cbe478b05a6e5c322d1fc7252c5d3f1286ad4b348634"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_down_disabled.png"
+hash = "0a160301f92778dafc3bb81b729483d7186143b45dc83ef1266dce6a189d027e"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_down_highlighted.png"
+hash = "2528d0b371a94fc776beaedf03e7a021c6a5555d71b28d55076a13ca8f3be872"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_up.png"
+hash = "82938f49881bab6a33e7d92aeb8514021a739c1e35bac2be334da0b418fbbae8"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_up_disabled.png"
+hash = "8ccb0e4aa91e9f2d35831957f1756950b880e0d235ac05f6e07a23d8a636af48"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_up_highlighted.png"
+hash = "4a4194198130f942466d7c0c298bde4e5fb4859dfa615f0cac6f91f7441607b1"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_down.png"
+hash = "7f5148bb8fc997d133ca0be552253f4411822d0ce8b9560e6163a2362e9e4e44"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_down_disabled.png"
+hash = "93a05d32acc09564670ae14f15a5d0b3e17243449dafaa3c4f62b54a8d3d1445"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_down_highlighted.png"
+hash = "2c73669a249462cf988d98de626a3f0335ef1ce9b50b7241a86126bab65532d1"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_up.png"
+hash = "3c8f1650a6080ae58512996604b0db3f1666a6e93b85b2d8132bcead38d59083"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_up_disabled.png"
+hash = "a80645b82374f282dca38fceceda832e0dbe497c5b88e372779e81774946c673"
+
+[[files]]
+file = "kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_up_highlighted.png"
+hash = "eaf6f5b656a10f15f4071658b63b651c6f07e2210dcaca3a6d42bb74ec81ff50"
+
+[[files]]
+file = "kubejs/assets/corpse/textures/gui/gui_corpse.png"
+hash = "b39efc024dc91c70d537fb0d928b33b01969b7d02810db6b4b6e21d7c386e49e"
+
+[[files]]
+file = "kubejs/assets/corpse/textures/gui/gui_death_history.png"
+hash = "64c119fe8553619bc15896d9500087c5a84c7ea6230646219308e5afa939ec7c"
+
+[[files]]
+file = "kubejs/assets/corpse/textures/gui/inventory_corpse.png"
+hash = "8874f1f327f6d46e088240ba467047c117b9524e9db69d1d6b2a0607fbb0bb4c"
+
+[[files]]
 file = "kubejs/assets/cosmeticarmorreworkedforked/textures/gui/cosarmorinventory.png"
 hash = "061705fdea25bdf333cc676e6ae7e3f39137c75ab174135de9e4cd3e0083ca44"
 
@@ -531,6 +631,26 @@ hash = "afcd9ec7c4cae1977ac83883df0f451bd15ed09f96849503eb95aa7dc4060362"
 [[files]]
 file = "kubejs/assets/createpropulsion/textures/block/vector_thruster.png"
 hash = "7b1b6d299f1d09a1ad3516ca5e337e78e22d36f754349daf2aa297f437e4dbc9"
+
+[[files]]
+file = "kubejs/assets/curios/textures/gui/curios/cosmetic_off.png"
+hash = "83ab3e4eda95c7f1c1adbba3f94e03c3e6dcdad2107ece060862f0e7a5260ac7"
+
+[[files]]
+file = "kubejs/assets/curios/textures/gui/curios/cosmetic_off_highlighted.png"
+hash = "83ab3e4eda95c7f1c1adbba3f94e03c3e6dcdad2107ece060862f0e7a5260ac7"
+
+[[files]]
+file = "kubejs/assets/curios/textures/gui/curios/cosmetic_on.png"
+hash = "dc156749d7682c7b39d22f5a023824abd678a2e32f706c266fed477948820763"
+
+[[files]]
+file = "kubejs/assets/curios/textures/gui/curios/cosmetic_on_highlighted.png"
+hash = "dc156749d7682c7b39d22f5a023824abd678a2e32f706c266fed477948820763"
+
+[[files]]
+file = "kubejs/assets/curios/textures/gui/curios/inventory.png"
+hash = "e2cadc5cdd6bdda6ff576b08b62d294c36cdeb51907e5f5b101722e772a3f208"
 
 [[files]]
 file = "kubejs/assets/emi/index/stacks/copycat.json"
@@ -1968,6 +2088,38 @@ hash = "ad8fba5690976ade8472fe6cf159f17c96d7d99ead8e361c83982766a92fa459"
 [[files]]
 file = "kubejs/assets/toms_storage/textures/gui/tag_filter.png"
 hash = "c3a12f56038a3d244c7d2dca941c891b91e8a50f127a05296fd5ca966883d4f4"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_audio_devices.png"
+hash = "e660042aab56f098495d0be257c29694d9b2aa1351ae704e92c1cf7c5b211bf9"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_create_group.png"
+hash = "bedda7ea7f33afa0e3f43492a97a5d5a94c30fb128c8abbd0e76fd40c1992565"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_enter_password.png"
+hash = "f3c7e1a27d4322328da460d461b9e54409db7b14740ec6c87d31cdf656fb2bf5"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_group.png"
+hash = "e660042aab56f098495d0be257c29694d9b2aa1351ae704e92c1cf7c5b211bf9"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_join_group.png"
+hash = "e660042aab56f098495d0be257c29694d9b2aa1351ae704e92c1cf7c5b211bf9"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_voicechat.png"
+hash = "90e07485ce993ea5830f39694e5d48135f973bcdd86060c06326c720eb99f875"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_voicechat_settings.png"
+hash = "87a4df14c5e54e9075637fb538b38b0f5eac4c75df9445bca0c8be9c9cef1d23"
+
+[[files]]
+file = "kubejs/assets/voicechat/textures/gui/gui_volumes.png"
+hash = "2464e5333c003d3463522e1aeaeb1269b76db90b2ddb74c292be5057240c41e4"
 
 [[files]]
 file = "kubejs/client_scripts/client_guideme.js"
