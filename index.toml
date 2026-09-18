@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "bd94d387461368e79bd4587d6a5563fdd56a6a5c8b397436039bb5661253b47f"
+hash = "f89b189f30a980795546eb4c8ca54a3038d3920f3a5ff96fb7ad64ab77366f02"
 
 [[files]]
 file = "config/aeronautics-server.toml"

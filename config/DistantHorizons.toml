@@ -972,7 +972,7 @@ _version = 4
 				# LINEAR: Linear based on distance (will ignore 'density')
 				# EXPONENTIAL: 1/(e^(distance*density)) 
 				# EXPONENTIAL_SQUARED: 1/(e^((distance*density)^2)
-				farFogFalloff = "EXPONENTIAL"
+				farFogFalloff = "EXPONENTIAL_SQUARED"
 				#
 				# Used in conjunction with the Fog Falloff.
 				farFogDensity = "4.0"
