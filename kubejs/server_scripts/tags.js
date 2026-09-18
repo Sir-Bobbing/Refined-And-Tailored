@@ -13,6 +13,9 @@ function get_items_by_block_tag(block_tag){
 
 ServerEvents.tags('item', event => {
 
+// Spawn egg
+    event.add('kubejs:spawn_egg', /.*_spawn_egg/)
+
 //Ingredient Flattening
     event.add('c:dusts/sulfur', 'spelunkery:sulfur')
     event.remove('c:dusts/sulfur', 'tfmg:sulfur_dust')

@@ -189,6 +189,10 @@ file = "config/everycomp-hazardous.toml"
 hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
 
 [[files]]
+file = "config/fancymenu/assets/food_book.png"
+hash = "85197abaf870f759e3a323aaf0d89ec32f21c4ee1b376f33df5fccc5d73cfc22"
+
+[[files]]
 file = "config/fancymenu/assets/title.png"
 hash = "76b1b32354481e94432509d2f1ec156f9235b8301c4e1a6f1a9b9defb3914b0d"
 
@@ -199,6 +203,10 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "f10e7f742a47b41cfdf25d93481a21abdc383e94613b80f28c0372b4557a4f64"
+
+[[files]]
+file = "config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "9d8f9b4e42f3d813483d5edd52bac4b4aebf6fc1c6735738f5e6e48e3c7b15d9"
 
 [[files]]
 file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
@@ -3534,6 +3542,34 @@ file = "kubejs/data/malum/recipe/soulwood_item_stand.json"
 hash = "ccb7d0ea6c7e9e1fdea05d4c8192ed88b405d248dd01900f070d68bd9bf61b5f"
 
 [[files]]
+file = "kubejs/data/malum/recipe/spirit_crucible/node_focusing_aluminum.json"
+hash = "05aca6c68c6a24ae0561741a5fc1d700e3793141c9f1ce4a2aa495789da3b00d"
+
+[[files]]
+file = "kubejs/data/malum/recipe/spirit_crucible/node_focusing_copper.json"
+hash = "0863484d1e893b98ba7313766379ca26d5d40c648d0c036b44af4c07efcac3a8"
+
+[[files]]
+file = "kubejs/data/malum/recipe/spirit_crucible/node_focusing_gold.json"
+hash = "4e0d18dabcc054a52e894fe55007ae7e623822445b872c4dc56cc9ff55ab3ff7"
+
+[[files]]
+file = "kubejs/data/malum/recipe/spirit_crucible/node_focusing_iron.json"
+hash = "e34280d3291abe23e52065e6cf3239afcecb93bc24d251766f6cc7a69c76c620"
+
+[[files]]
+file = "kubejs/data/malum/recipe/spirit_crucible/node_focusing_lead.json"
+hash = "e12cdedfd6fe157174a5251f18ad9d5871321c286693a0191ede65437f3c584c"
+
+[[files]]
+file = "kubejs/data/malum/recipe/spirit_crucible/node_focusing_nickel.json"
+hash = "3ca735287c5208b91cb21556ed6d0f7365a511a76a0dcad9cf1aab1bdf93da61"
+
+[[files]]
+file = "kubejs/data/malum/recipe/spirit_crucible/node_focusing_zinc.json"
+hash = "7072dd1ae08d17cbb209e1199cd9445b78e8be68633f202d06cad3d0ce9a12b8"
+
+[[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/brilliant_obelisk.json"
 hash = "366fa3c150b52629d2b76088a9d1110edced76aacfa4127c77a3cdac87dcacb6"
 
@@ -4711,7 +4747,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "bda29fd131ad1f27b0819e3bbdb17b5cc98e32429b2593eaf155394651617d9f"
+hash = "179cfaa8854f8bf5f0b53e3366c1bc14f40f8e175fa8aaf2a3a0fbac90cdd687"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
