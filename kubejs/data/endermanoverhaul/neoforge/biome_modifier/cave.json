@@ -1,0 +1,15 @@
+{
+    "type": "neoforge:add_spawns",
+    "biomes": "#c:is_cave",
+    "spawners": {
+        "type": "endermanoverhaul:cave_enderman",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 1
+    },
+    "spawn_cost": {
+        "energy_budget": 0.05,
+        "charge": 0.5
+    },
+    "entity_types": ["endermanoverhaul:cave_enderman"]
+}
