@@ -2187,7 +2187,7 @@ hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
 
 [[files]]
 file = "kubejs/data/bng_ore.zip"
-hash = "cc596ae28c4732cdce5eb4ff387144707925019d20e7d6f66c22dbd89f1da627"
+hash = "b7838b76b52efdd55bca8c4580e2b095efdb371947ce17a1354a9d3f06d64c3a"
 
 [[files]]
 file = "kubejs/data/brewinandchewin/advancement/main/place_keg.json"
@@ -4532,6 +4532,10 @@ hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/nephrite_geode.json"
 hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
+
+[[files]]
+file = "kubejs/data/spelunkery/worldgen/processor_list/cinnabar_vein.json"
+hash = "9a37672e4270fb212d62209f2d677b3abb12d54e73f50245c849eb693f8463a2"
 
 [[files]]
 file = "kubejs/data/supplementaries/recipe/flower_box.json"
