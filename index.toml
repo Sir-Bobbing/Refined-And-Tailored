@@ -2254,8 +2254,16 @@ file = "kubejs/data/decorative_blocks/recipe/lattice.json"
 hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
 
 [[files]]
-file = "kubejs/data/endermanoverhaul/tags/worldgen/biome/cave_spawns.json"
-hash = "aeba286ee6dbd92f2fc9dbdfa322133ef0b1204e5341d3c5ff626e8737e27674"
+file = "kubejs/data/endermanoverhaul/neoforge/biome_modifier/cave.json"
+hash = "df979aaa83b8bcfb29f38396104b7e83e2c1b5028cef4bdfd0d2a4941ac0a504"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/neoforge/biome_modifier/coral.json"
+hash = "0cc1ca67bba97ef51d5747af3e1d613cdad240400329795ec0c22f216c9652d4"
+
+[[files]]
+file = "kubejs/data/endermanoverhaul/neoforge/biome_modifier/mushroom_fields_spawns.json"
+hash = "fe3f622b3b4ce59afa120bbe1d71ab6ce727033c28398e90fa7d6331d992aa45"
 
 [[files]]
 file = "kubejs/data/envelope/structure/collapsed_mail_hub/balloon_large_red.nbt"
