@@ -3443,7 +3443,7 @@ hash = "2b487d9ec2dca15304ef0b01878eae8ec855e8edd47d5ff716ae6bc1afe7cdbb"
 
 [[files]]
 file = "kubejs/data/kubejs/worldgen/placed_feature/hotspring.json"
-hash = "7f170d8971a0a15b77a4f641e10c521b26029edf0a2a7c92b1cb3396c46f11ed"
+hash = "02a4dc134cde6cc4fdfea2e77629d9e3ce617c7bea4523b7abeae41448e1a9f7"
 
 [[files]]
 file = "kubejs/data/lootintegrations/loot/dungeoncrawl_villageloot_house.json"
@@ -5197,7 +5197,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "e15c24588c0c10abac8dfbecfddceb5c57ba8d3e797da293ef0a510e1b3daf52"
+hash = "9fc468af531c671746c5674c97506b9ee9f55eeda9dc86248e9b53f1ae38dc38"
 metafile = true
 
 [[files]]
@@ -5402,7 +5402,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ddd00dbaa9f8a2cde12b20c66ee53e0123ae45a21c66fb8db082410da7810a08"
+hash = "b41efb92643d36e699839efd61802a027bdefebd75f4e5e862b8f22693c9d7b8"
 metafile = true
 
 [[files]]
@@ -5661,7 +5661,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "24affc4b9740030a231c987f926073f014162b562446c89790f166dd42243a17"
+hash = "68155044ccac7e723d18c78d8055cc5c57db7580afc47de2877c73e053c41700"
 metafile = true
 
 [[files]]
