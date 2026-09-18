@@ -115,6 +115,11 @@ ServerEvents.tags('fluid', event => {
 })
 
 ServerEvents.tags('block', event => {
+
+    // Cinnabar_wire_blacklist
+    event.add('kubejs:cinnabar_protected', 'minecraft:lava')
+    event.add('kubejs:cinnabar_protected', 'minecraft:water')
+
 // Prospecting pick ore tagging
     event.add('c:ores', 'malum:primordial_soup')
     event.add('c:ores/weeping', 'malum:primordial_soup')

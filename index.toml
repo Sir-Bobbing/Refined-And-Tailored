@@ -4526,6 +4526,10 @@ file = "kubejs/data/spelunkery/recipe/lapis_lazuli_shard.json"
 hash = "b631811ece6655188dc94be83f5febfdfc02d75e4faeb75566352de5aebe5d96"
 
 [[files]]
+file = "kubejs/data/spelunkery/worldgen/configured_feature/diamond_ore_lava.json"
+hash = "965522501695cfa956e10449f6752421dd2a7a69a189718519610f0fa04b4f54"
+
+[[files]]
 file = "kubejs/data/spelunkery/worldgen/placed_feature/deep_dark_fossil.json"
 hash = "719e97194deeb8d9c428924ed4ba01438daccb3fe0f70b611a1b4efc05d7fd30"
 
@@ -4535,7 +4539,7 @@ hash = "110ac986743697ce8b4e4cc14fd599ff8779438192aa79952f50741e623aedb1"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/processor_list/cinnabar_vein.json"
-hash = "9a37672e4270fb212d62209f2d677b3abb12d54e73f50245c849eb693f8463a2"
+hash = "cb62a35b867329719dff18d464e1eb857df449a2c49be2cce560a17ed97e7a25"
 
 [[files]]
 file = "kubejs/data/supplementaries/recipe/flower_box.json"
@@ -4751,7 +4755,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "179cfaa8854f8bf5f0b53e3366c1bc14f40f8e175fa8aaf2a3a0fbac90cdd687"
+hash = "bd27c6113eb432a1dc241753409b038cd3b7d1ce708ee771ae423243abc65fa1"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -5661,7 +5665,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "68155044ccac7e723d18c78d8055cc5c57db7580afc47de2877c73e053c41700"
+hash = "b779d95fb90e3bc2ed0b848d4f73bb5bb58dee81101ef696b56d6f156d286e4e"
 metafile = true
 
 [[files]]

@@ -60,6 +60,10 @@
     {
       "processor_type": "minecraft:protected_blocks",
       "value": "#minecraft:air"
+    },
+    {
+      "processor_type": "minecraft:protected_blocks",
+      "value": "#kubejs:cinnabar_protected"
     }
   ]
 }
