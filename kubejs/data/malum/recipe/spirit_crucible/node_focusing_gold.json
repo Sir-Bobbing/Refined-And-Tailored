@@ -1,0 +1,22 @@
+{
+  "type": "malum:spirit_focusing",
+  "durabilityCost": 2,
+  "input": {
+    "item": "malum:gold_impetus"
+  },
+  "result": {
+    "count": 3,
+    "id": "malum:gold_node"
+  },
+  "spirits": [
+    {
+      "type": "malum:earthen",
+      "count": 3
+    },
+    {
+      "type": "malum:aqueous",
+      "count": 3
+    }
+  ],
+  "time": 1350
+}
