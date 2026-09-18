@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "02355be5ca828b12d594af554ec673512b939d79c52c331d4255ae00a5fd0ac7"
+hash = "bd94d387461368e79bd4587d6a5563fdd56a6a5c8b397436039bb5661253b47f"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -5064,7 +5064,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "63937c94d33ad8eb48d17e6b646277b97c81a0e28fc4b24db35f38ab6dddfd33"
+hash = "87e9637f02d5660fde865376c1928ce66cdfdd2fd9a252e973c7343c6701988f"
 metafile = true
 
 [[files]]

@@ -3,7 +3,7 @@ _version = 4
 [server]
 	#
 	# Defines the distance the player will receive updates around.
-	realTimeUpdateDistanceRadiusInChunks = 128
+	realTimeUpdateDistanceRadiusInChunks = 256
 	#
 	# Prefix of the level keys sent to the clients.
 	# If the mod is running behind a proxy, each backend should use a unique value.
@@ -24,7 +24,7 @@ _version = 4
 	serverKey = ""
 	#
 	# Defines the distance allowed to generate around the player.
-	maxGenerationRequestDistance = 409
+	maxGenerationRequestDistance = 4096
 	#
 	# When enabled, Distant Horizons will attempt to download missing LODs from the server.
 	# 
@@ -87,7 +87,7 @@ _version = 4
 		# Only visible block/biome changes are recorded in the database. 
 		# Hidden blocks (IE ores) are ignored.  
 		# Expected Compression Ratio: 0.7
-		worldCompression = "MERGE_SAME_BLOCKS"
+		worldCompression = "VISUALLY_EQUAL"
 		#
 		# Requires a level restart to apply. 
 		# 
@@ -113,17 +113,15 @@ _version = 4
 		databaseSyncMode = "NORMAL"
 		dataCompression = "Z_STD_BLOCK"
 		#
-		# Enabling this will drastically speed up chunk processing time
-		# if you are CPU limited.
-		# Disabling it will drastically speed up chunk processing time
-		# if you are disk speed/IO limited.
+		# Enabling this will drastically increase chunk processing time
+		# and you may need to increase your CPU load to handle it.
 		# 
 		# Normally DH will attempt to skip creating LODs for chunks it's already seen
 		# and that haven't changed.
 		# 
-		# Disabling this option can also fix a rare bug where
-		# modified chunks are skipped due to being too similar to
-		# their saved hash.
+		# However sometimes that logic incorrectly prevents LODs from being updated.
+		# Disabling this check may fix issues where LODs aren't updated after
+		# blocks have been changed.
 		disableUnchangedChunkCheck = false
 
 		[common.lodBuilding.experimental]
@@ -399,7 +397,7 @@ _version = 4
 			updateBranch = "AUTO"
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			#
 			# Should Distant Horizons silently, automatically download and install new versions? 
 			# This setting is force disabled on dedicated servers for stability reasons.
@@ -736,8 +734,6 @@ _version = 4
 				# A comma separated list of dimension resource locations where DH won't render. 
 				# 
 				# Example: "minecraft:the_nether,minecraft:the_end"
-				# For Minecraft 1.12.2 and older: 
-				# Open the F3 screen and copy the dimension_name:ID shown in yellow. Example: "overworld:0"
 				# 
 				# Note:
 				# Some DH settings will be disabled and/or changed to improve 
