@@ -1,6 +1,6 @@
 StartupEvents.registry('item', event => {
 
-    const enabled = true
+    const enabled = false
     const range = 8
 
     function getRandomNearbyCreature( level, pos, user ) {
