@@ -262,6 +262,18 @@ ServerEvents.tags('block', event => {
     event.add('c:stones', 'create:asurine')
     event.add('c:stones', 'tfmg:lignite')
     event.add('c:stones', 'tfmg:galena')
+
+    // Custom ore tagging
+
+    for (let ore of lib.customOres) {
+        console.log('PLEASE WORK',ore)
+        event.add('minecraft:mineable/pickaxe', ore.namespace)
+        event.add('c:ores', ore.namespace)
+        event.add('c:ores/' + ore.id, ore.namespace)
+        if (ore.vein) { event.add('c:ores/deposits/' + ore.id, ore.namespace) }
+        if (ore.stoneTier) { event.add('minecraft:needs_stone_tool', ore.namespace) }
+        if (ore.ironTier) { event.add('minecraft:needs_iron_tool', ore.namespace) }
+    }
 })
 
 ServerEvents.tags('entity_type', event => {

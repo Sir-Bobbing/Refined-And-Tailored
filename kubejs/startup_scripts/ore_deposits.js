@@ -1,88 +1,46 @@
-const oreBlocks = [
-    {
-        id: 'coal',
-        stone:'lignite',
-        vein:true
-    },
-    {
-        id: 'copper',
-        stone:'veridium',
-        vein:true,
-        stoneTier:true
-    },
-    {
-        id: 'iron',
-        stone:'crimsite',
-        vein:true,
-        stoneTier:true
-    },
-    {
-        id: 'iron',
-        stone:'tuff',
-        vein:true,
-        stoneTier:true
-    },
-    {
-        id: 'iron',
-        stone:'dripstone',
-        stoneTier:true
-    },
-    {
-        id: 'gold',
-        stone:'ochrum',
-        vein:true,
-        ironTier:true
-    },
-    {
-        id: 'gold',
-        stone:'quartzite',
-        ironTier:true
-    },
-    {
-        id: 'lapis',
-        stone:'calcite',
-        vein:true,
-        stoneTier:true
-    }
-]
+let $Item$Properties = Java.loadClass("net.minecraft.world.item.Item$Properties");
+let $BlockBehaviour$Properties = Java.loadClass('net.minecraft.world.level.block.state.BlockBehaviour$Properties');
+let $DropExperienceBlock = Java.loadClass('net.minecraft.world.level.block.DropExperienceBlock')
+let $BlockItem = Java.loadClass("net.minecraft.world.item.BlockItem")
 
-function capitalizeFirstLetter(val) {
-    return String(val).charAt(0).toUpperCase() + String(val).slice(1);
+let $NMLBlocks = Java.loadClass('com.farcr.nomansland.common.registry.blocks.NMLBlocks')
+
+const oreProperties = {
+    "lignite_coal":$BlockBehaviour$Properties.ofFullCopy(Blocks.TUFF),
+    "veridium_copper":$BlockBehaviour$Properties.ofFullCopy(Blocks.TUFF),
+    "crimsite_iron":$BlockBehaviour$Properties.ofFullCopy(Blocks.DEEPSLATE),
+    "tuff_iron":$BlockBehaviour$Properties.ofFullCopy(Blocks.TUFF),
+    "dripstone_iron":$BlockBehaviour$Properties.ofFullCopy(Blocks.DRIPSTONE_BLOCK),
+    "ochrum_gold":$BlockBehaviour$Properties.ofFullCopy(Blocks.CALCITE),
+    "quartzite_gold":$BlockBehaviour$Properties.ofFullCopy(Blocks.CALCITE),
+    "calcite_lapis":$BlockBehaviour$Properties.ofFullCopy(Blocks.CALCITE),
+    "smooth_basalt_diamond":$BlockBehaviour$Properties.ofFullCopy(Blocks.SMOOTH_BASALT),
 }
 
-function getBlockId(block) {
-    let id = block.id + '_ore'
-    if (block.stone) {
-        id = block.stone + '_' + id
-    }
-    return id
+function addOreBlockExp(event, ore) {
+    let name = ore.name
+    name = name.substring(0,name.length-4)
+    return event.createCustom(ore.name, () => new $DropExperienceBlock( ore.exp,
+        oreProperties[name]
+        .destroyTime(1.25)
+    ))
 }
 
-function getBlockName(block) {
-    if (block.stone) {
-        return capitalizeFirstLetter(block.stone) + ' ' + capitalizeFirstLetter(block.id) + (block.vein ? ' Deposit' : ' Ore')
-    }
-    else {
-        return capitalizeFirstLetter(block.id) + (block.vein ? ' Deposit' : ' Ore')
-    }
+function addOreBlockItem(event, name, block) {
+    event.createCustom(name, () => new $BlockItem(block.get(), new $Item$Properties()));
 }
 
-function addOreBlock(event, block) {
-    let builder = event.create(getBlockId(block))
-    builder.displayName(getBlockName(block))
-    .hardness(1)
-    .resistance(4)
-    .requiresTool(true)
-    .tagBlock('minecraft:mineable/pickaxe')
-    .tagBlock('c:ores')
-    .tagBlock('c:ores/' + block.id)
-    if (block.vein) { builder.tagBlock('c:ores/deposits/' + block.id) }
-    if (block.stoneTier) { builder.tagBlock('minecraft:needs_stone_tool') }
-    if (block.ironTier) { builder.tagBlock('minecraft:needs_iron_tool') }
-}
+let oreBlocks = {}
 
 StartupEvents.registry('block', event => {
-    for (let block of oreBlocks) {
-        addOreBlock(event, block)
+    oreProperties["quartzite_gold"] = $NMLBlocks.QUARTZITE.value().properties()
+    for (let ore of lib.customOres) {
+        oreBlocks[ore.name] = addOreBlockExp(event, ore)
     }
 })
+
+StartupEvents.registry("item", event => {
+    for (let [name, block] of Object.entries(oreBlocks)) {
+        addOreBlockItem(event, name, block)
+    }
+});
