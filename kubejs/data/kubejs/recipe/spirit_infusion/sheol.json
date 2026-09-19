@@ -3,37 +3,33 @@
   "extraInputs": [
     {
       "count": 1,
-      "tag": "c:ingots/nickel"
+      "item": "minecraft:gunpowder"
     },
     {
       "count": 1,
-      "item": "spelunkery:cinnabar"
+      "item": "minecraft:glowstone_dust"
     },
     {
       "count": 1,
-      "tag": "c:dusts/niter"
-    },
-    {
-      "count": 2,
-      "tag": "c:coal"
+      "item": "spelunkery:sulfur"
     }
   ],
   "input": {
     "count": 1,
-    "tag": "c:ingots/iron"
+    "item": "minecraft:blaze_powder"
   },
   "result": {
-    "count": 2,
-    "id": "scguns:treated_iron_ingot"
+    "count": 10,
+    "id": "scguns:sheol"
   },
   "spirits": [
     {
       "type": "malum:arcane",
-      "count": 4
+      "count": 2
     },
     {
       "type": "malum:infernal",
-      "count": 6
+      "count": 10
     }
   ]
 }

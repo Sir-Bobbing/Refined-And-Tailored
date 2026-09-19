@@ -1,0 +1,47 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "malum:malignant_pewter_nugget"
+    },
+    {
+      "count": 2,
+      "tag": "c:ingots/anthralite"
+    },
+    {
+      "count": 2,
+      "tag": "neoforge:enchanting_fuels"
+    },
+    {
+      "count": 2,
+      "item": "scguns:treated_iron_ingot"
+    }
+  ],
+  "input": {
+    "count": 2,
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "count": 8,
+    "id": "scguns:depleted_diamond_steel_ingot"
+  },
+  "spirits": [
+    {
+      "type": "malum:eldritch",
+      "count": 16
+    },
+    {
+      "type": "malum:arcane",
+      "count": 16
+    },
+    {
+      "type": "malum:earthen",
+      "count": 16
+    },
+    {
+      "type": "malum:infernal",
+      "count": 24
+    }
+  ]
+}

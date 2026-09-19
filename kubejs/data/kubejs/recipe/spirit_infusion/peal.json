@@ -3,33 +3,29 @@
   "extraInputs": [
     {
       "count": 1,
-      "tag": "c:ingots/nickel"
-    },
-    {
-      "count": 1,
-      "item": "spelunkery:cinnabar"
-    },
-    {
-      "count": 1,
-      "tag": "c:dusts/niter"
-    },
-    {
-      "count": 2,
       "tag": "c:coal"
+    },
+    {
+      "count": 1,
+      "tag": "scguns:create/phosphorus_materials"
+    },
+    {
+      "count": 1,
+      "item": "spelunkery:sulfur"
     }
   ],
   "input": {
     "count": 1,
-    "tag": "c:ingots/iron"
+    "item": "minecraft:sculk"
   },
   "result": {
-    "count": 2,
-    "id": "scguns:treated_iron_ingot"
+    "count": 10,
+    "id": "scguns:peal"
   },
   "spirits": [
     {
-      "type": "malum:arcane",
-      "count": 4
+      "type": "malum:eldritch",
+      "count": 2
     },
     {
       "type": "malum:infernal",

@@ -3,37 +3,33 @@
   "extraInputs": [
     {
       "count": 1,
-      "tag": "c:ingots/nickel"
-    },
-    {
-      "count": 1,
       "item": "spelunkery:cinnabar"
     },
     {
       "count": 1,
-      "tag": "c:dusts/niter"
+      "item": "malum:blazing_quartz_fragment"
     },
     {
-      "count": 2,
-      "tag": "c:coal"
+      "count": 1,
+      "item": "scguns:sheol_dust"
     }
   ],
   "input": {
     "count": 1,
-    "tag": "c:ingots/iron"
+    "item": "scguns:ancient_brass"
   },
   "result": {
-    "count": 2,
-    "id": "scguns:treated_iron_ingot"
+    "count": 1,
+    "id": "scguns:treated_brass_ingot"
   },
   "spirits": [
     {
-      "type": "malum:arcane",
-      "count": 4
+      "type": "malum:sacred",
+      "count": 2
     },
     {
       "type": "malum:infernal",
-      "count": 6
+      "count": 3
     }
   ]
 }
