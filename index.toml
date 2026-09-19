@@ -330,7 +330,7 @@ hash = "d35240784629fa5f8483949c7d58cbcee4ce79e5e548afcc052cc7fbb9ec5367"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
-hash = "6af706e4777eef1ed83a8cc17e46dbada77b17a46448319d19e5680f6404bd67"
+hash = "8d7609b1b0fa54917742e2a68cb69b895e80e8bab1baeca25216d64c7ca390b5"
 
 [[files]]
 file = "config/redomesticate.json"
@@ -1169,6 +1169,42 @@ file = "kubejs/assets/handcrafted/lang/en_us.json"
 hash = "c055b10298d42f86453486a07f83c83f75346f578fd4c5140703d1a9399d968c"
 
 [[files]]
+file = "kubejs/assets/kubejs/blockstates/calcite_lapis_ore.json"
+hash = "5aeaf63a06220514ec1e020e9e9253f3fa4b34a08891f7d87403a21d535e47ca"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/crimsite_iron_ore.json"
+hash = "ae4fde4240843acafd54fb0013fb20b69efbb2fa71ebed361800343433806780"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/dripstone_iron_ore.json"
+hash = "534ada37ae81b795b65dc5eff4b5c57c1058b8caad18b01872859f816ebe4701"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/lignite_coal_ore.json"
+hash = "dfbea15351996ff08a11bf2ae5fbb2ae934c9394c9f4a264514f0cbb5dae7d8d"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/ochrum_gold_ore.json"
+hash = "d1981c53f03393352ef6bb5840b3bd6a2531b3175fc5fc1d2a591e5de8501e59"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/quartzite_gold_ore.json"
+hash = "d3e47dc00e16837aff07e214cbb998e1bd250013403044592568dd05146a3d5f"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/smooth_basalt_diamond_ore.json"
+hash = "06de4022b84a560a20cdf846d73be4581cd6c9c6b7b0ec41406ab2beee4e757b"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/tuff_iron_ore.json"
+hash = "fa2c7ace91791ec0b72fbf740d3c43cd272e8e2c65de99bd6c740bfc1e0d40ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/veridium_copper_ore.json"
+hash = "3902df2c0dd3b894886af88ccb51a15301d0cb9b76b0b000186b2cd599f77a29"
+
+[[files]]
 file = "kubejs/assets/kubejs/guideme_guides/guide.json"
 hash = "3f936dfbcdfefb93ee7aa720b9ec1982a2ab1411fe230e7730ab987c5cfa946d"
 
@@ -1181,12 +1217,60 @@ file = "kubejs/assets/kubejs/lang/en_us.json"
 hash = "efd4ad14a5063cd8326da822bab454362913b7934c0eca0ed4ff2a1c81a7657e"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/block/calcite_lapis_ore.json"
+hash = "13e9eef99f027248b323ef39e83d28c175ed46a22309054812e2a2c985180c64"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/crimsite_iron_ore.json"
+hash = "9c2660f476e2cbc50227055d5ec250131645ae7c2228432e91a7387bedea7f11"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/block/crystal_resonator.json"
 hash = "9304695649ff3544a0c1e0641a9dbc01268fc90fbec5761abc03bdbb39f79b55"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/block/dripstone_iron_ore.json"
+hash = "7a02f55813ecb33cac6d6903a3475963495887be3897d5b0a2c712a91d00f9b6"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/block/jarred_loader.json"
 hash = "54ff7b562e791e8f033edf2c1ed3bd8c0e522751625c386d341ef4dc6160ac71"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/lignite_coal_ore.json"
+hash = "637181608ffd7f5dd48d31e3ff6d93fe7ef86d09bfb4f22bd06f69625a932f86"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/ochrum_gold_ore.json"
+hash = "aba9094691eda3067c3328ac7297e279c527a61ee6973f097f338c27157c9993"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/quartzite_gold_ore.json"
+hash = "edd93a4064dff2cceb21888b6081fc8cd4276d402f0498588c6f26ce320b3f18"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/smooth_basalt_diamond_ore.json"
+hash = "43af5da55164a27eb9fdfd277bdb92955489c8f1b0d21956d64879bff06cb3c2"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/tuff_iron_ore.json"
+hash = "de4d04081c9a946a45074a2663dd7881d45d3f1dc149b732aec03b23361dd871"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/veridium_copper_ore.json"
+hash = "9d58ae86c752be87863245b287f8f047abe9561e486c03532ed9554d24bc1b3d"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/calcite_lapis_ore.json"
+hash = "a44bc007831759eb99fb6cc734dd87cf66bb926e5b92941df53190c40bd68e2e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/crimsite_iron_ore.json"
+hash = "f0d1cc83daf520da4fd525609748651b785bad1fb5c1fead04960d4207ef3fdf"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/dripstone_iron_ore.json"
+hash = "bf6768271b01a8c341fc5c96c08447dc4c53c2f36c68b4eb6f87afe85dccc46d"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/giggler.json"
@@ -1195,6 +1279,30 @@ hash = "4586196df1dae2ba2a18816592878652a8fdc250154cc0c1cf6a86bdba00d907"
 [[files]]
 file = "kubejs/assets/kubejs/models/item/guide.json"
 hash = "e596e47749f2cba743fbc87e2abab0e402c1f4dfc9173448802416d76674336a"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/lignite_coal_ore.json"
+hash = "283d42707d556cf727f7aed1659e60c25ef947fdfc8c8445fdb2f8e4b6b2bb62"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/ochrum_gold_ore.json"
+hash = "db419392a22fddfb3d3095f1256232f4dae5983d558f122b3030bfea140a73c5"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/quartzite_gold_ore.json"
+hash = "b2405f6b340842a44c7ba70cd1bf7bcb2c269b7c5c01efb1b9059da1cbb9f7ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/smooth_basalt_diamond_ore.json"
+hash = "b837a4dd6d51b41644f194efe0a07e34e9b4cf71520f0c8b81c621d13b3d69ef"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/tuff_iron_ore.json"
+hash = "c720924a659e1c1b9d5c9c8a72b8c9e86feba742f2ac62036988afc66e6aaf21"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/veridium_copper_ore.json"
+hash = "9c0062536c19adcbf0711be0cafa2173e1f30edbaa3d0002456f096536653286"
 
 [[files]]
 file = "kubejs/assets/kubejs/sounds.json"
@@ -1269,10 +1377,6 @@ file = "kubejs/assets/kubejs/textures/block/quartzite_gold_ore.png"
 hash = "fa4f55caaf2e3b252324a3a6cb74a9956d760e8f5b3a0f16efc4b49b65ef6b3e"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/tuff_iron_ore.png"
-hash = "947e1f28e903b96ccd336bcf1ad6f62b184be83797559b1957883ad2adacc33b"
-
-[[files]]
 file = "kubejs/assets/kubejs/textures/block/veridium_copper_ore.png"
 hash = "3de4c03376966a9d67ce865b069bcfe0da5f1413d861c664168940946dd79775"
 
@@ -1334,7 +1438,7 @@ hash = "b9f16d449308c4590784b6db2a642df9931e31d55c2dda5ec4285a3ffbb02b87"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "296640433843049a1667a48f2eceef345854315bdc4abe12eba176d32ecfafda"
+hash = "d17ce717f04db2edf3095ad8985ecb6f8e391e31b8ba57edbbc3edaefed60460"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/entity/warden/warden.png"
@@ -2158,8 +2262,12 @@ file = "kubejs/client_scripts/jsconfig.json"
 hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
+file = "kubejs/client_scripts/lang.js"
+hash = "5af58b30e16bf1d2c772313e7298c400e5f89d405d5445e180dddfd7bee7178d"
+
+[[files]]
 file = "kubejs/client_scripts/lib.js"
-hash = "42879cfa2467ed6b9df680178fe949e08d35038ee3c77105725181d2e593e04b"
+hash = "56657d34cd6845cfd37493da41f58f353594a198d32016b52d6df98e682afbad"
 
 [[files]]
 file = "kubejs/client_scripts/respawn_fade.js"
@@ -2366,10 +2474,6 @@ file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
 hash = "b6dd47ba9b6c3dc0ea93f17e8dd84c7dba5ba678d5f2918580ca257db7d15680"
 
 [[files]]
-file = "kubejs/data/bng_ore.zip"
-hash = "b7838b76b52efdd55bca8c4580e2b095efdb371947ce17a1354a9d3f06d64c3a"
-
-[[files]]
 file = "kubejs/data/brewinandchewin/advancement/main/place_keg.json"
 hash = "8d320402cb93bb53fa7438e3e2159b471b43356aef8e6a79cee3a66c8751b9b4"
 
@@ -2436,6 +2540,10 @@ hash = "6bc4ffe338c08cb68eaaf4c8628aa555eb12a5556e53231955fe663f5e2a5143"
 [[files]]
 file = "kubejs/data/creeperoverhaul/tags/worldgen/biome/is_cave.json"
 hash = "246208555d8ac93b0686c16724248bfca37b81b07381cc960a421103555cc75c"
+
+[[files]]
+file = "kubejs/data/custom_ore_gen.zip"
+hash = "6734e03e610bc0ea7b3970645ae4566245612f83c9db2c940c98ba9b5442384b"
 
 [[files]]
 file = "kubejs/data/decorative_blocks/recipe/lattice.json"
@@ -3187,11 +3295,11 @@ hash = "34e4364495a6f08908b0beed42060c3d34ff545d96b81d8661a4baf606d6c1fa"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/calcite_lapis_ore.json"
-hash = "04568cc875d890d57336dbeb3573017502dd9ed8a69016e378f447540b686bf5"
+hash = "04f0727de15f5f7cba394829e431ce91c778c50bf7ff88e506e86b61d1a23cce"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/crimsite_iron_ore.json"
-hash = "3b7dea977e6240396d6c2f7b838b1cee7aa50f29b3036132c26c0cf2d4ebda26"
+hash = "cd7179be008717bdac723e5609fef2828681c4041f9c5774ef35ba6d27b83ec7"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/dripstone_iron_ore.json"
@@ -3199,23 +3307,27 @@ hash = "96db56336f438361b75a08b44693b265f08590c5aad0e76993166dfaeb624945"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/lignite_coal_ore.json"
-hash = "731abcf98736d052aa61c304027160e95ec9802da7c61cfa7de77322c2210eb1"
+hash = "6ff60faaf4950880d623c416cafe0604252b6212f535619e702441007282e0f1"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/ochrum_gold_ore.json"
-hash = "82910277651e9925561b88ea7b816ea08f59ed3c806920d68eb5abd74d14c8cc"
+hash = "3fca6dbfad35f5c99db7624f0189ee5b5d8b17fc68ea3ba225c33bbf01e3d46a"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/quartzite_gold_ore.json"
 hash = "50ac36bc556713bf5fb3c28ed127ea363ce0d8868a52ebe2becacf8876c63b83"
 
 [[files]]
+file = "kubejs/data/kubejs/loot_table/blocks/smooth_basalt_diamond_ore.json"
+hash = "3f64a87609c63ac9818deb6195fdf7886ac496714f41af2ea58ce3408df8f869"
+
+[[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/tuff_iron_ore.json"
-hash = "8b31fa0857f81233987067f3a514217ce686b2415ee58dd53f063eff706f4dba"
+hash = "261d9d639b87b1a1c029dec0a66152b251d9be034dddcfb03b48a0f7e72f3179"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/veridium_copper_ore.json"
-hash = "c3ed952cb8a21a329354c48e683b76c0e2aa706c7d7b0dc0a437c8dfcaa6cb1e"
+hash = "f763b0482c0e63e8c4531302a3091b291e64d0d41b2b9c3b4a50cff37fb86386"
 
 [[files]]
 file = "kubejs/data/kubejs/mixed_litter/variant_groups/bat.json"
@@ -4722,6 +4834,10 @@ file = "kubejs/data/spelunkery/worldgen/processor_list/cinnabar_vein.json"
 hash = "cb62a35b867329719dff18d464e1eb857df449a2c49be2cce560a17ed97e7a25"
 
 [[files]]
+file = "kubejs/data/spelunkery_loot.zip"
+hash = "7b43f51070d9ece325fc5d13b57397484aaad9d53458bb2636801fd12f8e52d8"
+
+[[files]]
 file = "kubejs/data/supplementaries/recipe/flower_box.json"
 hash = "dc0859004ee58a5911b6ccb9bfcdd3cc3644d45fe005698d098fd67fbd07c05b"
 
@@ -4887,7 +5003,7 @@ hash = "3d04369a44dc75f6a70dfc51080beb357eb39b395a2db0b6557ce8b9900ceec4"
 
 [[files]]
 file = "kubejs/server_scripts/chunkloader.js"
-hash = "34c274313ab3eb95f3f96275729d56e51cfb5d4eb55d35be347d87cba6aa0771"
+hash = "a84769bcc3b62ebcec9f768da77063740ba49da104b0532670e64eec8734c244"
 
 [[files]]
 file = "kubejs/server_scripts/creature_conjuration.js"
@@ -4898,12 +5014,16 @@ file = "kubejs/server_scripts/emi.js"
 hash = "5619c76fef6fede2ce95cd649e8bfea7c8c8d4b1aa79448805be3ee3362bf328"
 
 [[files]]
+file = "kubejs/server_scripts/giggler.js"
+hash = "3c2a00618ee306d50190b972d41bc8642bcf67a488cad4bf427d9bea23c035fb"
+
+[[files]]
 file = "kubejs/server_scripts/jsconfig.json"
 hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 
 [[files]]
 file = "kubejs/server_scripts/lib.js"
-hash = "42879cfa2467ed6b9df680178fe949e08d35038ee3c77105725181d2e593e04b"
+hash = "fe524c4c1a97d60574d1dc4beb9b4537102feed54231b971c88781b9060824fa"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
@@ -4919,7 +5039,7 @@ hash = "0568b97518462daa88300608b21a064b9ed6c5fdbd2e1102bc4d84214675cf97"
 
 [[files]]
 file = "kubejs/server_scripts/player_head.js"
-hash = "8262e3d9bc6d81cc3f755f879f5340f24dd5072c1122783e0f27cb1a96d11a72"
+hash = "2fde7b9656ddcea4f1670fab9c2fa3f7085cd6c031b91d2c7b54685822cf4f0a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -4935,7 +5055,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "bd27c6113eb432a1dc241753409b038cd3b7d1ce708ee771ae423243abc65fa1"
+hash = "456a454349e6b3452e2ba3312fcc427e01bb404a609548dfd9d95c893fff73f3"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -4959,7 +5079,7 @@ hash = "6c869c3727dc13171713a7f0af8507756da13e75d1cdd5e4582b6e74f7d7bc8b"
 
 [[files]]
 file = "kubejs/startup_scripts/giggler.js"
-hash = "c626239517c65788b4daa8e0d5816846b2b15eb43700d90c5a61f24949611b34"
+hash = "5febacd8157f5c9095d9e5e06334d045b7498b9cb37740cc0a89b32296059963"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
@@ -4971,11 +5091,11 @@ hash = "9a75b8dd95ef5b2dd64998a78ef9c621b0d8e5578c9fd3e3bc268b1853258ca9"
 
 [[files]]
 file = "kubejs/startup_scripts/lib.js"
-hash = "b1722885a287ff63af1de51d253eb6dc12fc7706e1a22bf271f977d8ad73252c"
+hash = "b83916b8ef02581f79c0f7677a6dfde5dd2acdc3834604bfcff6d4afb77a69da"
 
 [[files]]
 file = "kubejs/startup_scripts/ore_deposits.js"
-hash = "dec599956a9774a66880b3992079d5cf44fb68aaaf5f9d05ce5444d60585675f"
+hash = "373e37aa54d46e451fb85371d60de5778b5121a6a6ad4a8b710dfbffb365aa48"
 
 [[files]]
 file = "kubejs/startup_scripts/player_navigation.js"
