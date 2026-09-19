@@ -2678,6 +2678,10 @@ file = "kubejs/data/immersiveenchanting/enchantment_costs/create/potato_recovery
 hash = "bf96fc8f59104e4b06b05a476e617a6a21006f3fab30b698daf5bcc76d0e489a"
 
 [[files]]
+file = "kubejs/data/immersiveenchanting/enchantment_costs/createrailgrinding/railgrind_enchantment.json"
+hash = "0f717b85389136cf81df566f971da482886f51081aaaaac2c7d2ec3acdc9f7e9"
+
+[[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/farmersdelight/backstabbing.json"
 hash = "ee73e199da2216d9e5c9a72f218d8a0a982d0a4aaffa575c85a0b26071721774"
 
@@ -3259,7 +3263,7 @@ hash = "516f6f70267e1e025dd1d3d79d1d6235632aec2df81060d9d61d53a76159de03"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/sounds/node_sounds.json"
-hash = "db4ee73cf457c8809c7a9289b5defd7cdfdcff2bdf1a52431cf05e76fe5d91e2"
+hash = "baf4838fc90c92be5d3e4ca64b6023fe423c9ff31119cbea189f8907534d2385"
 
 [[files]]
 file = "kubejs/data/kobolds/worldgen/structure/kobold_den.json"
@@ -3466,6 +3470,10 @@ file = "kubejs/data/kubejs/recipe/cutting/star_processing_wicked.json"
 hash = "0dbdf93d62ee4ea28c1374b3288e01ce6f9b24c52f33c6a1ebac1e28611a0a6a"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/cutting/star_salvage.json"
+hash = "4add78631c7d28320200289d59274a81170870d03d93529bba1c5f392d4a6542"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/distillation/slag_3.json"
 hash = "17f9afe23876b38ba32da98c4514333ba83d89f14cc3114bfa981f71a983faba"
 
@@ -3480,6 +3488,22 @@ hash = "b98b41b983b131dab1ccdfa53f6645586b036af9f14335a2aa35010d83c380eb"
 [[files]]
 file = "kubejs/data/kubejs/recipe/distillation/slag_6.json"
 hash = "0aad50924e68a11566511416ae7c5a3050fe1f17b529eedd07fed72b658f36f8"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/guns/echoes_2_from_gun_bench.json"
+hash = "369d234ab28c343a855c581efebe62abaabd5dd6b2bdd841789858f360d7b9fa"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/guns/forlorn_hope_from_gun_bench.json"
+hash = "c14be0a94d6d553c59c8c417ea09c8394801a7b9436efd6b66070383afb3211b"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/guns/sculk_resonator_from_gun_bench.json"
+hash = "bba0604fee04b6c41d3c98cccdaea2f93b91b0d2a76b02433267e8beeb1219b9"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/guns/whispers_from_gun_bench.json"
+hash = "593645561b48494e935460cc77850f35d1f62113542d01f9c671596f20c23858"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/item_application/jarred_loader.json"
@@ -3590,6 +3614,10 @@ file = "kubejs/data/kubejs/recipe/spirit_infusion/crystal_resonator.json"
 hash = "9ce4668cf0dcf2c51ae75f9af4a315a101ff2c9b03a8c7871379c5973776f1e2"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/spirit_infusion/diamond_steel_ingot.json"
+hash = "b0de097e0b8afeeb25e8a28b9b80f7f38fbdeed05a034a71b67f3f92aa51d5ff"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/echo_shard.json"
 hash = "db4d1f02667fa4b3ad90251eb1a4a9050f10b3c1c28e47f6955e718fbdddeaee"
 
@@ -3606,6 +3634,10 @@ file = "kubejs/data/kubejs/recipe/spirit_infusion/hollow_cassette.json"
 hash = "0b54f00dff7f21c8e500de73df8e8691dcf4abae6dc492074d0929521a61671e"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/spirit_infusion/peal.json"
+hash = "e1c9af040ba4f5513d73e6d3797b45d36f3ef6a46d7919046026822b1346a4a7"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/potato.json"
 hash = "5e0d983a7982d7735038d87f37318cafc89d3d1d98ff96bcd15c46a7ba7d665f"
 
@@ -3618,12 +3650,20 @@ file = "kubejs/data/kubejs/recipe/spirit_infusion/rotten_apple.json"
 hash = "c9757fc76ffd645ec2d8eee49059017d8e46664de79fb8c30d657530cf83fac4"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/spirit_infusion/sheol.json"
+hash = "488a9ea4c92e71d17d38bfe3a70f25c124adc58fb9dca5556c1228bcf9357629"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/soul_bead.json.disable"
 hash = "09a0254007978da2ad47df8d3309132ce89519e63e838e0f2834126f623abcf1"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/spirit_infusion/treated_brass.json"
+hash = "a02650213d747e4d0c18883b15f9fe7e47830d80bc5ab82c4cd0ad83178a4524"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/treated_iron_ingot.json"
-hash = "2de69f8b8cc689f24807e175c87c7dc5c6969984a5c9345d04dfccb7da3b2897"
+hash = "78c8b84314142f6eda08c2ff4afc5f4cc386c10350320e406020302068b50999"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/well_map.json.disable"
@@ -5190,6 +5230,11 @@ hash = "6a67695a7cc10d0782d5f0e1dfdd685565a4c4674d18b045d859775afb21c12d"
 metafile = true
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "0e8db7d9b8b1dedff248add83d04baebacc548f28ff73f20abdf22fe149b705f"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "6d49e453fead55672e5acdbcdf2627f226f08500f86360f15084f287ff8184a5"
 metafile = true
@@ -5237,11 +5282,6 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "4d2ae3e82147d6ff25080403326583b6b8927b1c40f2a4ae1e3e522baea8cc15"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "ef2323b87d1ba4d03d0ee1ab800d06ba6490f45a1b84ecd341f9e3b5bc5e16bf"
 metafile = true
 
 [[files]]
@@ -5357,6 +5397,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "59e478dd1f9216a49230c6a6bda1e297f7baf5afd237e7713118cc649bafc3a4"
+metafile = true
+
+[[files]]
+file = "mods/create-rail-grinding.pw.toml"
+hash = "779eef133dc02964a85a131a028fa1d8df7fd1b222a4c6556264bd2c3cbaaa2f"
 metafile = true
 
 [[files]]
@@ -5707,6 +5752,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b41efb92643d36e699839efd61802a027bdefebd75f4e5e862b8f22693c9d7b8"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "bcb9234f506d0199644c156cb5fdb43645bec6f3f93570799a1068f2985a16fc"
 metafile = true
 
 [[files]]

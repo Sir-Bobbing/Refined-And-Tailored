@@ -26,7 +26,6 @@
 - [Caelum](https://modrinth.com/mod/Xkw3TXqP) by Sophka
 - [Chalk](https://modrinth.com/mod/YWGP4Y1d) by mortuusars
 - [Chunk Loaders](https://modrinth.com/mod/t1VgucWo) by SuperMartijn642
-- [Chunky](https://modrinth.com/mod/fALzjamp) by pop4959
 - [Cirrus](https://modrinth.com/mod/SJDzFJH7) by jvn
 - [ClientSort](https://modrinth.com/mod/K0AkAin6) by NotRyken
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
@@ -48,6 +47,7 @@
 - [Create: Connected](https://modrinth.com/mod/Vg5TIO6d) by Lysine
 - [Create: Copycats\+](https://modrinth.com/mod/UT2M39wf) by Lysine, Bennyboy1695, Redcat\_XVIII
 - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) by patryk3211, Da\-Negy, rvndm, casvara
+- [Create: Rail Grinding](https://modrinth.com/mod/ix2S0LbR) by Juni Knytt
 - [Create: Redstone Link GUI](https://modrinth.com/mod/GhtD1QcW) by ggrgg
 - [Create: The Factory Must Grow](https://modrinth.com/mod/hC1xYvnS) by DrMangoTea, Pepa, Luna
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD
@@ -76,7 +76,7 @@
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
 - [Envelope](https://modrinth.com/mod/bINSbhYK) by mortuusars, ceit\.wonders
 - [Etched](https://modrinth.com/mod/zi3Fnfmc) by Ocelot, Jackson, Farcr \(Art\), AstraZoey \(Sound Design\)
-- [Every Compat](https://modrinth.com/mod/eiktJyw1) by MehVahdJukaar, Xel'Bayria, WenXin2
+- [Every Compat](https://modrinth.com/mod/eiktJyw1) by Xel'Bayria, MehVahdJukaar, WenXin2
 - [Exposure](https://modrinth.com/mod/hB899VmG) by mortuusars
 - [FancyMenu](https://modrinth.com/mod/Wq5SjeWM) by Keksuccino
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) by vectorwing
