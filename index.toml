@@ -562,7 +562,7 @@ hash = "eaf6f5b656a10f15f4071658b63b651c6f07e2210dcaca3a6d42bb74ec81ff50"
 
 [[files]]
 file = "kubejs/assets/corpse/textures/gui/gui_corpse.png"
-hash = "b39efc024dc91c70d537fb0d928b33b01969b7d02810db6b4b6e21d7c386e49e"
+hash = "0147d5296243eb55c3e44ab0f539fc3a170cd6d33b85370a8c8bef51e534707d"
 
 [[files]]
 file = "kubejs/assets/corpse/textures/gui/gui_death_history.png"
@@ -570,7 +570,7 @@ hash = "64c119fe8553619bc15896d9500087c5a84c7ea6230646219308e5afa939ec7c"
 
 [[files]]
 file = "kubejs/assets/corpse/textures/gui/inventory_corpse.png"
-hash = "8874f1f327f6d46e088240ba467047c117b9524e9db69d1d6b2a0607fbb0bb4c"
+hash = "db39d73468802a09e13adc018dd74e5d16c8728fc3711dbb95ece5d2aa840291"
 
 [[files]]
 file = "kubejs/assets/cosmeticarmorreworkedforked/textures/gui/cosarmorinventory.png"
@@ -1127,6 +1127,34 @@ hash = "8627ebcefede566ad9fb6121c8c9684583c2dc2628ccf46d536c5b6fdd78e8e6"
 [[files]]
 file = "kubejs/assets/emi/recipe/filters/sluice_filter.json"
 hash = "5426e254fdf5962087bf50bd2b983257325f5bf619ddb5eedb6d08a6d83ecf9e"
+
+[[files]]
+file = "kubejs/assets/emi/textures/gui/background.png"
+hash = "6a067d5ec601bfcf6745058d486b5fbf8e6be8867f13bfe9ad3350fa270bf2a3"
+
+[[files]]
+file = "kubejs/assets/emi/textures/gui/buttons.png"
+hash = "034528b60f0ca28cf0e34ca12cf636e2ff85a4fd9243ae137e1e13cd71fc35b4"
+
+[[files]]
+file = "kubejs/assets/exposure/textures/gui/album.png"
+hash = "8a62f74284b485679b68b0270cd22994347dfae26f92cade7e03e4eb9ae76333"
+
+[[files]]
+file = "kubejs/assets/exposure/textures/gui/camera_attachments.png"
+hash = "7dba6ce9921ba37eccbc9fea215d9679a6f86af56ee7e299986329b6ce6c5e20"
+
+[[files]]
+file = "kubejs/assets/exposure/textures/gui/film_frame_inspect.png"
+hash = "8a764c8389c79179cdbf0303359ae6217985e0a229236c3f239e9cf2de964378"
+
+[[files]]
+file = "kubejs/assets/exposure/textures/gui/item_list.png"
+hash = "de7865b5d60d38b954d8818789e186dc0b2c9c839e319f3e028cd15fff75afcb"
+
+[[files]]
+file = "kubejs/assets/exposure/textures/gui/item_rename.png"
+hash = "cd54347f0c51fa56f8adb03f98dc51a1c1f88c2f686a2decf1a05e21f671d959"
 
 [[files]]
 file = "kubejs/assets/gallery/textures/gui/painting_selector.png"
