@@ -13,7 +13,7 @@ function popCreature( level, entity, source, force ) {
 
     if (entity.isPlayer()) {
         let gameRules = level.server.getGameRules()
-        const keep = gameRules.get('keepInventory').get()
+        const keep = (gameRules.get('keepInventory').get() || force == true)
         console.log('Giggler keep',keep)
         if (!keep) {gameRules.set('keepInventory', 'true')}
         entity.damage(10000, new DamageSource['(net.minecraft.core.Holder,net.minecraft.world.entity.Entity)']('kubejs:giggler', source))
@@ -36,11 +36,12 @@ lib.setFunc('popCreature', popCreature)
 NativeEvents.onEvent($AnvilUpdateEvent, event => {
 
     if (event.getLeft().id != "kubejs:giggler") {return}
-    if (event.player.level.isClientSide()) {return}
     let name = event.getName()
     name = name + "" // String is actually a java.lang.String not a JavaScript string, this fixes it
 
     if (name.match(RegExp('(v|V).*(e|E|3).*(r|R).*(i|I|1).*(t|T).*(y|Y)','gm')) == null) {return}
+
+    if (event.player.level.isClientSide()) {return}
 
     popCreature(event.player.level, event.player, event.player, true)
 })
