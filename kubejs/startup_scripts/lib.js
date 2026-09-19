@@ -4,7 +4,7 @@ global.lib = {}
 var lib = global.lib
 
 // Enabling this will make certain scripts generate new assets/data files dynamically
-lib.dataGeneration = true
+lib.dataGeneration = false
 if (lib.dataGeneration) {
     console.warn('KubeJS data generation is enabled. Only needs to be turned on when making modifications!')
 }
