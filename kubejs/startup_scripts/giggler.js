@@ -1,6 +1,6 @@
 StartupEvents.registry('item', event => {
 
-    const enabled = false
+    const enabled = true
     const range = 8
 
     function getRandomNearbyCreature( level, pos, user ) {
@@ -9,36 +9,6 @@ StartupEvents.registry('item', event => {
         })
         let random = Math.floor(Math.random()*ents.length)
         return ents[random]
-    }
-
-    function popCreature( level, entity, source ) {
-        for (let i = 0; i < 3; i++) {
-            level[lib.sound](null, entity.blockPosition(), "supplementaries:item.confetti_popper", "master", 1, 1 )
-        }
-        level[lib.sound](null, entity.blockPosition(), "minecraft:entity.firework_rocket.twinkle", "master", 1, 1 )
-
-        let centerY = entity.y + entity.bbHeight / 2
-        
-        lib.runServerCommand(level,`particle supplementaries:streamer ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 125 force`)
-        lib.runServerCommand(level,`particle supplementaries:confetti ${entity.x} ${centerY} ${entity.z} 0.1 0.1 0.1 0.3 400 force`)
-        lib.runServerCommand(level,`particle minecraft:flash ${entity.x} ${centerY} ${entity.z} 0 0 0 0 2 force`)
-        lib.runServerCommand(level,`particle minecraft:end_rod ${entity.x} ${centerY} ${entity.z} 0.25 0.25 0.25 0.25 50 force`)
-
-        if (entity.isPlayer()) {
-            let gameRules = level.server.getGameRules()
-            const keep = gameRules.get('keepInventory').get()
-            console.log('Giggler keep',keep)
-            if (!keep) {gameRules.set('keepInventory', 'true')}
-            entity.damage(10000, new DamageSource['(net.minecraft.core.Holder,net.minecraft.world.entity.Entity)']('kubejs:giggler', source))
-            entity.setPos(entity.x, entity.y - 6, entity.z)
-            if (!keep) {gameRules.set('keepInventory', 'false')}
-        }
-        else {
-            entity.setPos(entity.x, -1024, entity.z)
-            entity.damage(10000, new DamageSource['(net.minecraft.core.Holder,net.minecraft.world.entity.Entity)']('kubejs:giggler', source))
-        }
-
-        level.explode(null, entity.x, centerY, entity.z, 1, "mob")
     }
 
     let itemBuilder = event.create('giggler')
@@ -63,7 +33,7 @@ StartupEvents.registry('item', event => {
                 if (nearbyEntity == null) {nearbyEntity = entity}
                 if (nearbyEntity != null) {
                     entity.addItemCooldown("kubejs:giggler", (nearbyEntity == entity ?  20 : 3) * 20)
-                    popCreature( level, nearbyEntity, entity )
+                    lib.getFunc('popCreature')(level, nearbyEntity, entity)
                     itemstack.shrink(1)
                 } 
             }

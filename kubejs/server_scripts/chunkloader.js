@@ -1,6 +1,3 @@
-const $SableCompanion = Java.loadClass('dev.ryanhcode.sable.companion.SableCompanion')
-const $UUID = Java.loadClass('java.util.UUID')
-
 function getSublevelUUID(level, pos) {
     let sublevel = $SableCompanion.INSTANCE.getContaining(level, pos.x, pos.z)
     if (sublevel == null) {

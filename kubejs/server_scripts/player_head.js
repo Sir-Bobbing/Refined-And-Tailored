@@ -1,5 +1,3 @@
-const $AnvilUpdateEvent = Java.loadClass("net.neoforged.neoforge.event.AnvilUpdateEvent");
-
 NativeEvents.onEvent($AnvilUpdateEvent, event => {
     if (event.getLeft().id != "minecraft:player_head") {return}
 
