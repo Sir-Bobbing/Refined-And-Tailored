@@ -35,6 +35,7 @@ ServerEvents.recipes(event => {
         "minecraft:cow":{"item": 'minecraft:beef'},
         "minecraft:mooshroom":{"item": 'minecraft:beef'},
         "minecraft:horse":{"item": 'nomansland:raw_horse'},
+        "minecraft:llama":{"item": 'minecraft:leather'},
         "minecraft:pig":{"item": 'minecraft:porkchop'},
         "minecraft:sheep":{"item": 'minecraft:mutton'},
         "minecraft:goat":{"item": 'minecraft:mutton'},
