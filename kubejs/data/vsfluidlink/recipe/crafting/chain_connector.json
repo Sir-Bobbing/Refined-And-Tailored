@@ -6,7 +6,7 @@
       "item": "create:brass_casing"
     },
     {
-      "item": "create:chain_conveyor"
+      "item": "create:encased_chain_drive"
     }
   ],
   "result": {
