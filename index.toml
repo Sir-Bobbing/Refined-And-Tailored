@@ -5034,6 +5034,38 @@ file = "kubejs/data/vista/recipe/television.json"
 hash = "1ba8d4ec7b26b83912a823e602839d76a30c2b483cc37d3c625714c622d0898b"
 
 [[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/chain_connector.json"
+hash = "4d3cdd348b0c28d622cb49da6800acc55780dcc10c3253ca7792f01400b80482"
+
+[[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/electric_magnet_wire_connector.json"
+hash = "8c0f2bd49a7bc3b919a5cc8cc8d7343843a44d859ebebdeec6b7a737f2c269e4"
+
+[[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/electric_wire_connector.json"
+hash = "b1dd3429d3ed0456706cc93bf2d003e7dc3cf788dae4940314e22a3dff54ee13"
+
+[[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/hose_connector.json"
+hash = "67b5994d4284174ba44cbe21c4d63889a55d97e0ae8814035498c9e49b611eed"
+
+[[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/item_hose_connector.json"
+hash = "ffcabaae8a10a79a1d43d631fb6abe0b8a9cfe9cbf9c3614fe7a538dde0e63dc"
+
+[[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/item_magnet_hose_connector.json"
+hash = "de87c16ea3d90eab88cf9bbe93fc5ce46a0e174e8a169a4fe3b039708434e9be"
+
+[[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/magnet_chain_connector.json"
+hash = "c20afbb5db9ec511bdeb6be7a55359cdd22b6c39977326313c95a02b8af69210"
+
+[[files]]
+file = "kubejs/data/vsfluidlink/recipe/crafting/magnet_hose_connector.json"
+hash = "417b655071f069e3610cbf939def7cb536322fba62965deea6f6e490d709b501"
+
+[[files]]
 file = "kubejs/immersive_enchanting_datagen.py"
 hash = "316e20798042f27030da6b0163daf1fa5ca983b82db02661568ed3c06769b814"
 
