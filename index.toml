@@ -350,7 +350,7 @@ hash = "286e037e5981bc49694267e72c5cb7b7a117e7809c8d31c1dee59c414504e324"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "22cbbe65900cab55181b34fd97d5204d99ff5a6010b9644ba0eb95ee9f3bf77e"
+hash = "a8d76663d3376a4a133a273c9318f6a5dcbb30715b85a23212130916bdb7355b"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1419,6 +1419,30 @@ hash = "732d174c31b37f2f9303f1c24ae3d08e364f63847c531ea0905687f965a0fee1"
 [[files]]
 file = "kubejs/assets/malum/textures/block/ores/deepslate_soulstone_ore.png"
 hash = "ecd2b2cae57c5e34a532751d50c586491826a992af9eb2ac446504b966a29040"
+
+[[files]]
+file = "kubejs/assets/mannequins/textures/gui/container/mannequin.png"
+hash = "b37bc310741e32eb262684415cc07fc8f7af103ad9fef45840fdd7b01d5199a6"
+
+[[files]]
+file = "kubejs/assets/mannequins/textures/gui/container/statue.png"
+hash = "dff776ceac6bf9ee20106a3ff092be232710eb2179e4d21195363954379e2eb1"
+
+[[files]]
+file = "kubejs/assets/mannequins/textures/gui/sprites/container/editor/randomize.png"
+hash = "aecb9298326d85d86728f407b522420d4117ae24756377cbd72891d434c64435"
+
+[[files]]
+file = "kubejs/assets/mannequins/textures/gui/sprites/container/editor/reset.png"
+hash = "50ba6f32fc78638b5425251764f33af9dc386505d8202f1d0cc4b4c296f0ab44"
+
+[[files]]
+file = "kubejs/assets/mannequins/textures/gui/sprites/widget/scrollbar.png"
+hash = "54117800a74d5213314460ca4c148b5521bc7301b1b3fee95f379ca0892b465b"
+
+[[files]]
+file = "kubejs/assets/mannequins/textures/gui/sprites/widget/scrollbar_disabled.png"
+hash = "201aaacee3d5c62e8bba668efddb445321a172ffeb779b94286629a217a505ba"
 
 [[files]]
 file = "kubejs/assets/minecraft/sounds.json"
