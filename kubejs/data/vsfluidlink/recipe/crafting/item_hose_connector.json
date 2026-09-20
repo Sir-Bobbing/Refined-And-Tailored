@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "create:portable_storage_interface"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "vsfluidlink:item_hose_connector"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "vsfluidlink:hose_connector"
+    },
+    {
+      "item": "simulated:redstone_magnet"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "vsfluidlink:magnet_hose_connector"
+  }
+}

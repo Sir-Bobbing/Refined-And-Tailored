@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "create:chain_conveyor"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "vsfluidlink:chain_connector"
+  }
+}

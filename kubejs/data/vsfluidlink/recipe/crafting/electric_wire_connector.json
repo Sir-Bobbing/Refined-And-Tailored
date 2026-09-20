@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "powergrid:device_connector"
+    },
+    {
+      "item": "powergrid:copper_coil"
+    },
+    {
+      "item": "powergrid:copper_coil"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "vsfluidlink:electric_wire_connector"
+  }
+}
