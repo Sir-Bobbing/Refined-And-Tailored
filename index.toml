@@ -342,7 +342,7 @@ hash = "607a7f9015802b3443d50c161f10dca0b2660791642b8f1e11896493f04d97c5"
 
 [[files]]
 file = "config/reliable_advancements_edits/tabs.json"
-hash = "f34b5a31070af0f6c32f98450b28a30ff836cfeee1c422063c7061fb2335b884"
+hash = "66b3436eb172b5d578d4fda0f661b70a5540f53853f642807e4bde4536cb5fc4"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
@@ -683,6 +683,10 @@ hash = "8e0457ff7cd866e55ddc8569ba219b12ae17c6c6cab4e8dd51a98f3737572b9e"
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/create/potato_recovery.json"
 hash = "f0f267c9bac29a4549cf9789f92c4e679d5caf497d2b0840e3d64529f04628be"
+
+[[files]]
+file = "kubejs/assets/emi/recipe/additions/enchantments/createrailgrinding/railgrind_enchantment.json"
+hash = "32738b23805c9e37a38ab33ae00e9104cce537e42c308bb770decc40ff02eb7c"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/farmersdelight/backstabbing.json"
@@ -1167,6 +1171,30 @@ hash = "85e1d141d80b6155f88c0f0f7ff77d7b5038a07fdb817a5919da583ac1a47617"
 [[files]]
 file = "kubejs/assets/handcrafted/lang/en_us.json"
 hash = "c055b10298d42f86453486a07f83c83f75346f578fd4c5140703d1a9399d968c"
+
+[[files]]
+file = "kubejs/assets/immersiveenchanting/textures/gui/container/enchanting_table.png"
+hash = "4baebb8364b943b7a2f0961c7769556a2c023df24e173901d90e467c1fd4a3ae"
+
+[[files]]
+file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/checkbox_off.png"
+hash = "d0ea533c20a12673cd9395a80622c833431b4dfe91ac21b15d05a615db14e724"
+
+[[files]]
+file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/checkbox_on.png"
+hash = "a697f7b57b159d3a2d2225b39ddcf768db6a7cf0288a7f02b6373bf2ae8d753e"
+
+[[files]]
+file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/scrollbar.png"
+hash = "bf5430df1cae967027ae813001c0bf2590a7f037bc738c19a8a878b50f17feab"
+
+[[files]]
+file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/scroller.png"
+hash = "98df25d8f601f02988dcc4b26247dfd481730ee0cc40d6d389c358e59758a2a7"
+
+[[files]]
+file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/search.png"
+hash = "47cdac3819e69e0a58eaff21ddefca67c9c36d8dd6e11a69f844a4fb4882b0cd"
 
 [[files]]
 file = "kubejs/assets/kubejs/blockstates/calcite_lapis_ore.json"
