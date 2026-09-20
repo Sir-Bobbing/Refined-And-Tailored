@@ -1,31 +1,31 @@
-filename = 'drivebysable-r1.6.0.jar'
+filename = 'drivebysable-r1.6.1.jar'
 name = 'Drive-By-Sable'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'r1.6.0'
+x-prismlauncher-version-number = 'r1.6.1'
 
 [download]
-hash = '1648652f54582d25cfab3e017317088bcdb1541d8f3a1f359994708f92fa5d91ba61a8ab43f75cc6f0b5b30564fc363ca2939b0f912dd092845803c21d5eb517'
+hash = '1dc7ed6d956cdb6fd066dc90cc6ae7df25d8b27c375c07068f2607c502563ca41e95769b2dddb4b126eaa622f8f0ab383f4ba030f48ce9c9ca09bfbd0b8603af'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/uLLzTI7M/drivebysable-r1.6.0.jar'
+url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/V9K79BOs/drivebysable-r1.6.1.jar'
 
 [update.modrinth]
 mod-id = 'rrNGnYXg'
-version = 'uLLzTI7M'
+version = 'V9K79BOs'
 
 [[x-prismlauncher-dependencies]]
 addonId = '5fUBLqeW'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'T9PomCSv'
-type = 'REQUIRED'
+addonId = 'xZJfGh82'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'E8eHF2Yl'
+addonId = 'P26k79kP'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -33,8 +33,12 @@ addonId = 'LNytGWDc'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'P26k79kP'
-type = 'OPTIONAL'
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'aJewFWOb'
@@ -45,17 +49,13 @@ addonId = 'H6bJ8Ju4'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'gu7yAYhd'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'hNGBYvQN'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'xZJfGh82'
+addonId = 'E8eHF2Yl'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gu7yAYhd'
 type = 'OPTIONAL'

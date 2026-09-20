@@ -1883,7 +1883,61 @@
     "exposure:adventure/exposure": {
       "title": "Exposure",
       "background": "minecraft:textures/block/smithing_table_top.png",
-      "index": 5
+      "index": 5,
+      "positions": {
+        "exposure:adventure/family_portrait": [
+          -18,
+          31
+        ],
+        "exposure:adventure/moment_in_time": [
+          18,
+          33
+        ],
+        "exposure:adventure/spooky_silly_skeletons": [
+          32,
+          -1
+        ],
+        "exposure:adventure/splitting_the_photon": [
+          -32,
+          67
+        ],
+        "exposure:adventure/complex_composite_compound": [
+          -69,
+          67
+        ],
+        "exposure:adventure/piercing_gaze": [
+          -29,
+          101
+        ],
+        "exposure:adventure/wildlife_archivist": [
+          18,
+          119
+        ],
+        "exposure:adventure/spotlight": [
+          34,
+          69
+        ],
+        "exposure:adventure/lights_up": [
+          69,
+          68
+        ],
+        "exposure:adventure/exposed_paparazzi": [
+          96,
+          45
+        ],
+        "exposure:adventure/unforeseen_consequences": [
+          119,
+          17
+        ],
+        "exposure:adventure/photos_of_spider_man": [
+          149,
+          -11
+        ],
+        "exposure:adventure/void": [
+          86,
+          106
+        ]
+      }
     }
   },
   "deleted_advancements": {},

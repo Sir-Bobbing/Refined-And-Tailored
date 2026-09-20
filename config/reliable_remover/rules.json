@@ -20,7 +20,7 @@
 {
 "action": "remove",
 "items":
-["armourers_workshop:skin-unlock-chest", "armourers_workshop:skin-unlock-feet", "armourers_workshop:skin-unlock-legs", "armourers_workshop:skin-unlock-wings", "armourers_workshop:skin-unlock-outfit", "armourers_workshop:gift-sack","armourers_workshop:skin-unlock-head", "armourers_workshop:armourers-hammer", "armourers_workshop:outfit-maker", "armourers_workshop:skin-library-creative"]
+["armourers_workshop:armourers-hammer", "armourers_workshop:skin-unlock-head", "armourers_workshop:skin-unlock-chest", "armourers_workshop:skin-unlock-legs", "armourers_workshop:skin-unlock-feet", "armourers_workshop:skin-unlock-wings", "armourers_workshop:skin-unlock-outfit", "armourers_workshop:gift-sack"]
 }
 // TFMG
 {

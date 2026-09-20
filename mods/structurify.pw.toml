@@ -1,5 +1,5 @@
 filename = 'structurify-neoforge-2.0.37+mc1.21.1.jar'
-name = 'Structurify'
+name = 'Structurify - Structure Control'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
