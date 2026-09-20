@@ -1166,7 +1166,7 @@ hash = "5f3b1e95b5769a0bc2ae3fa60ce32e45bf7ea9339d5193ecea4977239b43ac38"
 
 [[files]]
 file = "kubejs/assets/guide.zip"
-hash = "85e1d141d80b6155f88c0f0f7ff77d7b5038a07fdb817a5919da583ac1a47617"
+hash = "d5585f449a7e8524457da0221508755ed14faf673bcf9791f43e5aa2b710ff4e"
 
 [[files]]
 file = "kubejs/assets/handcrafted/lang/en_us.json"
@@ -5131,7 +5131,7 @@ hash = "a84769bcc3b62ebcec9f768da77063740ba49da104b0532670e64eec8734c244"
 
 [[files]]
 file = "kubejs/server_scripts/creature_conjuration.js"
-hash = "144caed807c93d7546e714eb90e74f50a04faab2ce775edad9e65ebe79e69518"
+hash = "049a363b76864c9ae23be69393babcd6c939b0d17a4b4a15ff4f9bf618d4235d"
 
 [[files]]
 file = "kubejs/server_scripts/emi.js"
