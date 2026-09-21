@@ -9,3 +9,6 @@
 - Enchantment balancing 
 ### 55
 - Modpack Icon/Logo
+
+[Deeper Oceans
+]([url](https://modrinth.com/datapack/deeper-oceans)) (I had to integrate it directly due to lithostitched changes
