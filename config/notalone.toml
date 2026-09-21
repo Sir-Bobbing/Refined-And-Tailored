@@ -1,0 +1,47 @@
+# NotAlone config.
+# Everything here is server-side. On a multiplayer server only the server's copy
+# matters, though the mod still has to be installed on both sides.
+# Delete this file to reset it.
+
+[general]
+
+# How long a player stays marked before a new one is picked, in seconds.
+# Default 1200 (20 min).
+marked_player_duration_seconds = 1200
+
+[herobrine]
+
+# Shows up in the distance and follows the marked player. Look at him and he's gone.
+enabled = true
+
+# One-in-N per tick, 20 ticks a second. Bigger means rarer, 0 is off.
+# Default 2000.
+rarity = 4000
+
+# How far away he can show up, in blocks. Defaults 48 and 96.
+min_distance = 48
+max_distance = 96
+
+# Same in forests, where trees get in the way. Defaults 24 and 96.
+min_distance_forest = 24
+max_distance_forest = 96
+
+[footsteps]
+
+# Footsteps behind the marked player. Uses the sound of whatever block they cross.
+enabled = true
+
+# One-in-N per tick. Bigger means rarer, 0 is off. Default 4000.
+rarity = 8000
+
+[animal_possession]
+
+# A sheep, pig or cow nearby gets white eyes and stares at the marked player.
+# Looking at it puts it back to normal.
+enabled = false
+
+# One-in-N per tick. Bigger means rarer, 0 is off. Default 2000.
+rarity = 2000
+
+# How long it stays possessed if nobody looks, in seconds. Default 180 (3 min).
+duration_seconds = 180
