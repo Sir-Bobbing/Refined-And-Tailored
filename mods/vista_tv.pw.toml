@@ -1,31 +1,31 @@
-filename = 'vista-1.21.1-5.5.5-neoforge.jar'
-name = 'vista'
+filename = 'vista-1.21.1-5.5.6-neoforge.jar'
+name = 'Vista'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-5.5.5'
+x-prismlauncher-version-number = '1.21.1-5.5.6'
 
 [download]
-hash = '9416328f1550b8d1d4621379375f3ad01379aca1ba4d42bf1f16e15d04cadae72e55f32782d1319d98a1b507b93108e0089a7796fe63921ad0e470e4471ba86e'
+hash = 'd660829996ddfb7e0d66ca8096d5e1552f07966b8576e21ad4737dfa3cbe38472cdc83f40015fa744b59968725d18917b601af541c113cda2c9e864f91551f02'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/zuARv1N7/versions/M1F8Vuva/vista-1.21.1-5.5.5-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/zuARv1N7/versions/PjmUcPQW/vista-1.21.1-5.5.6-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'zuARv1N7'
-version = 'M1F8Vuva'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'YL57xq9U'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'jVZ0F1wn'
-type = 'OPTIONAL'
+version = 'PjmUcPQW'
 
 [[x-prismlauncher-dependencies]]
 addonId = '3KUWeVhG'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uCdwusMi'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AANobbMI'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -33,11 +33,7 @@ addonId = 'hB899VmG'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'G922NeHS'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'NNAgCjsB'
+addonId = 'YL57xq9U'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -45,15 +41,31 @@ addonId = 'sk9rgfiA'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'oiuNWinn'
+addonId = 'twkfQtEc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gu7yAYhd'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '4das1Fjq'
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jVZ0F1wn'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'LtZfKhel'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'GchcoXML'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -65,29 +77,17 @@ addonId = 'U6GY0xp0'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'AANobbMI'
+addonId = 'oiuNWinn'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
+addonId = '4das1Fjq'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'gu7yAYhd'
+addonId = 'G922NeHS'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'uCdwusMi'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'twkfQtEc'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'GchcoXML'
+addonId = 'NNAgCjsB'
 type = 'OPTIONAL'

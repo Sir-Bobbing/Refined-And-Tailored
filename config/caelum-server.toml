@@ -9,7 +9,11 @@
 	latitudeClamp = 90.0
 	#What should be affected by the camera latitude (the z coordinate)
 	#Allowed Values: NONE, ALL
-	latitude_effects = "ALL"
+	latitude_effects = "NONE"
+	#Multiplier to the planet diameter for the purposes of latitude calculation, without affecting the rest of mechanics and rendering.
+	# Default: 1.0
+	# Range: 1.0E-6 ~ 1.7976931348623157E308
+	planet_diameter_multiplier = 1.0
 
 [celestial]
 	#Whether eclipses should happen
