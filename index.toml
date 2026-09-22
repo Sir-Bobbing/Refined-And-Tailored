@@ -350,7 +350,7 @@ hash = "fd51e4f0ae8a9a96cdce3d4874f266f46b324134ef2d38cfa0cb02883a5c3dbf"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "286e037e5981bc49694267e72c5cb7b7a117e7809c8d31c1dee59c414504e324"
+hash = "57731f4c0e0077a3bd096ee0e15545a216a4c260d5fe9f97a16895f9fd8d499f"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
@@ -422,7 +422,7 @@ hash = "da696e285864151d715a92b8567194ba059997dde01a40ab36a67785046c5891"
 
 [[files]]
 file = "config/toms_storage-server.toml"
-hash = "5559a84df24d3e7cccb0019369ee63b3918deb5a5014f4f6f931e2251e9d239e"
+hash = "3906891bc3b1625282a7c697e0445ccad27c803e7065611e2356301966dc7a59"
 
 [[files]]
 file = "config/tradingpost-server.toml"
@@ -1013,6 +1013,10 @@ file = "kubejs/assets/emi/recipe/additions/player_head_info.json"
 hash = "fa8609682f88a36f9c1ef68774e2cf7890d1c5e890ecb01652b40a0e5a5fea26"
 
 [[files]]
+file = "kubejs/assets/emi/recipe/additions/polar_generator.json"
+hash = "9ec8e5225fb3e4b8e195aa12d459f51e12e3e26b37e5c15c1af6f0167e5d69d4"
+
+[[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/crude_oil/passive.json"
 hash = "576203450ff61c3275f377b7d602ac1bd0ad838f2c0cbcdd39f898194276e219"
 
@@ -1254,7 +1258,7 @@ hash = "1276bd1fd7360de8527a093383fd0d7517e528c7775d4714b9936d59d5632d39"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "efd4ad14a5063cd8326da822bab454362913b7934c0eca0ed4ff2a1c81a7657e"
+hash = "8678f35bd45c6cc811998d78da581696e1d2d542c7b671dec74e995feba8a960"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/calcite_lapis_ore.json"
@@ -2574,6 +2578,30 @@ file = "kubejs/data/create/advancement/train_portal.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
+file = "kubejs/data/create/recipe/crushing/asurine_recycling.json"
+hash = "7631e3191b8470892541ed7e7e677a657576acc74658c58178c4b6d80c8c20a2"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/crimsite_recycling.json"
+hash = "2dfd424399df9cf3a84fa84991e20a35eef67c93a83f7a286f5995be3077cb4e"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/galena.json"
+hash = "356a761814e018dda86e9710da9511b8b5a2af137bbb6dbde72b82936aa6ce1d"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/lignite.json"
+hash = "fd5705f651316c97adf5bf38792488c1902c26f86b89813824fb628b00ae3fe4"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/ochrum_recycling.json"
+hash = "f1b7965c4fbb5b398b6a79ad3ec36bc54a7823e707b6dd1585d896ef2ccd9134"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/veridium_recycling.json"
+hash = "19d982b8e79b0f9094eb1be65daf007d25a8a76cfc9eb11b7410dcde3b7f2a92"
+
+[[files]]
 file = "kubejs/data/create/recipe/milling/bone_meal.json"
 hash = "67c9c5485fb1bca8005a97bf93baa462361c0ab0537ff8bde53672ca9320665d"
 
@@ -3538,6 +3566,10 @@ file = "kubejs/data/kubejs/recipe/crafting/target_tracker_module.json"
 hash = "7dbe2b5dafae134eed5734d5cb8b7ace5a4224b3a5fbee48866a881f1cf3342c"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crafting/twisted_rock.json"
+hash = "cf565b197249fbd412f9d6c1b4bcb935f68fc35520eb0bc59263e95d00b4b6c5"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crushing/crush_rock_salt.json"
 hash = "bc44a56d390ae7f6a3d6abc30af89057aed4db0d4a2a01e7b05a0c3abba139f6"
 
@@ -3555,19 +3587,19 @@ hash = "4add78631c7d28320200289d59274a81170870d03d93529bba1c5f392d4a6542"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/distillation/slag_3.json"
-hash = "17f9afe23876b38ba32da98c4514333ba83d89f14cc3114bfa981f71a983faba"
+hash = "56b4b3659ee0b505b89219415e6ec6b8ddf1ae4b40f0af68055cc7a98d80a2b6"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/distillation/slag_4.json"
-hash = "29302914ed2846c427b59bca7746eeaeeb762c9f41851c150dee3f2046ce831d"
+hash = "9508032dc056d683560111e3a1d7b038370dc6631e5f8481067c1a07c1cc024f"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/distillation/slag_5.json"
-hash = "b98b41b983b131dab1ccdfa53f6645586b036af9f14335a2aa35010d83c380eb"
+hash = "37e748230da38ca15667bc5f188f787fd984315329a91fbcddef935a09436478"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/distillation/slag_6.json"
-hash = "0aad50924e68a11566511416ae7c5a3050fe1f17b529eedd07fed72b658f36f8"
+hash = "6086f8d111a2d9742c88926f486ed8fece93d4031df70b30257d510ba4c93706"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/guns/echoes_2_from_gun_bench.json"
@@ -3750,12 +3782,20 @@ file = "kubejs/data/kubejs/recipe/spirit_infusion/well_map.json.disable"
 hash = "5a504021d714aaaf819a9ad95fe367cbc94f79ce180cbc1d7a7709a2a9da3fac"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/spirit_repair/anthralite_restoration.json"
+hash = "6bec4ca593f1c4b7e46859897ea49f38e3f817a93b4b779384583fef96d30f21"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/spirit_repair/fractured_impetus_restoration.json"
 hash = "a071c3be4d60055b997131443ecbee2ecf95e0c2c5f40ac3a074215b94ece90b"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_repair/gun_restoration.json"
 hash = "908ca9b0f147ab941478a11acb25a576f58a0e2881c2cb3e6e6115ca0228c1c9"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/spirit_repair/kobold_iron_restoration.json"
+hash = "2fc87cf247bfab9e9306c8f4ddc12b9480941fe6592ab9c6f9c63e69699db4cd"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_repair/spellweave_restoration.json"
@@ -3819,7 +3859,7 @@ hash = "bbc63a89999f6dddc58d3a74420d88f2cf5c34a1a6823893e65f0125d2e18bcf"
 
 [[files]]
 file = "kubejs/data/kubejs/shape_map/add.json"
-hash = "1e4daaeedc011085d4bc30a67283cb1e8501af26c8f6cf24d03a8c880bf00d3a"
+hash = "b20680d7b762457db298aaed964dfae85d822f27162d8da4f1265ef7d62c67bb"
 
 [[files]]
 file = "kubejs/data/kubejs/shape_map/remove.json"
@@ -4987,7 +5027,7 @@ hash = "955f524bd8bf4f0f06fe8ae6267afc38b904dfc837acdad23699ec25023211a4"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/industrial_blasting/steel.json"
-hash = "969141b3e875fdbc0e5bf172dd19155634246b36848d0a3c9de905bb424eed41"
+hash = "733e1192e1e0dfb2fd52442299e66420f6cf8c2b178b1fb1231fe65c7753adcc"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/industrial_blasting/steel_from_dust.json"
@@ -5019,7 +5059,7 @@ hash = "76aa7c54e02ed258563f4b9d7a1bd11d6e1fc3f132496c2e5666f390500e96ca"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/arc_furnace_steel.json"
-hash = "4bbb943877258b41e43fc17f950e108dd5483c112787db17ec4c57dc83f29697"
+hash = "fa4097bd520084f5cdc33b9f0fcae1aba8c76e8a8d838734839114a1c5530f57"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/rubber.json"
@@ -5036,6 +5076,10 @@ hash = "f0b54c3549461dc24a4f98b5ed6d037e80e9a3e4e5495ae65d748daf8e0badf3"
 [[files]]
 file = "kubejs/data/tfmg/worldgen/placed_feature/oil_well.json"
 hash = "9b2c96ccd2a9e9ab0fa47e3602c321c60d2a7b3ff685a1bc98dc5c5ea0e5f41f"
+
+[[files]]
+file = "kubejs/data/toms_storage/recipe/adv_wireless_terminal.json"
+hash = "f5d82563da2e60fa922c7499a53b72490e81defd8033736e7ab7410b42c73ea5"
 
 [[files]]
 file = "kubejs/data/toms_storage/recipe/basic_inventory_hopper.json"
@@ -5103,7 +5147,7 @@ hash = "6219ab6f786d41b85e2f8e730e072bce66c1192c1f7b754bea680c7aaaad0bea"
 
 [[files]]
 file = "kubejs/data/toms_storage/recipe/wireless_terminal.json"
-hash = "81c18e32853854b6be0d8d4f489d99be73378bf3b223bac30efbcb69a8002168"
+hash = "8de6683b66aa286e7974b1d1f2777d04de30cc05c696c81c0be45927d2bd0ffd"
 
 [[files]]
 file = "kubejs/data/vista/recipe/television.json"
@@ -5175,7 +5219,7 @@ hash = "fe524c4c1a97d60574d1dc4beb9b4537102feed54231b971c88781b9060824fa"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
-hash = "254dbd976bf64927ef4c5da994b8c7cdae5bfcc40108e077db22711191e6c824"
+hash = "6c744af0cdff299cb1dbe4acf42f361077d8bebb0f51bb0730f9f7ae008eb0bf"
 
 [[files]]
 file = "kubejs/server_scripts/nephrite_condensation.js"
