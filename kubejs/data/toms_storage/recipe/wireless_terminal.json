@@ -10,10 +10,10 @@
       "item": "powergrid:electrical_gizmo"
     },
     "G": {
-      "tag": "c:glass_blocks/colorless"
+      "item": "minecraft:tinted_glass"
     },
     "P": {
-      "item": "tfmg:plastic_sheet"
+      "item": "architects_palette:moonshale"
     },
     "T": {
       "item": "create:transmitter"

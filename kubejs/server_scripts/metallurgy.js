@@ -63,7 +63,7 @@ function registerBlasting( event, metalInfo ) {
                 "id": getMoltenID(metalInfo)
             },
             {
-                "amount": 150,
+                "amount": 300,
                 "id": "tfmg:molten_slag"
             },
             {
@@ -106,7 +106,7 @@ function registerVatLow( event, metalInfo ) {
                 "id": getMoltenID(metalInfo)
             },
             {
-                "amount": 100,
+                "amount": 200,
                 "id": "tfmg:molten_slag"
             }
         ]
@@ -141,7 +141,7 @@ function registerVatHigh( event, metalInfo ) {
                 "id": getMoltenID(metalInfo)
             },
             {
-                "amount": 50,
+                "amount": 100,
                 "id": "tfmg:molten_slag"
             }
         ]

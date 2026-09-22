@@ -1,0 +1,20 @@
+{
+  "type": "malum:spirit_repair",
+  "regex": {
+    "itemIdRegex": "kobold_iron_.+"
+  },
+  "durabilityPercentage": 0.75,
+  "repairMaterial": {
+    "count": 3,
+    "tag": "c:nuggets/iron"
+  },
+  "spirits": [
+    {
+      "type": "malum:earthen",
+      "count": 4
+    }
+  ],
+  "validItems": [
+    "kobolds:kobold_iron_pickaxe"
+  ]
+}

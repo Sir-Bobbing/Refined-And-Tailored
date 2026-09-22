@@ -8,5 +8,6 @@
   "kubejs.info.tools_steel": "Diamond tier tool. Has stats between iron and diamond.",
   "kubejs.info.tools_aluminum": "Iron tier tool. Unbreakable but has stats between wood and stone plus a 40% mining speed penalty. Best used when enchanted. Useful for deployer automation.",
   "kubejs.info.player_head": "Can be used in a navigation table to track a player. Obtained by killing a player with heavy things. Can be renamed to a valid username in an anvil to change skin.",
+  "kubejs.info.polar_generator": "Burns combustible fuels to generate FE. Only stops burning when internal battery is completely full and current fuel is depleted.",
   "death.attack.giggler": "%1$s laughed too hard..."
 }

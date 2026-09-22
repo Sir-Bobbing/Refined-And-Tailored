@@ -25,9 +25,11 @@
         "create:creative_motor": [
             "gnkinetics:creative_gear_motor"
         ],
-
         "create:metal_girder": [
             "dndecor:diagonal_girder"
+        ],
+        "tfmg:fireproof_bricks": [
+            "tfmg:fireproof_brick_reinforcement"
         ],
         "dndecor:metal_support": [
             "dndecor:diagonal_metal_support"

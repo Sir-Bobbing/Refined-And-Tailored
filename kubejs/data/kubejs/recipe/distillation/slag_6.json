@@ -3,11 +3,15 @@
   "ingredients": [
     {
       "type": "neoforge:single",
-      "amount": 50,
+      "amount": 100,
       "fluid": "tfmg:molten_slag"
     }
   ],
   "results": [
+    {
+      "amount": 60,
+      "id": "minecraft:lava"
+    },
     {
       "amount": 9,
       "id": "kubejs:molten_lead"
