@@ -1178,7 +1178,7 @@ hash = "c055b10298d42f86453486a07f83c83f75346f578fd4c5140703d1a9399d968c"
 
 [[files]]
 file = "kubejs/assets/immersiveenchanting/textures/gui/container/enchanting_table.png"
-hash = "4baebb8364b943b7a2f0961c7769556a2c023df24e173901d90e467c1fd4a3ae"
+hash = "3ced015b8ed046e612e375ea838b40472d9db8b85ae204037c9e0befe1d89002"
 
 [[files]]
 file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/background_tile.png"
@@ -1190,23 +1190,23 @@ hash = "7284c52d4e271dd2ebce468e533e4a8437a6283f62befb647e193347adbcd88a"
 
 [[files]]
 file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/checkbox_off.png"
-hash = "d0ea533c20a12673cd9395a80622c833431b4dfe91ac21b15d05a615db14e724"
+hash = "a201e40749c23473fcf02b32bf9641f8bb3d42bed591a87b457d9ce633c729ee"
 
 [[files]]
 file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/checkbox_on.png"
-hash = "a697f7b57b159d3a2d2225b39ddcf768db6a7cf0288a7f02b6373bf2ae8d753e"
+hash = "57aeb7c77428443e1e3290e297bde20f7bbe69c784ede3f5da202f776f1b6892"
 
 [[files]]
 file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/scrollbar.png"
-hash = "bf5430df1cae967027ae813001c0bf2590a7f037bc738c19a8a878b50f17feab"
+hash = "555cd35466c2c292f0e369ce0f7a5edaa33c8d2b2745f6400321f21e8290f69e"
 
 [[files]]
 file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/scroller.png"
-hash = "98df25d8f601f02988dcc4b26247dfd481730ee0cc40d6d389c358e59758a2a7"
+hash = "dd8a9d06964d8123d97247ff0df81f1b49fb27c55603b989d19235b07812e31c"
 
 [[files]]
 file = "kubejs/assets/immersiveenchanting/textures/gui/sprites/booktab/search.png"
-hash = "47cdac3819e69e0a58eaff21ddefca67c9c36d8dd6e11a69f844a4fb4882b0cd"
+hash = "11e0d9be9552ee982b16531971d24d756717dc4f5ee1803a81d6887c88b4ed83"
 
 [[files]]
 file = "kubejs/assets/kubejs/blockstates/calcite_lapis_ore.json"
@@ -1521,6 +1521,10 @@ file = "kubejs/assets/minecraft/textures/entity/warden/warden_pulsating_spots_2.
 hash = "dcfcb495f428deb2c063a003e4117e9a76db7747c4bfe3b82ac56e74c013f319"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/container/anvil.png"
+hash = "1b11e0d4769901c7725ca57bcad6973ad1ffc0d85150812c0f3bf5b66e2f9fd5"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/crafting_table.png"
 hash = "960ac4accef9984204ead246b011cceba7a18b8de2520cdc87e9f043a24388ef"
 
@@ -1567,6 +1571,10 @@ hash = "c99eb89a3760cae67b0726ea3fd5bfb493042349a7f4edf471e3b99b1f742f0e"
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/container/stonecutter.png"
 hash = "2c81f354cf145f03ca1369438e722595548e50c0b7ece55c39e797f4594e11cd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/sprites/container/anvil/error.png"
+hash = "fbcd11e7018990f27c23b593b57de655ae7babb63cde6b728397027532f0f12e"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/scroller.png"
