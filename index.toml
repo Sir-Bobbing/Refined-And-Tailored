@@ -77,6 +77,10 @@ file = "config/caelum-client.toml"
 hash = "b0277f5a2ad11bafdf35806f17e25dc6073c3846c621bb4b0a6579e3f582829c"
 
 [[files]]
+file = "config/caelum-server.toml"
+hash = "78345453f75db012dd86651e10221a03c0d05e5c1739a92695ea9ecd5b8c1a20"
+
+[[files]]
 file = "config/cirrus-client.json"
 hash = "a8b9fd6dde0a02d8762b06e1881afeebd7044c6b7907f64989b87b2a0c6e5e39"
 
@@ -1170,7 +1174,7 @@ hash = "5f3b1e95b5769a0bc2ae3fa60ce32e45bf7ea9339d5193ecea4977239b43ac38"
 
 [[files]]
 file = "kubejs/assets/guide.zip"
-hash = "d5585f449a7e8524457da0221508755ed14faf673bcf9791f43e5aa2b710ff4e"
+hash = "423a905a296a6c7233d629ff70f7e05ee75eadfc3d80a90c2275989891fb21b4"
 
 [[files]]
 file = "kubejs/assets/handcrafted/lang/en_us.json"
@@ -5329,7 +5333,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "75dec16b9d33f8f9aa6d783dae505117690998aeb126a0ba742f13fd4f67d941"
+hash = "807e61c6b015a1fdce6225cccbd061aa88400ee841aa8cd17e288178f4ba7bcf"
 metafile = true
 
 [[files]]
@@ -5704,7 +5708,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "0222f767345e2f3624b01c700ff09386f602e5787ec05c0d4eb13939000f2ec4"
+hash = "3b3a7726f669e5cfe4f3981e7d51514cab392524922980b6a21d299aba4bba47"
 metafile = true
 
 [[files]]
@@ -6123,7 +6127,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "78cfe16b960167abe0d0231b8c4e86eb50eb5322af3b8d32fac174b7be47fd99"
+hash = "836f394490e554d6b05ea6775a4be878034c50408593f22abef17691778f7e9a"
 metafile = true
 
 [[files]]
