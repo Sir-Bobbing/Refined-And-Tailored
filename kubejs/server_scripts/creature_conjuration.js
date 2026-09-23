@@ -242,6 +242,7 @@ function positionString( entity ) {
 }
 
 EntityEvents.spawned(event => {
+    let gameEvent = "gameEvent(net.minecraft.world.entity.Entity,net.minecraft.core.Holder,net.minecraft.world.phys.Vec3)"
     let {level, entity} = event
     if (entity.isItem()) {
         let i = entity.getItem()
@@ -250,12 +251,13 @@ EntityEvents.spawned(event => {
         if (customData != null && customData.contains("creature_conjuration")) {
             let entityData = c.get("entity_data").copyTag()
             let cd = customData.copyTag()
-            console.log(cd.getByte("creature_conjuration"))
             if (cd.getByte("creature_conjuration") == 1) {
+                level[gameEvent](entity, "minecraft:entity_place", entity.position())
                 lib.runServerCommand(level,'summon '+entityData.getString("id")+' '+positionString(entity)+' '+entityData.toString())
                 event.cancel()
             }
             else {
+                level[gameEvent](entity, "minecraft:entity_place", entity.position())
                 lib.runServerCommand(level,'summon '+entityData.getString("id")+' '+positionString(entity))
                 event.cancel()
             }
