@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "5ea223f565109dc21497d798f687a6b640adeb9786a50ba41a934d80e932408d"
+hash = "48c4407cbf2af432a2da1d1932262592fdf29e19d793243e5cf10628deb8601b"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -75,10 +75,6 @@ hash = "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
 [[files]]
 file = "config/caelum-client.toml"
 hash = "b0277f5a2ad11bafdf35806f17e25dc6073c3846c621bb4b0a6579e3f582829c"
-
-[[files]]
-file = "config/caelum-server.toml"
-hash = "8bce43b566b9bd25d2552232d4a233e601362d71650d552dc207feef429ad709"
 
 [[files]]
 file = "config/cirrus-client.json"
@@ -5423,7 +5419,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelum.pw.toml"
-hash = "ec26be738c8758e16f450d3ed89ccab29f6ec4d78d6dd1ad1d468ec1e15256ae"
+hash = "44c1117d8fb326307407206ba8466c3a7c283c26fe06041187826128a2027e30"
 metafile = true
 
 [[files]]
@@ -5438,7 +5434,7 @@ metafile = true
 
 [[files]]
 file = "mods/cirrus.pw.toml"
-hash = "96466749f4543bfe3df41fe1f78dd2c8a37ea0698ac1a80e52ffaed1e9e2153f"
+hash = "9f89216468a796bf52939819b8aa707f7ee8f00e7b9a2672cae596069b8902d2"
 metafile = true
 
 [[files]]
@@ -5573,7 +5569,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "828a34063995bcecaa73c8eaccf7b720b0de576c6faf1a79a07df02a923af2a6"
+hash = "3bf5ccbfd8bba54853bd9839ae2ae21a1aea7b7843bf8587030e7556d55d215f"
 metafile = true
 
 [[files]]
@@ -5798,7 +5794,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "96d04b39c002de4c9d2bf980020a1cd1f05e3cfd7b7b2d5f74e9a09d073854be"
+hash = "0a6412d972bce3456b1caa25999acd24a91431d147282e81689474985fc56766"
 metafile = true
 
 [[files]]
@@ -6127,7 +6123,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "8a4801d619178c6d584d73e2b57cf6f76d5b6f8293b9040d993abeb44644ad49"
+hash = "78cfe16b960167abe0d0231b8c4e86eb50eb5322af3b8d32fac174b7be47fd99"
 metafile = true
 
 [[files]]

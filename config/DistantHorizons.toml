@@ -979,7 +979,7 @@ _version = 4
 				farFogFalloff = "EXPONENTIAL_SQUARED"
 				#
 				# Used in conjunction with the Fog Falloff.
-				farFogDensity = "4.0"
+				farFogDensity = "2.0"
 				#
 				# Where should the far fog end? 
 				# 
