@@ -1,6 +1,6 @@
 {
     "type": "neoforge:add_spawns",
-    "biomes": "#c:is_cave",
+    "biomes": "#kubejs:spawns_cave_endermen",
     "spawners": {
         "type": "endermanoverhaul:cave_enderman",
         "weight": 20,
