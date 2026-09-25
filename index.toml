@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "48c4407cbf2af432a2da1d1932262592fdf29e19d793243e5cf10628deb8601b"
+hash = "c0e3714356794fa98a9f43137868ae5b9209e99abc675f96d886d424d820d3fe"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -1506,7 +1506,7 @@ hash = "b9f16d449308c4590784b6db2a642df9931e31d55c2dda5ec4285a3ffbb02b87"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "d17ce717f04db2edf3095ad8985ecb6f8e391e31b8ba57edbbc3edaefed60460"
+hash = "10a9a64b415f383d0edd3165af9877e35bccea7a15c277c852ca0c5b7b4bd49b"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/entity/warden/warden.png"
@@ -2053,8 +2053,57 @@ file = "kubejs/assets/reliable_advancements/textures/gui/window.png"
 hash = "0e7cbe30777f2d328416544903d6a56bc81ea8d7812a203c70f5ac43ea13e848"
 
 [[files]]
+file = "kubejs/assets/sc2_snd_remix.pw.toml"
+hash = "85693c7e2ee58976b94699a297271bb3530f96bb6f23b6abdfe31800000d78da"
+metafile = true
+
+[[files]]
 file = "kubejs/assets/scguns/lang/en_us.json"
 hash = "a3a360379d84e4b8931d9b930bef95844b21c5a8730888e07220796cd362ab8b"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/airgun/fire.ogg"
+hash = "ee6701ec0f70a3fc472a9fc9c3e6ffc7524b332fe4d1ae50d7cc37e77467bf79"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/airgun/fire_2.ogg"
+hash = "bea9865e81d9d5fff6d20e88813e35084a874574e588e5b87af115521eed9404"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/flamethrower/fire.ogg"
+hash = "53c4fe2c17d1bd6c76b3f3b6d3be0fde94d6f048080d23b12abccd1d508dfe1a"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/flamethrower/fire_2.ogg"
+hash = "d0c649ff0323c3ef934cc0c0607f6eff464e4a3c6e474d6065e89d7d988ac4f0"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/flamethrower/pre_fire.ogg"
+hash = "5209bbf3fdd403c9de90dcefe365e2cc9c3f152f352c669f1dc958714fa09458"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/flamethrower/reload.ogg"
+hash = "d1deff017ff86db2412252f03c0435743d74d2100bd96200c277adbef9d8fef5"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/gun_sounds/hiss.ogg"
+hash = "8378c9c1a1a6e2ce2da3473d241f086c7135fab8e234ca65753d6f90a6836b95"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/plasma/fire.ogg"
+hash = "fef225846fbbfe9a749dee10c043ab97eec41259d533813b8fb8acf2474b8c6d"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/plasma/fire_2.ogg"
+hash = "ef0c65b09e2ccb1f9770c61918580d54fbfd75bf84c0f0cdbb879821f1463ecc"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/plasma_shotgun/fire.ogg"
+hash = "70022fd04919c03fccc3b9b8f739f257c42803b1f09ab57f6384f97c25b78fe2"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/ui/weapon/attach.ogg"
+hash = "9e673dd1e89734592fe96de83845e9e4d9b56a93f1abd7f082d4129abab2bdc3"
 
 [[files]]
 file = "kubejs/assets/scguns/textures/block/deepslate_anthralite_ore.png"
@@ -2651,7 +2700,7 @@ hash = "246208555d8ac93b0686c16724248bfca37b81b07381cc960a421103555cc75c"
 
 [[files]]
 file = "kubejs/data/custom_ore_gen.zip"
-hash = "6734e03e610bc0ea7b3970645ae4566245612f83c9db2c940c98ba9b5442384b"
+hash = "38bdfd42a679a4b36d7d05973555bbe30b86aace5e07333dccea1e1ffd560b0f"
 
 [[files]]
 file = "kubejs/data/decorative_blocks/recipe/lattice.json"
@@ -2659,7 +2708,7 @@ hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
 
 [[files]]
 file = "kubejs/data/endermanoverhaul/neoforge/biome_modifier/cave.json"
-hash = "df979aaa83b8bcfb29f38396104b7e83e2c1b5028cef4bdfd0d2a4941ac0a504"
+hash = "5c51927315146b09811a176f9e39ce86729718b4918eaf2e1be5e0ef506b712b"
 
 [[files]]
 file = "kubejs/data/endermanoverhaul/neoforge/biome_modifier/coral.json"
@@ -3406,6 +3455,10 @@ file = "kubejs/data/kubejs/item_contents_provider/safe.json"
 hash = "34e4364495a6f08908b0beed42060c3d34ff545d96b81d8661a4baf606d6c1fa"
 
 [[files]]
+file = "kubejs/data/kubejs/item_modifier/map/well.json"
+hash = "de8bd93242188a7230271685dc058cfe23abf9f2a1cc8893a1ecbe83b7fb0fc4"
+
+[[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/calcite_lapis_ore.json"
 hash = "04f0727de15f5f7cba394829e431ce91c778c50bf7ff88e506e86b61d1a23cce"
 
@@ -3878,6 +3931,10 @@ file = "kubejs/data/kubejs/tags/worldgen/biome/has_kobold_dens.json"
 hash = "246208555d8ac93b0686c16724248bfca37b81b07381cc960a421103555cc75c"
 
 [[files]]
+file = "kubejs/data/kubejs/tags/worldgen/biome/spawns_cave_endermen.json"
+hash = "519523f4e0a01a0be5acbc6f2a5884dfa9debf98cf774ff821c7b79cafffbdc9"
+
+[[files]]
 file = "kubejs/data/kubejs/tags/worldgen/biome/spawns_redcoats.json"
 hash = "01e9e3f29c8da11df181c2ba42da8a5a1c651899021f4488bb1abb16645ec886"
 
@@ -4027,7 +4084,7 @@ hash = "366fa3c150b52629d2b76088a9d1110edced76aacfa4127c77a3cdac87dcacb6"
 
 [[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/complete_design.json"
-hash = "7404a8fee3e5ba7b5b0dd1e847059c08f821ef0b1654333c8bd001ac1b3ce856"
+hash = "164467011f66d227c1d18e69df2b1a5520c47309e399170db598f59dcdcac129"
 
 [[files]]
 file = "kubejs/data/malum/recipe/spirit_infusion/hex_ash.json"
@@ -4222,16 +4279,128 @@ file = "kubejs/data/minecraft/loot_table/entities/player.json"
 hash = "3a190c776786ba03f2e7170eceecfa39bda68756bb52433f9d0b84f5c76382e4"
 
 [[files]]
-file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_2.json"
-hash = "69c436dfc573602d95e134ea695de4076de2cd96b5050f3d35a488f4608d12df"
+file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/well_map_3.json"
+hash = "74911df91819bb4e68474c896991e18d785a684539eff548286546eddc865a19"
 
 [[files]]
-file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_3.json"
-hash = "7f6af13d46e47efd3bde75337772e270ab140d755b34606022f4659f8790983b"
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/1_bookshelf.json"
+hash = "ae0d8c95be1606fdd70b1644fc44faeec57a980b3ddfc20def0e8902a8f76ebe"
 
 [[files]]
-file = "kubejs/data/minecraft/moonlight/villager_trade/cartographer/weeping_map_4.json"
-hash = "b3113c984837cae16efa7d914b46d3d22b3d6097dfd3a8a112ceda5fbe36d004"
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/1_camera.json"
+hash = "beeab549be5bce7cc59c055f43be4ac75cce8e9cd4c4e28fce0c20406e712481"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/1_envelope_tag.json"
+hash = "b6cc817f98c8c10452974ed7dceb6bbe9bc1f86d5fdfb8445d9ebb04f137fa8b"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/1_paper.json"
+hash = "6421ae83bfac5a4826231685d56aaa5bbbb85023339f32c2c2b02ba73ae1fc6b"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/1_reset.json"
+hash = "29c154dbf6b2d3b61d8ef824346c94fc6bcba63b71d178f8619f1f73bda7a703"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/2_black_and_white_film.json"
+hash = "9af1f758299c4834563d388982f733c066b33ddb2fe3e849dd7c834453aab39b"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/2_book.json"
+hash = "5ede560ba5aa639a7b722b42dd0441d6e2d56d44a7db9e406ae7350d012f3896"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/2_cardboard.json"
+hash = "4a493477df54a16852c0fea0961829b10143d9ace11cf13548a165d5c98a5d38"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/2_color_film.json"
+hash = "20b5fb81f80c6f0d122a33806934fe235608be34d209fc663b3c23e3768527ac"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/2_ink.json"
+hash = "d4e53ed396fea79b7554c40ec7af93df89db78a7527b1b12f1cb320122104cee"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/2_payback_tag.json"
+hash = "8e1e391c5a221bff5d9f9df8010622bd7f24149b51177da95f78cd59859db818"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/2_reset.json"
+hash = "e1a26b1bfd837afaa75932b634cfcdc83003e1433418932b4aae616dbbe41266"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_crimson.json"
+hash = "11d8908d87d44559822951dfcaeee661a8a474c5912f166b49b5c789c1a03012"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_soulwood.json"
+hash = "46b3f3d1db1beb1a2a9c1cd4f6d08022a1ef379de7725e288ceaad986c6fe0e2"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_twisted.json"
+hash = "9f591c41829ab31798cd60ccf1f0bf4a94fdf9f03ba60b3b136ee5d9b08d78ff"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_warped.json"
+hash = "c0f65ae62f16abf349475fd3c07e9c15ddbbb960d2343b91ea3dfc0541dea918"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_package_block.json"
+hash = "33bb3ef6a686523ffae9a165dd6e193d420a58b11489434b8cf93931ca97a00f"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_package_junk.json"
+hash = "c5f1b0a128e1dec03b1b97ea08642c38d48de427b97ceffcb46364d367d8faae"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_package_plants.json"
+hash = "2cec7c3783c0df764549540b60ecbe605371af9af22ef6161991a7410834adf1"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/3_reset.json"
+hash = "1eae1e3d527d3b65d1693820cd1b61629f8da04f88094ff1e7b441b3d8d549af"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/4_black_and_white_film.json"
+hash = "1b90d6bc327a010280c46657768d17a8f436be69bf60073bd6eb9dd4f507e68b"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/4_color_film.json"
+hash = "1eb2532fde2ae0801572acc7a5a99923509778bb1a4927700c5f910ced9bb14b"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/4_filing_cabinet.json"
+hash = "6df8cc82e7b6bb485e1253ad117b457abcc28be89aa39ebe71bc3e99a28217b3"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/4_package_tools.json"
+hash = "1bbfcbc8764bec50da131c7179fc0ce02e9e979f1875f451daa95a2f0a47aaba"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/4_package_weapons.json"
+hash = "caa3759ba86fd794dd9c894c0adbadfaac0294b85bd04156ebd2988791f0fd6b"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/4_reset.json"
+hash = "b55095f05c80998b6484bcddee9e32a1dc7c362132ed942d0f05299fd4ad4288"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/5_interplanar_projector.json"
+hash = "ea797b47a97ebd5e4e8950289b4605465a74d03aa13f96cdb087209e508757ed"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/5_package_valuables.json"
+hash = "ebb7171926a2675455b55e2ade8082454ac1597e0bd54f02f9dc0b4014c9bd1c"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/5_reset.json"
+hash = "d690806098191ce7b5ab946ba5908950461a341a82220449aa7c3e2d9e8899f8"
+
+[[files]]
+file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/5_safe.json"
+hash = "55d8ee28b14d85ed393393803e02a0e7c44400551a445ea3f3cb96206829a89c"
 
 [[files]]
 file = "kubejs/data/minecraft/recipe/bamboo_mosaic.json"
@@ -4411,7 +4580,7 @@ hash = "fce20094e099041ac74887bbca1b99bccdaecb6bdc36f713fb2c1030b46a55f0"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/mechanical_crafting/basin_heater.json"
-hash = "b6ecf2aae9fef1a16059c571aa3b04d93741abfee999473c8efb011fd4504e8f"
+hash = "61b65e0e416f6183d3fb999b49da97f16aa877194315e3574b84a0b6f8aaea95"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/mechanical_crafting/integrated_circuit.json"
@@ -4998,6 +5167,146 @@ file = "kubejs/data/spelunkery_loot.zip"
 hash = "7b43f51070d9ece325fc5d13b57397484aaad9d53458bb2636801fd12f8e52d8"
 
 [[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/badlands.json"
+hash = "cf416c37142d08d57d4d4d63b92da99a69d8c3cee1d4e035043097b9a9c04165"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/beach.json"
+hash = "81de3d814269a7a6072bba1a7a0c520f4c257273ffa7dbd3c987df6d495b9053"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/cherry_grove.json"
+hash = "38c9cdd80539396311cf5dee90fe0d2728c646cd3a101d65fb6f9e0943a1cdac"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_dry.json"
+hash = "5ecc12c2a4f3aaabf91a3c20fc311e97c46c7797ed3f0399b2e577ccb2040ce2"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_sandy.json"
+hash = "dbe6517893a3095253c9b75f347ad264820ae5db77d1f01d21a44f79a5bc4c83"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_snowy.json"
+hash = "435300ab6bae0a29c8eef265fa84938e23db5bfed87f6d8daeaa6d05c96b8b66"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_wet.json"
+hash = "1aaca990cdb7e1e8b7200e5da817a54e41b8d2b428d6e437b3cccf363f5c62da"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/dark_forest.json"
+hash = "70b954ed03f537dd8ba22f0d78551719e3b0efbf4500464c75c8a957eebb09d6"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/deciduous.json"
+hash = "7586ab7ae7b2f1e44d53bd42218131dbe7de0b40cf294f9a2cbae6b52aa869a2"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/default.json"
+hash = "c8b32a341ff9e602cd320f8346f9096471a25910246ec0397da9884f2377d45e"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/desert.json"
+hash = "885232c4242b7520fe720116bc4cec06d091533ed8096d892517c9ad167cd457"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/forest.json"
+hash = "ff55ddca9f75c8d0ffd3f3312e645f442a2049616bb1006cf5e66fadd73bb575"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/frozen_river.json"
+hash = "2a3e80cf0eb45f490f6880cbc9b32275f1f7b29ddef7590954a92de9b508e96d"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/hills_clay.json"
+hash = "33dc781e89e44386287e3766fe1a11701ea8bb23dea55462c10c4f3116912163"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/hills_clay_c.json"
+hash = "9d3776010a9022acabe8ff4ab902da1aba1596000bdce917163bca5fef304532"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/jungle.json"
+hash = "5a71b44bb6d44ec8d2eaeebed736aa556480d6a7dfb2421d6707a792fd3d8f4a"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/mangrove_swamp.json"
+hash = "1f3ae5d4a1a5d8bd40c2c133f02206efaa39d234861fef78016f25af62d8c09f"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/meadow.json"
+hash = "82143027faa1e4615f68f1c7c99c5d28f081d00a352bf1c3159ddd22bf6ee3ec"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/mountain.json"
+hash = "b30ec8fa835487d644d0c06f24518e295e8b050889d1c51b4b67b11a1e23c2ad"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/mushroom_fields.json"
+hash = "00ae5545f40520204aa101d7c93a87eb8f62edaa3310ea08a20442c505f2061c"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/ocean_c.json"
+hash = "9adf186bfb720677382712aecf120c40f88a91169dd097b92e33db191df40632"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/plains.json"
+hash = "76f8b8d18f335fcabe049261336a5518431071114aafc59f5d4b53641472dfa5"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/plains_c.json"
+hash = "cc0c26bdd736251344e793bd1cd61a6818c8a3789b24f999f66d10b99f0614a0"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/river.json"
+hash = "5d695c718cb2646fceb2cb4244f23c7f22fcd8d6a82fdc21c4390fd91fac1ea7"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/river_c.json"
+hash = "a22cc00d439d33531345ef57a0ff0e3ee4cc7eae00cccd35da4ac81e120e93bb"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/savanna.json"
+hash = "3a85d05bee640c6a791d1e2d49760e122e1c75bd85b4c6f956cd0a5953ae8979"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/snowy.json"
+hash = "77027c19c3fece65aa613f209f0b213ee8907b7fec614a039ee805d08d068a91"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/snowy_beach.json"
+hash = "ba68c481b140f8e523ef1e002b0e783546e6a62e530ba496ca26b128b4748552"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/stony_peaks.json"
+hash = "4eb44ae700953010f4b40dafaeb1b1c2157f7b385fc1f6464224af6947fffdb9"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/stony_shore.json"
+hash = "9d9817b1f27a49b89f1e090bb5d15bb2af7c30d536f56313773ab8107dcf4341"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/swamp.json"
+hash = "d43bab09a04d62cdd4e6b5396ffefb512b41fca226ba4ed3c82870476f35a5a1"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/swamp_c.json"
+hash = "5a3e98147a92e30f9c7223bcaaf9947cc367bf1d0f119b36422ef3da003eb0dd"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/taiga.json"
+hash = "6252bcb22f44506cc59af9ea6ec3906f989c2f4ff76549ee2d6712074973bb79"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/taiga_c.json"
+hash = "21cd3a5bb2cc97e0075977f500c90eee375534b07e69b8da56cdc92dfe38782c"
+
+[[files]]
+file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/windswept.json"
+hash = "49da707c1a61e1bd6ae5313f0db512fcb4dc4c88c2a855a43c5a72f85d157110"
+
+[[files]]
 file = "kubejs/data/supplementaries/recipe/flower_box.json"
 hash = "dc0859004ee58a5911b6ccb9bfcdd3cc3644d45fe005698d098fd67fbd07c05b"
 
@@ -5199,7 +5508,7 @@ hash = "a84769bcc3b62ebcec9f768da77063740ba49da104b0532670e64eec8734c244"
 
 [[files]]
 file = "kubejs/server_scripts/creature_conjuration.js"
-hash = "049a363b76864c9ae23be69393babcd6c939b0d17a4b4a15ff4f9bf618d4235d"
+hash = "2347ac1de174759cc44a498ce502767c9a55e9a4d0f1867fcea0a424231c1b88"
 
 [[files]]
 file = "kubejs/server_scripts/emi.js"
@@ -5247,7 +5556,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "456a454349e6b3452e2ba3312fcc427e01bb404a609548dfd9d95c893fff73f3"
+hash = "ec62fc0da5e974de36377d35f68fbfdb3d83bf3b338acf3da0a660b17927e1d7"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -5434,6 +5743,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "4d2ae3e82147d6ff25080403326583b6b8927b1c40f2a4ae1e3e522baea8cc15"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "ec47bde8d0c44f6d24cd0527abdcd88f1045ed3a0b3e1842f66284a56da8841b"
 metafile = true
 
 [[files]]

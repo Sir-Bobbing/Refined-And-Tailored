@@ -1,0 +1,9 @@
+{
+  "tags": ["streamsreflowing:rocky_banks"],
+  "waterline": "minecraft:gravel",
+  "bed_enabled": false,
+  "bank_enabled": false,
+  "waterline_below": 1, "waterline_above": 0,
+  "underwater_noise": 0.12, "above_water_noise": 0.12,
+  "cohesion": 0.8
+}

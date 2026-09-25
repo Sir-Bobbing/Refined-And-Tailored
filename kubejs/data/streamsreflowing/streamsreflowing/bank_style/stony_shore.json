@@ -1,0 +1,6 @@
+{
+  "biomes": ["minecraft:stony_shore"],
+  "bed": "minecraft:air", "waterline": "minecraft:air", "bank_enabled": false,
+  "cohesion": 0.3,
+  "point_bar": "minecraft:gravel"
+}

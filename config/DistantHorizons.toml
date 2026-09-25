@@ -369,7 +369,7 @@ _version = 4
 		# 
 		# DISABLED 
 		# No distant terrain will be generated.
-		generatorPlan = "SURFACE_THEN_CHUNKS"
+		generatorPlan = "DISABLED"
 		#
 		# For how many seconds should instructions for disabling the distant generator progress be displayed? 
 		# Setting this to 0 hides the instructional message so the world gen progress is shown immediately when it starts.
@@ -742,7 +742,7 @@ _version = 4
 				# Note:
 				# Some DH settings will be disabled and/or changed to improve 
 				# visuals when DH rendering is disabled.
-				ignoredDimensionCsv = ""
+				ignoredDimensionCsv = "minecraft:the_nether"
 				#
 				# Requires a restart to change. 
 				#  

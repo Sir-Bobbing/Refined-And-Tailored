@@ -1,0 +1,13 @@
+{
+  "tags": [
+    "minecraft:is_hill"
+  ],
+  "bed": "minecraft:clay",
+  "waterline": "minecraft:gravel",
+  "bank_enabled": false,
+  "exclude_tags": [
+    "c:is_swamp",
+    "forge:is_swamp"
+  ],
+  "cohesion": 0.9
+}
