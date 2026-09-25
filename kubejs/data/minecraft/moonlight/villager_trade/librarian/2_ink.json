@@ -1,0 +1,15 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "minecraft:ink_sac",
+    "count": 12
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 1
+  },
+  "max_trades": 12,
+  "xp": 10,
+  "price_multiplier": 0.05,
+  "level": 2
+}

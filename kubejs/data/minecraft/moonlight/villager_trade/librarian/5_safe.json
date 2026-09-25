@@ -1,0 +1,18 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "supplementaries:safe",
+    "count": 1
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 32
+  },
+  "price_secondary": {
+    "id": "minecraft:netherite_ingot"
+  },
+  "max_trades": 1,
+  "xp": 30,
+  "price_multiplier": 0.05,
+  "level": 5
+}

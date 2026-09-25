@@ -1,0 +1,19 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "envelope:package",
+    "components": {
+      "minecraft:container_loot": {"loot_table": "envelope:packages/lost_mail/valuables"},
+      "minecraft:item_name": "{\"translate\":\"item.envelope.lost_mail\"}"
+    },
+    "count": 1
+  },
+  "price": {
+    "id": "spelunkery:rough_emerald",
+    "count": 32
+  },
+  "max_trades": 1,
+  "xp": 30,
+  "price_multiplier": 0.05,
+  "level": 5
+}
