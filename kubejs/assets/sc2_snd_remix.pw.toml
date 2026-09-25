@@ -1,0 +1,21 @@
+filename = 'SC2_SND_REMIX.zip'
+name = 'SC2_SND_REMIX'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.1'
+
+[download]
+hash = 'f4766b16e527fcd35005713777efc5db4b46a847bd6f4baa20c0f50bd8fcb801029d5d579873c0077ee0e9e725475ac629df762f2d5211dca991cdef6c877839'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GLnvvGhB/versions/sLLUdJ8i/SC2_SND_REMIX.zip'
+
+[update.modrinth]
+mod-id = 'GLnvvGhB'
+version = 'sLLUdJ8i'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lDzXAiqs'
+type = 'REQUIRED'
