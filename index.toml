@@ -5516,7 +5516,7 @@ hash = "5619c76fef6fede2ce95cd649e8bfea7c8c8d4b1aa79448805be3ee3362bf328"
 
 [[files]]
 file = "kubejs/server_scripts/giggler.js"
-hash = "3c2a00618ee306d50190b972d41bc8642bcf67a488cad4bf427d9bea23c035fb"
+hash = "8b257915d31cc7af90e9e9200b34fbc4656b9c12ff114c24fc4efbf702bd3ad2"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
