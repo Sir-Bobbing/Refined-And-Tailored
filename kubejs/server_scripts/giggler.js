@@ -38,8 +38,9 @@ NativeEvents.onEvent($AnvilUpdateEvent, event => {
     if (event.getLeft().id != "kubejs:giggler") {return}
     let name = event.getName()
     name = name + "" // String is actually a java.lang.String not a JavaScript string, this fixes it
+    name = name.normalize("NFD")
 
-    if (name.match(RegExp('(v|V|ṽ|Ṽ|ṿ|Ṿ).*(e|E|3|é|É|è|È|ė|Ė|ê|Ê|ë|Ë|ě|Ě|ĕ|Ĕ|ē|Ē|ę|Ȩ|ȩ|Ȩ|ɇ|Ɇ|ḗ|Ḗ|ḕ|Ḕ|ḝ|Ḝ|ȅ|Ȅ|ȇ|Ȇ|ḙ|Ḙ|ḛ|Ḛ).*(r|R|ŕ|Ŕ|ṙ|Ṙ|ř|Ř|ŗ|Ŗ|ɍ|Ɍ|ȑ|Ȑ|ȓ|Ȓ|ṛ|Ṛ|ṟ|Ṟ|ṝ|Ṝ).*(i|I|1|í|Í|ì|Ì|ı|İ|î|Î|ï|Ï|ǐ|Ǐ|ĭ|Ĭ|ī|Ī|ĩ|Ĩ|į|Į|ḯ|Ḯ|ȉ|Ȉ|ȋ|Ȋ|ḭ|Ḭ|l).*(t|T|ṫ|Ṫ|ť|Ť|ţ|Ţ|ṭ|Ṭ|ț|Ț|ṱ|Ṱ|ṯ|Ṯ|ⱦ|Ⱦ|ŧ|Ŧ).*(y|Y|ý|Ý|ỳ|Ỳ|ẏ|Ẏ|ŷ|Ŷ|ÿ|Ÿ|ȳ|Ȳ|ỹ|Ỹ|ɏ|Ɏ|ỷ|Ỷ|ỵ|Ỵ)','gm')) == null) {return}
+    if (name.match(RegExp('(v).*(e|3).*(r).*(i|l).*(t).*(y)','gmi')) == null) {return}
 
     if (event.player.level.isClientSide()) {return}
 
