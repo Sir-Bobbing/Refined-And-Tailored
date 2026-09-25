@@ -238,7 +238,7 @@ ServerEvents.recipes(event => {
 })
 
 function positionString( entity ) {
-    return `${entity.getX()} ${entity.getY()} ${entity.getZ()}`
+    return `${entity.getX()} ${entity.getY()-0.25} ${entity.getZ()}`
 }
 
 EntityEvents.spawned(event => {

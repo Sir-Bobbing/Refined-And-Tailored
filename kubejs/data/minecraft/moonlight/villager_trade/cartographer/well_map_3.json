@@ -1,0 +1,22 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "minecraft:map",
+    "count": 1
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 48
+  },
+  "price_secondary": {
+    "id": "malum:block_of_soulstone",
+    "count": 12
+  },
+  "max_trades": 1,
+  "price_multiplier": 0.2,
+  "level": 3,
+  "loot_function": {
+    "function": "minecraft:reference",
+    "name": "kubejs:map/well"
+  }
+}

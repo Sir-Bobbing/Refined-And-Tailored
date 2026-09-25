@@ -360,6 +360,7 @@ ServerEvents.tags('worldgen/structure', event => {
     event.add('kubejs:ruins', 'nova_structures:remnant_ruin_smith')
     event.add('kubejs:ruins', 'nova_structures:ruin_town')
     event.add('kubejs:ruins', 'nova_structures:wild_ruin')
+    event.add('kubejs:on_well_maps', 'malum:weeping_well')
 })
 
 ServerEvents.tags('enchantment', event => {

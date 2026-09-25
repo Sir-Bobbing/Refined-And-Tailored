@@ -2,11 +2,11 @@
   "type": "malum:spirit_infusion",
   "extraInputs": [
     {
-      "count": 4,
+      "count": 1,
       "item": "tfmg:circuit_board"
     },
     {
-      "count": 4,
+      "count": 8,
       "item": "malum:imitation_flesh"
     },
     {
