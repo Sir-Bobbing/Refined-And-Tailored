@@ -26,11 +26,13 @@
 - [Caelum](https://modrinth.com/mod/Xkw3TXqP) by Sophka
 - [Chalk](https://modrinth.com/mod/YWGP4Y1d) by mortuusars
 - [Chunk Loaders](https://modrinth.com/mod/t1VgucWo) by SuperMartijn642
+- [Chunky](https://modrinth.com/mod/fALzjamp) by pop4959
 - [Cirrus](https://modrinth.com/mod/SJDzFJH7) by jvn
 - [ClientSort](https://modrinth.com/mod/K0AkAin6) by NotRyken
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Clutter No More](https://modrinth.com/mod/ewyjbmG4) by Tazer, Farcr, cassiancc
 - [Combat Nouveau](https://modrinth.com/mod/Iv3kcKZn) by Fuzs
+- [Common Networking](https://modrinth.com/mod/HIuqnQpi) by Mysticdrew
 - [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
 - [Copper Tools & Armor Backport](https://modrinth.com/mod/J94K8VJM) by Team SmartStreamLabs
 - [Corpse](https://modrinth.com/mod/WrpuIfhw) by Max Henkel
@@ -60,7 +62,7 @@
 - [Deeper Oceans](https://modrinth.com/mod/yqHsPROA) by Apollo
 - [Design n' Decor](https://modrinth.com/mod/x49wilh8) by LopyLuna, DrMangoTea
 - [Ding](https://modrinth.com/mod/UEtTD3gP) by iChun
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
+- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) by James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh
 - [Dramatic Doors \(NeoQuiFab\)](https://modrinth.com/mod/aQ7h7gal) by Fizzware \(Original creator\), Kitteh6660 \(Fabric port\)
 - [Drive\-By\-Sable](https://modrinth.com/mod/rrNGnYXg) by lakeOpossMC
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) by NovaWostra, Konci, Walls
@@ -176,3 +178,4 @@
 - [e4mc](https://modrinth.com/mod/qANg5Jrr) by skyevg
 - [iChunUtil](https://modrinth.com/mod/W6ROj0Hl) by iChun
 - [lever drugster](https://modrinth.com/mod/GQNtImhh)
+- [spark](https://modrinth.com/mod/l6YH9Als) by Luck

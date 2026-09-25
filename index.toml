@@ -6112,7 +6112,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "0a6412d972bce3456b1caa25999acd24a91431d147282e81689474985fc56766"
+hash = "42ca5d01ce4996b5ef45c7fcae361e290dea5b50b08273e8bb118e02f905200d"
 metafile = true
 
 [[files]]
@@ -6192,7 +6192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "964bee6b9b2e7c05b71709c3e5147a21346b7b33ea7a3a57ed882486365a7f06"
+hash = "50152a3a0389f112a2f793f2077c064440afbf08010f6665b4155faa8414cb35"
 metafile = true
 
 [[files]]
@@ -6222,7 +6222,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2e7696ff3997d834264cc362c48cec2bb249d4d4b8b3956693431e0b3457cfd2"
+hash = "3d2839a9525202e57bbc08c65c1692411cbe645f8817bfe1980f1253b02e3193"
 metafile = true
 
 [[files]]
@@ -6491,7 +6491,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "68155044ccac7e723d18c78d8055cc5c57db7580afc47de2877c73e053c41700"
+hash = "23867884d292e74798334f3d4df0f9cf45381a8bb9923c519cad12fd53bc512f"
 metafile = true
 
 [[files]]
