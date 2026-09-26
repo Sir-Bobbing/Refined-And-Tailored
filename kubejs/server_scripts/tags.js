@@ -35,6 +35,10 @@ ServerEvents.tags('item', event => {
     event.add('c:fuel', 'nomansland:resin_oil')
     event.add('c:fuel', 'nomansland:resin_oil_bottle')
 
+// Enchant Tags
+    event.add('minecraft:enchantable/durability', '#prospectingpicks:prospecting_pick')
+    event.add('minecraft:enchantable/mining', '#prospectingpicks:prospecting_pick')
+
 // Bookshelf
     event.add('minecraft:bookshelf_books', 'guideme:guide')
 
