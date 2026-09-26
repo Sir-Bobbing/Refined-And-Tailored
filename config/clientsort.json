@@ -159,7 +159,8 @@
       }
     },
     "screenClassBlacklist": [
-      "com.simibubi.create.content.logistics.stockTicker.StockKeeperCategoryScreen"
+      "com.simibubi.create.content.logistics.stockTicker.StockKeeperCategoryScreen",
+      "moe.plushie.armourers_workshop.core.client.gui.widget.ContainerMenuScreen"
     ]
   }
 }

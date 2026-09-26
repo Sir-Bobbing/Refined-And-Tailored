@@ -1,20 +1,20 @@
-filename = 'ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar'
+filename = 'ItemPhysic_NEOFORGE_v1.8.14_mc1.21.1.jar'
 name = 'ItemPhysic'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.8.17'
+x-prismlauncher-version-number = '1.8.14'
 
 [download]
-hash = '4fd8eef8eaeadb4f90244c4f98ce641da65d7fa379bb2cc071047effe78bb59bc61390c61c1193e6f30d3d5aa87e9fe8a88547945d29a388d4e740e64cdb4b60'
+hash = '608c72efbb9064bbe68879af0ae04ff298cf63fb86d3ced30f0506ee2778c25d193a9f198ef47867d8a04bc61a38c25c1f8129e0d201a3ef0a73947ba18115c5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/aT8BzaOj/versions/rYw9JKpB/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/aT8BzaOj/versions/VTdB0JuX/ItemPhysic_NEOFORGE_v1.8.14_mc1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'aT8BzaOj'
-version = 'rYw9JKpB'
+version = 'VTdB0JuX'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'OsZiaDHq'

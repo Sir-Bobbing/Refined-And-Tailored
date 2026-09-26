@@ -86,7 +86,7 @@ hash = "a8b9fd6dde0a02d8762b06e1881afeebd7044c6b7907f64989b87b2a0c6e5e39"
 
 [[files]]
 file = "config/clientsort.json"
-hash = "42d0a1580a3abc0122ab3940983a328e3e3d436640017164026d8e1a1d8bdc27"
+hash = "29b9458670d674693418387689dd93c20bd1dc179f864fd5deb1538b5b890b0f"
 
 [[files]]
 file = "config/combatnouveau-common.toml"
@@ -386,7 +386,7 @@ hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
 
 [[files]]
 file = "config/solonion.json"
-hash = "e0aeff91f102a5150a756893de6298e6d768b21aed33fea3100acd61444ab100"
+hash = "4b773d512c0a5c095970ac13cfc82f97b94627799aaf2f52c3c5b05e2159655f"
 
 [[files]]
 file = "config/spelunkery-common.toml"
@@ -746,7 +746,7 @@ hash = "3582e6b3ee6b082db16fb6dbe75535a6edc138ee512d3ec600a3087808c30e72"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/blast_protection.json"
-hash = "e0d90c20ff0786d964caaecbe93644f7e994b33432043f1b6f332c74164ee8b6"
+hash = "59bda0e37d6619a349580c19e0c0240e98f15fc14917ee236645826f3a3a82b0"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/enchantments/minecraft/breach.json"
@@ -1506,7 +1506,7 @@ hash = "b9f16d449308c4590784b6db2a642df9931e31d55c2dda5ec4285a3ffbb02b87"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "10a9a64b415f383d0edd3165af9877e35bccea7a15c277c852ca0c5b7b4bd49b"
+hash = "c9237f6bea97cd9be5852ac962ae043de0cb2e727c20d3a164328c1d2b0272a1"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/entity/warden/warden.png"
@@ -2984,7 +2984,7 @@ hash = "6a42f235bfa1ff3e9347024b087ba59c4581fbe6e17b3052b7f69669a34f245c"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/blast_protection.json"
-hash = "8b24d1a244a2e4a1f7eae2256dd7ee3b7346960a2ae429dc21a46292348dabdd"
+hash = "864b965253e04c3b0d5446e91516e3b592c9ee5f357dbf885734fada3188d319"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/minecraft/breach.json"
@@ -3629,6 +3629,10 @@ hash = "94c457be997a99c88502270b283f5e41fa18b13e3e12d1c2fae3325c3bf80c33"
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/beacon.json"
 hash = "9582a720426995e41491a47fc8c6d07415d9f3aef3a9678779d0f78e9d920a73"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crafting/blighted_earth.json"
+hash = "be8997b2ad84a674afdc93a55358c50c290cbd42d00d0c8aa65fb465b5b1cae2"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/chainmail_boots.json"
@@ -5636,7 +5640,7 @@ hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "ec62fc0da5e974de36377d35f68fbfdb3d83bf3b338acf3da0a660b17927e1d7"
+hash = "2f71e9b7bdfc1df379fd8afcb319c33c1054164e91a7b2532328db5103905a8e"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -6192,7 +6196,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "42ca5d01ce4996b5ef45c7fcae361e290dea5b50b08273e8bb118e02f905200d"
+hash = "eff00ab6698b885e43f89c2eff5d7ac047addf059784fa5d3142e423e8a3438c"
 metafile = true
 
 [[files]]
