@@ -346,7 +346,7 @@ hash = "607a7f9015802b3443d50c161f10dca0b2660791642b8f1e11896493f04d97c5"
 
 [[files]]
 file = "config/reliable_advancements_edits/tabs.json"
-hash = "fd51e4f0ae8a9a96cdce3d4874f266f46b324134ef2d38cfa0cb02883a5c3dbf"
+hash = "ac9e0d45be0b96900f7bffc19659955b7ba6fc12b8bbcacdf38fd7c1f6eeb792"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
