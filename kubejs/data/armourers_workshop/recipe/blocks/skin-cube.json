@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "X": {
+      "tag": "c:nuggets/iron"
+    },
+    "#": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:skin-cube",
+    "count": 16
+  }
+}

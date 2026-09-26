@@ -1,13 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#",
     "X",
     "#"
   ],
   "key": {
     "X": {
-      "item": "minecraft:armor_stand"
+      "item": "mannequins:mannequin"
     },
     "#": {
       "tag": "armourers_workshop:skin_cubes"

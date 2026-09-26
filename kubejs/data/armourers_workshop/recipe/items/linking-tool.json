@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " /X",
+    " T/",
+    "/  "
+  ],
+  "key": {
+    "X": {
+      "tag": "c:ender_pearls"
+    },
+    "T": {
+      "tag": "armourers_workshop:skin_cubes"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:linking-tool"
+  }
+}

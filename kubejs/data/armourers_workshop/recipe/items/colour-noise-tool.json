@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " /S",
+    " T/",
+    "/  "
+  ],
+  "key": {
+    "T": {
+      "tag": "armourers_workshop:skin_cubes"
+    },
+    "S": {
+      "item": "minecraft:redstone"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:colour-noise-tool"
+  }
+}

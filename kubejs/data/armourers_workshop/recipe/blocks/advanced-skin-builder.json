@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "V",
+    "N"
+  ],
+  "key": {
+    "N": {
+      "item": "armourers_workshop:armourer"
+    },
+    "T": {
+      "item": "create:electron_tube"
+    },
+    "V": {
+      "item": "vista:television"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:advanced-skin-builder"
+  }
+}

@@ -1,21 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "XBX",
-    "PPP"
+    "  T",
+    "#T ",
+    "X# "
   ],
   "key": {
-    "B": {
-      "item": "minecraft:bookshelf"
+    "T": {
+      "tag": "c:glass_blocks"
     },
     "X": {
       "tag": "armourers_workshop:skin_cubes"
     },
-    "P": {
-      "tag": "minecraft:planks"
+    "#": {
+      "item": "minecraft:leather"
     }
   },
   "result": {
-    "id": "armourers_workshop:skin-library"
+    "id": "armourers_workshop:colour-picker"
   }
 }

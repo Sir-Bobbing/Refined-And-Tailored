@@ -2555,44 +2555,120 @@ file = "kubejs/data/architects_palette/recipe/withered_osseous_pillar.json"
 hash = "0103d245b5f20111818e6c61092ef254e8d9fdd709540aa78acffb24f96ac5b8"
 
 [[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/advanced-skin-builder.json"
+hash = "47eb59ffb1855d0dc1191fb3039e9f26c270e63b00930a82ed524dd0eec473d3"
+
+[[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/armourer.json"
-hash = "9c528dedb48c888f3f54bcae76905b07045eb165bacbfce32afe34fbf43207d3"
+hash = "1322b4aa4e68a8f3165ac10fce2ad6c552021ac639959e20b2cdff689336fe10"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/colour-mixer.json"
-hash = "61e16a372a203fcea3c58fe42f7cc8d4a91d6e054444f66f241547b001168a6f"
+hash = "9b5962b3bf664c8716e44a13b106a7b0a76764b08b27b1107aa8a07718ba90dc"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/dye-table.json"
-hash = "17fc212f70c34bf0f1debb7e3db2ed0159f4b3954c85608af03ae7b6dc743de4"
+hash = "627f8cd0bcf4239e5f066433b16792fce7c32de366862d0e5a9bab59da101407"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/hologram-projector.json"
-hash = "3e03659218d005ae4d496f0fa3d1c38c005566b3a5c558c0267164bc86ea4bc1"
+hash = "c4e691833dd6ce0602a7335cdf41a32effe41e6cbae5e7d0e5e4c38946d5d7a2"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/outfit-maker.json"
-hash = "f4ffa93eb842b6b9d6deba58bf30b91baa30d1861d46e6687cd37d1d464b2c7e"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skin-cube-glass-glowing-2.json"
+hash = "0f40f938e10385a03c74fb9d57e2a4cd25ae87903f28208804116d8e0c2e233e"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skin-cube-glass.json"
+hash = "ff8155f5babdbc0ce0c96749737cbdfab4f2486f28400227ce936eef30892876"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skin-cube-glowing.json"
+hash = "fd552179fe24f6d04a9047d25a9753f81aad8a50b131365deac88bdc53a9497f"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skin-cube.json"
+hash = "e3a04887200aa99b1066dd296f1b90a82421f53ff5e69097b14db1431cd54b76"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/blocks/skin-library-global.json"
+hash = "b964851dfcee5b360088e5ef54498360bc74c8a878b4fe140e688d4ca793b608"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/skin-library.json"
-hash = "89af3d7c659bd66f43f29aa7c568fc8f9934dc69753e090f8b4b496ddc27de39"
+hash = "9da6b999a322c4e9a0ef5503b5c11cb4e3aa0fa9fa4ad3aeaccffab68df5068c"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/blocks/skinning-table.json"
-hash = "a9c6fa2dfa0c65613050378ed4a0120e5c13559294e1e296e9c340687d4f14ec"
+hash = "09472f7c39399f7724241df88dc26e09bc88bc05b1d60b8502b1039479c2c7f0"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/armourers-hammer.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/blending-tool-1.json"
+hash = "24ff08f42aedec1c6482e2e47547d85cc41a4409b8a2f123320a30ecadbd0bfe"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/blending-tool-2.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/block-marker.json"
+hash = "a137267a3fef88d07cc738d9fe86408241bcbb85b9ccad452acae5cf8f2a1113"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/burn-bottle.json"
+hash = "bf5325ea83d9cea7ddecccd53eba1ecc92bb15d80a76b222b17615724cc28148"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/colour-noise-tool.json"
+hash = "3f41fc9b844bf5c01f26851ad49d073d732d529dd4cfb3d6601ccbd5bbf5e569"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/colour-picker.json"
+hash = "423a2ae3b57a3f41d977d0b32f80c8a803c6523f98bedcb6ee0c02380e6e2226"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/dodge-bottle.json"
+hash = "e4d5923a5ef37658d8d2eefb31bc47ca1713fd62a51658d81fad54b59ca926e4"
+
+[[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/dye-bottle.json"
 hash = "3c6b03d19e6aae588b9363a34061e9e911e2685651c0e425dae4099e5de42bba"
 
 [[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/hue-tool.json"
+hash = "7102acbdb5c1dc5f624425297fbc20f4253adfdee4899c68fc9d368a1ddcaf4f"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/linking-tool.json"
+hash = "2c101d59ef151ad991b5a7aa419b887a939c8df1347b5348780955e6df92e0f0"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/mannequin-tool.json"
+hash = "77ef85c26bf24f1c59e8290875cad20c139581495e1993eec9a2ed7c7d78e328"
+
+[[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/mannequin.json"
-hash = "ae2e6bd17601ee975db762026bbee2610620a19ff1f38dead71f4da8d328203c"
+hash = "24b50ca892917bb8c0452338ffc2cc8b7f572f230f45fffabc208b4827c19016"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/paint-roller.json"
+hash = "9d1b747ea294233272926bbbbb0fa8ea698a9c0d37d476b4751016400463bbc2"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/paintbrush.json"
+hash = "437786d6bf220618021a3e0936073f1af96fa1f64a48e9a29e336b263b065ca1"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/shade-noise-tool.json"
+hash = "80415f756c3f46fde57e39a4bf78edb18d8d83eda488d42468bb809c9820e0ab"
 
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/skin-template.json"
@@ -2601,6 +2677,10 @@ hash = "2a31dcaad343773d040c8a4541923133c9a16edff6d6bc2f73a8c49ece67586b"
 [[files]]
 file = "kubejs/data/armourers_workshop/recipe/items/soap.json"
 hash = "00f560b07ba9f6b9e5f9dfa7701b8e41175c8ca0662ec7a8fb52fd166f3d7226"
+
+[[files]]
+file = "kubejs/data/armourers_workshop/recipe/items/wand-of-style.json"
+hash = "bdbf9bb8cd14f35e711bdbefedaecc98e3d007e31992f680406735e017e635fd"
 
 [[files]]
 file = "kubejs/data/artifacts/neoforge/biome_modifier/add_campsite.json"
@@ -5516,7 +5596,7 @@ hash = "5619c76fef6fede2ce95cd649e8bfea7c8c8d4b1aa79448805be3ee3362bf328"
 
 [[files]]
 file = "kubejs/server_scripts/giggler.js"
-hash = "8b257915d31cc7af90e9e9200b34fbc4656b9c12ff114c24fc4efbf702bd3ad2"
+hash = "952edb4b6bf6f17d5bcf86673d589c2d83af753cfd5431e5eb6a02e718e0c1b4"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -5887,7 +5967,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "3bf5ccbfd8bba54853bd9839ae2ae21a1aea7b7843bf8587030e7556d55d215f"
+hash = "74c53962ab61b0fca8129674bde3a683ac3d80c7a31eb5677003b38c57e897fe"
 metafile = true
 
 [[files]]

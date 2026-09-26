@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "V",
+    "N"
+  ],
+  "key": {
+    "N": {
+      "item": "armourers_workshop:skin-library"
+    },
+    "T": {
+      "item": "create:transmitter"
+    },
+    "V": {
+      "item": "vista:television"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:skin-library-global"
+  }
+}

@@ -1,9 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "TST",
-    "PPP",
-	"R R"
+    "STS",
+	"PPP"
   ],
   "key": {
     "S": {
@@ -14,9 +13,6 @@
     },
     "P": {
       "tag": "minecraft:planks"
-    },
-    "R": {
-      "tag": "c:rods/wooden"
     }
   },
   "result": {
