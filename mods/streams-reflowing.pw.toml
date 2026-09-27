@@ -1,5 +1,5 @@
 filename = 'StreamsReflowing-1.21.1-neoforge-2.13.8.jar'
-name = 'StreamsReflowing'
+name = 'Streams Reflowing'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]

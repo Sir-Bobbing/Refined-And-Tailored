@@ -5771,7 +5771,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "6a67695a7cc10d0782d5f0e1dfdd685565a4c4674d18b045d859775afb21c12d"
+hash = "fbb23ff91ff89553c6c5f0fb2e0e3141f542bed86dcaf0b0aa7a04966c586fc9"
 metafile = true
 
 [[files]]
@@ -5841,7 +5841,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "6badd9a59448f22c780f50cfea3b35189f5a722b10dda86f2fbcec3fc38bb6dc"
+hash = "9ad802a33b832ed1a6e84365c62c8112236c372947e2584e728bcb76d133ce80"
 metafile = true
 
 [[files]]
@@ -6175,6 +6175,11 @@ hash = "2325bebaa5858614d20b06fd3f8173d655b4d2ec52b4318067971cd408d0c43a"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "a08b05daa5ad0760a740c84d80580a86ca3221d94f2955a80bc5b396adc7380e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a4a0e38208546588ca1ff4ae41aada9c459c8ad01bbd37d973cc2e1a658fec2f"
 metafile = true
@@ -6196,7 +6201,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "eff00ab6698b885e43f89c2eff5d7ac047addf059784fa5d3142e423e8a3438c"
+hash = "42ca5d01ce4996b5ef45c7fcae361e290dea5b50b08273e8bb118e02f905200d"
 metafile = true
 
 [[files]]
@@ -6306,7 +6311,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3d2839a9525202e57bbc08c65c1692411cbe645f8817bfe1980f1253b02e3193"
+hash = "45b71f3275fc6f95a69b9b08dbc6f4d01d7c45c8b216d77715b8eefa4e47c43e"
 metafile = true
 
 [[files]]
@@ -6405,12 +6410,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "b9f2dc79764182c31fa83ae3750938ae18a4201a0bc813af56945febd6eca846"
+hash = "fa406ac2142206534a2a112b6d2b480a4745fa454a1adafbaec5b56a2499147f"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "41580e51d88ccb294bb2622251483f9fd97c78a9fa847c9b7d81ff4628638162"
+hash = "496a0f254c301b527a4f4b589751f656aef2461406fadfaf9fdbb0247824f35e"
 metafile = true
 
 [[files]]
@@ -6451,6 +6456,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "4fc21e7bac0dfd2d036a41139a80ec546c60881cb99252a86189ad914e2dadd6"
+metafile = true
+
+[[files]]
+file = "mods/seeu.pw.toml"
+hash = "9e3133df58056e2919e50219dd0b8dcecb35993195cf69acae7728b743b9e8cf"
 metafile = true
 
 [[files]]
@@ -6509,6 +6519,11 @@ hash = "dfb4cc71c28de5005bbb452e27ba1f7802f4319266cd88c93870cff076ca129d"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "b838899dbbd893a1eb23c8e96604869b66d370a14f98bac9fbf85d5d37bc4cb1"
+metafile = true
+
+[[files]]
 file = "mods/stepupagain.pw.toml"
 hash = "393c3f266e979441dc22bdc2fe4b8bf7ec94b957dc359ca41fb62bfcda365392"
 metafile = true
@@ -6520,7 +6535,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "d478582f9a1eb773a4a986a37e37092ded19aaa583e8ddb9cc8b0e994508803d"
+hash = "160403320787b7b8deebbec86f1c8dab3ee76cfc946a1edd348ad270c579b71e"
 metafile = true
 
 [[files]]
