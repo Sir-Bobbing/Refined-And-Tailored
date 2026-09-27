@@ -207,6 +207,9 @@
     "spelunkery:crushing/veridium_recycling",
     "spelunkery:crushing/veridium",
     "create:crushing/veridium",
+    "spelunkery:crushing/tuff_recycling",
+    "spelunkery:crushing/tuff",
+    "create:crushing/tuff",
 
     "spelunkery:zinc_ore_smelting",
     "spelunkery:zinc_ore_blasting",
