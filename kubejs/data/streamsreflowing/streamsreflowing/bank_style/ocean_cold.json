@@ -1,8 +1,10 @@
 {
-  "tags": ["streamsreflowing:rocky_banks"],
-  "cohesion": 0.8,
+  "biomes": ["minecraft:cold_ocean", "minecraft:deep_cold_ocean"],
+  "cohesion": 0.2,
   "bed": "minecraft:air",
   "waterline": {
+    "below": 80,
+    "above": 10,
     "block": "minecraft:gravel",
     "edge_noise": 0.25
   },

@@ -1,10 +1,24 @@
 {
   "biomes": ["minecraft:river"],
-  "bed": ["minecraft:gravel", "minecraft:clay"],
-  "waterline": ["minecraft:gravel", "nomansland:silt"],
-  "bank": "minecraft:air",
-  "waterline_below": 3, "waterline_above": 0,
-  "underwater_noise": 0.25, "above_water_noise": 0.15,
   "cohesion": 0.3,
-  "point_bar": ["minecraft:gravel", "minecraft:sand"]
+  "bed": {
+    "block": ["minecraft:gravel", "minecraft:clay"],
+    "edge_noise": 0.25,
+    "overrides": [
+      {
+        "when": { "bend": "> 0.2", "side": "inner" },
+        "block": ["minecraft:gravel", "minecraft:sand"]
+      }
+    ]
+  },
+  "waterline": {
+    "block": ["minecraft:gravel", "minecraft:clay"],
+    "below": 30,
+    "edge_noise": 0.25
+  },
+  "bank": "minecraft:air",
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air", "minecraft:air", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }

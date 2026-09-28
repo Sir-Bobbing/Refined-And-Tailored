@@ -2,9 +2,16 @@
   "biomes": [
     "minecraft:cherry_grove"
   ],
-  "bed": "minecraft:gravel",
-  "waterline": "minecraft:cobblestone",
+  "bed": {
+    "block": "minecraft:gravel"
+  },
+  "waterline": {
+    "block": "minecraft:cobblestone"
+  },
   "bank": "streamsreflowing:chameleon",
-  "underwater_noise": 0.07,
-  "above_water_noise": 0.07
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }
+

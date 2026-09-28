@@ -1,9 +1,25 @@
 {
   "tags": ["c:is_sandy"],
-  "bed": "minecraft:sand", "waterline": "minecraft:sand",
-  "bank_enabled": false,
-  "waterline_below": 1, "waterline_above": 0,
-  "underwater_noise": 0.15, "above_water_noise": 0.15,
   "cohesion": 0.0,
-  "point_bar": "minecraft:sand"
+  "bed": {
+    "block": "minecraft:sand",
+    "overrides": [
+      {
+        "when": {
+          "bend": "> 0.2",
+          "side": "inner"
+        },
+        "block": "minecraft:sand"
+      }
+    ]
+  },
+  "waterline": {
+    "block": "minecraft:sand"
+  },
+  "bank": "minecraft:air",
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }
+

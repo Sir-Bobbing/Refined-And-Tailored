@@ -1,6 +1,31 @@
 {
-  "biomes": ["minecraft:stony_shore"],
-  "bed": "minecraft:air", "waterline": "minecraft:air", "bank_enabled": false,
+  "biomes": [
+    "minecraft:stony_shore"
+  ],
   "cohesion": 0.3,
-  "point_bar": "minecraft:gravel"
+  "bed": {
+    "block": "minecraft:air",
+    "overrides": [
+      {
+        "when": {
+          "bend": "> 0.2",
+          "side": "inner"
+        },
+        "block": "minecraft:air"
+      }
+    ]
+  },
+  "waterline": {
+    "block": "minecraft:air"
+  },
+  "bank": "minecraft:air",
+  "top_bank": {
+    "block": [
+      "streamsreflowing:chameleon",
+      "minecraft:air",
+      "minecraft:air",
+      "minecraft:air"
+    ],
+    "edge_noise": 0.5
+  }
 }

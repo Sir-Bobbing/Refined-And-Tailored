@@ -2,11 +2,28 @@
   "biomes": [
     "minecraft:desert"
   ],
-  "bed": "minecraft:sand",
-  "waterline": "minecraft:sand",
-  "bank": "streamsreflowing:chameleon",
-  "underwater_noise": 0.12,
-  "above_water_noise": 0.12,
   "cohesion": 0.0,
-  "point_bar": "minecraft:sand"
+  "bed": {
+    "block": "minecraft:sand",
+    "edge_noise": 0.25,
+    "overrides": [
+      {
+        "when": {
+          "bend": "> 0.2",
+          "side": "inner"
+        },
+        "block": "minecraft:sand"
+      }
+    ]
+  },
+  "waterline": {
+    "block": "minecraft:sand",
+    "edge_noise": 0.25
+  },
+  "bank": "streamsreflowing:chameleon",
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }
+

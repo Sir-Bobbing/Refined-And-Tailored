@@ -8,9 +8,19 @@
     "minecraft:frozen_peaks",
     "minecraft:jagged_peaks"
   ],
-  "bed": "minecraft:gravel",
-  "waterline": "minecraft:packed_ice",
-  "bank": "streamsreflowing:chameleon",
-  "underwater_noise": 0.15,
-  "above_water_noise": 0.15
+  "bed": {
+    "block": "minecraft:gravel",
+    "edge_noise": 0.25
+  },
+  "waterline": {
+    "block": "minecraft:packed_ice",
+    "edge_noise": 0.25
+  },
+  "bank": {
+    "block": "streamsreflowing:chameleon"
+  },
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }

@@ -1,10 +1,12 @@
 {
-  "tags": ["streamsreflowing:rocky_banks"],
-  "cohesion": 0.8,
+  "biomes": ["minecraft:warm_ocean", "minecraft:lukewarm_ocean", "minecraft:deep_lukewarm_ocean"],
+  "cohesion": 0.1,
   "bed": "minecraft:air",
   "waterline": {
-    "block": "minecraft:gravel",
-    "edge_noise": 0.25
+    "block": "minecraft:sand",
+    "below": 80,
+    "above": 10,
+    "edge_noise": 0.35
   },
   "bank": "minecraft:air",
   "top_bank": {
@@ -12,4 +14,3 @@
     "edge_noise": 0.5
   }
 }
-

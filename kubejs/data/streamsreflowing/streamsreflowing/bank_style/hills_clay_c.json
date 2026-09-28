@@ -2,12 +2,21 @@
   "tags": [
     "c:is_hill"
   ],
-  "bed": "minecraft:clay",
-  "waterline": "minecraft:gravel",
-  "bank_enabled": false,
   "exclude_tags": [
     "c:is_swamp",
     "forge:is_swamp"
   ],
-  "cohesion": 0.9
+  "cohesion": 0.9,
+  "bed": {
+    "block": "minecraft:clay"
+  },
+  "waterline": {
+    "block": "minecraft:gravel"
+  },
+  "bank": "minecraft:air",
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air", "minecraft:air", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }
+

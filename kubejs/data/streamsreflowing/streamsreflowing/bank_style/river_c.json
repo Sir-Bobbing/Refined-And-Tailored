@@ -1,10 +1,22 @@
 {
   "tags": ["c:is_river"],
-  "bed": "minecraft:mud",
-  "waterline": "minecraft:mud",
-  "bank": "minecraft:air",
-  "waterline_below": 1, "waterline_above": 0,
-  "underwater_noise": 0.08, "above_water_noise": 0.05,
   "cohesion": 0.3,
-  "point_bar": ["minecraft:gravel", "minecraft:sand"]
+  "bed": {
+    "block": "minecraft:mud",
+    "overrides": [
+      {
+        "when": { "bend": "> 0.2", "side": "inner" },
+        "block": ["minecraft:gravel", "minecraft:sand"]
+      }
+    ]
+  },
+  "waterline": {
+    "block": "minecraft:mud",
+    "below": 10
+  },
+  "bank": "minecraft:air",
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air", "minecraft:air", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }

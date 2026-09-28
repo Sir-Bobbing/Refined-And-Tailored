@@ -5,6 +5,11 @@
     "minecraft:wooded_badlands"
   ],
   "enabled": false,
+  "cohesion": 0.0,
   "bank": "streamsreflowing:chameleon",
-  "cohesion": 0.0
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }
+

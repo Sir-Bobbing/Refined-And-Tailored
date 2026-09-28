@@ -1,9 +1,18 @@
 {
   "tags": ["c:is_ocean"],
-  "bed": "minecraft:mud",
-  "waterline": "minecraft:mud",
+  "cohesion": 0.2,
+  "bed": {
+    "block": "minecraft:mud",
+    "edge_noise": 0.35
+  },
+  "waterline": {
+    "block": "minecraft:mud",
+    "edge_noise": 0.35
+  },
   "bank": "minecraft:air",
-  "waterline_below": 1, "waterline_above": 0,
-  "underwater_noise": 0.08, "above_water_noise": 0.05,
-  "cohesion": 0.2
+  "top_bank": {
+    "block": ["streamsreflowing:chameleon", "minecraft:air", "minecraft:air", "minecraft:air"],
+    "edge_noise": 0.5
+  }
 }
+
