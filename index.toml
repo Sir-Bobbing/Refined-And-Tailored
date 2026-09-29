@@ -2017,6 +2017,30 @@ file = "kubejs/assets/minecraft/textures/gui/sprites/world_list/marked_join_high
 hash = "fd86ae04346f3c62240fadf668a1fa4321b156d1a585649f026b2500b7d9949a"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "6370ecb7fa73e8efd4ad25e2097e2dad114e825a765d3e4173cdee9b97bdb5b0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "d149669a3e96dbc5d8adfbb7f52aaeb9d8953c80d1d5e6a24ce9e1bd35bd6d98"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "f3a80f1213811880da9a3efceb563509276b5c5ff84e2f761b614211b153fe9a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "16bbbf853de3ed02686265439a7cc8a417f2b5d7756c24acce1bdc0d746f9fe0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "01001044c5550fbee492333bebb2e2f776887b5f9da3b7ccbd6f9054227ea1f6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "efaf70fbec08726815d9973cf3cc359d348a4be3b8b6924acc135db5d41135ae"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/item/creeper_banner_pattern.png"
 hash = "10e3cd4159c5919703f43f0c06bc1d02009d24d53b6f57f6129549bc208702c5"
 
