@@ -29,7 +29,7 @@
     "topLayerOpacity": 0.15
   },
   "sky": {
-    "smoothTimeTransitions": false,
+    "smoothTimeTransitions": true,
     "timeTransitionSpeed": 4.0,
     "sunAngledOrbit": false,
     "moonAngledOrbit": false,

@@ -3,10 +3,10 @@
     "minecraft:mushroom_fields"
   ],
   "bed": {
-    "block": "minecraft:gravel"
+    "block": "nomansland:coarse_silt"
   },
   "waterline": {
-    "block": "minecraft:mud"
+    "block": "nomansland:silt"
   },
   "bank": {
     "block": "streamsreflowing:chameleon"
