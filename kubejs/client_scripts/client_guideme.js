@@ -1,6 +1,6 @@
 console.info('GuideME sounds Loaded')
 
 ItemEvents.rightClicked('guideme:guide',event => {
-    event.player.playNotifySound('kubejs:ui_channel_news_04', 'PLAYERS', 0.65, 1);
+    event.player.playNotifySound('exposure:misc.bsod', 'PLAYERS', 1, 1.2);
 })
 

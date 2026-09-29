@@ -15,8 +15,3 @@ ItemEvents.modification(event => {
         item.burnTime = 400
     })
 })
-StartupEvents.registry('sound_event', event => {
-    event.create('kubejs:ui_channel_news_04')
-
-
-})

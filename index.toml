@@ -74,7 +74,7 @@ hash = "fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be"
 
 [[files]]
 file = "config/caelum-client.toml"
-hash = "b0277f5a2ad11bafdf35806f17e25dc6073c3846c621bb4b0a6579e3f582829c"
+hash = "b38aba7eedb2c065769443335ff67f11373c6fe2dd9917a1e8fe276be655e473"
 
 [[files]]
 file = "config/caelum-server.toml"
@@ -150,7 +150,7 @@ hash = "d8088bd461dd7666552c4174bac6549e55112728e07aa3addd0e32a805c230fc"
 
 [[files]]
 file = "config/ding.toml"
-hash = "e8256181f8df08a3763a52aff327278e168402cce131da9cf289a4dfe8e70ab0"
+hash = "b5230d0715f9a248722817c2d7e6be3b2e95d5112c48e309b6808dc4bf9d6436"
 
 [[files]]
 file = "config/e4mc/e4mc.toml"
@@ -1357,14 +1357,6 @@ file = "kubejs/assets/kubejs/models/item/veridium_copper_ore.json"
 hash = "9c0062536c19adcbf0711be0cafa2173e1f30edbaa3d0002456f096536653286"
 
 [[files]]
-file = "kubejs/assets/kubejs/sounds.json"
-hash = "6e392559da2de1e2c49eb40d68c559cd95caee6d74f0880655754aac7451c565"
-
-[[files]]
-file = "kubejs/assets/kubejs/sounds/ui_channel_news_04.ogg"
-hash = "b7761644e5b2b42402707031d097d11d74180769273544d1a289d2b9dd2524c9"
-
-[[files]]
 file = "kubejs/assets/kubejs/textures/block/calcite_lapis_ore.png"
 hash = "1c47575503652d1ce49ebcd2d9a925dc8dfc9f86625dfaaf259b5146edefbdf8"
 
@@ -2420,7 +2412,7 @@ hash = "5db9b097b7606f61e87333e51358fee2ad00b8aa22ace856d88833aa52dfeb10"
 
 [[files]]
 file = "kubejs/client_scripts/client_guideme.js"
-hash = "f9ee267404cffb8a46675558ca86e77b25f9f0e380daa7b03c41861fb7b28591"
+hash = "e88b7603c9f63183011a46e069cfd2a7647279f8d7065cb5ad9bba6685c04c37"
 
 [[files]]
 file = "kubejs/client_scripts/jsconfig.json"
@@ -5744,7 +5736,7 @@ hash = "c130e1eb47823fc129a02d65d93943bd4d57339f3005471d2d32347ec33d6c65"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
-hash = "b98f020db639bcbddfd676edcaf07b18b67fe112212d1755629a8aecd487909a"
+hash = "c698a615ac97a738418cf74edb5c470fb573d6bd1d27a6fbd4de5c22000d0dde"
 
 [[files]]
 file = "mods/aeronautics-propeller-blur.pw.toml"
