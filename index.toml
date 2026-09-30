@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "c0e3714356794fa98a9f43137868ae5b9209e99abc675f96d886d424d820d3fe"
-
-[[files]]
 file = "config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
@@ -3876,7 +3872,7 @@ hash = "c44880f485913e3ad7a4ea68c0667dc7cd73d43d2d1926f81ba7faf4f1a4a429"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/arcane_scamppanzer_beacon.json"
-hash = "8d98c2db67f3a2baa700bea09c14309e603826e030d1ea782ce472710ac13d26"
+hash = "7daac8cb18640f47aa142d246dceb73cd264d7c219fb60c65e9c55f607537f94"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/spirit_infusion/blaze_burner.json"
@@ -6020,7 +6016,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "74c53962ab61b0fca8129674bde3a683ac3d80c7a31eb5677003b38c57e897fe"
+hash = "4d1a8129839b3247174ac2f870aed82a823bf7f39e59b547b34327bf1615aa91"
 metafile = true
 
 [[files]]
@@ -6061,11 +6057,6 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "bf32ced968a9385e80b02a86d24efafb0a90960b1d61230f302018855bc9d361"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "bfd59b9e20b4b13e11f4a8ab12969ca4452050986096616006fd9130736c6dcd"
 metafile = true
 
 [[files]]
@@ -6385,7 +6376,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
-hash = "efd6536ab480527089d936247ab413d03ee3a8d777ba78b18d34cefdedd90b10"
+hash = "d8c1050a07f51577c5e68cd8eadfbfcf69581f9b3908dfd568d7b404e39429eb"
 metafile = true
 
 [[files]]
@@ -6429,7 +6420,7 @@ hash = "db034369d779d791fdf636e4af818354706c57bb8e5e7602c44ca2626fc13c64"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "3f5526604de15f98a8b3dde557e6bb24ca9b0a64daf3c0d710d9659e094537f3"
+hash = "fe0f58c7007d0d8c29a9af36a35202c3ac10492781adad8d70336480ddf44995"
 metafile = true
 
 [[files]]
@@ -6478,6 +6469,11 @@ hash = "83677fd0931987eb06f298d9e8bcb01b357238f54e6250f3f2ca67187981069a"
 metafile = true
 
 [[files]]
+file = "mods/roxy.pw.toml"
+hash = "be6c86a0c09d5a7ecaeab367289e7b8175ffe6d4accd7892751bbc91a8ed2a5b"
+metafile = true
+
+[[files]]
 file = "mods/sable-cleanup.pw.toml"
 hash = "855f420a37514259be42124e53ea42c1527ad2ae7bfcba983eeca6669c57f7f5"
 metafile = true
@@ -6500,11 +6496,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "4fc21e7bac0dfd2d036a41139a80ec546c60881cb99252a86189ad914e2dadd6"
-metafile = true
-
-[[files]]
-file = "mods/seeu.pw.toml"
-hash = "9e3133df58056e2919e50219dd0b8dcecb35993195cf69acae7728b743b9e8cf"
 metafile = true
 
 [[files]]
@@ -6604,7 +6595,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
-hash = "ea42c54c9bade4f4521d152377cd2bf3cc3effdc1dd5f63ba8d58082244f628b"
+hash = "b7a0da4e7391dba7162f60a40120b1d1b99b6d46a68b21b3986e7e5f2d037b36"
 metafile = true
 
 [[files]]
@@ -6635,6 +6626,16 @@ metafile = true
 [[files]]
 file = "mods/void-water.pw.toml"
 hash = "2b51d720c00deeb58e4f54f4467a9795089caf402429ec9c369d1c204e3122e5"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "2d23fb4b0963168067bdcc2acfff99e95e91d0e0ade8d4287e8f645e5fc27e9a"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "cb3100fe1bf06ac143d9fe8684e9767aa591ae8a4e1d3907088d2e436c75967f"
 metafile = true
 
 [[files]]
