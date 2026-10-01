@@ -358,7 +358,7 @@ hash = "4ded70dd23fb579b33284f459248b2284d9db4789beb6096228224421f8b9673"
 
 [[files]]
 file = "config/roxy-fog.json"
-hash = "b823ea1450d6a9ad7f4d312e00aa504c3da53365302c2c6435b40b9dd24a6bd9"
+hash = "f245fa1488ee7786c84b578da665c681f3681e2f45c383e67603bd189b8a8c1a"
 
 [[files]]
 file = "config/sable-common.toml"
