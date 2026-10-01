@@ -6348,6 +6348,11 @@ hash = "49c5f6f73331b359eff900aeec91e27078e1217834ea8a7e98cceb4f993a49cc"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "af5204bc5bc9fbd3b032c7314227367e1c8269e0f3c11bac6f58a006043a6886"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "bf7a5824bdc50fcb0bd000d4caa0f29a8adae77de88c2f96e450e0864f337c3c"
 metafile = true
