@@ -3,11 +3,11 @@
   "ingredients": [
     {
       "type": "neoforge:single",
-      "amount": 1,
+      "amount": 20,
       "fluid": "tfmg:molten_slag"
     }
   ],
-  "processing_time": 10,
+  "processing_time": 44,
   "results": [
     {
       "id": "tfmg:slag_block"
