@@ -51,6 +51,7 @@
 - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) by patryk3211, Da\-Negy, rvndm, casvara
 - [Create: Rail Grinding](https://modrinth.com/mod/ix2S0LbR) by Juni Knytt
 - [Create: Redstone Link GUI](https://modrinth.com/mod/GhtD1QcW) by ggrgg
+- [Create: Smart Bounds](https://modrinth.com/mod/kSok4DxT) by LiukRast
 - [Create: The Factory Must Grow](https://modrinth.com/mod/hC1xYvnS) by DrMangoTea, Pepa, Luna
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
@@ -62,7 +63,6 @@
 - [Deeper Oceans](https://modrinth.com/mod/yqHsPROA) by Apollo
 - [Design n' Decor](https://modrinth.com/mod/x49wilh8) by LopyLuna, DrMangoTea
 - [Ding](https://modrinth.com/mod/UEtTD3gP) by iChun
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) by James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh
 - [Dramatic Doors \(NeoQuiFab\)](https://modrinth.com/mod/aQ7h7gal) by Fizzware \(Original creator\), Kitteh6660 \(Fabric port\)
 - [Drive\-By\-Sable](https://modrinth.com/mod/rrNGnYXg) by lakeOpossMC
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) by NovaWostra, Konci, Walls
@@ -93,6 +93,7 @@
 - [GuideME](https://modrinth.com/mod/Ck4E7v7R) by shartte
 - [HT's TreeChop](https://modrinth.com/mod/gHoB7SHO) by hammertater
 - [Handcrafted](https://modrinth.com/mod/pJmCFF0p) by Alex Nijjar, Kekie6
+- [I'm Fast](https://modrinth.com/mod/PaUMOeP0) by Bielhiss
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Immersive Enchanting](https://modrinth.com/mod/DfWQAvS4) by Alfie
 - [Immersive Paintings](https://modrinth.com/mod/6txNkua3) by Luke100000
@@ -116,7 +117,6 @@
 - [Melody](https://modrinth.com/mod/CVT4pFB2) by Keksuccino
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) by embeddedt
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) by MehVahdJukaar
-- [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS, 1Foxy2
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6) by Farcr, Tazer, and many Contributors
 - [NoExplodeItems](https://modrinth.com/mod/FnYjkHdc) by FifthTundraG
@@ -140,6 +140,7 @@
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
 - [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ)
 - [Rhino](https://modrinth.com/mod/sk9knFPE) by latvian\.dev, Mozilla
+- [Roxy](https://modrinth.com/mod/Ap78bKTp)
 - [Sable](https://modrinth.com/mod/T9PomCSv) by RyanHCode
 - [Sable Cleanup Tools](https://modrinth.com/mod/wVnz7KNf) by SwigBox
 - [Scholar](https://modrinth.com/mod/fX4dIQCo) by mortuusars
@@ -170,6 +171,8 @@
 - [VS Hose Connectors](https://modrinth.com/mod/YaZEkFmd) by M\_K2525
 - [Vista](https://modrinth.com/mod/zuARv1N7) by MehVahdJukaar, Plantkillable
 - [Void Water](https://modrinth.com/mod/Oyt8TC1k) by NormallyNormal
+- Voxy by Cortex
+- [Voxy Server Side](https://modrinth.com/mod/84zcagOb) by Xantha, VoX
 - [Wither Reincarnated](https://modrinth.com/mod/YDc8cRWF) by Alexander's Fun and Games
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [\[Furniture\] Create/Sable Compat](https://modrinth.com/mod/W2K5jx3j) by mistrberry

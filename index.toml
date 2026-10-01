@@ -202,7 +202,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f10e7f742a47b41cfdf25d93481a21abdc383e94613b80f28c0372b4557a4f64"
+hash = "53cd20e989b55d5334424ed4a5fa406d0f88c8f72fce779889464798929b1a3b"
 
 [[files]]
 file = "config/fancymenu/customization/inventory_screen_layout.txt"
@@ -310,7 +310,7 @@ hash = "8d90b90625059dfc5f34891543ddd1e683418f5c0d7d7cb9e7aa070b96cc6358"
 
 [[files]]
 file = "config/personality-client.toml"
-hash = "dff5d7af96730f2054dab42d85b360298c335dd1da379477c86a8ecfb8f36082"
+hash = "1f8dbefd4f01ad625c67e9becd111f132a14499fc569cd8e715cbec038db7b2a"
 
 [[files]]
 file = "config/personality-common.toml"
@@ -2106,8 +2106,16 @@ file = "kubejs/assets/scguns/sounds/item/flamethrower/reload.ogg"
 hash = "d1deff017ff86db2412252f03c0435743d74d2100bd96200c277adbef9d8fef5"
 
 [[files]]
+file = "kubejs/assets/scguns/sounds/item/grenade/pin.ogg"
+hash = "4eaafa7d63c5d368e49cbdffdbf75b60125be97afcb23f56cd8fdadeb6b2aee6"
+
+[[files]]
 file = "kubejs/assets/scguns/sounds/item/gun_sounds/hiss.ogg"
 hash = "8378c9c1a1a6e2ce2da3473d241f086c7135fab8e234ca65753d6f90a6836b95"
+
+[[files]]
+file = "kubejs/assets/scguns/sounds/item/gun_sounds/metal.ogg"
+hash = "3c48586e2406bdea6983fc668bc56c99f2a6cf54160ad3059e7b80d21c723f71"
 
 [[files]]
 file = "kubejs/assets/scguns/sounds/item/plasma/fire.ogg"
@@ -5440,7 +5448,7 @@ hash = "aae24e912dc9dc3c41057f3f8496f6e776b6e9cfd7d59010d47219dfd1b5add6"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/casting/slag_block.json"
-hash = "94ca30c919063771ae84809e793c975a051b4a005df2d91e32ca93e1f3d3c73c"
+hash = "092335b47b09ea5ea236036b3bc9b9e4fa6de773e54672a0307eae68459c9286"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/coking/charcoal.json"
@@ -5460,7 +5468,7 @@ hash = "955f524bd8bf4f0f06fe8ae6267afc38b904dfc837acdad23699ec25023211a4"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/industrial_blasting/steel.json"
-hash = "733e1192e1e0dfb2fd52442299e66420f6cf8c2b178b1fb1231fe65c7753adcc"
+hash = "744414488f249d1c4734d95ce2f755dcddef63eaacab0765a36a0a3b67ee3364"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/industrial_blasting/steel_from_dust.json"
@@ -5492,7 +5500,7 @@ hash = "76aa7c54e02ed258563f4b9d7a1bd11d6e1fc3f132496c2e5666f390500e96ca"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/arc_furnace_steel.json"
-hash = "fa4097bd520084f5cdc33b9f0fcae1aba8c76e8a8d838734839114a1c5530f57"
+hash = "0a8132a26f620054935577ebec798e7b02aa05511950975213c82ed3fde8bad9"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/rubber.json"
@@ -5652,7 +5660,7 @@ hash = "fe524c4c1a97d60574d1dc4beb9b4537102feed54231b971c88781b9060824fa"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
-hash = "6c744af0cdff299cb1dbe4acf42f361077d8bebb0f51bb0730f9f7ae008eb0bf"
+hash = "119619d80ffa06028f04d98ec4b073ec5dea8678fbcc4b9005dee2cba11aa143"
 
 [[files]]
 file = "kubejs/server_scripts/nephrite_condensation.js"
