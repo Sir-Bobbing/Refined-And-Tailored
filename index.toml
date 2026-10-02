@@ -5882,8 +5882,8 @@ hash = "4d2ae3e82147d6ff25080403326583b6b8927b1c40f2a4ae1e3e522baea8cc15"
 metafile = true
 
 [[files]]
-file = "mods/chunksmith.pw.toml"
-hash = "2425f1688d9ecf6355e3d8468e375f268dcd8e26665c49b5470d0b1379a94ea7"
+file = "mods/chunky.pw.toml"
+hash = "ef2323b87d1ba4d03d0ee1ab800d06ba6490f45a1b84ecd341f9e3b5bc5e16bf"
 metafile = true
 
 [[files]]
