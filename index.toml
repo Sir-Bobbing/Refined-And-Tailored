@@ -5467,6 +5467,10 @@ file = "kubejs/data/tfmg/recipe/crafting/materials/lithium_charge.json"
 hash = "955f524bd8bf4f0f06fe8ae6267afc38b904dfc837acdad23699ec25023211a4"
 
 [[files]]
+file = "kubejs/data/tfmg/recipe/hot_blast/hot_air.json"
+hash = "09b3077304fd864198d3e254a4e5c202d7ce7ea48fa89b5394536fa8cc5fa01c"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/industrial_blasting/steel.json"
 hash = "744414488f249d1c4734d95ce2f755dcddef63eaacab0765a36a0a3b67ee3364"
 
@@ -5878,8 +5882,8 @@ hash = "4d2ae3e82147d6ff25080403326583b6b8927b1c40f2a4ae1e3e522baea8cc15"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "ec47bde8d0c44f6d24cd0527abdcd88f1045ed3a0b3e1842f66284a56da8841b"
+file = "mods/chunksmith.pw.toml"
+hash = "2425f1688d9ecf6355e3d8468e375f268dcd8e26665c49b5470d0b1379a94ea7"
 metafile = true
 
 [[files]]
