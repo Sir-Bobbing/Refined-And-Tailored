@@ -98,6 +98,10 @@ ServerEvents.tags('item', event => {
     event.add('kubejs:steel_tools', 'tfmg:steel_hoe')
     event.add('kubejs:steel_tools', 'prospectingpicks:steel_prospector_pick')
 
+// Add wireless terminal to any curios slot
+    event.remove('curios:belt', 'toms_storage:adv_wireless_terminal')
+    event.add('curios:curio', 'toms_storage:adv_wireless_terminal')
+
 // Scorched Guns Bullet Materials
     event.removeAll('scguns:advanced_bullet_material')
     event.removeAll('scguns:advanced_bullet_tips')
