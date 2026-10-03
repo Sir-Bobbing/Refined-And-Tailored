@@ -5768,7 +5768,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "e4dccedaa247c4ea77e46a7ace485161fa27c7ec265cb8ef11083a93edc3db50"
+hash = "9faf8f7258e92e73894d3c3fc7eb1c98f22fd30b7b44d28a883a6b8dfa198e02"
 metafile = true
 
 [[files]]
@@ -6103,7 +6103,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "aa4da6ff19859eaa4d973dc5b23e67f63c89e48c2a5a63725a719126d1c5dbf3"
+hash = "e4c366e4e783fc51eb44814b53a965cb4dadefbd0105c684aa6112f792b619d5"
 metafile = true
 
 [[files]]
@@ -6452,7 +6452,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "4b7c646abfcd9880ce9ba08b700197ddab3db9105af1bae75e40fed907a86e6d"
+hash = "f3fcbe961fcd2e7f6dda503f1dbf1c8bf3d1d9ec4af9a6919fbeaed3727c948a"
 metafile = true
 
 [[files]]
@@ -6462,12 +6462,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "fa406ac2142206534a2a112b6d2b480a4745fa454a1adafbaec5b56a2499147f"
+hash = "c979b0c6fa8c5fc4f889c4154ed9340ab22a552b34c5409ff586e5e3b8d1592d"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "604e78c5c365d32b1f609155a0d64bf5b3b6dbb5ee5f90d169959124be653bed"
+hash = "2df2bb3acf66bf3ff2444d96f7d66776eba0a4f3b1059960c8fce4598ef8e33b"
 metafile = true
 
 [[files]]
@@ -6497,7 +6497,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "c86b134c50fbe117fe89cc0116b5e1c1c437e40613d16d1fbd53cf3850f7c435"
+hash = "520033b5dde193bb19a3251bd4354f5dbe41d90747344c1dd4132e401279bda3"
 metafile = true
 
 [[files]]
@@ -6587,7 +6587,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "836f394490e554d6b05ea6775a4be878034c50408593f22abef17691778f7e9a"
+hash = "2cdb5559481c93c1071b89453c0cfa2c8a7cc9a02e7e61784e5a444a29717c30"
 metafile = true
 
 [[files]]
