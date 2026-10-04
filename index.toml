@@ -2491,6 +2491,10 @@ file = "kubejs/data/aeronautics/advancement/root.json"
 hash = "7c6af25bd0b9a885e2ec974548df3a0c3e877081d2d6cfd976ae3da4f7174849"
 
 [[files]]
+file = "kubejs/data/alternate_biome_transitions_1.1.3.zip"
+hash = "1e68193b39623d0edbb5d6e2a5b75bf3412a72a64f3a8ba5f1e4d5ed2cf2e759"
+
+[[files]]
 file = "kubejs/data/another_furniture/recipe/acacia_shutter.json"
 hash = "213873c498ac63f62b39ff55e7975777cd08ec259419e2357707ec40cee79067"
 
@@ -6406,7 +6410,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "877f48019c5033226987acf63e6eafb881a58e01c50dea3b29d61a9992dc4170"
+hash = "9244057721eb50a67c606b834a276da7c79fb42fac7812b8fe9ca449997791a9"
 metafile = true
 
 [[files]]
