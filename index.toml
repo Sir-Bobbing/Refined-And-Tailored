@@ -185,6 +185,10 @@ file = "config/everycomp-common.toml"
 hash = "6ecab953789d91c8100bbad6195ca4e9966dd73049be083070e57e484440fe24"
 
 [[files]]
+file = "config/everycomp-entries.toml"
+hash = "aefb39f3ca210a5e1a79a8443eab4e4a53477db7e34c223056f4eb9ea59cde6a"
+
+[[files]]
 file = "config/everycomp-hazardous.toml"
 hash = "f306d0ca39ff5dffc0d71715d651f3fabdceafce6978bce78e3c30a73a15adc9"
 
@@ -1429,12 +1433,32 @@ file = "kubejs/assets/kubejs/textures/gui/sprites/overlay.png"
 hash = "3bb4c5bf2cf3d177b91f99c3162319585695a44358d27b1dcd5343ebf558102e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/arcane_scampanzer_transmitter.png"
+hash = "8bc9e8994d06078ca4fd76fa8491418d50502c4ca155f177be678f4fbaa35c63"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/arcane_scampanzer_transmitter.png.mcmeta"
+hash = "3e7163d4fdd684651c130368616054942b4b0a38ce54a6f2f06a2ceae77fa71c"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/giggler.png"
 hash = "dd17d01b8c0f6edc5474c2e2dc54e1ea06c140410e98dd69592ebc4017e77520"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/guide.png"
-hash = "33b6f7c419928a38489b138c5195c0adde98a1cb41e53876a2d7c81bc5fbfbe3"
+hash = "50f2b9fbbf63a9f418e303cdcf5807dcf5580f8fbc80e4e06f85076b278a012e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/guide.png.mcmeta"
+hash = "30d84eef95eb17f54d9ffe82e588b0ca69159b9775eef17dd1a1ae902e776dd5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/scampanzer_transmitter.png"
+hash = "5025a59021f6ee2ce7b945e8d9a40ff678411147c9c614054479babede5dd67a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/scampanzer_transmitter.png.mcmeta"
+hash = "3e7163d4fdd684651c130368616054942b4b0a38ce54a6f2f06a2ceae77fa71c"
 
 [[files]]
 file = "kubejs/assets/malum/lang/en_us.json"
@@ -5740,7 +5764,7 @@ hash = "a8b62a26e25e518eb27d0d2d98c7c204eea138abb42ca281742142474099aa10"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
-hash = "c130e1eb47823fc129a02d65d93943bd4d57339f3005471d2d32347ec33d6c65"
+hash = "7671b11bc9e8a28ff80449bda8274fe22228cc5f7b8e4c4ba44ca8eb2f727a20"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
