@@ -21,9 +21,9 @@ addonId = '3KUWeVhG'
 type = 'EMBEDDED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
+addonId = 'qy8EtCnG'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'qy8EtCnG'
+addonId = 'LNytGWDc'
 type = 'OPTIONAL'

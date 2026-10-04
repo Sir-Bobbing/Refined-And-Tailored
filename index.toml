@@ -6386,6 +6386,11 @@ hash = "bf7a5824bdc50fcb0bd000d4caa0f29a8adae77de88c2f96e450e0864f337c3c"
 metafile = true
 
 [[files]]
+file = "mods/mixer.pw.toml"
+hash = "b0961b096f06c6c7122fdb64e2f3ec6e859417494257013e52dbaa1ad18b2755"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "67036ae8d42f13d0370a40ded80dea42bf29fb388921e4cf76f5b6d5f37f3275"
 metafile = true
@@ -6486,12 +6491,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "c979b0c6fa8c5fc4f889c4154ed9340ab22a552b34c5409ff586e5e3b8d1592d"
+hash = "f08ea5ec2927b4041abc34046529ddb747aa49051a52b338d49e00d7cff3de18"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "2df2bb3acf66bf3ff2444d96f7d66776eba0a4f3b1059960c8fce4598ef8e33b"
+hash = "eb68c9a002ae9d2dee00f95744a30f98c73e8b1adb974b94fb4653d72c6d820f"
 metafile = true
 
 [[files]]
@@ -6521,7 +6526,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "520033b5dde193bb19a3251bd4354f5dbe41d90747344c1dd4132e401279bda3"
+hash = "c9c0444568310c2789949595ca1983a5926d8ef639e1912c5a2ff6f40d639292"
 metafile = true
 
 [[files]]
@@ -6606,7 +6611,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "c25ca66c6ef6297030730c03b2125765e8917016c0f431c8f8ecdf040c1a506c"
+hash = "066e132f9789d75c0370f99858ec153f08511c1ceb529414194c0ef1cb8bc0b1"
 metafile = true
 
 [[files]]
