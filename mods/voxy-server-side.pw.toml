@@ -1,6 +1,6 @@
 filename = 'voxy-server-side-neoforge.jar'
 name = 'Voxy Server Side'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
