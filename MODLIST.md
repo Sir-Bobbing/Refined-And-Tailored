@@ -63,6 +63,7 @@
 - [Deeper Oceans](https://modrinth.com/mod/yqHsPROA) by Apollo
 - [Design n' Decor](https://modrinth.com/mod/x49wilh8) by LopyLuna, DrMangoTea
 - [Ding](https://modrinth.com/mod/UEtTD3gP) by iChun
+- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) by James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh
 - [Dramatic Doors \(NeoQuiFab\)](https://modrinth.com/mod/aQ7h7gal) by Fizzware \(Original creator\), Kitteh6660 \(Fabric port\)
 - [Drive\-By\-Sable](https://modrinth.com/mod/rrNGnYXg) by lakeOpossMC
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) by NovaWostra, Konci, Walls
@@ -114,6 +115,7 @@
 - [Lootr](https://modrinth.com/mod/EltpO5cN) by Noobanidus
 - [Malum](https://modrinth.com/mod/jgzwYsAN) by Sammy Semicolon
 - [Mannequins](https://modrinth.com/mod/wfGzjtBG) by Jackson
+- [Measurements](https://modrinth.com/mod/wLINU2AB) by Mrbysco
 - [Melody](https://modrinth.com/mod/CVT4pFB2) by Keksuccino
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) by embeddedt
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) by MehVahdJukaar
@@ -140,15 +142,14 @@
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) by ThatGravyBoat, Epic\_Oreo
 - [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ)
 - [Rhino](https://modrinth.com/mod/sk9knFPE) by latvian\.dev, Mozilla
-- [Roxy](https://modrinth.com/mod/Ap78bKTp)
 - [Sable](https://modrinth.com/mod/T9PomCSv) by RyanHCode
 - [Sable Cleanup Tools](https://modrinth.com/mod/wVnz7KNf) by SwigBox
 - [Scholar](https://modrinth.com/mod/fX4dIQCo) by mortuusars
 - [Scorched Guns](https://modrinth.com/mod/GwtIopV4) by ribs
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) by Jaredlll08
+- [SeeU](https://modrinth.com/mod/coyNPDey) by Keryesh4ka
 - [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) by Max Henkel
 - [Sinytra Connector](https://modrinth.com/mod/u58R1TMW)
-- [Sleep Tight](https://modrinth.com/mod/tNai0h2Y) by MehVahdJukaar, Plantkillable
 - [Snow Under Trees](https://modrinth.com/mod/Q3vyMuj2) by bl4ckscor3
 - [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\), IMS212
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
@@ -171,8 +172,6 @@
 - [VS Hose Connectors](https://modrinth.com/mod/YaZEkFmd) by M\_K2525
 - [Vista](https://modrinth.com/mod/zuARv1N7) by MehVahdJukaar, Plantkillable
 - [Void Water](https://modrinth.com/mod/Oyt8TC1k) by NormallyNormal
-- Voxy by Cortex
-- [Voxy Server Side](https://modrinth.com/mod/84zcagOb) by Xantha, VoX
 - [Wither Reincarnated](https://modrinth.com/mod/YDc8cRWF) by Alexander's Fun and Games
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
 - [\[Furniture\] Create/Sable Compat](https://modrinth.com/mod/W2K5jx3j) by mistrberry
