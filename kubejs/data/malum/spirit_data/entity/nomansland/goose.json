@@ -1,0 +1,18 @@
+{
+  "registry_name": "nomansland:goose",
+  "primary_type": "malum:aerial",
+  "spirits": [
+    {
+      "spirit": "malum:aerial",
+      "count": 2
+    },
+    {
+      "spirit": "malum:wicked",
+      "count": 1
+    },
+    {
+      "spirit": "malum:aqueous",
+      "count": 1
+    }
+  ]
+}
