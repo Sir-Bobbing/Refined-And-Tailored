@@ -20,4 +20,7 @@ ClientEvents.lang('en_us', event => {
         event.add(`block.kubejs.${ore.name}`, getOreName(ore))
     }
 
+    event.add('item.minecraft.potion.effect.recall', 'Potion of Recall')
+    event.add('item.minecraft.splash_potion.effect.recall', 'Splash Potion of Recall')
+    event.add('item.minecraft.lingering_potion.effect.recall', 'Lingering Potion of Recall')
 })
