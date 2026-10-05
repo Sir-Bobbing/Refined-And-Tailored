@@ -385,10 +385,6 @@ file = "config/scguns-server.toml"
 hash = "ae6bce535be8b129f11d95ba93fc9edf7fc683edfe120c7d7bfa3906d8d784f7"
 
 [[files]]
-file = "config/sleep_tight-client.toml"
-hash = "fa271dd82228c8ae6eec3abce7417f4b95431b6626e076a1ce01dcaad4281f99"
-
-[[files]]
 file = "config/solonion-client.json"
 hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
 
@@ -6560,11 +6556,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "347638484702dd7c7fc54ba49895f376b92a7e4a80b0880adb63f1299e406555"
-metafile = true
-
-[[files]]
-file = "mods/sleep-tight.pw.toml"
-hash = "124a3e3d33d8858f658806fec1e88f78c2230b3d87f901a1b814e19c3b96237b"
 metafile = true
 
 [[files]]
