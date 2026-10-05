@@ -2448,7 +2448,7 @@ hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
 file = "kubejs/client_scripts/lang.js"
-hash = "5af58b30e16bf1d2c772313e7298c400e5f89d405d5445e180dddfd7bee7178d"
+hash = "e02bd07d8adaaa51b251234726d269e8d7acef69f988f604d60b561728939129"
 
 [[files]]
 file = "kubejs/client_scripts/lib.js"
@@ -5744,7 +5744,7 @@ hash = "6c869c3727dc13171713a7f0af8507756da13e75d1cdd5e4582b6e74f7d7bc8b"
 
 [[files]]
 file = "kubejs/startup_scripts/giggler.js"
-hash = "5febacd8157f5c9095d9e5e06334d045b7498b9cb37740cc0a89b32296059963"
+hash = "84a90579ac752a7d624f40ce46814e3932108457501bfedc787e02ce346f2322"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
@@ -5765,6 +5765,10 @@ hash = "373e37aa54d46e451fb85371d60de5778b5121a6a6ad4a8b710dfbffb365aa48"
 [[files]]
 file = "kubejs/startup_scripts/player_navigation.js"
 hash = "a8b62a26e25e518eb27d0d2d98c7c204eea138abb42ca281742142474099aa10"
+
+[[files]]
+file = "kubejs/startup_scripts/recall_effect.js"
+hash = "17651af142d9952c20aa7daa74f3fe7131d8ccc7b3181446077cb6da3a701d90"
 
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
