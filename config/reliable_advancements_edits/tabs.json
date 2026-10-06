@@ -1893,8 +1893,106 @@
           106
         ]
       }
+    },
+    "drivebysable:root": {
+      "positions": {
+        "drivebysable:eat_honeyed_clipboard": [
+          12,
+          76
+        ],
+        "drivebysable:honeyed_clipboard_seconds": [
+          23,
+          113
+        ],
+        "drivebysable:place_honeyed_clipboard": [
+          36,
+          155
+        ],
+        "drivebysable:cable_cutter": [
+          32,
+          -6
+        ],
+        "drivebysable:network_cut": [
+          64,
+          -36
+        ],
+        "drivebysable:first_connection": [
+          83,
+          11
+        ],
+        "drivebysable:cross_level_connection": [
+          122,
+          -10
+        ],
+        "drivebysable:long_connection": [
+          157,
+          -33
+        ],
+        "drivebysable:cable_io_bus": [
+          76,
+          67
+        ],
+        "drivebysable:backup_drive": [
+          76,
+          112
+        ],
+        "drivebysable:network_saved": [
+          76,
+          157
+        ],
+        "drivebysable:cable_hub": [
+          110,
+          39
+        ],
+        "drivebysable:cable_typewriter_hub": [
+          125,
+          72
+        ],
+        "drivebysable:handheld_typewriter_controller": [
+          166,
+          70
+        ],
+        "drivebysable:handheld_signal": [
+          218,
+          64
+        ],
+        "drivebysable:multi_channel_cable_bus": [
+          129,
+          107
+        ],
+        "drivebysable:integrated_sensor_bus": [
+          167,
+          111
+        ],
+        "drivebysable:all_sensor_channels": [
+          218,
+          113
+        ],
+        "drivebysable:linked_gearbox": [
+          112,
+          139
+        ],
+        "drivebysable:opposing_forces": [
+          150,
+          150
+        ],
+        "drivebysable:double_speed": [
+          187,
+          156
+        ],
+        "drivebysable:overstressed": [
+          230,
+          162
+        ]
+      }
     }
   },
   "deleted_advancements": {},
-  "derived_presentation": {}
+  "derived_presentation": {
+    "drivebysable:root": {
+      "title": "Drive-By-Sable",
+      "icon": "drivebysable:cable",
+      "background": "drivebysable:textures/gui/advancements.png"
+    }
+  }
 }
