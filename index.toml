@@ -3795,10 +3795,6 @@ file = "kubejs/data/kubejs/recipe/distillation/slag_5.json"
 hash = "37e748230da38ca15667bc5f188f787fd984315329a91fbcddef935a09436478"
 
 [[files]]
-file = "kubejs/data/kubejs/recipe/distillation/slag_6.json"
-hash = "6086f8d111a2d9742c88926f486ed8fece93d4031df70b30257d510ba4c93706"
-
-[[files]]
 file = "kubejs/data/kubejs/recipe/guns/echoes_2_from_gun_bench.json"
 hash = "369d234ab28c343a855c581efebe62abaabd5dd6b2bdd841789858f360d7b9fa"
 
@@ -4337,6 +4333,10 @@ hash = "0b7b642cf0cfe34c265252195e1a97bd74d8a51631baf19cdcef6cc8353c9e2c"
 [[files]]
 file = "kubejs/data/malum/recipe/void_favor/mnemonic_fragment_from_cluster.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/malum/spirit_data/entity/nomansland/goose.json"
+hash = "71204da990b670b5255ad753b49a9f6592440d1139789ba14452d5d3ad5bab93"
 
 [[files]]
 file = "kubejs/data/malum/worldgen/placed_feature/azure_runewood_tree.json"
@@ -5911,11 +5911,6 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "4d2ae3e82147d6ff25080403326583b6b8927b1c40f2a4ae1e3e522baea8cc15"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "ef2323b87d1ba4d03d0ee1ab800d06ba6490f45a1b84ecd341f9e3b5bc5e16bf"
 metafile = true
 
 [[files]]
