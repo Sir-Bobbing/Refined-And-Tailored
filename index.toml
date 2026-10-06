@@ -358,7 +358,7 @@ hash = "ea8e9afac997cab4d8eb37fc0427b1c748a874eda93d5d43e1fec7fa1256cbf7"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "adb30810fe62c715940b075c7b2e0cdc7fbe199989e551b92843b5b1fea0b3b7"
+hash = "6738a74628cb620a6c41dcdb7674be55c890fb10d4a8090232d9e638e675f46e"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -443,6 +443,10 @@ hash = "f0cb05d89267d5b983bb2fc921c5bb005d7868e3256ac7a445f7c95a06ec447a"
 [[files]]
 file = "config/voxy-config.json"
 hash = "6c7975c7c1104fca93069c34e359bbde58f33863680ec33322dcab3bbc5340b7"
+
+[[files]]
+file = "config/vsfluidlink-server.toml"
+hash = "eeb017ebe586644006d01bf286d5cfd9868f4592cba836ef62df37c06c308153"
 
 [[files]]
 file = "config/yacl.json5"
@@ -2429,14 +2433,6 @@ hash = "87a4df14c5e54e9075637fb538b38b0f5eac4c75df9445bca0c8be9c9cef1d23"
 [[files]]
 file = "kubejs/assets/voicechat/textures/gui/gui_volumes.png"
 hash = "2464e5333c003d3463522e1aeaeb1269b76db90b2ddb74c292be5057240c41e4"
-
-[[files]]
-file = "kubejs/assets/vsfluidlink/textures/block/copper_coil.png"
-hash = "b8f3614db86706a589837223ba8d510042270df7fb753a960e673e4066512916"
-
-[[files]]
-file = "kubejs/assets/vsfluidlink/textures/block/copper_coil_2.png"
-hash = "5db9b097b7606f61e87333e51358fee2ad00b8aa22ace856d88833aa52dfeb10"
 
 [[files]]
 file = "kubejs/client_scripts/client_guideme.js"
@@ -6110,7 +6106,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
-hash = "ce6a2afab5132853dc9c6683f74da3dd2e156009d6f3ac293344dbae464b2e02"
+hash = "563ef00ef4c1991453b50c3b83fecdacc11b6f8de25dc6bb51799f361e5dd7e8"
 metafile = true
 
 [[files]]
@@ -6629,7 +6625,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "4b17221b35c57d671ea2262d6684646f69d20bbc99e7d0af997126d0001f3e09"
+hash = "71c6f19d6e5dab48233e8dbfd04914b63c79e4a73beba1c793b8fb1212ea6227"
 metafile = true
 
 [[files]]
