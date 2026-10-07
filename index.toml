@@ -5984,6 +5984,11 @@ hash = "07d4a4e17176f56e21f6714a1706384dad8f596d09edcb750c17c6f9d93b8786"
 metafile = true
 
 [[files]]
+file = "mods/cpmsvcc.pw.toml"
+hash = "0467758ccaa1f2dbd029be5d4df1ef60aad6362c365fa81a956a157912bd3f92"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-lift-patch.pw.toml"
 hash = "bd1a8ae0e3b2194bf4d7ae88ce5b45ef953d05aebe8bc9268779db4f53295600"
 metafile = true
