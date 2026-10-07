@@ -438,7 +438,7 @@ hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
 
 [[files]]
 file = "config/vista-common.toml"
-hash = "f0cb05d89267d5b983bb2fc921c5bb005d7868e3256ac7a445f7c95a06ec447a"
+hash = "77ce1f2a641a86d05e52a6f1bd74a5dcae3dd916f5bff4219b6fc723f1908ada"
 
 [[files]]
 file = "config/voxy-config.json"
@@ -2407,6 +2407,10 @@ file = "kubejs/assets/toms_storage/textures/gui/tag_filter.png"
 hash = "c3a12f56038a3d244c7d2dca941c891b91e8a50f127a05296fd5ca966883d4f4"
 
 [[files]]
+file = "kubejs/assets/vista/textures/block/wave_gate/antenna.png"
+hash = "b2f740d6bd5eb9c006fe991d45333e8d54cf2dec4eda52863859e0d22cc379d6"
+
+[[files]]
 file = "kubejs/assets/voicechat/textures/gui/gui_audio_devices.png"
 hash = "e660042aab56f098495d0be257c29694d9b2aa1351ae704e92c1cf7c5b211bf9"
 
@@ -2460,7 +2464,7 @@ hash = "e7df02d5c28858a3ba50929fefbb28c1d5175af8a22c7d4451fefe240ee4e405"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "6d9d4be771d14d308e72a75c762bb09259fba8b989db3a9612d0ae227f877c0a"
+hash = "5714c1b1d5cf5232444b7e06a879ca1fe1f797ceb4d151a361a576823c3356e0"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -5625,6 +5629,10 @@ hash = "8de6683b66aa286e7974b1d1f2777d04de30cc05c696c81c0be45927d2bd0ffd"
 [[files]]
 file = "kubejs/data/vista/recipe/television.json"
 hash = "1ba8d4ec7b26b83912a823e602839d76a30c2b483cc37d3c625714c622d0898b"
+
+[[files]]
+file = "kubejs/data/vista/recipe/wave_gate.json"
+hash = "1e7aabb60b985df6b3b67a8b3ebc11ac39f87751196cfb100bb973e1283e7886"
 
 [[files]]
 file = "kubejs/data/vsfluidlink/recipe/crafting/chain_connector.json"

@@ -32,6 +32,9 @@ ItemEvents.modifyTooltips(event => {
     event.add('minecraft:enchanted_book', Text.darkRed('Enchanting only possible through ancient books.'))
     event.modify('immersiveenchanting:ancient_book', tooltip => {
         tooltip.dynamic('ancient_book_tooltip')
+
+
+    event.add('vista:wave_gate', Text.gray('Uses Links, Connect to a Television with a Hollow Cassette.'))
     })
 })
 
