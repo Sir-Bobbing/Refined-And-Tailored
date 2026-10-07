@@ -1465,6 +1465,10 @@ file = "kubejs/assets/kubejs/textures/item/scampanzer_transmitter.png.mcmeta"
 hash = "3e7163d4fdd684651c130368616054942b4b0a38ce54a6f2f06a2ceae77fa71c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/mob_effect/recall_sickness.png"
+hash = "213365e4a963a19a78919b23e411290608559a925db00f742b92fc650993179e"
+
+[[files]]
 file = "kubejs/assets/malum/lang/en_us.json"
 hash = "dc1543796c5447a114e1c6f7aaa40fbb1ea1a54885f698059ff05e75abf3ddd3"
 
@@ -2444,7 +2448,7 @@ hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
 [[files]]
 file = "kubejs/client_scripts/lang.js"
-hash = "e02bd07d8adaaa51b251234726d269e8d7acef69f988f604d60b561728939129"
+hash = "7693ca84bc73e9faf1bc9f0f68dbe6554e930768e61b2163b9d0ad4c02b5e7c3"
 
 [[files]]
 file = "kubejs/client_scripts/lib.js"
