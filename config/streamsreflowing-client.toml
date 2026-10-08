@@ -38,10 +38,10 @@
 	#Applies at once.
 	# Default: 1000
 	# Range: 0 ~ 100000
-	maxStreamParticlesPerTick = 1000
+	maxStreamParticlesPerTick = 0
 	#Spray on vanilla waterfalls too, not only this mod's streams.
 	#Applies at once.
-	particlesOnVanillaWater = true
+	particlesOnVanillaWater = false
 
 #Other
 [misc]

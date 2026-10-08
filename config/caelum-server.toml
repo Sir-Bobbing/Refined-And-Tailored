@@ -25,7 +25,7 @@
 	#The initial julian date. Since Minecraft days start at 6 AM, it is recommended to honor this in the date.
 	# Default: 2451544.75
 	# Range: 0.0 ~ 1.7976931348623157E308
-	julian_date = 2451544.75
+	julian_date = 2451544.771
 	#A multiplier to the speed of Minecraft time
 	# Default: 1.0
 	# Range: 4.9E-324 ~ 1.7976931348623157E308
