@@ -46,3 +46,19 @@ NativeEvents.onEvent($AnvilUpdateEvent, event => {
 
     popCreature(event.player.level, event.player, event.player, true)
 })
+
+/*
+ServerEvents.generateData('after_mods', (event) => {
+    event.json(
+        'nomansland:nomansland/dialogue_pools/offering/giggler',
+        {
+            "condition": {
+                "type": "nomansland:item_conditional",
+                "items": "kubejs:giggler"
+            },
+            "weight": 1,
+            "text": "A friend?"
+        }
+    );
+})
+*/
