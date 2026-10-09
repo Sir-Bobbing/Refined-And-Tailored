@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "c:plates/aluminum"
+    },
+    "L": {
+      "item": "minecraft:fire_charge"
+    },
+    "F": {
+      "item": "tfmg:napalm_bucket"
+    },
+    "P": {
+      "item": "tfmg:plastic_sheet"
+    }
+  },
+  "pattern": [
+    " P ",
+    "LFL",
+    " A "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tfmg:lithium_charge"
+  }
+}

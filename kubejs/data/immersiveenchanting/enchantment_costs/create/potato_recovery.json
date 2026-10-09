@@ -2,25 +2,28 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:poisonous_potato",
+                    "item": "minecraft:potato",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "powergrid:potato_battery",
-                    "count": 1
+                    "item": "farmersdelight:stuffed_potato",
+                    "count": 16
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "farmersdelight:stuffed_potato",
-                    "count": 1
+                    "item": "powergrid:potato_battery",
+                    "count": 32
                 }
             }
         ]

@@ -1,7 +1,7 @@
 {
   "type": "scguns:cogchambers",
   "start_pool": "scguns:entrance",
-  "biomes": "#breakingnewground:has_cog_chambers",
+  "biomes": "#kubejs:has_cog_chambers",
   "step": "underground_structures",
   "liquid_settings": "ignore_waterlogging",
   "terrain_adaptation": "encapsulate",

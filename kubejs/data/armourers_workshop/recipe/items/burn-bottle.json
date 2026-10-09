@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " /T",
+    " C/",
+    "/  "
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:ink_sac"
+    },
+    "C": {
+      "tag": "armourers_workshop:skin_cubes"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "armourers_workshop:burn-tool"
+  }
+}

@@ -2,9 +2,10 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "minecraft:fire_charge",
-                    "count": 3
+                    "item": "malum:arcane_charcoal",
+                    "count": 1
                 }
             }
         ]

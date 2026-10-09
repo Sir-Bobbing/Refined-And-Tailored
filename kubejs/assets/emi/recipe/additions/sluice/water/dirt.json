@@ -1,0 +1,56 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:dirt",
+    "fluid:minecraft:water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "minecraft:mud",
+      "chance": 0.4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:hanging_roots",
+      "amount": 4,
+      "chance": 0.4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:wheat_seeds",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:beetroot_seeds",
+      "chance": 0.04
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:cabbage_seeds",
+      "chance": 0.04
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:tomato_seeds",
+      "chance": 0.04
+    },
+    {
+      "type": "item",
+      "id": "minecraft:pumpkin_seeds",
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "minecraft:melon_seeds",
+      "chance": 0.01
+    },
+    {
+      "type": "item",
+      "id": "supplementaries:flax_seeds",
+      "chance": 0.01
+    }
+  ]
+}

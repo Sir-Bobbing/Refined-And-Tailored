@@ -2,33 +2,37 @@
     "levels": {
         "1": [
             {
-                "item_cost": {
-                    "item": "minecraft:hay_block",
-                    "count": 4
-                }
-            }
-        ],
-        "2": [
-            {
+                "xp_levels": 2,
                 "item_cost": {
                     "item": "minecraft:shield",
                     "count": 1
                 }
             }
         ],
+        "2": [
+            {
+                "xp_levels": 4,
+                "item_cost": {
+                    "item": "minecraft:hay_block",
+                    "count": 32
+                }
+            }
+        ],
         "3": [
             {
+                "xp_levels": 7,
                 "item_cost": {
-                    "item": "minecraft:slime_block",
-                    "count": 4
+                    "item": "architects_palette:wardstone",
+                    "count": 64
                 }
             }
         ],
         "4": [
             {
+                "xp_levels": 12,
                 "item_cost": {
-                    "item": "minecraft:honey_block",
-                    "count": 4
+                    "item": "architects_palette:ancient_plating",
+                    "count": 32
                 }
             }
         ]

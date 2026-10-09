@@ -1,7 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "scguns:treated_iron_ingot",
-    "#c:ingots/steel"
-  ]
-}

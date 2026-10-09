@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "has_thruster": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "createpropulsion:thruster"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_thruster"
+    ]
+  ],
+  "parent": "aeronautics:root",
+  "display": {
+    "icon": {
+      "id": "createpropulsion:thruster",
+      "count": 1
+    },
+    "title": {
+      "text": "Fuel Propulsion"
+    },
+    "description": {
+      "text": "Craft a Thruster"
+    },
+    "frame": "task",
+    "hidden": false
+  },
+  "sends_telemetry_event": false
+}

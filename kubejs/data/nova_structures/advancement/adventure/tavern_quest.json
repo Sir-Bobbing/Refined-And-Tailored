@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "trade_quest": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": [
+          {
+            "predicate": {
+              "nbt": "{Tags:[\"dnt_quest_trader\"]}"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "trade_quest"
+    ]
+  ],
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:map",
+      "count": 1
+    },
+    "title": {
+      "text": "Call for Adventure"
+    },
+    "description": {
+      "text": "Obtain a quest map"
+    },
+    "frame": "task",
+    "hidden": false
+  },
+  "sends_telemetry_event": false
+}

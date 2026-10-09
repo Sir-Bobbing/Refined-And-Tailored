@@ -61,22 +61,22 @@
 		#Global multiplier for mob fire rate. 1.0 = normal speed, 0.5 = faster, 2.0 = slower.
 		# Default: 1.0
 		# Range: 0.1 ~ 5.0
-		mobFireRateMultiplier = 1.0
+		mobFireRateMultiplier = 2
 		#Multiplier for delay between mob gun bursts. Higher values add longer pauses between bursts.
 		# Default: 1.0
 		# Range: 0.1 ~ 5.0
-		mobBurstDelayMultiplier = 1.25
+		mobBurstDelayMultiplier = 3
 		#Global multiplier for mob gun damage after difficulty scaling.
 		# Default: 1.0
 		# Range: 0.01 ~ 100.0
-		mobGunDamageMultiplier = 1.0
+		mobGunDamageMultiplier = 0.5
 		#If true, allows flamethrowers to place fire on blocks
 		enableFirePlacement = true
 
 		#Properties related to gun griefing
 		[common.gameplay.griefing]
 			#If enabled, allows block removal on explosions
-			enableBlockRemovalOnExplosions = true
+			enableBlockRemovalOnExplosions = false
 			#If enabled, allows guns to shoot out glass and other fragile objects
 			enableGlassBreaking = true
 			#If enabled, fragile blocks will drop their loot when broken
@@ -170,13 +170,13 @@
 		#This is the spawn chance on NORMAL difficulty.
 		# Default: 0.2
 		# Range: 0.0 ~ 1.0
-		eliteChance = 0.05
+		eliteChance = 0.08
 		#Multiplier for extra aim inaccuracy used by hostile gunner and raid mobs.
 		#1.0 keeps the base mob weapon spread, values above 1.0 make mobs less accurate, values below 1.0 make mobs more accurate.
 		#This does not change player weapon spread or gun JSON values.
 		# Default: 1.5
 		# Range: 0.0 ~ 10.0
-		gunnerMobInaccuracyMultiplier = 1.5
+		gunnerMobInaccuracyMultiplier = 2.5
 
 	#Scorched Guns raid configuration
 	[common.raids]

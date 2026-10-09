@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "supplementaries:jar"
+    },
+    {
+      "item": "chunkloaders:advanced_chunk_loader"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:jarred_loader"
+    }
+  ]
+}

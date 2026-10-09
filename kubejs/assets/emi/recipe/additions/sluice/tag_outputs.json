@@ -1,0 +1,18 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    {
+      "type": "item",
+      "id": "spelunkery:sluice_grate",
+      "nbt": "{lore:['{text:\"Not obtainable by sluicing\"}','{text:\"Check the uses of this item for more details\"}']}"
+    },
+    "#item:kubejs:steel_tools",
+    "#item:minecraft:decorated_pot_sherds",
+    "#item:kubejs:hot_saplings",
+    "#item:kubejs:temperate_saplings",
+    "#item:kubejs:cold_saplings",
+    "#item:minecraft:corals",
+    "#item:minecraft:coral_blocks"
+  ],
+  "text": "kubejs.info.sluice_obtainable"
+}

@@ -2,20 +2,20 @@
   "type": "malum:spirit_infusion",
   "extraInputs": [
     {
-      "count": 4,
+      "count": 1,
       "item": "tfmg:circuit_board"
     },
     {
-      "count": 4,
+      "count": 8,
       "item": "malum:imitation_flesh"
     },
     {
       "count": 1,
-      "item": "scguns:scorched_blueprint"
+      "tag": "artifacts:artifacts"
     },
     {
-      "count": 1,
-      "tag": "artifacts:artifacts"
+      "count": 2,
+      "item": "minecraft:shulker_shell"
     }
   ],
   "input": {

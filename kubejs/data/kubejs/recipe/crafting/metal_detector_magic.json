@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "key": {
+    "#": {
+      "item": "malum:mimicry_relay"
+    },
+    "Q": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "R": {
+      "item": "malum:wavecharger"
+    },
+    "X": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "QR ",
+    "XQ ",
+    "  #"
+  ],
+  "result": {
+    "id": "scguns:metal_detector"
+  }
+}

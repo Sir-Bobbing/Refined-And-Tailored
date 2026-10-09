@@ -1,0 +1,19 @@
+{
+  "type": "powergrid:magnetization",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_iron"
+    }
+  ],
+  "results": [
+    {
+      "count": 15,
+      "id": "minecraft:iron_nugget"
+    },
+    {
+      "chance": 0.1,
+      "count": 1,
+      "id": "spelunkery:raw_magnetite_nugget"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:blaze_rod",
+    "fluid:scguns:vicious_acid_source"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "minecraft:blaze_powder",
+      "amount": 4,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:blaze_powder",
+        "chance": 0.5
+      } 
+    }
+  ]
+}

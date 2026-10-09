@@ -1,0 +1,35 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "count": 1,
+      "item": "spelunkery:sulfur"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "minecraft:blaze_powder"
+  },
+  "result": {
+    "count": 10,
+    "id": "scguns:sheol"
+  },
+  "spirits": [
+    {
+      "type": "malum:arcane",
+      "count": 2
+    },
+    {
+      "type": "malum:infernal",
+      "count": 10
+    }
+  ]
+}

@@ -2,25 +2,28 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:sea_pickle",
+                    "item": "minecraft:seagrass",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "minecraft:sea_lantern",
-                    "count": 1
+                    "item": "nomansland:seashells",
+                    "count": 8
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "minecraft:heart_of_the_sea",
-                    "count": 1
+                    "item": "minecraft:sea_pickle",
+                    "count": 16
                 }
             }
         ]

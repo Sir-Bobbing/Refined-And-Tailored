@@ -2,24 +2,27 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:lead",
+                    "item": "malum:aqueous_spirit",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "endermanoverhaul:soul_pearl",
+                    "item": "endermanoverhaul:summoner_pearl",
                     "count": 1
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:soulbinding_brazier",
+                    "item": "malum:warping_engine",
                     "count": 1
                 }
             }

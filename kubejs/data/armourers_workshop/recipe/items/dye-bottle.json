@@ -10,7 +10,7 @@
       "tag": "armourers_workshop:skin_cubes"
     },
     "#": {
-      "tag": "forge:glass/colorless"
+      "tag": "c:glass_blocks/colorless"
     }
   },
   "result": {

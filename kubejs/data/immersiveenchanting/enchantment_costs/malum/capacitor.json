@@ -2,6 +2,7 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
                     "item": "malum:soulwoven_pouch",
                     "count": 1
@@ -10,8 +11,9 @@
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "bagofholding:iron_bag_of_holding",
+                    "item": "amendments:dragon_charge",
                     "count": 1
                 }
             }

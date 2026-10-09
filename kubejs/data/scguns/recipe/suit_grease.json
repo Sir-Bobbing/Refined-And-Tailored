@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "A": {
-      "item": "tfmg:electric_pump"
+      "item": "powergrid:electric_pump"
     },
     "B": {
       "item": "tfmg:lubrication_oil_bucket"

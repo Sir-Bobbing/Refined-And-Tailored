@@ -2,25 +2,28 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:feather",
+                    "item": "malum:aerial_spirit",
                     "count": 8
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "malum:aerial_spirit",
+                    "item": "malum:gust_igniter",
                     "count": 6
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:gust_igniter",
-                    "count": 1
+                    "item": "malum:wind_nucleus",
+                    "count": 64
                 }
             }
         ]

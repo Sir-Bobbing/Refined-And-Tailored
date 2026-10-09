@@ -1,0 +1,7 @@
+{
+  "type": "mixed_litter:simple_texture",
+  "group": "kubejs:bat",
+  "arguments": {
+    "texture": "kubejs:mob_variants/bat/phantasmal_bat"
+  }
+}

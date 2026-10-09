@@ -1,0 +1,39 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "scguns:treated_brass_block"
+    },
+    "B": {
+      "item": "scguns:treated_iron_block"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "D": {
+      "item": "scguns:beacon_grenade"
+    },
+    "E": {
+      "item": "simulated:red_portable_engine"
+    },
+    "F": {
+      "item": "create:belt_connector"
+    },
+    "G": {
+      "item": "tfmg:steel_mechanism"
+    }
+  },
+  "pattern": [
+    "ABCBA",
+    "ABDBA",
+    "ABEBA",
+    "FFGFF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "kubejs:scamppanzer_beacon"
+  },
+  "show_notification": false
+}

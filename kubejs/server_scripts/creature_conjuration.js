@@ -1,13 +1,13 @@
 ServerEvents.recipes(event => {
 
     const spiritCatalysts = {
-        "malum:sacred": {"tag":'breakingnewground:sacred_spirit_catalyst'},
-        "malum:wicked": {"tag":'breakingnewground:wicked_spirit_catalyst'},
-        "malum:arcane": {"tag":'breakingnewground:arcane_spirit_catalyst'},
+        "malum:sacred": {"tag":'kubejs:sacred_spirit_catalyst'},
+        "malum:wicked": {"tag":'kubejs:wicked_spirit_catalyst'},
+        "malum:arcane": {"tag":'kubejs:arcane_spirit_catalyst'},
         "malum:eldritch": {"item":'architects_palette:unobtanium'},
-        "malum:aerial": {"item":'minecraft:pointed_dripstone'},
+        "malum:aerial": {"tag":'kubejs:aerial_spirit_catalyst'},
         "malum:aqueous": {"item":'minecraft:clay_ball'},
-        "malum:earthen": {"item":'spelunkery:stone_pebble'},
+        "malum:earthen": {"tag":'spelunkery:pebbles'},
         "malum:infernal": {"item":'minecraft:glowstone_dust'}
     }
 
@@ -35,6 +35,7 @@ ServerEvents.recipes(event => {
         "minecraft:cow":{"item": 'minecraft:beef'},
         "minecraft:mooshroom":{"item": 'minecraft:beef'},
         "minecraft:horse":{"item": 'nomansland:raw_horse'},
+        "minecraft:llama":{"item": 'minecraft:leather'},
         "minecraft:pig":{"item": 'minecraft:porkchop'},
         "minecraft:sheep":{"item": 'minecraft:mutton'},
         "minecraft:goat":{"item": 'minecraft:mutton'},
@@ -106,7 +107,7 @@ ServerEvents.recipes(event => {
                             "malum:geas_soul_info": {
                                 "geasEffects": [
                                     "malum:pact_of_the_berserker",
-                                    "malum:pact_of_patience_repaid",
+                                    "malum:pact_of_patience_repaid"
                                 ]
                             }
                         },
@@ -133,7 +134,7 @@ ServerEvents.recipes(event => {
                 }
             ],
             "hostile":true
-        },
+        }
     }
 
     function spiritCount(info, spirits) {
@@ -237,24 +238,27 @@ ServerEvents.recipes(event => {
 })
 
 function positionString( entity ) {
-    return entity.getX() + ' ' + entity.getY() + ' ' + entity.getZ()
+    return `${entity.getX()} ${entity.getY()-0.25} ${entity.getZ()}`
 }
 
 EntityEvents.spawned(event => {
-    if (event.entity.isItem()) {
-        let i = event.entity.getItem()
+    let gameEvent = "gameEvent(net.minecraft.world.entity.Entity,net.minecraft.core.Holder,net.minecraft.world.phys.Vec3)"
+    let {level, entity} = event
+    if (entity.isItem()) {
+        let i = entity.getItem()
         let c = i.getComponentMap()
         let customData = c.get("custom_data")
         if (customData != null && customData.contains("creature_conjuration")) {
             let entityData = c.get("entity_data").copyTag()
             let cd = customData.copyTag()
-            console.log(cd.getByte("creature_conjuration"))
             if (cd.getByte("creature_conjuration") == 1) {
-                event.level.runCommandSilent('summon '+entityData.getString("id")+' '+positionString(event.entity)+' '+entityData.toString())
+                level[gameEvent](entity, "minecraft:entity_place", entity.position())
+                lib.runServerCommand(level,'summon '+entityData.getString("id")+' '+positionString(entity)+' '+entityData.toString())
                 event.cancel()
             }
             else {
-                event.level.runCommandSilent('summon '+entityData.getString("id")+' '+positionString(event.entity))
+                level[gameEvent](entity, "minecraft:entity_place", entity.position())
+                lib.runServerCommand(level,'summon '+entityData.getString("id")+' '+positionString(entity))
                 event.cancel()
             }
         }

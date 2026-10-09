@@ -2,14 +2,16 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "spelunkery:item_magnet",
+                    "item": "spelunkery:raw_magnetite_nugget",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
                     "item": "create:mechanical_arm",
                     "count": 1
@@ -18,6 +20,7 @@
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
                     "item": "powergrid:magnet",
                     "count": 1

@@ -1,0 +1,31 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:soul_soil",
+    "fluid:spelunkery:spring_water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "supplementaries:ash",
+      "chance": 0.6
+    },
+    {
+      "type": "item",
+      "id": "minecraft:soul_sand",
+      "chance": 0.2
+    },
+    {
+      "type": "item",
+      "id": "malum:blazing_quartz_fragment",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "endermanoverhaul:spirit_spawn_egg",
+      "nbt": "{lore:['{text:\"Spawns in-world\"}']}",
+      "chance": 0.1
+    }
+  ]
+}

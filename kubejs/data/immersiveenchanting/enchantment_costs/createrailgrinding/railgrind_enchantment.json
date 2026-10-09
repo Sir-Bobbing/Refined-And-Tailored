@@ -1,0 +1,13 @@
+{
+    "levels": {
+        "1": [
+            {
+                "xp_levels": 2,
+                "item_cost": {
+                    "item": "create:track",
+                    "count": 1
+                }
+            }
+        ]
+    }
+}

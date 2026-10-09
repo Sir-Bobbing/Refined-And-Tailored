@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "nomansland:pear"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "S S",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "spelunkery:parachute"
+  }
+}

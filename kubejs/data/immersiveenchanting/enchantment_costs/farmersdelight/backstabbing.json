@@ -2,22 +2,25 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "nomansland:spike_trap",
+                    "item": "farmersdelight:flint_knife",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
                     "item": "scguns:nail_bomb",
-                    "count": 1
+                    "count": 10
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
                     "item": "redomesticate:sinister_carrot",
                     "count": 1

@@ -2,24 +2,27 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:soul_sand",
+                    "item": "minecraft:bucket",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
                     "item": "minecraft:prismarine_crystals",
-                    "count": 1
+                    "count": 8
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "endermanoverhaul:bubble_pearl",
+                    "item": "minecraft:sponge",
                     "count": 1
                 }
             }

@@ -2,16 +2,18 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "minecraft:piston",
+                    "item": "farmersdelight:skillet",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "minecraft:wind_charge",
+                    "item": "supplementaries:spring_launcher",
                     "count": 1
                 }
             }

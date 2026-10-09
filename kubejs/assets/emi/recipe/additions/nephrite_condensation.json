@@ -1,0 +1,21 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    {
+      "type": "item",
+      "id": "spelunkery:carved_nephrite",
+      "nbt": "{lore:['{text:\"Must be placed above a sculk catalyst\"}']}"
+    },
+    "item:minecraft:sculk_catalyst"
+  ],
+  "right": {
+    "type": "item",
+    "id": "spelunkery:nephrite_chunk",
+    "nbt": "{lore:['{text:\"Use chunk on charged carved nephrite\"}']}"
+  },
+  "output": {
+    "type": "item",
+    "id": "malum:refined_brilliance",
+    "nbt": "{lore:['{text:\"Absorbs 10 XP points from carved nephrite\"}']}"
+  }
+}

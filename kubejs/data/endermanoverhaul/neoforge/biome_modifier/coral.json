@@ -1,0 +1,16 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#endermanoverhaul:coral_spawns",
+  "spawners":
+  {
+    "type": "endermanoverhaul:coral_enderman",
+    "weight": 10,
+    "minCount": 2,
+    "maxCount": 4
+  },
+  "spawn_cost": {
+    "energy_budget": 0.05,
+    "charge": 1
+  },
+  "entity_types": ["endermanoverhaul:coral_enderman"]
+}

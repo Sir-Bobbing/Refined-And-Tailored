@@ -1,0 +1,39 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "tag": "c:ingots/nickel"
+    },
+    {
+      "count": 1,
+      "item": "spelunkery:cinnabar"
+    },
+    {
+      "count": 1,
+      "tag": "c:dusts/niter"
+    },
+    {
+      "count": 2,
+      "tag": "c:coal"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "tag": "c:ingots/iron"
+  },
+  "result": {
+    "count": 2,
+    "id": "scguns:treated_iron_ingot"
+  },
+  "spirits": [
+    {
+      "type": "malum:arcane",
+      "count": 4
+    },
+    {
+      "type": "malum:infernal",
+      "count": 6
+    }
+  ]
+}

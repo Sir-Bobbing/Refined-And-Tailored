@@ -2,6 +2,7 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 1,
                 "item_cost": {
                     "item": "minecraft:grindstone",
                     "count": 1
@@ -10,32 +11,36 @@
         ],
         "2": [
             {
+                "xp_levels": 2,
                 "item_cost": {
                     "item": "minecraft:quartz",
-                    "count": 1
+                    "count": 8
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "minecraft:amethyst_shard",
+                    "item": "spelunkery:diamond_grindstone",
                     "count": 1
                 }
             }
         ],
         "4": [
             {
+                "xp_levels": 7,
                 "item_cost": {
-                    "item": "farmersdelight:diamond_knife",
+                    "item": "minecraft:amethyst_cluster",
                     "count": 1
                 }
             }
         ],
         "5": [
             {
+                "xp_levels": 15,
                 "item_cost": {
-                    "item": "malum:soul_stained_steel_knife",
+                    "item": "endermanoverhaul:enderman_tooth",
                     "count": 1
                 }
             }

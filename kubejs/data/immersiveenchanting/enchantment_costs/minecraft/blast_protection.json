@@ -2,33 +2,37 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:copper_block",
+                    "item": "minecraft:heavy_weighted_pressure_plate",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 4,
                 "item_cost": {
-                    "item": "minecraft:iron_block",
-                    "count": 1
+                    "item": "architects_palette:plating_block",
+                    "count": 256
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 7,
                 "item_cost": {
-                    "item": "minecraft:obsidian",
-                    "count": 1
+                    "item": "architects_palette:abyssaline",
+                    "count": 12
                 }
             }
         ],
         "4": [
             {
+                "xp_levels": 12,
                 "item_cost": {
-                    "item": "architects_palette:abyssaline",
-                    "count": 12
+                    "item": "minecraft:creeper_banner_pattern",
+                    "count": 1
                 }
             }
         ]

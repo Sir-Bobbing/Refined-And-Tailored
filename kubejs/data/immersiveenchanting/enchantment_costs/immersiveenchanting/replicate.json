@@ -2,10 +2,10 @@
     "levels": {
         "1": [
             {
-                "xp_levels": 10,
+                "xp_levels": 20,
                 "item_cost": {
-                    "item": "malum:encyclopedia_arcana",
-                    "count": 1
+                    "items": ["nomansland:crimson_bookshelf", "nomansland:warped_bookshelf", "everycomp:nml/architects_palette/twisted_bookshelf", "everycomp:nml/malum/soulwood_bookshelf"],
+                    "count": 15
                 }
             }
         ]

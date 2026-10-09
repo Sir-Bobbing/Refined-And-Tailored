@@ -1,0 +1,22 @@
+[
+  {
+    "function": "minecraft:exploration_map",
+    "destination": "kubejs:on_well_maps",
+    "decoration": "minecraft:target_x",
+    "zoom": 3,
+    "search_radius": 96,
+    "skip_existing_chunks": false,
+    "conditions": []
+  },
+  {
+    "function": "minecraft:set_name",
+    "name": "Subterranean Arcane Anomaly Map",
+    "target": "item_name"
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:map_color": 10391465
+    }
+  }
+]

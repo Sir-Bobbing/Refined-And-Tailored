@@ -1,0 +1,10 @@
+{
+  "type": "malum:void_favor",
+  "input": {
+    "item": "minecraft:golden_apple"
+  },
+  "result": {
+    "count": 1,
+    "id": "kubejs:giggler"
+  }
+}

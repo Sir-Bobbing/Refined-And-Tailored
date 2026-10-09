@@ -1,6 +1,6 @@
 {
   "type": "neoforge:add_spawns",
-  "biomes": "#breakingnewground:spawns_redcoats",
+  "biomes": "#kubejs:spawns_redcoats",
   "spawners": {
     "type": "scguns:redcoat",
     "weight": 50,

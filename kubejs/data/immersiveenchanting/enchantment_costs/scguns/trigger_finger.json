@@ -2,23 +2,19 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "create:brass_hand",
-                    "count": 1
-                }
-            },
-            {
-                "item_cost": {
-                    "item": "tfmg:lead_block",
+                    "item": "tfmg:lead_ingot",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "tfmg:steel_mechanism",
-                    "count": 1
+                    "item": "create:brass_hand",
+                    "count": 8
                 }
             }
         ]

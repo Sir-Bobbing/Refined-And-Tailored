@@ -1,0 +1,15 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "exposure:high_sensitivity_black_and_white_film",
+    "count": 1
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 12
+  },
+  "max_trades": 6,
+  "xp": 25,
+  "price_multiplier": 0.05,
+  "level": 4
+}

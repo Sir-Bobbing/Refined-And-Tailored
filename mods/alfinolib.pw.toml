@@ -1,18 +1,18 @@
-filename = 'alfinolib-1.1.7-neoforge-1.21.1.jar'
+filename = 'alfinolib-1.2.0-neoforge-1.21.1.jar'
 name = 'AlfinoLib'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'alfinolib-1.1.7-neoforge-1.21.1.jar'
+x-prismlauncher-version-number = '1.2.0'
 
 [download]
-hash = '03e2ecdebb395b341da4f28895bd677660cacf39'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = 'https://www.curseforge.com/minecraft/mc-mods/alfinolib/download/8196186'
+hash = '3ef7500c35d7d8115bf555b0e5ef73ea077ce29a27b689f901022d2205c982dae24ea61eb0414e9013d208ab1937c782f92f8e3fb681f2aa3bebbf8a9958e75f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/I7x1hGed/versions/T3iUMjhn/alfinolib-1.2.0-neoforge-1.21.1.jar'
 
-[update.curseforge]
-file-id = 8196186
-project-id = 1554698
+[update.modrinth]
+mod-id = 'I7x1hGed'
+version = 'T3iUMjhn'

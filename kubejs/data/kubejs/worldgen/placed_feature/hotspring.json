@@ -1,0 +1,21 @@
+{
+  "feature": "kubejs:hotspring",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 250
+    },
+    {
+      "type": "lithostitched:offset",
+      "x_offset": 8,
+      "z_offset": 8
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

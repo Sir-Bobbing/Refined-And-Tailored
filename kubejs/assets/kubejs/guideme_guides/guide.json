@@ -1,0 +1,21 @@
+{
+  "item_settings": {
+    "display_name": {
+      "type": "translatable",
+      "translate": "kubejs.guide_name"
+    },
+    "tooltip_lines": [
+      {
+        "text": "First Edition",
+        "color": "dark_gray"
+      }
+    ],
+    "model": "kubejs:item/guide"
+  },
+  "custom_colors": {
+    "kubejs:house": {
+      "dark_mode": "#CFCFDF",
+      "light_mode": "#CFCFDF"
+    }
+  }
+}

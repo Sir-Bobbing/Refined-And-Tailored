@@ -1,0 +1,26 @@
+{
+  "type": "malum:spirit_repair",
+  "durabilityPercentage": 0.75,
+  "repairMaterial": {
+    "count": 4,
+    "item": "malum:cthonic_gold_fragment"
+  },
+  "spirits": [
+    {
+      "type": "malum:eldritch",
+      "count": 4
+    },
+    {
+      "type": "malum:sacred",
+      "count": 8
+    },
+    {
+      "type": "malum:arcane",
+      "count": 8
+    }
+  ],
+  "validItems": [
+    "malum:spellweaving_axe",
+    "malum:spellweaving_pickaxe"
+  ]
+}

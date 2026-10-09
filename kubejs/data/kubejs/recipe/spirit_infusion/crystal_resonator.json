@@ -1,0 +1,39 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 4,
+      "item": "minecraft:amethyst_cluster"
+    },
+    {
+      "count": 4,
+      "item": "nomansland:quartzite_cluster"
+    },
+    {
+      "count": 2,
+      "item": "malum:mimicry_relay"
+    },
+    {
+      "count": 4,
+      "item": "malum:tainted_rock"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "minecraft:note_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "kubejs:crystal_resonator"
+  },
+  "spirits": [
+    {
+      "type": "malum:earthen",
+      "count": 24
+    },
+    {
+      "type": "malum:aqueous",
+      "count": 24
+    }
+  ]
+}

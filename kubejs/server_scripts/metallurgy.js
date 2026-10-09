@@ -39,7 +39,7 @@ function registerCasting( event, metalInfo ) {
         type: 'tfmg:casting',
         ingredients: [{
             "type": "neoforge:single",
-            "amount": 144,
+            "amount": 90,
             "fluid": getMoltenID( metalInfo )
         }],
         "processing_time": 50,
@@ -59,11 +59,11 @@ function registerBlasting( event, metalInfo ) {
         "processing_time": 100,
         "results": [
             {
-                "amount": 288,
+                "amount": 180,
                 "id": getMoltenID(metalInfo)
             },
             {
-                "amount": 288,
+                "amount": 300,
                 "id": "tfmg:molten_slag"
             },
             {
@@ -102,11 +102,11 @@ function registerVatLow( event, metalInfo ) {
         ],
         "results": [
             {
-                "amount": 432,
+                "amount": 270,
                 "id": getMoltenID(metalInfo)
             },
             {
-                "amount": 144,
+                "amount": 200,
                 "id": "tfmg:molten_slag"
             }
         ]
@@ -131,14 +131,18 @@ function registerVatHigh( event, metalInfo ) {
         "ingredients": [
             {
                 "type": "neoforge:single",
-                "amount": 144,
+                "amount": 90,
                 "fluid": getSlurryID( metalInfo )
             }
         ],
         "results": [
             {
-                "amount": 288,
+                "amount": 180,
                 "id": getMoltenID(metalInfo)
+            },
+            {
+                "amount": 100,
+                "id": "tfmg:molten_slag"
             }
         ]
     })
@@ -172,7 +176,7 @@ function registerSlurry(event, metalInfo) {
         ],
         "results": [
             {
-                "amount": 288,
+                "amount": 180,
                 "id": getSlurryID(metalInfo)
             }
         ]

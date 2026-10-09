@@ -1,0 +1,57 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:sand",
+    "fluid:minecraft:water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "tfmg:fireclay_ball"
+    },
+    {
+      "type": "item",
+      "id": "create:cinder_flour",
+      "nbt": "{lore:['{text:\"Only in Hot biomes\"}']}",
+      "amount": 3,
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "minecraft:skeleton_skull",
+      "nbt": "{lore:['{text:\"Only in Badlands Mineshafts\"}']}",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "minecraft:tube_coral_block",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans biome\"}']}",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "minecraft:brain_coral_block",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans biome\"}']}",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "minecraft:bubble_coral_block",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans biome\"}']}",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "minecraft:fire_coral_block",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans biome\"}']}",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "minecraft:horn_coral_block",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans biome\"}']}",
+      "chance": 0.1
+    }
+  ]
+}

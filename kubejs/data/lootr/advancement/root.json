@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "always_true": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "always_true"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "icon": {
+      "id": "minecraft:chest",
+      "count": 1
+    },
+    "title": {
+      "text": "Lootr"
+    },
+    "description": {
+      "text": "It belongs in a museum! Bring instanced loot to your world."
+    },
+    "background": "minecraft:textures/block/dark_oak_log.png",
+    "frame": "task",
+    "hidden": false
+  },
+  "rewards": {
+    "function": "minecraft:guide/guide"
+  }
+}

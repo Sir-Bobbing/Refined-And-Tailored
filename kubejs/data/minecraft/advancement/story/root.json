@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:crafting_table"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "icon": {
+      "id": "minecraft:grass_block",
+      "count": 1
+    },
+    "title": {
+      "text": "Minecraft"
+    },
+    "description": {
+      "text": "The heart and story of the game"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "frame": "task",
+    "hidden": false
+  }
+}

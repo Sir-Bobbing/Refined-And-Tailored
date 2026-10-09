@@ -1,0 +1,10 @@
+{
+  "guide.click": {
+    "replace": true,
+    "sounds": [
+    "guideme:click_stereo_1",
+    "guideme:click_stereo_2",
+    "guideme:click_stereo_3"
+    ]
+  }
+}

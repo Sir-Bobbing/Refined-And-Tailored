@@ -1,0 +1,19 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "envelope:package",
+    "components": {
+      "minecraft:container_loot": {"loot_table": "envelope:packages/lost_mail/plants"},
+      "minecraft:item_name": "{\"translate\":\"item.envelope.lost_mail\"}"
+    },
+    "count": 1
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 5
+  },
+  "max_trades": 16,
+  "xp": 20,
+  "price_multiplier": 0.05,
+  "level": 3
+}

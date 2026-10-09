@@ -1,0 +1,63 @@
+{
+    "filters": [
+        "/copycats:/"
+    ],
+    "added": [
+        {
+            "stack": "item:copycats:copycat_wooden_button",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_wooden_pressure_plate",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_trapdoor",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_fence_gate",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_door",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_ladder",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_catwalk",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_box",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_board",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_layer",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_beam",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_slope",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_ghost_block",
+            "after": "item:create:copycat_panel"
+        },
+        {
+            "stack": "item:copycats:copycat_block",
+            "after": "item:create:copycat_panel"
+        }
+    ]
+}

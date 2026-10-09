@@ -2,24 +2,27 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "create:haunted_bell",
+                    "item": "malum:wicked_spirit",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "malum:eldritch_spirit",
-                    "count": 6
+                    "item": "malum:rune_of_volatile_distortion",
+                    "count": 1
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:imitation_flesh",
+                    "item": "malum:stellar_mechanism",
                     "count": 2
                 }
             }

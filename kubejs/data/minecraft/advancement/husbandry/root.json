@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "consumed_item": {
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "consumed_item"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "icon": {
+      "id": "minecraft:hay_block",
+      "count": 1
+    },
+    "title": {
+      "text": "Husbandry"
+    },
+    "description": {
+      "text": "The world is full of friends and food"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png",
+    "frame": "task",
+    "hidden": false
+  }
+}

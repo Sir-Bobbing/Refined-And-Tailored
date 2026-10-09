@@ -2,14 +2,16 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:golden_sword",
+                    "item": "minecraft:stone_sword",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
                     "item": "malum:crude_scythe",
                     "count": 1
@@ -18,8 +20,9 @@
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:ether",
+                    "item": "endermanoverhaul:icy_pearl",
                     "count": 1
                 }
             }

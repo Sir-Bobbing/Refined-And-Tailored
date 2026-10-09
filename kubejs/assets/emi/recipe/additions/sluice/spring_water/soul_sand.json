@@ -1,0 +1,26 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:soul_sand",
+    "fluid:spelunkery:spring_water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "supplementaries:ash",
+      "chance": 0.7
+    },
+    {
+      "type": "item",
+      "id": "malum:hex_ash",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "endermanoverhaul:spirit_spawn_egg",
+      "nbt": "{lore:['{text:\"Spawns in-world\"}']}",
+      "chance": 0.2
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:minecraft:lava",
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "architects_palette:nether_brass_blend",
+      "nbt": "{lore:['{text:\"Only in the Nether\"}']}",
+      "amount": 20,
+      "remainder": {
+        "type": "item",
+        "id": "architects_palette:nether_brass_blend",
+        "chance": 0.5,
+        "amount": 20
+      }
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:netherrack_pebble",
+      "nbt": "{lore:['{text:\"Only in Nether Wastes biome\"}']}",
+      "amount": 90,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:netherrack_pebble",
+        "chance": 0.5,
+        "amount": 90
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:warped_nylium",
+      "nbt": "{lore:['{text:\"Only in Warped Forest biome\"}']}",
+      "amount": 20,
+      "chance": 0.25,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:warped_nylium",
+        "chance": 0.5,
+        "amount": 10
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:warped_fungus",
+      "nbt": "{lore:['{text:\"Only in Warped Forest biome\"}']}",
+      "amount": 20,
+      "chance": 0.25,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:warped_fungus",
+        "chance": 0.5,
+        "amount": 10
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:crimson_nylium",
+      "nbt": "{lore:['{text:\"Only in Crimson Forest biome\"}']}",
+      "amount": 20,
+      "chance": 0.25,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:crimson_nylium",
+        "chance": 0.5,
+        "amount": 10
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:crimson_fungus",
+      "nbt": "{lore:['{text:\"Only in Crimson Forest biome\"}']}",
+      "amount": 20,
+      "chance": 0.25,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:crimson_fungus",
+        "chance": 0.5,
+        "amount": 10
+      }
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:magma_pebble",
+      "nbt": "{lore:['{text:\"Only in Basalt Deltas biome\"}']}",
+      "amount": 90,
+      "chance": 0.25,
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:magma_pebble",
+        "chance": 0.5,
+        "amount": 90
+      }
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:basalt_pebble",
+      "nbt": "{lore:['{text:\"Only in Basalt Deltas biome\"}']}",
+      "amount": 90,
+      "chance": 0.25,
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:basalt_pebble",
+        "chance": 0.5,
+        "amount": 90
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:bone",
+      "nbt": "{lore:['{text:\"Only in Soulsand Valley biome\"}']}",
+      "amount": 4,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:bone",
+        "chance": 0.5,
+        "amount": 4
+      }
+    },
+    {
+      "type": "item",
+      "id": "architects_palette:withered_bone",
+      "nbt": "{lore:['{text:\"Only in Nether Fortresses\"}']}",
+      "amount": 9,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "architects_palette:withered_bone",
+        "chance": 0.5,
+        "amount": 9
+      }
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:blackstone_pebble",
+      "nbt": "{lore:['{text:\"Only in Bastion Remnants\"}']}",
+      "amount": 90,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:blackstone_pebble",
+        "chance": 0.5,
+        "amount": 90
+      }
+    },
+    {
+      "type": "item",
+      "id": "scguns:netherite_scrap_chunk",
+      "nbt": "{lore:['{text:\"Only in Bastion Remnants\"}']}",
+      "amount": 1,
+      "chance": 0.005
+    }
+  ]
+}

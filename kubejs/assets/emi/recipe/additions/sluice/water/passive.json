@@ -1,0 +1,175 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:minecraft:water",
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "spelunkery:stone_pebble",
+      "nbt": "{lore:['{text:\"Only in the Caves biome\"}']}",
+      "amount": 256
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:deepslate_pebble",
+      "nbt": "{lore:['{text:\"Only in Deep Caves biome\"}']}",
+      "amount": 90,
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:deepslate_pebble",
+        "chance": 0.5,
+        "amount": 90
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:pointed_dripstone",
+      "nbt": "{lore:['{text:\"Only in Dripstone Caves biome\"}']}",
+      "amount": 20,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:pointed_dripstone",
+        "chance": 0.5,
+        "amount": 20
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball",
+      "nbt": "{lore:['{text:\"Only in Lush Caves biome\"}']}",
+      "amount": 20,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:clay_ball",
+        "chance": 0.5,
+        "amount": 20
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:sculk_vein",
+      "nbt": "{lore:['{text:\"Only in Deep Dark biome\"}']}",
+      "amount": 20,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:sculk_vein",
+        "chance": 0.5,
+        "amount": 20
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:cobweb",
+      "nbt": "{lore:['{text:\"Only in Mineshafts\"}']}",
+      "amount": 10,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:cobweb",
+        "chance": 0.5,
+        "amount": 10
+      }
+    },
+    {
+      "type": "item",
+      "id": "scguns:gunpowder_dust",
+      "nbt": "{lore:['{text:\"Only in Cog Chambers\"}']}",
+      "amount": 30,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "scguns:gunpowder_dust",
+        "chance": 0.5,
+        "amount": 30
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:budding_amethyst",
+      "nbt": "{lore:['{text:\"Only in Kobold Dens\"}']}",
+      "amount": 1,
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "nomansland:budding_quartzite",
+      "nbt": "{lore:['{text:\"Only in Kobold Dens\"}']}",
+      "amount": 1,
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "minecraft:ice",
+      "nbt": "{lore:['{text:\"Only in Cold biomes\"}']}",
+      "amount": 90,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:ice",
+        "chance": 0.5,
+        "amount": 90
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:flint",
+      "nbt": "{lore:['{text:\"Only in Mountainous biomes\"}']}",
+      "amount": 40,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:flint",
+        "chance": 0.5,
+        "amount": 40
+      }
+    },
+    {
+      "type": "item",
+      "id": "minecraft:lily_pad",
+      "nbt": "{lore:['{text:\"Only in Swamp biomes\"}']}",
+      "amount": 10,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "minecraft:lily_pad",
+        "chance": 0.5,
+        "amount": 10
+      }
+    },
+    {
+      "type": "item",
+      "id": "architects_palette:algal_blend",
+      "nbt": "{lore:['{text:\"Only in Aquatic biomes\"}']}",
+      "amount": 20,
+      "remainder": {
+        "type": "item",
+        "id": "architects_palette:algal_blend",
+        "chance": 0.5,
+        "amount": 20
+      }
+    },
+    {
+      "type": "item",
+      "id": "architects_palette:wardstone_blend",
+      "nbt": "{lore:['{text:\"Only in Alchemist Ruins biome\"}']}",
+      "amount": 20,
+      "chance": 0.5,
+      "remainder": {
+        "type": "item",
+        "id": "architects_palette:wardstone_blend",
+        "chance": 0.75,
+        "amount": 20
+      }
+    },
+    {
+      "type": "item",
+      "id": "architects_palette:sunmetal_blend",
+      "nbt": "{lore:['{text:\"Only in Desert biomes\"}']}",
+      "amount": 20,
+      "remainder": {
+        "type": "item",
+        "id": "architects_palette:sunmetal_blend",
+        "chance": 0.5,
+        "amount": 20
+      }
+    }
+  ]
+}

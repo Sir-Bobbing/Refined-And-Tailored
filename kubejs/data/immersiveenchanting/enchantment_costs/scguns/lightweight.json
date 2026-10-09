@@ -2,16 +2,18 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "tfmg:constantan_frame",
+                    "item": "tfmg:copper_frame",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "tfmg:aluminum_frame",
+                    "item": "tfmg:constantan_frame",
                     "count": 1
                 }
             }

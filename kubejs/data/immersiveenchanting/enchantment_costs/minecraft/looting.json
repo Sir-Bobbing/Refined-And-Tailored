@@ -2,6 +2,7 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
                     "item": "nomansland:clover_patch",
                     "count": 8
@@ -10,17 +11,19 @@
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "malum:wicked_spirit",
-                    "count": 24
+                    "item": "minecraft:ghast_tear",
+                    "count": 8
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:ring_of_esoteric_spoils",
-                    "count": 1
+                    "item": "endermanoverhaul:corrupted_pearl",
+                    "count": 24
                 }
             }
         ]

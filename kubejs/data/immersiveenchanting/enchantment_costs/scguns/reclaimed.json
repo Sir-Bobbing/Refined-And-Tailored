@@ -3,16 +3,16 @@
         "1": [
             {
                 "item_cost": {
-                    "item": "minecraft:phantom_membrane",
-                    "count": 4
+                    "item": "minecraft:glass",
+                    "count": 1
                 }
             }
         ],
         "2": [
             {
                 "item_cost": {
-                    "item": "scguns:nether_star_fragment",
-                    "count": 2
+                    "item": "minecraft:phantom_membrane",
+                    "count": 8
                 }
             }
         ]

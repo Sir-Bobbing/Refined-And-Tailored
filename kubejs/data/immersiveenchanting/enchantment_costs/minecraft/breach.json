@@ -2,14 +2,16 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:tnt",
+                    "item": "spelunkery:flint_hammer_and_chisel",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 4,
                 "item_cost": {
                     "item": "spelunkery:obsidian_hammer_and_chisel",
                     "count": 1
@@ -18,6 +20,7 @@
         ],
         "3": [
             {
+                "xp_levels": 7,
                 "item_cost": {
                     "item": "supplementaries:cannonball",
                     "count": 1
@@ -26,9 +29,10 @@
         ],
         "4": [
             {
+                "xp_levels": 12,
                 "item_cost": {
-                    "item": "createbigcannons:ap_autocannon_round",
-                    "count": 1
+                    "item": "scguns:advanced_round",
+                    "count": 8
                 }
             }
         ]

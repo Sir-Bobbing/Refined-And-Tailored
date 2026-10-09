@@ -1,0 +1,17 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:nomansland:maple_log"
+  ],
+  "right": [
+    {
+      "type": "item",
+      "id": "nomansland:tap",
+      "nbt": "{lore:['{text:\"Place on a live tree with a cauldron below\"}']}"
+    },
+    "item:minecraft:cauldron"
+  ],
+  "output": [
+    "item:nomansland:maple_syrup_bottle"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "filters": [
+    {
+      "id": "/spelunkery:/",
+      "category": "emi:world_interaction"
+    }
+  ]
+}

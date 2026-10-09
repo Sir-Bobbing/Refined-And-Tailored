@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "tfmg:sulfuric_acid_bucket"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "powergrid:root",
+  "display": {
+    "announce_to_chat": false,
+    "icon": {
+      "id": "tfmg:sulfuric_acid_bucket",
+      "count": 1
+    },
+    "title": {
+      "text": "Evil water"
+    },
+    "description": {
+      "text": "Make acid"
+    },
+    "frame": "task",
+    "hidden": false
+  }
+}

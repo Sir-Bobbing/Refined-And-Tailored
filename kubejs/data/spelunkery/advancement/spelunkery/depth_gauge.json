@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "item": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "supplementaries:altimeter"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "item"
+    ]
+  ],
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": {
+      "id": "supplementaries:altimeter",
+      "count": 1
+    },
+    "title": {
+      "text": "That\u0027s Deep, Bro"
+    },
+    "description": {
+      "text": "Craft and use an Altimeter"
+    },
+    "frame": "task",
+    "hidden": false
+  },
+  "sends_telemetry_event": false
+}

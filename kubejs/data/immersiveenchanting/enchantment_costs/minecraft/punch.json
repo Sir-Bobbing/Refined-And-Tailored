@@ -2,6 +2,7 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
                     "item": "minecraft:piston",
                     "count": 1
@@ -10,9 +11,10 @@
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
                     "item": "minecraft:wind_charge",
-                    "count": 1
+                    "count": 16
                 }
             }
         ]

@@ -1,15 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "B",
-    "X"
+    "T",
+    "V",
+    "N"
   ],
   "key": {
-    "B": {
-      "item": "vista:television"
-    },
-    "X": {
+    "N": {
       "item": "armourers_workshop:skin-library"
+    },
+    "T": {
+      "item": "create:transmitter"
+    },
+    "V": {
+      "item": "vista:television"
     }
   },
   "result": {

@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:lake",
+  "config": {
+    "barrier": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:basalt"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:tuff"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:tuff"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:calcite"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "dndecor:dolomite"
+          }
+        }
+      ]
+    },
+    "fluid": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "spelunkery:spring_water",
+        "Properties": {
+          "level": "0"
+        }
+      }
+    }
+  }
+}

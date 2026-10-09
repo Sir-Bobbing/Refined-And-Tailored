@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "supplementaries:ash"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:soul_sand"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "malum:blazing_quartz_fragment"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "endermanoverhaul:spirit_spawn_egg"
+        }
+      ]
+    }
+  ]
+}

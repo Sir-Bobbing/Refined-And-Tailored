@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#minecraft:is_overworld"
+  ],
+  "remove": [
+    "minecraft:deep_dark",
+    "minecraft:mushroom_fields",
+    "#minecraft:is_ocean",
+    "#minecraft:is_deep_ocean"
+  ]
+}

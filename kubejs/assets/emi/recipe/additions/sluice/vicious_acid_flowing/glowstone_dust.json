@@ -1,0 +1,13 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:glowstone_dust",
+    "fluid:scguns:vicious_acid_source"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": {
+    "type": "item",
+    "id": "minecraft:redstone",
+    "chance": 0.75
+  }
+}

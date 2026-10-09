@@ -1,0 +1,10 @@
+{
+  "type": "malum:void_favor",
+  "input": {
+    "item": "tfmg:lead_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:malignant_lead"
+  }
+}

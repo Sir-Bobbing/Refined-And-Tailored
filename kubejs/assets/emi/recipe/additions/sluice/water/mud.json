@@ -1,0 +1,26 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:mud",
+    "fluid:minecraft:water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "minecraft:clay"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:frogspawn",
+      "nbt": "{lore:['{text:\"Only in Swamps\"}']}",
+      "chance": 0.45
+    },
+    {
+      "type": "item",
+      "id": "minecraft:tadpole_spawn_egg",
+      "nbt": "{lore:['{text:\"Only in Swamps\"}','{text:\"Spawns in-world\"}']}",
+      "chance": 0.05
+    }
+  ]
+}

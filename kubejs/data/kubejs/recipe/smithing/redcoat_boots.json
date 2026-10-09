@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:dried_kelp"
+  },
+  "base": {
+    "item": "minecraft:leather_boots"
+  },
+  "result": {
+    "id": "scguns:redcoat_boots"
+  },
+  "template": {
+    "item": "scguns:antique_blueprint"
+  }
+}

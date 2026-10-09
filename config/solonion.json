@@ -1,6 +1,8 @@
 {
   "foodItems": {
-    "entries": [],
+    "entries": [
+      "{id:\"item\",item:\"malum:refined_brilliance\"}"
+    ],
     "isWhitelist": false
   },
   "trackCount": 30,

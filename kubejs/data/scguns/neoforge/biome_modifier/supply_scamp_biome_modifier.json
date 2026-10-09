@@ -1,6 +1,6 @@
 {
   "type": "neoforge:add_spawns",
-  "biomes": "#breakingnewground:spawns_scguns_mobs",
+  "biomes": "#kubejs:spawns_scguns_mobs",
   "spawners": {
     "type": "scguns:supply_scamp",
     "weight": 1,

@@ -1,0 +1,27 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:ender_eye",
+    "fluid:aeronautics:levitite_blend"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "supplementaries:enderman_head",
+      "nbt": "{lore:['{text:\"Only in the End or Warped Forests\"}']}",
+      "chance": 0.75
+    },
+    {
+      "type": "item",
+      "id": "minecraft:ghast_tear",
+      "nbt": "{lore:['{text:\"Only in Soul Sand Valleys\"}']}",
+      "chance": 0.75
+    },
+    {
+      "type": "item",
+      "id": "minecraft:endermite_spawn_egg",
+      "nbt": "{lore:['{text:\"Spawns in-world\"}']}"
+    }
+  ]
+}

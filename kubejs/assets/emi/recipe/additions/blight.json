@@ -1,0 +1,16 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:malum:blighted_earth",
+    "item:malum:blight",
+    "item:malum:blighted_gunk",
+    "item:malum:blightpearl",
+    "item:malum:blightroot",
+    "item:malum:soulwood_sapling",
+    "item:malum:scarstone",
+    "item:malum:large_strange_crystal",
+    "item:malum:strange_crystal",
+    "item:malum:strangeroot"
+  ],
+  "text": "kubejs.info.blight_obtainable"
+}

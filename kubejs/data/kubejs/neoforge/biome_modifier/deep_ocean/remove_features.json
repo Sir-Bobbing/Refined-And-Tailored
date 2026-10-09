@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:remove_features",
+  "biomes": "minecraft:deep_ocean",
+  "features": [
+      "minecraft:seagrass_deep",
+      "minecraft:seagrass_simple",
+      "minecraft:kelp_cold",
+      "minecraft:seagrass_normal"
+  ]
+}

@@ -2,10 +2,10 @@
     "levels": {
         "1": [
             {
-                "xp_levels": 20,
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:convoluted_lens",
-                    "count": 1
+                    "items": ["malum:blightpearl", "malum:blightroot", "minecraft:warped_roots", "minecraft:crimson_roots"],
+                    "count": 15
                 }
             }
         ]

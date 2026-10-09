@@ -1,6 +1,6 @@
 {
   "type": "neoforge:add_features",
-  "biomes": ["nomansland:caves", "nomansland:cave_depths", "minecraft:dripstone_caves", "minecraft:lush_caves", "quark:glimmering_weald"],
+  "biomes": ["nomansland:caves", "nomansland:cave_depths", "minecraft:dripstone_caves", "minecraft:lush_caves"],
   "features": ["artifacts:underground_campsite", "artifacts:underground_minimalist_campsite"],
   "step": "underground_structures"
 }

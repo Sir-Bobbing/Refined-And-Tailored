@@ -2,40 +2,50 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 1,
                 "item_cost": {
-                    "item": "glow:glowstone_prism",
-                    "count": 4
+                    "item": "minecraft:glowstone_dust",
+                    "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "powergrid:grounding_rod",
-                    "count": 1
+                    "item": "minecraft:glowstone",
+                    "count": 8
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 4,
                 "item_cost": {
-                    "item": "powergrid:wire",
-                    "count": 12
+                    "item": "minecraft:potion",
+                    "components": {
+                        "minecraft:potion_contents": {
+                            "potion": "minecraft:strong_strength"
+                        }
+                    },
+                    "count": 1
                 }
             }
         ],
         "4": [
             {
+                "xp_levels": 7,
                 "item_cost": {
-                    "item": "powergrid:generator_induction_rotor",
+                    "item": "endermanoverhaul:crimson_pearl",
                     "count": 1
                 }
             }
         ],
         "5": [
             {
+                "xp_levels": 15,
                 "item_cost": {
-                    "item": "powergrid:battery",
+                    "item": "powergrid:generator_large_induction_rotor",
                     "count": 1
                 }
             }

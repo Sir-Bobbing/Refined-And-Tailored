@@ -2,25 +2,28 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "create:fluid_tank",
+                    "item": "scguns:empty_tank",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "scguns:empty_tank",
-                    "count": 2
+                    "item": "create:fluid_tank",
+                    "count": 20
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "tfmg:air_bucket",
-                    "count": 1
+                    "item": "create:smart_fluid_pipe",
+                    "count": 16
                 }
             }
         ]

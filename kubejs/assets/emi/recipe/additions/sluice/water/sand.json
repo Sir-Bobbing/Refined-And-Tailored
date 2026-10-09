@@ -1,0 +1,94 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:sand",
+    "fluid:minecraft:water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "minecraft:clay_ball"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:prismarine_crystals",
+      "nbt": "{lore:['{text:\"Only in Ocean Monuments\"}']}",
+      "amount": 4,
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "nomansland:seashells",
+      "nbt": "{lore:['{text:\"Only in beach biomes\"}']}",
+      "amount": 4,
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "minecraft:turtle_scute",
+      "nbt": "{lore:['{text:\"Only in beach biomes\"}']}",
+      "chance": 0.01
+    },
+    {
+      "type": "item",
+      "id": "minecraft:tube_coral",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:brain_coral",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:bubble_coral",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:fire_coral",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:horn_coral",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:tube_coral_fan",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:brain_coral_fan",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:bubble_coral_fan",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:fire_coral_fan",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    },
+    {
+      "type": "item",
+      "id": "minecraft:horn_coral_fan",
+      "nbt": "{lore:['{text:\"Only in Warm Oceans\"}']}",
+      "chance": 0.05
+    }
+  ]
+}

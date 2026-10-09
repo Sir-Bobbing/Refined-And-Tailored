@@ -2,6 +2,7 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
                     "item": "minecraft:campfire",
                     "count": 1
@@ -10,16 +11,18 @@
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "aeronautics:adjustable_burner",
-                    "count": 1
+                    "item": "minecraft:firework_rocket",
+                    "count": 192
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "minecraft:firework_rocket",
+                    "item": "sootychimneys:dirty_brick_chimney",
                     "count": 1
                 }
             }

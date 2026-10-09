@@ -1,0 +1,38 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "vista:flag",
+      "flag": "wave_gate"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "vista:flag",
+      "flag": "wave_gate"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "2 2",
+    "232",
+    "010"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "architects_palette:entwine_rod"
+    },
+    "3": {
+      "item": "create:transmitter"
+    }
+  },
+  "result": {
+    "id": "vista:wave_gate",
+    "count": 1
+  }
+}

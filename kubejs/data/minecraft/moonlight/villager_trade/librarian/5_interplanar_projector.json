@@ -1,0 +1,15 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "exposure:interplanar_projector",
+    "count": 1
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 32
+  },
+  "max_trades": 4,
+  "xp": 30,
+  "price_multiplier": 0.05,
+  "level": 5
+}

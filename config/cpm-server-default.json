@@ -1,0 +1,87 @@
+{
+  "__COMMENT1": "To apply this configuration to all newly generated worlds",
+  "__COMMENT2": "please place this configuration file into your config directory",
+  "__COMMENT3": "with the following name: cpm-server-default.json",
+  "player_scaling": {
+
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "projectile_dmg": {
+      "enabled": true
+    },
+    "mining_speed": {
+      "enabled": true
+    },
+    "motion": {
+      "enabled": true
+    },
+    "third_person": {
+      "enabled": true
+    },
+    "hitbox_width": {
+      "enabled": true
+    },
+    "eye_height": {
+      "enabled": true
+    },
+    "mob_visibility": {
+      "enabled": true
+    },
+    "flight_speed": {
+      "enabled": true
+    },
+    "knockback_resist": {
+      "enabled": true
+    },
+    "reach": {
+      "enabled": true
+    },
+    "health": {
+      "enabled": true
+    },
+    "jump_height": {
+      "enabled": true
+    },
+    "attack_speed": {
+      "enabled": true
+    },
+    "safe_fall_distance": {
+      "enabled": true
+    },
+    "explosion_dmg": {
+      "enabled": true
+    },
+    "view_bobbing": {
+      "enabled": true
+    },
+    "defense": {
+      "enabled": true
+    },
+    "attack_knockback": {
+      "enabled": true
+    },
+    "step_height": {
+      "enabled": true
+    },
+    "width": {
+      "enabled": true
+    },
+    "hitbox_height": {
+      "enabled": true
+    },
+    "attack_dmg": {
+      "enabled": true
+    },
+    "fall_damage": {
+      "enabled": true
+    },
+    "entity": {
+      "enabled": true
+    },
+    "height": {
+      "enabled": true
+    }
+  },
+  "skins": {}
+}

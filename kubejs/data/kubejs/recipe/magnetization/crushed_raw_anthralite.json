@@ -1,0 +1,19 @@
+{
+  "type": "powergrid:magnetization",
+  "ingredients": [
+    {
+      "item": "scguns:crushed_raw_anthralite"
+    }
+  ],
+  "results": [
+    {
+      "count": 15,
+      "id": "scguns:anthralite_nugget"
+    },
+    {
+      "chance": 0.05,
+      "count": 1,
+      "id": "scguns:nitro_powder"
+    }
+  ]
+}

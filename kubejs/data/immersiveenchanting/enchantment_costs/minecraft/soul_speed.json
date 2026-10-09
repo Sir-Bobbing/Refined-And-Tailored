@@ -2,24 +2,32 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "malum:raw_soulstone",
+                    "item": "minecraft:soul_soil",
                     "count": 4
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "malum:aerial_spirit",
+                    "item": "malum:refined_soulstone",
                     "count": 8
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "farmersdelight:cake_slice",
+                    "item": "minecraft:potion",
+                    "components": {
+                        "minecraft:potion_contents": {
+                            "potion": "minecraft:swiftness"
+                        }
+                    },
                     "count": 1
                 }
             }

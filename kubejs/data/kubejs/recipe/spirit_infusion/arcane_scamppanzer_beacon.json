@@ -1,0 +1,47 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "tfmg:steel_mechanism"
+    },
+    {
+      "count": 8,
+      "item": "scguns:ancient_brass"
+    },
+    {
+      "count": 1,
+      "item": "malum:warping_engine"
+    },
+    {
+      "count": 8,
+      "item": "malum:imitation_heart"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "scguns:beacon_grenade"
+  },
+  "result": {
+    "count": 1,
+    "id": "kubejs:arcane_scamppanzer_beacon"
+  },
+  "spirits": [
+    {
+      "type": "malum:wicked",
+      "count": 32
+    },
+    {
+      "type": "malum:earthen",
+      "count": 32
+    },
+    {
+      "type": "malum:aerial",
+      "count": 32
+    },
+    {
+      "type": "malum:eldritch",
+      "count": 24
+    }
+  ]
+}

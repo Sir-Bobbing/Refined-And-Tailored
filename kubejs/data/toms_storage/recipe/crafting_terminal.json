@@ -1,13 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-  	"ccc",
-    " t ",
-    "ccc"
+  	"c",
+    "t"
   ],
   "key": {
     "c": {
-      "item": "create:mechanical_crafter"
+      "item": "minecraft:crafting_table"
     },
     "t": {
       "item": "toms_storage:storage_terminal"

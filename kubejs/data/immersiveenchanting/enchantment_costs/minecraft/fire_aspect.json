@@ -2,17 +2,19 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "minecraft:fire_charge",
-                    "count": 3
+                    "item": "minecraft:torch",
+                    "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:infernal_spirit",
-                    "count": 8
+                    "item": "minecraft:fire_charge",
+                    "count": 18
                 }
             }
         ]

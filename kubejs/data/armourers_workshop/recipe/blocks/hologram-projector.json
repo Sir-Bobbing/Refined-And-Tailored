@@ -1,22 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#=#",
-    "#X#",
+    "=X=",
     "HHH"
   ],
   "key": {
     "X": {
-      "item": "minecraft:amethyst_shard"
+      "item": "create:polished_rose_quartz"
     },
     "H": {
       "item": "minecraft:smooth_stone"
     },
     "=": {
       "tag": "armourers_workshop:skin_cubes"
-    },
-    "#": {
-      "tag": "c:plates/iron"
     }
   },
   "result": {

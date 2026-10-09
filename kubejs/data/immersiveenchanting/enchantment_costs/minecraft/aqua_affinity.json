@@ -2,11 +2,11 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "minecraft:axolotl_bucket",
+                    "item": "create:copper_diving_helmet",
                     "count": 1
-                },
-                "xp_levels": 1
+                }
             }
         ]
     }

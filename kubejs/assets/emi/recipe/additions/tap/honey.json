@@ -1,0 +1,18 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:bee_nest",
+    "item:minecraft:beehive"
+  ],
+  "right": [
+    {
+      "type": "item",
+      "id": "nomansland:tap",
+      "nbt": "{lore:['{text:\"Place on hive/nest with a cauldron below\"}']}"
+    },
+    "item:minecraft:cauldron"
+  ],
+  "output": [
+    "item:minecraft:honey_bottle"
+  ]
+}

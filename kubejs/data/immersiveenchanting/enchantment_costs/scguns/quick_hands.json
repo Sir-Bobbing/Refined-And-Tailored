@@ -2,16 +2,18 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "supplementaries:sugar_cube",
+                    "item": "minecraft:sugar",
                     "count": 8
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "tfmg:lubrication_oil_bucket",
+                    "item": "minecraft:rabbit_foot",
                     "count": 1
                 }
             }

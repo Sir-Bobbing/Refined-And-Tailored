@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfmg:lignite"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.3,
+      "id": "minecraft:coal"
+    },
+    {
+      "chance": 0.3,
+      "id": "spelunkery:coal_lump"
+    }
+  ]
+}

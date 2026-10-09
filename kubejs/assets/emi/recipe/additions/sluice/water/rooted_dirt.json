@@ -1,0 +1,63 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:rooted_dirt",
+    "fluid:minecraft:water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "minecraft:mud",
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:tangle_roots_block",
+      "chance": 0.3
+    },
+    {
+      "type": "item",
+      "id": "minecraft:carrot",
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "minecraft:potato",
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "minecraft:sugar_cane",
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:onion",
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:rice",
+      "chance": 0.02
+    },
+    {
+      "type": "item",
+      "id": "minecraft:jungle_sapling",
+      "nbt": "{lore:['{text:\"Only in hot biomes\"}','{text:\"Returns other saplings from hot climates\"}']}",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "minecraft:oak_sapling",
+      "nbt": "{lore:['{text:\"Only in temperate/mild biomes\"}','{text:\"Returns other saplings from temperate/mild climates\"}']}",
+      "chance": 0.1
+    },
+    {
+      "type": "item",
+      "id": "minecraft:spruce_sapling",
+      "nbt": "{lore:['{text:\"Only in cold biomes\"}','{text:\"Returns other saplings from cold climates\"}']}",
+      "chance": 0.1
+    }
+  ]
+}

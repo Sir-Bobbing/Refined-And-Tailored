@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "block": "create_connected:sequenced_pulse_generator",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "create_connected:root",
+  "display": {
+    "announce_to_chat": false,
+    "icon": {
+      "id": "create_connected:sequenced_pulse_generator",
+      "count": 1
+    },
+    "title": {
+      "text": "Computational Supremacy"
+    },
+    "description": {
+      "text": "Place down a Sequenced Pulse Generator"
+    },
+    "frame": "task",
+    "hidden": false
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:gravel",
+    "fluid:minecraft:water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "minecraft:sand",
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "minecraft:flint",
+      "amount": 2,
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:nephrite_chunk",
+      "nbt": "{lore:['{text:\"Only in Deep Dark\"}']}",
+      "amount": 4,
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "minecraft:prismarine_shard",
+      "nbt": "{lore:['{text:\"Only in Ocean Monuments\"}']}",
+      "amount": 4,
+      "chance": 0.5
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:cinnabar_shard",
+      "nbt": "{lore:['{text:\"Only in Cinnabar Wires\"}']}",
+      "chance": 0.166
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:emerald_shard",
+      "nbt": "{lore:['{text:\"Only in Woodland Mansions\"}']}",
+      "chance": 0.076
+    },
+    {
+      "type": "item",
+      "id": "minecraft:vex_spawn_egg",
+      "nbt": "{lore:['{text:\"Only in Woodland Mansions\"}']}",
+      "chance": 0.153
+    }
+  ]
+}

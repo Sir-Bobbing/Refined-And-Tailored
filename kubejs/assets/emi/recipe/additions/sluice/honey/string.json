@@ -1,0 +1,12 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:string",
+    "fluid:create:honey"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": {
+    "type": "item",
+    "id": "minecraft:honeycomb"
+  }
+}

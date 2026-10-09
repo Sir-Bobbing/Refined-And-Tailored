@@ -1,0 +1,15 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "exposure:black_and_white_film",
+    "count": 1
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 4
+  },
+  "max_trades": 8,
+  "xp": 10,
+  "price_multiplier": 0.05,
+  "level": 2
+}

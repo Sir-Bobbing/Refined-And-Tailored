@@ -1,0 +1,29 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:aeronautics:levitite_blend",
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "spelunkery:end_stone_pebble",
+      "amount": 90,
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:end_stone_pebble",
+        "chance": 0.5,
+        "amount": 90
+      } 
+    },
+    {
+      "type": "item",
+      "id": "architects_palette:oracle_jelly",
+      "amount": 10,
+      "remainder": {
+        "type": "item",
+        "id": "architects_palette:oracle_jelly",
+        "chance": 0.5,
+        "amount": 10
+      } 
+    }
+  ]
+}

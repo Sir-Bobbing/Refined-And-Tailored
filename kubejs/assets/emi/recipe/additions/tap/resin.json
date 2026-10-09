@@ -1,0 +1,18 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:spruce_log",
+    "item:nomansland:pine_log"
+  ],
+  "right": [
+    {
+      "type": "item",
+      "id": "nomansland:tap",
+      "nbt": "{lore:['{text:\"Place on a live tree with a cauldron below\"}']}"
+    },
+    "item:minecraft:cauldron"
+  ],
+  "output": [
+    "item:nomansland:resin"
+  ]
+}

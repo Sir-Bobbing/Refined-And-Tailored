@@ -1,43 +1,64 @@
-// Big Cannons
-{
-"action": "remove",
-"items":
-["createbigcannons:nethersteel_screw_breech", "createbigcannons:thick_nethersteel_cannon_chamber", "createbigcannons:built_up_nethersteel_cannon_chamber", "createbigcannons:nethersteel_cannon_chamber", "createbigcannons:built_up_nethersteel_cannon_barrel", "createbigcannons:nethersteel_cannon_barrel", "createbigcannons:casting_sand", "createbigcannons:very_small_cast_mould", "createbigcannons:small_cast_mould", "createbigcannons:medium_cast_mould", "createbigcannons:large_cast_mould", "createbigcannons:very_large_cast_mould", "createbigcannons:cannon_end_cast_mould", "createbigcannons:sliding_breech_cast_mould", "createbigcannons:screw_breech_cast_mould", "createbigcannons:cannon_drill", "createbigcannons:cannon_builder", "createbigcannons:unbored_cast_iron_cannon_barrel", "createbigcannons:unbored_cast_iron_cannon_chamber", "createbigcannons:unbored_cast_iron_sliding_breech", "createbigcannons:incomplete_cast_iron_sliding_breech", "createbigcannons:molten_steel_bucket", "createbigcannons:unbored_very_small_steel_cannon_layer", "createbigcannons:unbored_small_steel_cannon_layer", "createbigcannons:unbored_medium_steel_cannon_layer", "createbigcannons:unbored_large_steel_cannon_layer", "createbigcannons:unbored_very_large_steel_cannon_layer", "createbigcannons:very_small_steel_cannon_layer", "createbigcannons:small_steel_cannon_layer", "createbigcannons:medium_steel_cannon_layer", "createbigcannons:large_steel_cannon_layer", "createbigcannons:very_large_steel_cannon_layer", "createbigcannons:unbored_steel_sliding_breech", "createbigcannons:incomplete_steel_sliding_breech", "createbigcannons:unbored_steel_screw_breech", "createbigcannons:incomplete_steel_screw_breech","createbigcannons:unbored_bronze_cannon_barrel", "createbigcannons:unbored_bronze_cannon_chamber", "createbigcannons:unbored_bronze_sliding_breech", "createbigcannons:incomplete_bronze_sliding_breech", "createbigcannons:unbored_very_small_nethersteel_cannon_layer", "createbigcannons:unbored_small_nethersteel_cannon_layer", "createbigcannons:unbored_medium_nethersteel_cannon_layer", "createbigcannons:unbored_large_nethersteel_cannon_layer", "createbigcannons:unbored_very_large_nethersteel_cannon_layer", "createbigcannons:very_small_nethersteel_cannon_layer", "createbigcannons:small_nethersteel_cannon_layer", "createbigcannons:medium_nethersteel_cannon_layer", "createbigcannons:large_nethersteel_cannon_layer", "createbigcannons:very_large_nethersteel_cannon_layer", "createbigcannons:unbored_nethersteel_screw_breech", "createbigcannons:incomplete_nethersteel_screw_breech", "createbigcannons:nethersteel_screw_lock", "createbigcannons:basin_foundry_lid", "createbigcannons:cast_iron_nugget", "createbigcannons:cast_iron_ingot", "createbigcannons:cast_iron_block", "createbigcannons:steel_scrap", "createbigcannons:steel_ingot", "createbigcannons:steel_block", "createbigcannons:nethersteel_nugget", "createbigcannons:nethersteel_ingot", "createbigcannons:nethersteel_block", "createbigcannons:recoil_spring", "createbigcannons:unbored_cast_iron_autocannon_breech", "createbigcannons:unbored_cast_iron_autocannon_recoil_spring", "createbigcannons:unbored_cast_iron_autocannon_barrel", "createbigcannons:incomplete_cast_iron_autocannon_breech", "createbigcannons:incomplete_cast_iron_autocannon_recoil_spring", "createbigcannons:unbored_bronze_autocannon_breech", "createbigcannons:unbored_bronze_autocannon_recoil_spring", "createbigcannons:unbored_bronze_autocannon_barrel","createbigcannons:incomplete_bronze_autocannon_breech", "createbigcannons:incomplete_bronze_autocannon_recoil_spring", "createbigcannons:unbored_steel_autocannon_breech", "createbigcannons:unbored_steel_autocannon_recoil_spring", "createbigcannons:unbored_steel_autocannon_barrel", "createbigcannons:incomplete_steel_autocannon_breech", "createbigcannons:incomplete_steel_autocannon_recoil_spring", "createbigcannons:autocannon_breech_cast_mould", "createbigcannons:autocannon_recoil_spring_cast_mould", "createbigcannons:autocannon_barrel_cast_mould", "createbigcannons:spring_wire","createbigcannons:congealed_nitro", "createbigcannons:hardened_nitro"]
-}
-
 // Platinum & Lithium
 {
 "action": "remove",
 "items":
-["createpropulsion:platinum_ore", "createpropulsion:deepslate_platinum_ore", "createpropulsion:platinum_block", "createpropulsion:raw_platinum_block", "createpropulsion:platinum_casing", "createpropulsion:platinum_fluid_tank", "createpropulsion:platinum_ingot", "createpropulsion:platinum_nugget", "createpropulsion:platinum_sheet", "createpropulsion:raw_platinum", "create:crushed_raw_platinum", "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore", "tfmg:raw_lithium_block", "tfmg:lithium_block", "tfmg:lithium_torch", "tfmg:lithium_ingot", "tfmg:lithium_nugget", "tfmg:raw_lithium", "tfmg:crushed_raw_lithium", "tfmg:lithium_charge", "tfmg:lithium_blade", "tfmg:lit_lithium_blade","createpropulsion:cable", "createpropulsion:cable_relay"]
+["createpropulsion:platinum_ore", "createpropulsion:deepslate_platinum_ore", "createpropulsion:platinum_block", "createpropulsion:raw_platinum_block", "createpropulsion:platinum_casing", "createpropulsion:platinum_fluid_tank", "createpropulsion:platinum_ingot", "createpropulsion:platinum_nugget", "createpropulsion:platinum_sheet", "createpropulsion:raw_platinum", "create:crushed_raw_platinum", "tfmg:lithium_ore", "tfmg:deepslate_lithium_ore", "tfmg:raw_lithium_block", "tfmg:lithium_block", "tfmg:lithium_torch", "tfmg:lithium_ingot", "tfmg:lithium_nugget", "tfmg:raw_lithium", "tfmg:crushed_raw_lithium", "createpropulsion:cable", "createpropulsion:cable_relay","createpropulsion:platinum_fluid_vessel"]
 }
 // Other
 {
 "action": "remove",
 "items":
-["create_connected:control_chip", "spelunkery:depth_gauge", "spelunkery:compression_blast_miner", "scguns:pebbles", "malum:block_of_brilliance", "malum:brilliant_deepslate", "malum:brilliant_stone", "malum:raw_brilliance", "malum:crushed_brilliance", "create:experience_nugget", "incubation:fried_egg", "malum:natural_quartz", "malum:deepslate_quartz_ore", "malum:natural_quartz_ore", "copper_tools_armor_backport:copper_nugget", "spelunkery:copper_nugget", "createbigcannons:gunpowder_pinch","createpropulsion:pine_resin", "createpropulsion:turpentine_bucket", "scguns:asgharian_tiles", "scguns:cracked_asgharian_tiles", "scguns:mossy_asgharian_bricks", "scguns:mossy_asgharian_tiles", "scguns:chiseled_asgharian_bricks", "scguns:polished_asgharian_panel", "scguns:asgharian_pillar", "scguns:cracked_asgharian_bricks", "scguns:reinforced_asgharian_tiles", "scguns:asgharian_bricks","scguns:vent_collector","scguns:geothermal_vent", "scguns:sulfur_vent","scguns:niter_dust", "scguns:niter_block", "tfmg:sulfur", "tfmg:sulfur_dust", "scguns:sulfur_chunk", "scguns:sulfur_dust", "scguns:sulfur_ore", "scguns:deepslate_sulfur_ore", "scguns:nether_sulfur_ore", "scguns:sulfur_block", "tfmg:nitrate_dust"]
+["create_connected:control_chip", "spelunkery:depth_gauge", "spelunkery:compression_blast_miner", "scguns:pebbles", "malum:block_of_brilliance", "malum:brilliant_deepslate", "malum:brilliant_stone", "malum:raw_brilliance", "malum:crushed_brilliance", "create:experience_nugget", "incubation:fried_egg", "malum:natural_quartz", "malum:deepslate_quartz_ore", "malum:natural_quartz_ore", "copper_tools_armor_backport:copper_nugget", "spelunkery:copper_nugget", "createbigcannons:gunpowder_pinch","createpropulsion:pine_resin", "createpropulsion:turpentine_bucket", "scguns:asgharian_tiles", "scguns:cracked_asgharian_tiles", "scguns:mossy_asgharian_bricks", "scguns:mossy_asgharian_tiles", "scguns:chiseled_asgharian_bricks", "scguns:polished_asgharian_panel", "scguns:asgharian_pillar", "scguns:cracked_asgharian_bricks", "scguns:reinforced_asgharian_tiles", "scguns:asgharian_bricks","scguns:vent_collector","scguns:geothermal_vent", "scguns:sulfur_vent","scguns:niter_dust", "scguns:niter_block", "tfmg:sulfur", "tfmg:sulfur_dust", "scguns:sulfur_chunk", "scguns:sulfur_dust", "scguns:sulfur_ore", "scguns:deepslate_sulfur_ore", "scguns:nether_sulfur_ore", "scguns:sulfur_block", "tfmg:nitrate_dust", "malum:coal_fragment", "malum:charcoal_fragment"]
 }
 // Scorched Guns
 {
 "action": "remove",
 "items":
-["scguns:cold_pack", "scguns:basic_poultice", "scguns:honey_sulfur_poultice", "scguns:enchanted_bandage", "scguns:dragon_salve", "scguns:treated_brass_helmet", "scguns:antique_flare", "scguns:frontier_flare", "scguns:copper_flare", "scguns:redcoat_boots", "scguns:iron_flare", "scguns:wrecker_flare", "scguns:gold_flare", "scguns:diamond_steel_flare", "scguns:treated_brass_flare", "scguns:ocean_flare", "scguns:sculk_flare", "scguns:flare_pistol", "scguns:white_flag", "scguns:rusty_medal", "scguns:labor_trophy", "scguns:snapped_cogwheel", "scguns:cog_heart", "scguns:gold_idol", "scguns:leviathan_tooth", "scguns:ceremonial_cod", "scguns:sculk_tome","scguns:treated_iron_blend", "scguns:treated_brass_blend", "scguns:diamond_steel_blend", "scguns:scorched_blend", "scguns:macerator", "scguns:powered_macerator","scguns:bat_guano", "scguns:guano_candle","scguns:advanced_composter", "scguns:shulker_core", "scguns:blueprint_scrap"]
+["scguns:cold_pack", "scguns:basic_poultice", "scguns:honey_sulfur_poultice", "scguns:enchanted_bandage", "scguns:dragon_salve", "scguns:treated_iron_blend", "scguns:treated_brass_blend", "scguns:diamond_steel_blend", "scguns:scorched_blend", "scguns:macerator", "scguns:powered_macerator","scguns:bat_guano", "scguns:guano_candle","scguns:advanced_composter", "scguns:dishes_pouch", "scguns:rock_pouch", "scguns:heavy_armor_pouches", "scguns:armor_pouches","scguns:scorched_block", "scguns:rat_king_and_queen", "scguns:locust", "scguns:earths_corpse", "scguns:flayed_god", "scguns:nervepinch", "scguns:astella", "scguns:terra_incognita", "scguns:newborn_cyst", "scguns:sterilizer", "scguns:scorched_gun_frame", "scguns:scorched_blueprint", "scguns:scorched_ingot", "scguns:shulker_casing", "scguns:shulkshot", "scguns:shulker_core", "scguns:weevil", "scguns:shellurker", "scguns:carapice", "scguns:prima_materia"]
 }
 // Armorer's Workshop
 {
 "action": "remove",
 "items":
-["armourers_workshop:skin-unlock-chest", "armourers_workshop:skin-unlock-feet", "armourers_workshop:skin-unlock-legs", "armourers_workshop:skin-unlock-wings", "armourers_workshop:skin-unlock-outfit", "armourers_workshop:gift-sack","armourers_workshop:skin-unlock-head", "armourers_workshop:armourers-hammer"]
+["armourers_workshop:armourers-hammer", "armourers_workshop:skin-unlock-head", "armourers_workshop:skin-unlock-chest", "armourers_workshop:skin-unlock-legs", "armourers_workshop:skin-unlock-feet", "armourers_workshop:skin-unlock-wings", "armourers_workshop:skin-unlock-outfit", "armourers_workshop:gift-sack"]
 }
 // TFMG
 {
 "action": "remove",
 "items":
-["tfmg:capacitor_item", "tfmg:resistor", "tfmg:transistor_item", "tfmg:magnet","tfmg:unfinished_resistor", "tfmg:glass_insulator_segment", "tfmg:glass_cable_insulator", "tfmg:unfired_insulator", "tfmg:unfinished_insulator", "tfmg:cable_connector", "tfmg:generator", "tfmg:copycat_cable_block","tfmg:brass_cable_hub", "tfmg:steel_cable_hub", "tfmg:aluminum_cable_hub", "tfmg:steel_casing_cable_hub", "tfmg:heavy_cable_hub", "tfmg:electric_motor", "tfmg:unfinished_electric_motor", "tfmg:accumulator", "tfmg:electric_diode","tfmg:potentiometer", "tfmg:electrical_switch", "tfmg:large_switch", "tfmg:voltage_observer", "tfmg:polarizer", "tfmg:rotor", "tfmg:stator", "tfmg:transformer", "tfmg:converter","tfmg:large_coil", "tfmg:winding_machine", "tfmg:magnetic_alloy_ingot", "tfmg:laminated_magnetic_alloy_block", "tfmg:magnetic_alloy_sheet", "tfmg:unfinished_electromagnetic_coil", "tfmg:electromagnetic_coil", "tfmg:empty_spool", "tfmg:copper_spool","tfmg:aluminum_spool", "tfmg:constantan_spool", "tfmg:copper_wire","tfmg:unfinished_potentiometer","tfmg:unfinished_generator","tfmg:unfinished_transistor","tfmg:unfinished_capacitor"]
+["tfmg:capacitor_item", "tfmg:resistor", "tfmg:transistor_item", "tfmg:magnet","tfmg:unfinished_resistor", "tfmg:glass_insulator_segment", "tfmg:glass_cable_insulator", "tfmg:unfired_insulator", "tfmg:unfinished_insulator", "tfmg:cable_connector", "tfmg:generator", "tfmg:copycat_cable_block","tfmg:brass_cable_hub", "tfmg:steel_cable_hub", "tfmg:aluminum_cable_hub", "tfmg:steel_casing_cable_hub", "tfmg:heavy_cable_hub", "tfmg:electric_motor", "tfmg:unfinished_electric_motor", "tfmg:accumulator", "tfmg:electric_diode","tfmg:potentiometer", "tfmg:electrical_switch", "tfmg:large_switch", "tfmg:voltage_observer", "tfmg:polarizer", "tfmg:rotor", "tfmg:stator", "tfmg:transformer", "tfmg:converter","tfmg:large_coil", "tfmg:winding_machine", "tfmg:magnetic_alloy_ingot", "tfmg:laminated_magnetic_alloy_block", "tfmg:magnetic_alloy_sheet", "tfmg:unfinished_electromagnetic_coil", "tfmg:electromagnetic_coil", "tfmg:empty_spool", "tfmg:copper_spool","tfmg:aluminum_spool", "tfmg:constantan_spool", "tfmg:copper_wire","tfmg:unfinished_potentiometer","tfmg:unfinished_generator","tfmg:unfinished_transistor","tfmg:unfinished_capacitor", "tfmg:electric_pump", "tfmg:lead_pickaxe", "tfmg:lead_shovel", "tfmg:lead_hoe", "tfmg:heavy_electric_motor", "tfmg:unfinished_heavy_electric_motor"]
 }
 // Power Grid
 {
 "action": "remove",
 "items":
 ["powergrid:acid_bucket"]
+}
+// SCguns Raids
+{
+"action": "remove",
+"items":
+["scguns:white_flag", "scguns:antique_flare", "scguns:iron_flare", "scguns:labor_trophy", "scguns:diamond_steel_flare", "scguns:ceremonial_cod", "scguns:sculk_flare", "scguns:sculk_tome", "scguns:flare_pistol", "scguns:frontier_flare", "scguns:copper_flare", "scguns:rusty_medal", "scguns:gold_flare", "scguns:gold_idol", "scguns:ocean_flare", "scguns:leviathan_tooth", "scguns:blueprint_scrap", "scguns:wrecker_flare", "scguns:snapped_cogwheel", "scguns:treated_brass_flare", "scguns:cog_heart"]
+}
+
+// Handcrafted
+{
+"action": "remove",
+"items":
+["handcrafted:berry_jam_jar", "handcrafted:stackable_book", "handcrafted:bear_trophy", "handcrafted:blaze_trophy", "handcrafted:goat_trophy", "handcrafted:salmon_trophy", "handcrafted:pufferfish_trophy", "handcrafted:fox_trophy", "handcrafted:fancy_painting", "handcrafted:witch_trophy", "handcrafted:vindicator_trophy", "handcrafted:pillager_trophy", "handcrafted:evoker_trophy", "handcrafted:skeleton_horse_trophy", "handcrafted:spider_trophy", "handcrafted:tropical_fish_trophy", "handcrafted:wither_skeleton_trophy", "handcrafted:wolf_trophy", "handcrafted:phantom_trophy", "handcrafted:creeper_trophy", "handcrafted:skeleton_trophy", "handcrafted:oven", "handcrafted:kitchen_hood_pipe", "handcrafted:silverfish_trophy", "handcrafted:kitchen_hood"]
+}
+
+// A STEAK!?
+// Yes mark, a steak
+{
+"action": "remove",
+"items":
+["artifacts:eternal_steak", "artifacts:everlasting_beef"]
+}
+
+// VS hose connectors
+{
+"action": "remove",
+"items":
+["vsfluidlink:item_hose_connector", "vsfluidlink:item_magnet_hose_connector", "vsfluidlink:electric_wire_connector", "vsfluidlink:electric_magnet_wire_connector", "vsfluidlink:chain_connector", "vsfluidlink:magnet_chain_connector"]
 }

@@ -1,6 +1,6 @@
 {
-  "config_version": "2.0.28",
-  "config_datetime": "2026-07-19_12-35-37",
+  "config_version": "2.0.33",
+  "config_datetime": "2026-08-21_18-56-13",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
@@ -8,11 +8,6 @@
     "global_spacing_and_separation_modifier": 1.0
   },
   "structure_namespaces": [
-    {
-      "name": "archeological",
-      "is_disabled": false,
-      "exclude_from_overlap_prevention": true
-    },
     {
       "name": "kobolds",
       "is_disabled": false,
@@ -75,76 +70,6 @@
       ]
     },
     {
-      "name": "archeological:ancient_vault_deep_ruins",
-      "blacklisted_biomes": [
-        "minecraft:deep_frozen_ocean",
-        "minecraft:frozen_ocean",
-        "minecraft:deep_cold_ocean",
-        "minecraft:cold_ocean",
-        "minecraft:deep_ocean",
-        "minecraft:ocean",
-        "minecraft:deep_lukewarm_ocean",
-        "minecraft:lukewarm_ocean",
-        "minecraft:warm_ocean"
-      ]
-    },
-    {
-      "name": "archeological:ancient_vault_underground_ruins",
-      "blacklisted_biomes": [
-        "minecraft:deep_frozen_ocean",
-        "minecraft:frozen_ocean",
-        "minecraft:deep_cold_ocean",
-        "minecraft:cold_ocean",
-        "minecraft:deep_ocean",
-        "minecraft:ocean",
-        "minecraft:deep_lukewarm_ocean",
-        "minecraft:lukewarm_ocean",
-        "minecraft:warm_ocean"
-      ]
-    },
-    {
-      "name": "archeological:underground_ruins_large",
-      "blacklisted_biomes": [
-        "minecraft:deep_frozen_ocean",
-        "minecraft:frozen_ocean",
-        "minecraft:deep_cold_ocean",
-        "minecraft:cold_ocean",
-        "minecraft:deep_ocean",
-        "minecraft:ocean",
-        "minecraft:deep_lukewarm_ocean",
-        "minecraft:lukewarm_ocean",
-        "minecraft:warm_ocean"
-      ]
-    },
-    {
-      "name": "archeological:underground_ruins_medium",
-      "blacklisted_biomes": [
-        "minecraft:deep_frozen_ocean",
-        "minecraft:frozen_ocean",
-        "minecraft:deep_cold_ocean",
-        "minecraft:cold_ocean",
-        "minecraft:deep_ocean",
-        "minecraft:ocean",
-        "minecraft:deep_lukewarm_ocean",
-        "minecraft:lukewarm_ocean",
-        "minecraft:warm_ocean"
-      ]
-    },
-    {
-      "name": "archeological:underground_ruins_small",
-      "blacklisted_biomes": [
-        "minecraft:deep_frozen_ocean",
-        "minecraft:frozen_ocean",
-        "minecraft:deep_cold_ocean",
-        "minecraft:cold_ocean",
-        "minecraft:deep_ocean",
-        "minecraft:ocean",
-        "minecraft:deep_lukewarm_ocean",
-        "minecraft:lukewarm_ocean",
-        "minecraft:warm_ocean"
-      ]
-    },
-    {
       "name": "immersiveenchanting:ancient_library_desert",
       "is_disabled": true
     },
@@ -168,6 +93,15 @@
         "minecraft:deep_lukewarm_ocean",
         "minecraft:lukewarm_ocean",
         "minecraft:warm_ocean"
+      ]
+    },
+    {
+      "name": "nova_structures:bunker",
+      "blacklisted_biomes": [
+        "nomansland:lush_river",
+        "minecraft:beach",
+        "minecraft:snowy_beach",
+        "nomansland:tropical_beach"
       ]
     },
     {
@@ -234,50 +168,6 @@
     },
     {
       "name": "nova_structures:shrine_tower",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_acacia",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_birch",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_cherry",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_dark_oak",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_desert",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_jungle",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_mangrove",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_oak",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_snowy",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_spruce",
-      "is_disabled": true
-    },
-    {
-      "name": "nova_structures:tavern_swamp",
       "is_disabled": true
     },
     {

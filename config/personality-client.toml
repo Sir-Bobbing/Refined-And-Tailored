@@ -14,7 +14,7 @@
 
 	[tweaks.armor]
 		#If the armor model should be deflated using the inner and outer armor deformations
-		"Deflate armor model" = true
+		"Deflate armor model" = false
 		#The CubeDeformation for the inner (leggings) armor model - Vanilla is 0.5
 		# Default: 0.375
 		# Range: 0.0 ~ 2.0

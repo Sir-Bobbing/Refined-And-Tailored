@@ -9,11 +9,11 @@
 	#EG: modname:modsound.boing
 	#
 	#If you want to use external sounds, consider looking into the mods that add resources
-	name = "entity.experience_orb.pickup"
+	name = "create:desk_bell"
 	#Volume of the volume (when Minecraft loads)
 	# Default: 0.25
 	# Range: 0.0 ~ 10.0
-	volume = 0.25
+	volume = 1.0
 	#Pitch of the sound (when Minecraft loads)
 	# Default: 1.0
 	# Range: 0.0 ~ 10.0
@@ -28,11 +28,11 @@
 	#Resource Location based name of the sound file to play when resources complete reloading.
 	#
 	#Look at the "name" config for more details.
-	nameResourcesReload = "entity.experience_orb.pickup"
+	nameResourcesReload = "create:desk_bell"
 	#Volume of the sound (when resources complete reloading)
 	# Default: 0.25
 	# Range: 0.0 ~ 10.0
-	volumeResourcesReload = 0.25
+	volumeResourcesReload = 1.0
 	#Pitch of the sound (when resources complete reloading)
 	# Default: 1.0
 	# Range: 0.0 ~ 10.0
@@ -43,15 +43,15 @@
 #Configs for ding to trigger when the world loads after connecting to a server
 [world]
 	#Play sound when the world loads after connecting to a server. Requires game to be restarted when changing this option.
-	playOnWorld = false
+	playOnWorld = true
 	#Resource Location based name of the sound file to play when the world finishes loading (after connecting to a server).
 	#
 	#Look at the "name" config for more details.
-	nameWorld = "entity.experience_orb.pickup"
+	nameWorld = "create:desk_bell"
 	#Volume of the sound (when the world loads after connecting to a server)
 	# Default: 0.25
 	# Range: 0.0 ~ 10.0
-	volumeWorld = 0.25
+	volumeWorld = 1.0
 	#Pitch of the sound (when the world loads after connecting to a server)
 	# Default: 1.0
 	# Range: 0.0 ~ 10.0

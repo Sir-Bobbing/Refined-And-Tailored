@@ -13,13 +13,16 @@
       "tag": "c:ingots/iron"
     },
     {
-      "tag": "c:ingots/lead"
+      "tag": "c:ingots/nickel"
     },
     {
       "item": "spelunkery:cinnabar"
     },
     {
       "tag": "c:dusts/niter"
+    },
+    {
+      "tag": "c:coal"
     },
     {
       "tag": "c:coal"

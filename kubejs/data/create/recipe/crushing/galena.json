@@ -1,0 +1,18 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "tfmg:stone_types/galena"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.075,
+      "id": "create:crushed_raw_lead"
+    },
+    {
+      "chance": 0.075,
+      "id": "tfmg:lead_nugget"
+    }
+  ]
+}

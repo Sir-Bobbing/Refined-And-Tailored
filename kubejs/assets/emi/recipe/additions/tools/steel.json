@@ -1,0 +1,11 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:tfmg:steel_sword",
+    "item:tfmg:steel_pickaxe",
+    "item:tfmg:steel_axe",
+    "item:tfmg:steel_shovel",
+    "item:tfmg:steel_hoe"
+  ],
+  "text": "kubejs.info.tools_steel"
+}

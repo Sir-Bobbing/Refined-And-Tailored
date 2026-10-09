@@ -2,25 +2,35 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:sweet_berries",
+                    "item": "minecraft:rose_bush",
                     "count": 16
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
                     "item": "minecraft:cactus",
-                    "count": 8
+                    "count": 16
+                }
+            },
+            {
+                "xp_levels": 8,
+                "item_cost": {
+                    "item": "minecraft:sweet_berries",
+                    "count": 16
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "minecraft:amethyst_shard",
-                    "count": 1
+                    "item": "nomansland:spike_trap",
+                    "count": 16
                 }
             }
         ]

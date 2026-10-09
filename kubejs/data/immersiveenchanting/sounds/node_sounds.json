@@ -355,6 +355,11 @@
       "volume": 0.5,
       "pitch": 1.0
     },
+    "createrailgrinding:railgrind_enchantment": {
+      "sound": "createrailgrinding:grind_collide",
+      "volume": 0.5,
+      "pitch": 1.0
+    },
     "aileron:smokestack": {
       "sound": "supplementaries:block.bellows.blow",
       "volume": 0.5,

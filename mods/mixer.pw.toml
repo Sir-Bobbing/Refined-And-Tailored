@@ -1,0 +1,21 @@
+filename = 'notalone-neoforge-1.21.1-1.2.0.jar'
+name = 'Mixer'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mc1.21.1-1.2.0-neoforge'
+
+[download]
+hash = 'ea65955d3bd8e680a668199219baefc6425ba2e202ce1d563256e9e66b6b876e442ca2e3b63d13603657c5dbaa2572a2c0f8049a80a6cffe440814420210d5ca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LmQ1A760/versions/YWjmAGlg/notalone-neoforge-1.21.1-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'LmQ1A760'
+version = 'YWjmAGlg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'HIuqnQpi'
+type = 'REQUIRED'

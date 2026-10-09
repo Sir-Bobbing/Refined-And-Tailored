@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "/": {
+      "tag": "minecraft:planks"
+    },
+    "#": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "pattern": [
+    "# #",
+    "X/X"
+  ],
+  "result": {
+    "count": 3,
+    "id": "handcrafted:wood_bowl"
+  }
+}

@@ -2,22 +2,25 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "quark:bottled_cloud",
+                    "item": "minecraft:feather",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "malum:wind_nucleus",
-                    "count": 1
+                    "item": "supplementaries:wind_vane",
+                    "count": 16
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
                     "item": "aeronautics:music_disc_cloud_skipper",
                     "count": 1

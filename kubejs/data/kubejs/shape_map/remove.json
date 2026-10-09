@@ -1,0 +1,17 @@
+{
+    "priority": 700,
+    "remove": {
+        "/minecraft:.*_concrete/": [
+            "/.*/"
+        ],
+        "/architects_palette:.*_slab/": [
+            "/.*/"
+    ]
+    },
+    "add": {
+        "/tfmg:(?<color>.+)_concrete/": [
+            "clutternomore:tfmg/vertical_${color}_concrete_slab",
+            "clutternomore:tfmg/${color}_concrete_step"
+        ]
+    }
+}

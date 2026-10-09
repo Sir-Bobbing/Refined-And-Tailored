@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "tools",
+  "key": {
+    "#": {
+      "item": "spelunkery:magnetic_compass"
+    },
+    "Q": {
+      "item": "scguns:anthralite_ingot"
+    },
+    "R": {
+      "item": "minecraft:copper_bulb"
+    },
+    "X": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "QR ",
+    "XQ ",
+    "  #"
+  ],
+  "result": {
+    "id": "scguns:metal_detector"
+  }
+}

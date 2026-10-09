@@ -1,0 +1,23 @@
+{
+  "type": "malum:spirit_repair",
+  "regex": {
+    "itemIdRegex": "anthralite_.+"
+  },
+  "repairMaterial": {
+    "count": 6,
+    "tag": "c:nuggets/anthralite"
+  },
+  "spirits": [
+    {
+      "type": "malum:earthen",
+      "count": 6
+    },
+    {
+      "type": "malum:wicked",
+      "count": 4
+    }
+  ],
+  "validItems": [
+    "scguns:anthralite_sword"
+  ]
+}

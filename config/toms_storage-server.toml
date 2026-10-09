@@ -11,11 +11,11 @@ invCableConnectorMaxScanSize = 2048
 #Wireless terminal reach
 # Default: 16
 # Range: 4 ~ 64
-wirelessReach = 16
+wirelessReach = 64
 #Wireless terminal reach
 # Default: 64
 # Range: 16 ~ 512
-advWirelessRange = 64
+advWirelessRange = 256
 #Adv Wireless terminal requied beacon level for infinite range
 #Value of 0 only requires a single beacon block nearby
 #Value of -1 disables this feature entirely
@@ -56,4 +56,4 @@ runMultithreaded = true
 #Base tick cooldown for Basic Inventory Hopper item transfer
 # Default: 10
 # Range: 1 ~ 200
-basicHopperCooldown = 10
+basicHopperCooldown = 4

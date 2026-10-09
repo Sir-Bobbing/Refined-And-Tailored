@@ -1,0 +1,35 @@
+{
+  "type": "malum:spirit_infusion",
+  "extraInputs": [
+    {
+      "count": 1,
+      "item": "spelunkery:cinnabar"
+    },
+    {
+      "count": 1,
+      "item": "malum:blazing_quartz_fragment"
+    },
+    {
+      "count": 1,
+      "item": "scguns:sheol_dust"
+    }
+  ],
+  "input": {
+    "count": 1,
+    "item": "scguns:ancient_brass"
+  },
+  "result": {
+    "count": 1,
+    "id": "scguns:treated_brass_ingot"
+  },
+  "spirits": [
+    {
+      "type": "malum:sacred",
+      "count": 2
+    },
+    {
+      "type": "malum:infernal",
+      "count": 3
+    }
+  ]
+}

@@ -22,8 +22,8 @@ function registerMoltenFluid(event, name, color) {
     .tint(color)
     .tickRate(4)
     .type(type => type
-        .stillTexture('bng:block/molten_still')
-        .flowingTexture('bng:block/molten_flow')
+        .stillTexture('kubejs:block/molten_still')
+        .flowingTexture('kubejs:block/molten_flow')
         .lightLevel(12)
     )
 }

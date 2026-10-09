@@ -2,9 +2,10 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "scguns:nether_star_fragment",
-                    "count": 1
+                    "item": "minecraft:spectral_arrow",
+                    "count": 256
                 }
             }
         ]

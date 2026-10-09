@@ -2,24 +2,27 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "malum:block_of_hallowed_gold",
+                    "item": "minecraft:gold_block",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "create:crushing_wheel",
-                    "count": 2
+                    "items": ["minecraft:diamond_block", "create:crushing_wheel", "malum:intricate_assembly"],
+                    "count": 4
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:belt_of_the_prospector",
+                    "items": ["endermanoverhaul:ancient_pearl", "kubejs:molten_gold_bucket", "malum:ring_of_gruesome_concentration"],
                     "count": 1
                 }
             }

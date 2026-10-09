@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+  	"A": {
+      "item": "tfmg:steel_ingot"
+    },
+    "B": {
+      "item": "minecraft:echo_shard"
+    },
+    "C": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "toms_storage:wireless_terminal"
+    },
+    "E": {
+      "item": "tfmg:circuit_board"
+    }
+  },
+  "result": {
+    "id": "toms_storage:adv_wireless_terminal"
+  }
+}

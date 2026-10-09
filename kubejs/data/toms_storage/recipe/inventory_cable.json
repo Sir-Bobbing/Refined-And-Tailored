@@ -7,7 +7,7 @@
   ],
   "key": {
   	"P": {
-      "item": "tfmg:copper_wire"
+      "item": "powergrid:wire"
     },
     "S": {
       "item": "minecraft:dried_kelp"

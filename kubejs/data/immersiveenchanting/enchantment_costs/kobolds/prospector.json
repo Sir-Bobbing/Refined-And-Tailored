@@ -2,14 +2,16 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:emerald",
+                    "item": "spelunkery:emerald_shard",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
                     "item": "spelunkery:rough_emerald_block",
                     "count": 1
@@ -18,8 +20,9 @@
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:intricate_assembly",
+                    "item": "kobolds:kobold_template",
                     "count": 1
                 }
             }

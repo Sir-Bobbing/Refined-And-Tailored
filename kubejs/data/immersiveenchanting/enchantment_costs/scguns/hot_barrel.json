@@ -2,16 +2,18 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "create:blaze_burner",
+                    "item": "minecraft:blaze_powder",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "tfmg:napalm_bucket",
+                    "item": "create:blaze_burner",
                     "count": 1
                 }
             }

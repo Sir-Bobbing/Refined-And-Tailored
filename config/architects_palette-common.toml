@@ -13,7 +13,7 @@ sunstoneSpreadChance = 0.35
 	#Enables Wandering Trader trades added by AP.
 	enableWandererTrades = true
 	#AP adds Vertical Slabs to be compatible with Quark. Enabling this will force those to be available even if Quark isn't loaded.
-	verticalSlabsForced = false
+	verticalSlabsForced = true
 
 	#World Generation Options
 	[Restart_Required.World_Gen]

@@ -1,6 +1,6 @@
 {
   "type": "neoforge:add_spawns",
-  "biomes": "#breakingnewground:spawns_scguns_mobs",
+  "biomes": "#kubejs:spawns_scguns_mobs",
   "spawners": {
     "type": "scguns:dissident",
     "weight": 15,

@@ -7,10 +7,10 @@
   ],
   "key": {
   	"P": {
-      "item": "create:brass_funnel"
+      "item": "minecraft:hopper"
     },
     "C": {
-      "tag": "c:ingots/cast_iron"
+      "tag": "c:ingots/iron"
     },
     "T": {
       "item": "toms_storage:inventory_cable"

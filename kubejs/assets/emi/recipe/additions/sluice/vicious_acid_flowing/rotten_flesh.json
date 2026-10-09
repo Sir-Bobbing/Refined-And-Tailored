@@ -1,0 +1,12 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:minecraft:rotten_flesh",
+    "fluid:scguns:vicious_acid_source"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": {
+    "type": "item",
+    "id": "minecraft:leather"
+  }
+}

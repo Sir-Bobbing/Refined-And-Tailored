@@ -12,6 +12,11 @@
   },
   {
     "action": "replace_input",
+    "target": "farmersdelight:rope",
+    "replacement": "#c:ropes"
+  },
+  {
+    "action": "replace_input",
     "target": "minecraft:slime_ball",
     "replacement": "#c:slime_balls"
   },
@@ -90,12 +95,6 @@
       "scguns:powered_mech_press/powered_exo_suit_core"
     ]
   },
-// CBC
-  {
-    "action": "replace_input",
-    "target": "createbigcannons:nitropowder",
-    "replacement": "createbigcannons:packed_gunpowder"
-  },
 // TFMG
   {
     "action": "replace_input",
@@ -157,6 +156,69 @@
     "spelunkery:splashing/gravel",
     "scguns:create/soul_soil"
     ]
-  }
+  },
 
+  // Recipe Overlap Removal
+    {
+    "action": "remove_recipe",
+    "id": [
+    "minecraft:redstone_from_blasting_redstone_ore",
+    "minecraft:redstone_from_blasting_deepslate_redstone_ore",
+    "minecraft:redstone_from_smelting_redstone_ore",
+    "minecraft:redstone_from_smelting_deepslate_redstone_ore",
+    "minecraft:diamond_from_blasting_diamond_ore",
+    "minecraft:diamond_from_blasting_deepslate_diamond_ore",
+    "minecraft:diamond_from_smelting_diamond_ore",
+    "minecraft:diamond_from_smelting_deepslate_diamond_ore",
+    "minecraft:coal_from_blasting_coal_ore",
+    "minecraft:coal_from_blasting_deepslate_coal_ore",
+    "minecraft:coal_from_smelting_coal_ore",
+    "minecraft:coal_from_smelting_deepslate_coal_ore",
+    "minecraft:emerald_from_blasting_emerald_ore",
+    "minecraft:emerald_from_blasting_deepslate_emerald_ore",
+    "minecraft:emerald_from_smelting_emerald_ore",
+    "minecraft:emerald_from_smelting_deepslate_emerald_ore",
+    "minecraft:lapis_lazuli_from_blasting_lapis_ore",
+    "minecraft:lapis_lazuli_from_blasting_deepslate_lapis_ore",
+    "minecraft:lapis_lazuli_from_smelting_lapis_ore",
+    "minecraft:lapis_lazuli_from_smelting_deepslate_lapis_ore",
+    "minecraft:iron_ingot_from_blasting_iron_ore",
+    "minecraft:iron_ingot_from_blasting_deepslate_iron_ore",
+    "minecraft:iron_ingot_from_smelting_iron_ore",
+    "minecraft:iron_ingot_from_smelting_deepslate_iron_ore",
+    "minecraft:copper_ingot_from_blasting_copper_ore",
+    "minecraft:copper_ingot_from_blasting_deepslate_copper_ore",
+    "minecraft:copper_ingot_from_smelting_copper_ore",
+    "minecraft:copper_ingot_from_smelting_deepslate_copper_ore",
+    "minecraft:gold_ingot_from_blasting_gold_ore",
+    "minecraft:gold_ingot_from_blasting_deepslate_gold_ore",
+    "minecraft:gold_ingot_from_smelting_gold_ore",
+    "minecraft:gold_ingot_from_smelting_deepslate_gold_ore",
+    
+    "spelunkery:crushing/crimsite_recycling",
+    "spelunkery:crushing/crimsite",
+    "create:crushing/crimsite",
+    "spelunkery:crushing/ochrum_recycling",
+    "spelunkery:crushing/ochrum",
+    "create:crushing/ochrum",
+    "spelunkery:crushing/asurine_recycling",
+    "spelunkery:crushing/asurine",
+    "create:crushing/asurine",
+    "spelunkery:crushing/veridium_recycling",
+    "spelunkery:crushing/veridium",
+    "create:crushing/veridium",
+    "spelunkery:crushing/tuff_recycling",
+    "spelunkery:crushing/tuff",
+    "create:crushing/tuff",
+
+    "spelunkery:zinc_ore_smelting",
+    "spelunkery:zinc_ore_blasting",
+    "tfmg:smelting/lead_ingot_blasting",
+    "tfmg:smelting/nickel_ingot_blasting",
+    "copper_tools_armor_backport:copper_ingot_from_nuggets",
+    "scguns:gravel_to_pebbles",
+    "copper_tools_armor_backport:create_compatible_copper_nugget",
+    "farmersdelight:cake_from_milk_bottle"
+    ]
+  }
 ]

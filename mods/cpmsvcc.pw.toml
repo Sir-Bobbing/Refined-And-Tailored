@@ -1,0 +1,60 @@
+filename = 'cpm-svc-compat-1.3.2.jar'
+name = ' Customizable Player Models Simple Voice Chat compat'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.14.4-1.3.2'
+
+[download]
+hash = '06067b11b3dcb0380a7dfb7dcd835882e50c9e2c0bc91620c06fe4755c344db16e4d5c9cd191596e971bab47f8012911eb22c45a82ce6100395ab622b95ab418'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xVbeCJyB/versions/D1ulkgL6/cpm-svc-compat-1.3.2.jar'
+
+[update.modrinth]
+mod-id = 'xVbeCJyB'
+version = 'D1ulkgL6'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9eGKb6K1'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'h1E7sQNL'
+type = 'REQUIRED'

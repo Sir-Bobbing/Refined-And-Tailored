@@ -2,14 +2,16 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
                     "item": "malum:aerial_spirit",
-                    "count": 8
+                    "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 4,
                 "item_cost": {
                     "item": "malum:rune_of_dexterity",
                     "count": 1
@@ -18,14 +20,16 @@
         ],
         "3": [
             {
+                "xp_levels": 7,
                 "item_cost": {
                     "item": "malum:accelerating_inlay",
-                    "count": 1
+                    "count": 2
                 }
             }
         ],
         "4": [
             {
+                "xp_levels": 12,
                 "item_cost": {
                     "item": "malum:rune_of_unnatural_stamina",
                     "count": 1

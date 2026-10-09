@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "expose_frame": {
+      "trigger": "exposure:frame_exposed"
+    }
+  },
+  "requirements": [
+    [
+      "expose_frame"
+    ]
+  ],
+  "display": {
+    "icon": {
+      "id": "exposure:camera",
+      "count": 1,
+      "components": {
+        "exposure:camera_active": true
+      }
+    },
+    "title": "Exposure",
+    "description": "Use Camera to expose a Film frame"
+  },
+  "better_tab": {
+    "title": "Exposure",
+    "background": "minecraft:textures/block/smithing_table_top.png",
+    "static_background": false,
+    "bg_width": 16,
+    "bg_height": 16,
+    "index": 5,
+    "background_rules": "[]"
+  }
+}

@@ -2,17 +2,19 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 5,
                 "item_cost": {
-                    "item": "malum:spirit_jar",
+                    "item": "malum:arcane_spirit",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:ring_of_esoteric_spoils",
-                    "count": 1
+                    "item": "endermanoverhaul:soul_pearl",
+                    "count": 4
                 }
             }
         ]

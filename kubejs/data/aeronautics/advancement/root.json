@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "display": {
+    "show_toast": false,
+    "announce_to_chat": false,
+    "icon": {
+      "id": "aeronautics:white_envelope",
+      "count": 1
+    },
+    "title": {
+      "text": "Create Aeronautics"
+    },
+    "description": {
+      "text": "Up Up and Away"
+    },
+    "background": "aeronautics:textures/gui/advancement.png",
+    "frame": "task",
+    "hidden": false
+  }
+}

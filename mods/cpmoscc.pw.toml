@@ -1,4 +1,4 @@
-filename = 'cpm-osc-compat-1.7.1.jar'
+filename = 'cpm-osc-compat-1.7.2.jar'
 name = 'CPM OSC Compat'
 side = 'client'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
@@ -47,17 +47,17 @@ x-prismlauncher-mc-versions = [
     '26.1.2'
 ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.14.4-1.7.1'
+x-prismlauncher-version-number = '1.14.4-1.7.2'
 
 [download]
-hash = '8ae603204d9842711c1d4cfd75ba4c822a37ad7f6353602c9b792e953f4dae8b23009e0c80e2672b1de2bc9b6da469a4c826f6ddb71539fd8bcda7af8efa16b8'
+hash = '01fa8bf6fe62d16b08cfdbd908a00ba981abbedc1c1f4cd7da8d476262400336396a1e8abb3b0b7f818e7688bb375d972bda37c1b175314695ef7cc2ffbd9458'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/QDihBtsN/versions/luXF7ddL/cpm-osc-compat-1.7.1.jar'
+url = 'https://cdn.modrinth.com/data/QDihBtsN/versions/N9yFPuek/cpm-osc-compat-1.7.2.jar'
 
 [update.modrinth]
 mod-id = 'QDihBtsN'
-version = 'luXF7ddL'
+version = 'N9yFPuek'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'h1E7sQNL'

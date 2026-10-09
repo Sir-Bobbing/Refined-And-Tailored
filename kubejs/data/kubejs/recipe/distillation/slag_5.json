@@ -1,0 +1,36 @@
+{
+  "type": "tfmg:distillation",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 100,
+      "fluid": "tfmg:molten_slag"
+    }
+  ],
+  "results": [
+    {
+      "amount": 60,
+      "id": "minecraft:lava"
+    },
+    {
+      "amount": 12,
+      "id": "kubejs:molten_lead"
+    },
+    {
+      "amount": 8,
+      "id": "kubejs:molten_gold"
+    },
+    {
+      "amount": 8,
+      "id": "kubejs:molten_zinc"
+    },
+    {
+      "amount": 6,
+      "id": "kubejs:molten_copper"
+    },
+    {
+      "amount": 6,
+      "id": "kubejs:molten_nickel"
+    }
+  ]
+}

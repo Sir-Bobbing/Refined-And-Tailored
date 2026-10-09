@@ -1,0 +1,11 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:tfmg:aluminum_sword",
+    "item:tfmg:aluminum_pickaxe",
+    "item:tfmg:aluminum_axe",
+    "item:tfmg:aluminum_shovel",
+    "item:tfmg:aluminum_hoe"
+  ],
+  "text": "kubejs.info.tools_aluminum"
+}

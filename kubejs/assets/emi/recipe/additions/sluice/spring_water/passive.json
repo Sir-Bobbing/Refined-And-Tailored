@@ -1,0 +1,42 @@
+{
+  "type": "emi:world_interaction",
+  "left": "fluid:spelunkery:spring_water",
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    {
+      "type": "item",
+      "id": "spelunkery:salt",
+      "amount": 9,
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:salt",
+        "chance": 0.5,
+        "amount": 9
+      }
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:saltpeter",
+      "amount": 9,
+      "nbt": "{lore:['{text:\"Only in cave biomes\"}']}",
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:saltpeter",
+        "chance": 0.5,
+        "amount": 9
+      }
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:sulfur",
+      "amount": 9,
+      "nbt": "{lore:['{text:\"Only in deep caves biome\"}']}",
+      "remainder": {
+        "type": "item",
+        "id": "spelunkery:sulfur",
+        "chance": 0.5,
+        "amount": 9
+      }
+    }
+  ]
+}

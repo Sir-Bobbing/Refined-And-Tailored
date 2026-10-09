@@ -2,25 +2,28 @@
     "levels": {
         "1": [
             {
+                "xp_levels": 2,
                 "item_cost": {
-                    "item": "createbigcannons:worm",
+                    "item": "farmersdelight:cod_slice",
                     "count": 1
                 }
             }
         ],
         "2": [
             {
+                "xp_levels": 8,
                 "item_cost": {
-                    "item": "malum:aerial_spirit",
+                    "item": "farmersdelight:raw_pasta",
                     "count": 8
                 }
             }
         ],
         "3": [
             {
+                "xp_levels": 10,
                 "item_cost": {
-                    "item": "malum:rune_of_good_tides",
-                    "count": 1
+                    "item": "architects_palette:algal_blend",
+                    "count": 32
                 }
             }
         ]

@@ -1,0 +1,17 @@
+{
+  "type": "malum:spirit_infusion",
+  "input": {
+    "count": 1,
+    "item": "supplementaries:ash"
+  },
+  "result": {
+    "count": 1,
+    "id": "malum:hex_ash"
+  },
+  "spirits": [
+    {
+      "type": "malum:arcane",
+      "count": 1
+    }
+  ]
+}

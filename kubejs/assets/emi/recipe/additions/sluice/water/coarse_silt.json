@@ -1,0 +1,117 @@
+{
+  "type": "emi:world_interaction",
+  "left": [
+    "item:nomansland:coarse_silt",
+    "fluid:minecraft:water"
+  ],
+  "right": "item:spelunkery:sluice_grate",
+  "output": [
+    "item:nomansland:silt",
+    "item:sleep_tight:bedbug_eggs",
+    {
+      "type": "item",
+      "id": "sleep_tight:bedbug_spawn_egg",
+      "nbt": "{lore:['{text:\"Spawns in-world\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "tfmg:steel_sword",
+      "nbt": "{lore:['{text:\"Only in Cog Chambers and Mineshafts\"}','{text:\"Returns other steel tools\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "scguns:standard_bullet",
+      "nbt": "{lore:['{text:\"Only in Cog Chambers\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "scguns:scampler_spawn_egg",
+      "nbt": "{lore:['{text:\"Only in Cog Chambers\"}','{text:\"Spawns in-world\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:flint_and_steel",
+      "nbt": "{lore:['{text:\"Only in Cog Chambers, Mineshafts, and Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:cave_spider_spawn_egg",
+      "nbt": "{lore:['{text:\"Only in Mineshafts\"}','{text:\"Spawns in-world\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "nomansland:monster_anchor",
+      "nbt": "{lore:['{text:\"Only in Monster Rooms\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "supplementaries:antique_ink",
+      "nbt": "{lore:['{text:\"Only in Monster Rooms\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:tuning_fork",
+      "nbt": "{lore:['{text:\"Only in Monster Rooms\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:book",
+      "nbt": "{lore:['{text:\"Only in Monster Rooms\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:shears",
+      "nbt": "{lore:['{text:\"Only in Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:arrow",
+      "nbt": "{lore:['{text:\"Only in Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "supplementaries:rope",
+      "nbt": "{lore:['{text:\"Only in Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "farmersdelight:straw",
+      "nbt": "{lore:['{text:\"Only in Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:angler_pottery_sherd",
+      "nbt": "{lore:['{text:\"Only in Ruins\"}','{text:\"Returns other sherds\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:silverfish_spawn_egg",
+      "nbt": "{lore:['{text:\"Only in Ruins\"}','{text:\"Spawns in-world\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "nomansland:warding_effigy",
+      "nbt": "{lore:['{text:\"Only in Alchemist Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "nomansland:awkward_residue",
+      "nbt": "{lore:['{text:\"Only in Alchemist Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "nomansland:living_urn",
+      "nbt": "{lore:['{text:\"Only in Alchemist Ruins\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:trial_key",
+      "nbt": "{lore:['{text:\"Only in Trial Chambers\"}']}"
+    },
+    {
+      "type": "item",
+      "id": "minecraft:disc_fragment_5",
+      "nbt": "{lore:['{text:\"Only in Ancient Citites\"}']}"
+    }
+  ]
+}

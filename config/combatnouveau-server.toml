@@ -10,7 +10,7 @@ min_hitbox_size = true
 upwards_knockback = true
 #Health regenerates every 2 seconds, which requires more than 6 food points. Also food points will be directly consumed when healing. Surplus saturation does not yield quick health regeneration.
 #Default Value: false
-balanced_food_mechanics = true
+balanced_food_mechanics = false
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
 #Default Value: true
 critical_hits_while_sprinting = true
@@ -60,7 +60,7 @@ no_projectile_immunity = true
 	throwables_delay = false
 	#Eating and drinking both are interrupted if the player is damaged.
 	#Default Value: true
-	eating_interruption = false
+	eating_interruption = true
 
 [cooldown]
 	#Disable attacking when attack cooldown is below a certain percentage.

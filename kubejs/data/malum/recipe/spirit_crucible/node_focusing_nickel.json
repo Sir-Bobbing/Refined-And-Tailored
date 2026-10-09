@@ -1,0 +1,31 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:nuggets/nickel"
+      }
+    }
+  ],
+  "type": "malum:spirit_focusing",
+  "durabilityCost": 2,
+  "input": {
+    "item": "malum:nickel_impetus"
+  },
+  "result": {
+    "count": 3,
+    "id": "malum:nickel_node"
+  },
+  "spirits": [
+    {
+      "type": "malum:earthen",
+      "count": 2
+    },
+    {
+      "type": "malum:aerial",
+      "count": 3
+    }
+  ],
+  "time": 900
+}

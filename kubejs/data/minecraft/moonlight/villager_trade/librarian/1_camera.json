@@ -1,0 +1,21 @@
+{
+  "type": "simple",
+  "offer": {
+    "id": "exposure:camera",
+    "components": {
+      "exposure:camera_film": {
+        "count": 1,
+        "id": "exposure:black_and_white_film"
+      }
+    },
+    "count": 1
+  },
+  "price": {
+    "id": "minecraft:emerald",
+    "count": 10
+  },
+  "max_trades": 2,
+  "xp": 10,
+  "price_multiplier": 0.05,
+  "level": 1
+}
