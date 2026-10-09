@@ -310,7 +310,7 @@ hash = "1782991af7ebd64c1f9e2b308e0c39b41a00f22b7d395b2a872deb54f73cf5b7"
 
 [[files]]
 file = "config/notalone.toml"
-hash = "5aa4eea317b9c40364bd584c95f8884e2e7e1ffcf1b249325726fe4e465381dd"
+hash = "b88675bf93ff58aa3891bbdda29601218a14fd2b270e91ec378d127863095da4"
 
 [[files]]
 file = "config/personality-client.toml"
@@ -5151,10 +5151,6 @@ file = "kubejs/data/simulated/end_sea/overworld.json"
 hash = "f390a92a94ed876ebebfc98f817238fb4bfaacc04a634a734bc796b5362ce715"
 
 [[files]]
-file = "kubejs/data/simulated/end_sea/the_nether.json"
-hash = "6be82413398c48257d0f5824367dd7e6b80de5bdf32026600f1069e97b156fa5"
-
-[[files]]
 file = "kubejs/data/spelunkery/advancement/spelunkery/compression_blast_miner.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
@@ -5684,7 +5680,7 @@ hash = "5619c76fef6fede2ce95cd649e8bfea7c8c8d4b1aa79448805be3ee3362bf328"
 
 [[files]]
 file = "kubejs/server_scripts/giggler.js"
-hash = "952edb4b6bf6f17d5bcf86673d589c2d83af753cfd5431e5eb6a02e718e0c1b4"
+hash = "d6ffc2fede2c7e05a4fa28b90328f21f43665194ecc7f1981cfbbecd54384ca4"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -5692,7 +5688,7 @@ hash = "42c92ad557857b1c4a99cf2ef009e6e65ef00615df0f9513b71312817e938f6f"
 
 [[files]]
 file = "kubejs/server_scripts/lib.js"
-hash = "fe524c4c1a97d60574d1dc4beb9b4537102feed54231b971c88781b9060824fa"
+hash = "04440b4440487b6ecbcebb10a4625f14aaab42576fbdc6aced86351e9ecb958b"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
@@ -5717,6 +5713,10 @@ hash = "69066589ebec326fd97b0eb5b29f13d2f43354e6cb68ce85f7f15e3ff2dfd8d0"
 [[files]]
 file = "kubejs/server_scripts/respawn_fade.js"
 hash = "9fbaea8eee7218cd642e0872400c819f746f7680679c3f533ab3a4236440648d"
+
+[[files]]
+file = "kubejs/server_scripts/sable_borders.js"
+hash = "6e422638144e2d61db252bc8a9fe9982d7e09471acc484e14358da78e5cd84ea"
 
 [[files]]
 file = "kubejs/server_scripts/skeleton_pierce.js"

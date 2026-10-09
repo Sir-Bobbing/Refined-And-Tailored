@@ -32,7 +32,7 @@ max_distance_forest = 96
 enabled = true
 
 # One-in-N per tick. Bigger means rarer, 0 is off. Default 4000.
-rarity = 8000
+rarity = 12000
 
 [animal_possession]
 
