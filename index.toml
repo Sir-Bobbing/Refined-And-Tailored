@@ -3600,11 +3600,11 @@ hash = "de8bd93242188a7230271685dc058cfe23abf9f2a1cc8893a1ecbe83b7fb0fc4"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/calcite_lapis_ore.json"
-hash = "04f0727de15f5f7cba394829e431ce91c778c50bf7ff88e506e86b61d1a23cce"
+hash = "cccaf69d4914128ead1587094edbd6e31e6f7452ae17e9630087c77c32d1653a"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/crimsite_iron_ore.json"
-hash = "cd7179be008717bdac723e5609fef2828681c4041f9c5774ef35ba6d27b83ec7"
+hash = "faff11ac3e0628502dfc00fed57a668169e379afeb6d03b5fde1c425870d3a10"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/dripstone_iron_ore.json"
@@ -3612,11 +3612,11 @@ hash = "96db56336f438361b75a08b44693b265f08590c5aad0e76993166dfaeb624945"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/lignite_coal_ore.json"
-hash = "6ff60faaf4950880d623c416cafe0604252b6212f535619e702441007282e0f1"
+hash = "6686311a9dde0a89af796a1ab211208d2b835ba097269d26d2ea7d7a18784186"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/ochrum_gold_ore.json"
-hash = "3fca6dbfad35f5c99db7624f0189ee5b5d8b17fc68ea3ba225c33bbf01e3d46a"
+hash = "f0ff6c9637dc9a7a2759261eb9f9d479c09d24a58abba6fad7265a94b352fdfb"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/quartzite_gold_ore.json"
@@ -3628,11 +3628,11 @@ hash = "3f64a87609c63ac9818deb6195fdf7886ac496714f41af2ea58ce3408df8f869"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/tuff_iron_ore.json"
-hash = "261d9d639b87b1a1c029dec0a66152b251d9be034dddcfb03b48a0f7e72f3179"
+hash = "52ad8bb1c94d5bdbb0ee860629a7ce1caec5c24c013baf9cdc35d1052fd7001a"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_table/blocks/veridium_copper_ore.json"
-hash = "f763b0482c0e63e8c4531302a3091b291e64d0d41b2b9c3b4a50cff37fb86386"
+hash = "49ea857c9310fc405ede18f7568f84b90c1b6c9fa52deedb3362e69838658374"
 
 [[files]]
 file = "kubejs/data/kubejs/mixed_litter/variant_groups/bat.json"
