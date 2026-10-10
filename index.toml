@@ -4391,6 +4391,10 @@ file = "kubejs/data/minecraft/dimension_type/the_nether.json"
 hash = "360731697a58adc00f8055ad3cf9fd1d2652e1313c24bd05aa71eaae5f852bfe"
 
 [[files]]
+file = "kubejs/data/minecraft/enchantment/mending.json"
+hash = "18d4b9c0a203744ceb1fb75506ed034cb662e45b4dc0ec1d4f91c82a64aa0eca"
+
+[[files]]
 file = "kubejs/data/minecraft/enchantment/protection.json"
 hash = "d3d1cb516d945f7bc133c0687fce55137c75af2a849fc3da73e4191578e02f1f"
 
