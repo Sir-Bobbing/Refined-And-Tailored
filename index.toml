@@ -6701,11 +6701,6 @@ hash = "2b51d720c00deeb58e4f54f4467a9795089caf402429ec9c369d1c204e3122e5"
 metafile = true
 
 [[files]]
-file = "mods/voxy-server-side.pw.toml"
-hash = "c6b7e964cf8ea25b22f22d7e4812ba29f78ba78723ba5b71970a84af9f0e3f98"
-metafile = true
-
-[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "d80932d882af2b6cfd6e989b757b2e2f8d9973d0dded29b819e23a1ecacc2375"
 metafile = true
