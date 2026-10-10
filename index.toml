@@ -5903,6 +5903,11 @@ hash = "910afec6c30c7f68956bfa4e8fdaaad4d156b08534cf25128870053e26545f0c"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "6a36f89a93b554ee6b8e230c35fc05d460ea200069fd0fb9afac84e23554fdd3"
+metafile = true
+
+[[files]]
 file = "mods/caelum.pw.toml"
 hash = "44c1117d8fb326307407206ba8466c3a7c283c26fe06041187826128a2027e30"
 metafile = true
