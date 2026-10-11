@@ -1090,7 +1090,7 @@ hash = "e7e2ab49bee8279ce2dffd2243c08e8928d1691b23b6caacd46e18528ebe4f81"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/water/coarse_silt.json"
-hash = "5968ee567d5db7b0e153115069036052a6c87d97ed67713e061ffee064dce7ed"
+hash = "412f45bb3128ada80ce170002bb12e8af53327293e361c223fa88e3ac0a26b49"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/water/dirt.json"
@@ -5232,7 +5232,7 @@ hash = "280458254f39da218747520294d474b64d6158d07bd345241e64ab64619852f7"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/coarse_silt.json"
-hash = "931662e18372e1b32f575be8a2520fade13f60f9e2033411b6b7d638371b2bcc"
+hash = "ef4291e46f55aea40fb4c31e14c2aa5f0a62b2a0e555df2301be576ddbb78f9c"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/water/dirt.json"
