@@ -124,7 +124,7 @@ ServerEvents.tags('fluid', event => {
 
 ServerEvents.tags('block', event => {
 
-    // Cinnabar_wire_blacklist
+// Cinnabar_wire_blacklist
     event.add('kubejs:cinnabar_protected', 'minecraft:lava')
     event.add('kubejs:cinnabar_protected', 'minecraft:water')
 
@@ -151,6 +151,9 @@ ServerEvents.tags('block', event => {
     event.add('stoat:rubbery', 'tfmg:asphalt_stairs')
     event.add('stoat:rubbery', 'clutternomore:tfmg/vertical_asphalt_slab')
     event.add('stoat:rubbery', 'clutternomore:tfmg/asphalt_step')
+
+// Let blight have the biome fog
+    event.add('minecraft:substrate_overworld', '#malum:blight')
 
 // Enderman pickup blacklist
     event.removeAll('minecraft:enderman_holdable')
@@ -388,7 +391,7 @@ ServerEvents.tags('enchantment', event => {
 
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:gravity')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:multishot')
-    event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:piercing')
+    //event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:piercing')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:power')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:wither_coated')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:conductivity_curse')
