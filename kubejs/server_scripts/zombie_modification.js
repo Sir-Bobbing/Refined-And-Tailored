@@ -21,5 +21,7 @@ EntityEvents.spawned(event => {
         if (mob.isBaby()) {
             mob.setMaxHealth(6)
         }
+        // Zombie villagers won't get this, I think it shall stay because they are "fresher" and have better vision
+        mob.setAttributeBaseValue('minecraft:generic.follow_range', 18)
     }
 })
