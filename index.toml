@@ -330,7 +330,7 @@ hash = "f011340e58c08b072d4fb79b0ad1e67de54516e25961eb69cadee2b1bc0a067b"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "d35240784629fa5f8483949c7d58cbcee4ce79e5e548afcc052cc7fbb9ec5367"
+hash = "3e0731c99af90470d9cbd8f4e477a856b09a2b71eaa4d200c1e2f8275b53a38b"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
