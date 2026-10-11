@@ -4647,6 +4647,10 @@ file = "kubejs/data/nova_structures/advancement/root.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
+file = "kubejs/data/nova_structures/enchantment/photosynthesis.json"
+hash = "d799d28b25fdd0564bfdd5c29e0f1833e25ac898d883560527077c5f9347cdb1"
+
+[[files]]
 file = "kubejs/data/nova_structures/loot_table/chests/undead_crypts_grave.json"
 hash = "b1372d929427756d581acf8c19cbbe702fe3d36648eb54573d2ad1f261b7ce7f"
 
@@ -5723,16 +5727,20 @@ file = "kubejs/server_scripts/sable_borders.js"
 hash = "6e422638144e2d61db252bc8a9fe9982d7e09471acc484e14358da78e5cd84ea"
 
 [[files]]
-file = "kubejs/server_scripts/skeleton_pierce.js"
+file = "kubejs/server_scripts/skeleton_pierce.js.disabled"
 hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
 
 [[files]]
+file = "kubejs/server_scripts/sun_burn.js"
+hash = "495d30f61f070fe02d5a435ab96a1f302e54602503e1c549bd9c70b8d494c2fd"
+
+[[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "16dcab4525cede96d04c37e444a7d49e97d627ddd5eb74b1feca9113e8736f38"
+hash = "632bbad4ae8cb526b2e39fe02bb911a5615460395d021b69501cb659c5e4247c"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
-hash = "d58dfdc7879b094d2cb58128fe5e949a22db1f2ab874b507cf512cb047741726"
+hash = "c7f7f535a7a44bea0172f7aa862f91198e05ead035b9befa51cc45264ca5ce91"
 
 [[files]]
 file = "kubejs/startup_scripts/block_modification.js"
