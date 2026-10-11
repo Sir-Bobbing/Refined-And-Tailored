@@ -228,7 +228,7 @@ _version = 5
 		# CHAT 
 		# LOG 
 		# DISABLED
-		showGenerationProgress = "DISABLED"
+		showGenerationProgress = "OVERLAY"
 		#
 		# If the SURFACE_THEN_CHUNKS generator plan is 
 		# in use, this percentage can be defined to reduce how far the 
@@ -278,7 +278,7 @@ _version = 5
 		# but may cause server/simulation lag. 
 		# Note: unlike other modes this option DOES save generated chunks to 
 		# Minecraft's region files.
-		chunkGeneratorMode = "FEATURES"
+		chunkGeneratorMode = "PRE_EXISTING_ONLY"
 		#
 		# Defines how LODs will be generated 
 		# outside the vanilla render distance. 
@@ -310,7 +310,7 @@ _version = 5
 		# 
 		# DISABLED 
 		# No distant terrain will be generated.
-		generatorPlan = "DISABLED"
+		generatorPlan = "SURFACE_THEN_CHUNKS"
 		#
 		# If true and the player/camera is moving quickly 
 		# Distant Horizons will pause world gen to improve loading speed 
@@ -340,7 +340,7 @@ _version = 5
 			updateBranch = "AUTO"
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = false
+			enableAutoUpdater = true
 			#
 			# Should Distant Horizons silently, automatically download and install new versions? 
 			# This setting is force disabled on dedicated servers for stability reasons.
