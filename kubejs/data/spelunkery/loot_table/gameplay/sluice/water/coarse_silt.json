@@ -10,16 +10,6 @@
           "name": "nomansland:silt"
         },
         {
-          "type": "minecraft:item",
-          "weight": 15,
-          "name": "sleep_tight:bedbug_eggs"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "sleep_tight:bedbug_spawn_egg"
-        },
-        {
           "type": "minecraft:tag",
           "weight": 1,
           "expand": true,

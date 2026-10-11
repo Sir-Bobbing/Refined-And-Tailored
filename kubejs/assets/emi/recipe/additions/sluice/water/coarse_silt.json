@@ -7,12 +7,6 @@
   "right": "item:spelunkery:sluice_grate",
   "output": [
     "item:nomansland:silt",
-    "item:sleep_tight:bedbug_eggs",
-    {
-      "type": "item",
-      "id": "sleep_tight:bedbug_spawn_egg",
-      "nbt": "{lore:['{text:\"Spawns in-world\"}']}"
-    },
     {
       "type": "item",
       "id": "tfmg:steel_sword",
