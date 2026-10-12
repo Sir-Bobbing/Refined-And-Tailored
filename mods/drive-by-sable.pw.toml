@@ -1,23 +1,23 @@
-filename = 'drivebysable-r2.0.1.jar'
+filename = 'drivebysable-r2.0.2.jar'
 name = 'Drive-By-Sable'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'r2.0.1'
+x-prismlauncher-version-number = 'r2.0.2'
 
 [download]
-hash = '4d8cd3183f8ed486f4c832e0cf0adefb083f303820005f52e1f7e7b43766dc259df56c5cd0072f390354f8741c2fa2ec4f2a46b3f6ae2194a82a22ba22379f22'
+hash = '57ef20c2533611cf72a3b253d6ee878ae3c75301168108dc3bc4384a37e4c517925ece875d6b1d25a02df308f877adf54d8076e908280da4541c82fd6e23aa2e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/C1o9bfLb/drivebysable-r2.0.1.jar'
+url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/9U5xWb1T/drivebysable-r2.0.2.jar'
 
 [update.modrinth]
 mod-id = 'rrNGnYXg'
-version = 'C1o9bfLb'
+version = '9U5xWb1T'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'H6bJ8Ju4'
+addonId = 'P26k79kP'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -25,8 +25,20 @@ addonId = 'hNGBYvQN'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'cIpw2cmr'
+addonId = 'gu7yAYhd'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '5fUBLqeW'
@@ -41,25 +53,13 @@ addonId = 'aJewFWOb'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'P26k79kP'
+addonId = 'cIpw2cmr'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'H6bJ8Ju4'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'E8eHF2Yl'
 type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'T9PomCSv'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'gu7yAYhd'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'

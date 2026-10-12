@@ -393,12 +393,12 @@ file = "config/spelunkery-common.toml"
 hash = "6afdbf7a8be9e2c467e0b0edb8f00065447c3214a027798a286a09160a26e56a"
 
 [[files]]
-file = "config/streamsreflowing-client.toml"
-hash = "32d35cd0630ea016b97a0daa0e2e51fbc616bd48b403bdcd436be7928b09de03"
+file = "config/streamsreflowing-client.properties"
+hash = "2c379404fd24f47b79b5c75c9e4d7e0307c3c86c00e2936aa0f22bfde2cd3b61"
 
 [[files]]
-file = "config/streamsreflowing-common.toml"
-hash = "3aeddc93eb5f18e3edb5ebc33384e98ef65f7baf104ff4bb76747abe52b2de0f"
+file = "config/streamsreflowing.properties"
+hash = "35b0669991caf033baf58a3becdd5163d48b4160418b277691500f901eeaafbc"
 
 [[files]]
 file = "config/structurify.json"
@@ -5817,7 +5817,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "c1304ff4723b50389b161671c0360d0511e47c1182107bfe28a73cc5a9fa8e7c"
+hash = "ba0d31cecd52126e973bd5bab4a3304f0df9d48863e642bb6ac5d85c383e9e07"
 metafile = true
 
 [[files]]
@@ -5867,7 +5867,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "03cd35f5c8778ff7f004c979d0ee2e9ed09ddad01a23cf1e91c084a60ca5c454"
+hash = "e5274e03f0f9c9abb430b1a3369045fa09b1cc9381bc5933dbfe303cdab2d271"
 metafile = true
 
 [[files]]
@@ -5912,7 +5912,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "6a36f89a93b554ee6b8e230c35fc05d460ea200069fd0fb9afac84e23554fdd3"
+hash = "0116922c5303629b145c39ba84e2efbee7a5753a2aa00280af52722aea9d1db2"
 metafile = true
 
 [[files]]
@@ -6082,7 +6082,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4d1a8129839b3247174ac2f870aed82a823bf7f39e59b547b34327bf1615aa91"
+hash = "5e83e7c7c1071fb1fccedd16d8ddb55acbea63f1e7b8c2ea5f80979de20b23d0"
 metafile = true
 
 [[files]]
@@ -6137,7 +6137,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
-hash = "563ef00ef4c1991453b50c3b83fecdacc11b6f8de25dc6bb51799f361e5dd7e8"
+hash = "bd574fca321931a857d29aaf0b9e87087f6850fccff8315a0f8a878ca7feaf50"
 metafile = true
 
 [[files]]
@@ -6197,7 +6197,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d29b7d17da26439409524955b85eb067610509fcb879807c5476c317e78da61a"
+hash = "4eee2a4b5ed794e4bffba4043466a57fa7e0da4538218323374d745b6d0d3b4a"
 metafile = true
 
 [[files]]
@@ -6212,7 +6212,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9fc468af531c671746c5674c97506b9ee9f55eeda9dc86248e9b53f1ae38dc38"
+hash = "a4efd0406aa5919286b84eabd0389907bf04af5a9e419a469d0d6b3b73d5dfa1"
 metafile = true
 
 [[files]]
@@ -6267,7 +6267,7 @@ metafile = true
 
 [[files]]
 file = "mods/glows.pw.toml"
-hash = "71cab604dbb897585ee1ceb6eafb295690a2d78ab43ae4cb0013414745ab816a"
+hash = "de559cb486d3c1487033a8c14828e1a2cb041908e05267b5e948e60ed055c419"
 metafile = true
 
 [[files]]
@@ -6432,12 +6432,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "67036ae8d42f13d0370a40ded80dea42bf29fb388921e4cf76f5b6d5f37f3275"
+hash = "ae881ae4d15d664200c5bc804260b98851927a697736ae5088da779e92f9a67e"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9244057721eb50a67c606b834a276da7c79fb42fac7812b8fe9ca449997791a9"
+hash = "a492aeac0dbb9cd5a4c0d128d4bc02c7134aba653b44e6ab4e56dbdebf7bec19"
 metafile = true
 
 [[files]]
@@ -6472,7 +6472,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "97d3d7f6dac33910e2bf4a68875e09c212d05fc0b0248b921f50995d924b7605"
+hash = "6bb52221517254352f23e237ea495db22275a76d2a314e01ace4350f12f62e1f"
 metafile = true
 
 [[files]]
@@ -6506,7 +6506,7 @@ hash = "db034369d779d791fdf636e4af818354706c57bb8e5e7602c44ca2626fc13c64"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fe0f58c7007d0d8c29a9af36a35202c3ac10492781adad8d70336480ddf44995"
+hash = "04e35f8508a33a81c8989fc333bdc63acd80b336657039071f7e478786114cc1"
 metafile = true
 
 [[files]]
@@ -6516,7 +6516,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "c7369bfdc66cb423a35a5283a1bf5e8c0c4551f579009f1a16c3abde9a58d3ea"
+hash = "808e7ced0dd57ad176303be654573416cc880dc6b7a6582f3889e95d7b925007"
 metafile = true
 
 [[files]]
@@ -6531,12 +6531,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "09da158c0e1c09262f57ddab6bfbbba373a3327c955fdf381f4169956fc45e3f"
+hash = "ebacc904ab2c158fa35aca714c4d3adf31d6b2f937d7e88b4483e66506441173"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "b8f45c7cc015f4cef5664b7ea9faf24ad234805d7cea2d88ca2f90c70b736e7f"
+hash = "e4f4bb56c747dc930940a4ad1844742a1b6d25a91704fd07d3c112d3c33f8321"
 metafile = true
 
 [[files]]
@@ -6646,12 +6646,12 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "066e132f9789d75c0370f99858ec153f08511c1ceb529414194c0ef1cb8bc0b1"
+hash = "f93810f5d714fd4335c83633322f524f9a0ebb985cbd326652a48614e3710b01"
 metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "2cdb5559481c93c1071b89453c0cfa2c8a7cc9a02e7e61784e5a444a29717c30"
+hash = "0a1360604118cfa7d0c790cb2b9d1e563b3e070fae56fed403541ffcdf56052d"
 metafile = true
 
 [[files]]
@@ -6666,7 +6666,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "72b6b7eab8f263ebc511af05261ba20f0a93bd333e70c2165bc809b37a220de1"
+hash = "1360af4d1fb6d0a2c6df6592916c2766f09deb2df11f79701ee71083dde7d3d1"
 metafile = true
 
 [[files]]
@@ -6711,7 +6711,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs-hose-connectors.pw.toml"
-hash = "d80932d882af2b6cfd6e989b757b2e2f8d9973d0dded29b819e23a1ecacc2375"
+hash = "409ab547b8725677acdd157ab8e97625a0c76b3926eeab7edd6d904d955e2d30"
 metafile = true
 
 [[files]]
