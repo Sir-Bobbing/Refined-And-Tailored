@@ -5727,10 +5727,6 @@ file = "kubejs/server_scripts/sable_borders.js"
 hash = "6e422638144e2d61db252bc8a9fe9982d7e09471acc484e14358da78e5cd84ea"
 
 [[files]]
-file = "kubejs/server_scripts/skeleton_pierce.js.disabled"
-hash = "d3123fcb39399659d0a99b3d634f12767ec03810be6a4d5bb424a0ec4bc3db44"
-
-[[files]]
 file = "kubejs/server_scripts/sun_burn.js"
 hash = "495d30f61f070fe02d5a435ab96a1f302e54602503e1c549bd9c70b8d494c2fd"
 
@@ -6357,6 +6353,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "67aa69df84506e382ab35aee7923dd2021141bbeab6c17dc9f51b0989d9f9abb"
+metafile = true
+
+[[files]]
+file = "mods/lazyai.pw.toml"
+hash = "0764aaa4ff4a623377c036d9c5ec6a0f7c15b4c6a4e670fd7b83836343ac82f3"
 metafile = true
 
 [[files]]
