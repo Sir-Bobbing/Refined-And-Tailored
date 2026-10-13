@@ -4052,11 +4052,11 @@ hash = "bbc63a89999f6dddc58d3a74420d88f2cf5c34a1a6823893e65f0125d2e18bcf"
 
 [[files]]
 file = "kubejs/data/kubejs/shape_map/add.json"
-hash = "b20680d7b762457db298aaed964dfae85d822f27162d8da4f1265ef7d62c67bb"
+hash = "84dc1918da19f73ed758ec5fa7e01c550ef85c18432601b377e8c928abc5a9e8"
 
 [[files]]
 file = "kubejs/data/kubejs/shape_map/remove.json"
-hash = "a96acc1f75226e0c78dc70d082acd014c74a3f563ffa080c191534e15983dc52"
+hash = "944376a6075ea7896b93f8357a8b5eda21b8bf4e843c04abcb6de5b29827772c"
 
 [[files]]
 file = "kubejs/data/kubejs/tags/worldgen/biome/has_cog_chambers.json"
@@ -5947,7 +5947,7 @@ metafile = true
 
 [[files]]
 file = "mods/clutter-no-more.pw.toml"
-hash = "5c41af1f6bd65b3227862b10922862a71c125b14d52b8d729ea442d29838cc7a"
+hash = "dcbfbd07e990c822d7957a327dd97888dc3f2b82e09826ba6ce6f3268cb4d4aa"
 metafile = true
 
 [[files]]
@@ -6516,7 +6516,7 @@ metafile = true
 
 [[files]]
 file = "mods/redomesticate.pw.toml"
-hash = "808e7ced0dd57ad176303be654573416cc880dc6b7a6582f3889e95d7b925007"
+hash = "26d204e446b2ae0be598a09e353c400e458b9b5bdca418734acc142de66637b8"
 metafile = true
 
 [[files]]
@@ -6566,7 +6566,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "eefc9f3b27968efffb48bbbc2187def2726cad7858df10d14190c3443aca692e"
+hash = "fac18565c5005e6320bddc25725a1a64911d0637578922c3ca0eb55e6ac36355"
 metafile = true
 
 [[files]]
