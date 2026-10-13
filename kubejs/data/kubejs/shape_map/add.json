@@ -223,6 +223,14 @@
         ],
         "handcrafted:hammer": [
             "another_furniture:furniture_hammer"
+        ],
+        "minecraft:tuff_bricks": [
+            "/minecraft:tuff_brick.*/",
+            "/clutternomore:vertical_tuff_brick.*/",
+            "/clutternomore:tuff_brick.*/"
+        ],
+        "architects_palette:tuff_bricks": [
+            "clutternomore:architects_palette/tuff_brick_step"
         ]
   }
 }
