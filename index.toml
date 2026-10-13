@@ -310,7 +310,7 @@ hash = "1782991af7ebd64c1f9e2b308e0c39b41a00f22b7d395b2a872deb54f73cf5b7"
 
 [[files]]
 file = "config/notalone.toml"
-hash = "b88675bf93ff58aa3891bbdda29601218a14fd2b270e91ec378d127863095da4"
+hash = "c504fbfe775b531b06045153b109514f50b41267346dd62448aeb75945c94296"
 
 [[files]]
 file = "config/personality-client.toml"

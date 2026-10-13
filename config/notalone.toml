@@ -23,7 +23,7 @@ min_distance = 48
 max_distance = 96
 
 # Same in forests, where trees get in the way. Defaults 24 and 96.
-min_distance_forest = 24
+min_distance_forest = 32
 max_distance_forest = 96
 
 [footsteps]
