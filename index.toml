@@ -4411,6 +4411,10 @@ file = "kubejs/data/minecraft/function/whats_this/remember.mcfunction"
 hash = "c38278b5161a2b3f7f1b6014da354f1932524e747d82e883a12f6a5c66a135a5"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_table/blocks/chiseled_bookshelf.json"
+hash = "ef7b257951423361bd35132ce765c5e7f12d540398bd646df78bb2e4fb604e8d"
+
+[[files]]
 file = "kubejs/data/minecraft/loot_table/blocks/player_head.json"
 hash = "9e44fa3f5ae4ff5ede34416ea987356af33433fdd97135e2c345d9849fbf5ead"
 
