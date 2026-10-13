@@ -6,7 +6,10 @@
         ],
         "/architects_palette:.*_slab/": [
             "/.*/"
-    ]
+        ],
+        "/minecraft:tuff_brick.*/": [
+            "/.*/"
+        ]
     },
     "add": {
         "/tfmg:(?<color>.+)_concrete/": [
