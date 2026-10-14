@@ -13,6 +13,9 @@ function get_items_by_block_tag(block_tag){
 
 ServerEvents.tags('item', event => {
 
+// Shocker's Foods
+    event.add('c:foods', 'kubejs:shock_dog')
+    event.add('farmersdelight:snacks', 'kubejs:shock_dog')
 // Spawn egg
     event.add('kubejs:spawn_egg', /.*_spawn_egg/)
 

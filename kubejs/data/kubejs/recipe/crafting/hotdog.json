@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/bread"
+    },
+    {
+      "item": "farmersdelight:beef_patty"
+    },
+    {
+      "tag": "c:dusts/salt"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:dyes/yellow"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "kubejs:shock_dog"
+  }
+}

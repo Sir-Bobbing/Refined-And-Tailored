@@ -1461,6 +1461,10 @@ file = "kubejs/assets/kubejs/textures/item/scampanzer_transmitter.png.mcmeta"
 hash = "3e7163d4fdd684651c130368616054942b4b0a38ce54a6f2f06a2ceae77fa71c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/shock_dog.png"
+hash = "1aa083b75ac7f3e3f22d4203cbc75142ff6491b27a5a4f0d345edef91e49ccb4"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/mob_effect/recall_sickness.png"
 hash = "213365e4a963a19a78919b23e411290608559a925db00f742b92fc650993179e"
 
@@ -3735,6 +3739,10 @@ file = "kubejs/data/kubejs/recipe/crafting/guide.json"
 hash = "7fbad81ef002e5e9541478623cac210f3b649e1c71eb4169c3c676a906e40941"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crafting/hotdog.json"
+hash = "b6cff9a67e14a0eec2575122d9e212f558d2bd2e65b6c0b3a5c08235cf9249bd"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crafting/metal_detector_compass.json"
 hash = "6dc1bbfcc1e69f4f47546c230404a3540e1546304f8233294ed9427beb07dd4c"
 
@@ -5740,7 +5748,7 @@ hash = "495d30f61f070fe02d5a435ab96a1f302e54602503e1c549bd9c70b8d494c2fd"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "632bbad4ae8cb526b2e39fe02bb911a5615460395d021b69501cb659c5e4247c"
+hash = "541c66c03b2978b140fc5de91e5bf03fd3aceb90ec231f4881788a9b270baca2"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -5793,6 +5801,10 @@ hash = "17651af142d9952c20aa7daa74f3fe7131d8ccc7b3181446077cb6da3a701d90"
 [[files]]
 file = "kubejs/startup_scripts/scamppanzer_beacon.js"
 hash = "7671b11bc9e8a28ff80449bda8274fe22228cc5f7b8e4c4ba44ca8eb2f727a20"
+
+[[files]]
+file = "kubejs/startup_scripts/shocker_foods.js"
+hash = "98d9056c9092aeff84b7f658f4fb310bf852a1e49e6a39832dc0d2e58006ca8c"
 
 [[files]]
 file = "kubejs/startup_scripts/startup_item_tweaks.js"
@@ -5955,7 +5967,7 @@ metafile = true
 
 [[files]]
 file = "mods/clutter-no-more.pw.toml"
-hash = "dcbfbd07e990c822d7957a327dd97888dc3f2b82e09826ba6ce6f3268cb4d4aa"
+hash = "a3f15ae6f429ede0e99c472235503e3ba29ce8a3831737eb3f0972b0ce3f78f9"
 metafile = true
 
 [[files]]
@@ -6455,7 +6467,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "f27c172588de9e6ea3bc930ff562e7dfc37aecec505031e404ce56cf84c616a4"
+hash = "35ab81f547a4efcc3db70d8cde5cdb25aad6485589224c777c0416ce198ce113"
 metafile = true
 
 [[files]]
@@ -6539,12 +6551,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "ebacc904ab2c158fa35aca714c4d3adf31d6b2f937d7e88b4483e66506441173"
+hash = "7aa87108b9642401d1ccbd8f5dcfe42b59588eb886a68568c855ee09099663fa"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "e4f4bb56c747dc930940a4ad1844742a1b6d25a91704fd07d3c112d3c33f8321"
+hash = "24649501916e2c56c9518265ec1d1572bc6e5eb80a49b6a634f206bea675f985"
 metafile = true
 
 [[files]]
