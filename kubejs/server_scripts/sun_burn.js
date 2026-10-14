@@ -28,7 +28,6 @@ PlayerEvents.tick( (event) => {
             if (isSunBurnTick(ply)) {
                 ply.igniteForSeconds(10)
                 ply.attack(ply.damageSources().lava(), 4 )
-                console.log("burn")
             }
         }
     }
