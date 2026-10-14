@@ -5744,7 +5744,7 @@ hash = "6e422638144e2d61db252bc8a9fe9982d7e09471acc484e14358da78e5cd84ea"
 
 [[files]]
 file = "kubejs/server_scripts/sun_burn.js"
-hash = "495d30f61f070fe02d5a435ab96a1f302e54602503e1c549bd9c70b8d494c2fd"
+hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
