@@ -4415,6 +4415,10 @@ file = "kubejs/data/minecraft/loot_table/blocks/chiseled_bookshelf.json"
 hash = "ef7b257951423361bd35132ce765c5e7f12d540398bd646df78bb2e4fb604e8d"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_table/blocks/jungle_leaves.json"
+hash = "7efec5329c11cc6b6b38ff988f50fc9822a8b2014ca5b6d3661ac08f37dc2124"
+
+[[files]]
 file = "kubejs/data/minecraft/loot_table/blocks/player_head.json"
 hash = "9e44fa3f5ae4ff5ede34416ea987356af33433fdd97135e2c345d9849fbf5ead"
 
