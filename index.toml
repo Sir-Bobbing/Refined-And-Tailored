@@ -334,7 +334,7 @@ hash = "3e0731c99af90470d9cbd8f4e477a856b09a2b71eaa4d200c1e2f8275b53a38b"
 
 [[files]]
 file = "config/prospectingpicks-common.toml"
-hash = "8d7609b1b0fa54917742e2a68cb69b895e80e8bab1baeca25216d64c7ca390b5"
+hash = "c2e4b977a4bbff9f3774ca64a69734b97bed5007980d02f7d248c86df20daffa"
 
 [[files]]
 file = "config/redomesticate.json"
