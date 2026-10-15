@@ -3703,10 +3703,6 @@ file = "kubejs/data/kubejs/function/tick.mcfunction"
 hash = "f3fd794bc1ae1acda48bb22f0034de275222e3d153672f086ca9d271dfd56df4"
 
 [[files]]
-file = "kubejs/data/kubejs/item_contents_provider/sack.json"
-hash = "e2e67e2ac3ae228e5e0a7e8a9a7e8cac57bc9f13682025d30cb1c6a95a410e1f"
-
-[[files]]
 file = "kubejs/data/kubejs/item_contents_provider/safe.json"
 hash = "34e4364495a6f08908b0beed42060c3d34ff545d96b81d8661a4baf606d6c1fa"
 
@@ -5609,6 +5605,10 @@ hash = "2e42203bf2c981f3b24c01231eef7d0edac183b62dc9b54297179fbac049a193"
 [[files]]
 file = "kubejs/data/streamsreflowing/streamsreflowing/bank_style/taiga_c.json"
 hash = "1921526481c9bdd8766a11c2d026aacbf610d2fc61f7f0ee20516a97c8584fdf"
+
+[[files]]
+file = "kubejs/data/supplementaries/item_contents_provider/sack.json"
+hash = "f419a4d7bbf974883046a86aa4858e45dea18b7d6bbb197121f73826e51d92b8"
 
 [[files]]
 file = "kubejs/data/supplementaries/recipe/flower_box.json"
