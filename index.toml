@@ -542,7 +542,7 @@ hash = "366742e594000d77c5b141db98d7805c4575c87b7b16499de6c325815771f275"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword.png"
-hash = "7a9e0b9e70654a192f2e095b1003c2c1cfdcbe920ac22052c5525713511e3276"
+hash = "5db4ad8d3e6385f5c772e3cf210b335e7575fdadf7f49d7ffef44d5a5decffeb"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword.png.mcmeta"
@@ -575,10 +575,6 @@ hash = "5c39cd72f2042cfacd3ef5217c1580e5275794911c78eb606d75e0788ef8d908"
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/tower_accent.png"
 hash = "1be15c81e2e47a1b72a85e98ba513683af338581ad2e099ab95df94c1da16893"
-
-[[files]]
-file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/unknown.png"
-hash = "f2cdd516bb1085e8b7de5af5b4723f4c13bcd41082effb160eaddc61a01a5c02"
 
 [[files]]
 file = "kubejs/assets/brewinandchewin/textures/gui/keg.png"
