@@ -2767,6 +2767,10 @@ file = "kubejs/data/create/advancement/train_portal.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
+file = "kubejs/data/create/loot_table/blocks/deepslate_zinc_ore.json"
+hash = "f50ca92522b71e99f64ce3256227792da08172f7d729f5ff7cf8a1212f4c31c5"
+
+[[files]]
 file = "kubejs/data/create/recipe/crushing/asurine_recycling.json"
 hash = "5647986c6ff8d9f061cbc28c7a4dfab42316f8f2b5b12e15258cc068bc0c6ff0"
 
@@ -5505,6 +5509,10 @@ hash = "dc0859004ee58a5911b6ccb9bfcdd3cc3644d45fe005698d098fd67fbd07c05b"
 [[files]]
 file = "kubejs/data/supplementaries/tags/worldgen/structure/adventure_map_destinations.json"
 hash = "aae24e912dc9dc3c41057f3f8496f6e776b6e9cfd7d59010d47219dfd1b5add6"
+
+[[files]]
+file = "kubejs/data/tfmg/loot_table/blocks/deepslate_lead_ore.json"
+hash = "cf19970423bc6e11594ce0f8749b2ea669fb7ab33d4b8980a6649427a4d350dd"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/casting/slag_block.json"
