@@ -5768,7 +5768,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "541c66c03b2978b140fc5de91e5bf03fd3aceb90ec231f4881788a9b270baca2"
+hash = "ab54a52fb66a071ab7f760b58d335b8cd1de18b872d188ced44a242df67f79b3"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
