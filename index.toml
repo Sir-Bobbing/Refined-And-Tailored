@@ -398,7 +398,7 @@ hash = "2c379404fd24f47b79b5c75c9e4d7e0307c3c86c00e2936aa0f22bfde2cd3b61"
 
 [[files]]
 file = "config/streamsreflowing.properties"
-hash = "35b0669991caf033baf58a3becdd5163d48b4160418b277691500f901eeaafbc"
+hash = "760d52d6beef4ef63443b996c7a73be5a39aa35b907623cfbacb08677f71d55e"
 
 [[files]]
 file = "config/structurify.json"
@@ -482,7 +482,7 @@ hash = "27f07d1c9fe9aa16fdf812fcf97c31b236b8e4a33a1deaee5fdaa69cc2aedf60"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/brush.png"
-hash = "8b823f664eeb86ebe3a78518aa760e059459d41d24c02d16d5f68685c3527dbc"
+hash = "7b4d27737bceca79a549b309b4b52d9ffd77828d32f51b6043af72c7122e2441"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/brush.png.mcmeta"
@@ -490,7 +490,7 @@ hash = "855c018163ff8dce54f4b0b51fde697eeea1c9521ccba3d4994bc4546445bfe6"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/brush_accent.png"
-hash = "36ecdbfaeb63441fe857b6b7049bcf3e3c8d89d17474bcdeaa5a5e038a48d27f"
+hash = "e2c07e13e51d4114f2882a37224ba496fb34eb09b6352e2de0596fd120c72c9f"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/diamond.png"
@@ -518,7 +518,7 @@ hash = "403aba47376e0d71dc9190f898ba54557018fc4378d18ff475d487ba679e0713"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/red_x_large.png"
-hash = "c300bb3d5f8c7a6197278299cfb9ddc857251630c796ae84f1746d097284f9d6"
+hash = "d3b97259726b7494e21cdbf5984d0372d2b3c9b5fa3027fd4e12a9cdbb617926"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/red_x_large.png.mcmeta"
@@ -526,7 +526,7 @@ hash = "ab8ed639d6879fa34208cbdb088a0355e3f019d23ca56e28cff308889d67e302"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/red_x_large_accent.png"
-hash = "2d6914e73f51656d21003dd376e8a8e1db22d7ccc412075429df5f6bf619d3e4"
+hash = "027e6b469adb1d66ac1298391d12896bd2d0bff946c2fe8cc948534428a1cf44"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/skull.png"
@@ -542,7 +542,7 @@ hash = "366742e594000d77c5b141db98d7805c4575c87b7b16499de6c325815771f275"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword.png"
-hash = "3b0adee6ceca18a1b37509a8448b92abb3e6f38a120bd6d538217d588e500612"
+hash = "7a9e0b9e70654a192f2e095b1003c2c1cfdcbe920ac22052c5525713511e3276"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword.png.mcmeta"
@@ -550,11 +550,11 @@ hash = "df462f471aed3f9844b8631d7f3367f48539df7e5f865a2dcaf5939e49175679"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword_accent.png"
-hash = "0581730cdf56dbc681fefda283dc9c97fe63fb9a75d62ef6f05b92072fef3e68"
+hash = "e69f143d50a322e0555efbfa6797b3e5358ef18fb8e6188ebd8c8a82d3785a27"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/sword.png"
-hash = "566b0f743cc2018a52591b42d2f827218b3aff7031a334f0b0f5e0231b36af61"
+hash = "f1a4f9e82a9925da1c544e7eb24ae306a5a078b6f54c7d926c59b4781628247f"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/sword.png.mcmeta"
@@ -562,7 +562,7 @@ hash = "ea9629b312aebd2ed432a36a55279e853eebd7da144d18f07757b80812ba73e4"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/sword_accent.png"
-hash = "667bb51ca1201f0bf2fbda30393c7a1c6d3e89998218b28c177150d770842061"
+hash = "80ab083d2954cbec0ca2386382082a7fc7f2af2c80e4501f37b43a95ed588e3e"
 
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/tower.png"
@@ -575,6 +575,10 @@ hash = "5c39cd72f2042cfacd3ef5217c1580e5275794911c78eb606d75e0788ef8d908"
 [[files]]
 file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/tower_accent.png"
 hash = "1be15c81e2e47a1b72a85e98ba513683af338581ad2e099ab95df94c1da16893"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/unknown.png"
+hash = "f2cdd516bb1085e8b7de5af5b4723f4c13bcd41082effb160eaddc61a01a5c02"
 
 [[files]]
 file = "kubejs/assets/brewinandchewin/textures/gui/keg.png"
@@ -6135,7 +6139,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "919810e2d879dbf3ca45bc1bf733ff9b5a4fac8bd21b42572188877f61448a43"
+hash = "826bafe2912b29acb6f7d26e48a0aff08cd82783ce460ddb94a7bf5207037251"
 metafile = true
 
 [[files]]
@@ -6729,7 +6733,7 @@ metafile = true
 
 [[files]]
 file = "mods/seeu.pw.toml"
-hash = "9e3133df58056e2919e50219dd0b8dcecb35993195cf69acae7728b743b9e8cf"
+hash = "7e8a9532d7653d12b16448486e5484b0caaab3710f2d33c9682d06ce58ae61ee"
 metafile = true
 
 [[files]]
