@@ -350,7 +350,7 @@ hash = "437a816f95a49af016ecb031b9411b5500c5b1f254c7fc38524c79ba7de9e9ee"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "687c64e4359aee555d260dac36014d6630ece351f52332f25d942d2fbb926d34"
+hash = "5fbe1e928ed0b9c273462fad7e775940b549c8e62c64108f6748d6b552913f10"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
@@ -2768,15 +2768,15 @@ hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/asurine_recycling.json"
-hash = "7631e3191b8470892541ed7e7e677a657576acc74658c58178c4b6d80c8c20a2"
+hash = "5647986c6ff8d9f061cbc28c7a4dfab42316f8f2b5b12e15258cc068bc0c6ff0"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/crimsite_recycling.json"
-hash = "8bacdd98c192951c1338fd79385ee4371d3f980abbe29bbdd7e556443e2304d3"
+hash = "42fe98439c87dd79601ef86db3084de5cbe104965597c6b91101490d196523a2"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/galena.json"
-hash = "356a761814e018dda86e9710da9511b8b5a2af137bbb6dbde72b82936aa6ce1d"
+hash = "2270eb8e0cd6aeaa6ae2c5a646e993740bd12e4d2f086b4f8a2326196892c347"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/lignite.json"
@@ -2784,7 +2784,7 @@ hash = "fd5705f651316c97adf5bf38792488c1902c26f86b89813824fb628b00ae3fe4"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/ochrum_recycling.json"
-hash = "f1b7965c4fbb5b398b6a79ad3ec36bc54a7823e707b6dd1585d896ef2ccd9134"
+hash = "2c8b37b119083b66a6a6e3b777eaa8dff0f1bfe4034ee47b9d440fe53c71b23d"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/tuff_recycling.json"
