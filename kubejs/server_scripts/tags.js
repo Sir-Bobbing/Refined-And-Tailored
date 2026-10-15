@@ -409,7 +409,7 @@ ServerEvents.tags('enchantment', event => {
         'nova_structures:multishot',
         'nova_structures:outreach',
         'nova_structures:photosynthesis',
-        'nova_structures:piercing',
+        //'nova_structures:piercing',
         'nova_structures:power',
         'nova_structures:shrine',
         'nova_structures:toxic',
@@ -428,7 +428,8 @@ ServerEvents.tags('enchantment', event => {
         "nova_structures:shulker_boss",
         "nova_structures:shulker_miniboss",
         "nova_structures:boss_behaviour",
-        "nova_structures:photosynthesis"
+        "nova_structures:photosynthesis",
+        "nova_structures:piercing"
     ]
 
     event.remove('minecraft:tradeable', removeEnchants)
