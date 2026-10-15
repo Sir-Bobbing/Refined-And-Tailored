@@ -8,11 +8,11 @@
   "processing_time": 250,
   "results": [
     {
-      "chance": 0.075,
+      "chance": 0.15,
       "id": "create:crushed_raw_zinc"
     },
     {
-      "chance": 0.075,
+      "chance": 0.15,
       "id": "spelunkery:raw_zinc_nugget"
     }
   ]

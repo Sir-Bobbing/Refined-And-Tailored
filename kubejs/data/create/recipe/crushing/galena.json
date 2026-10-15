@@ -7,11 +7,11 @@
   ],
   "results": [
     {
-      "chance": 0.075,
+      "chance": 0.15,
       "id": "create:crushed_raw_lead"
     },
     {
-      "chance": 0.075,
+      "chance": 0.15,
       "id": "tfmg:lead_nugget"
     }
   ]
