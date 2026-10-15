@@ -469,6 +469,114 @@ file = "kubejs/assets/another_furniture/lang/en_us.json"
 hash = "6a83224dd3109ce87e8111337a967ce04be28f21bcf1b6fbad5105c1d6d88fc6"
 
 [[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/bed.png"
+hash = "c43c872589b235ae50b737e01302460cd0a22761669915d43893b5d9f7360dc2"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/bed.png.mcmeta"
+hash = "4ae7b5a49df3da513672259b5ab9828613fd5e02259fc3d26b9bdbd0bce7b267"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/bed_accent.png"
+hash = "27f07d1c9fe9aa16fdf812fcf97c31b236b8e4a33a1deaee5fdaa69cc2aedf60"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/brush.png"
+hash = "8b823f664eeb86ebe3a78518aa760e059459d41d24c02d16d5f68685c3527dbc"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/brush.png.mcmeta"
+hash = "855c018163ff8dce54f4b0b51fde697eeea1c9521ccba3d4994bc4546445bfe6"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/brush_accent.png"
+hash = "36ecdbfaeb63441fe857b6b7049bcf3e3c8d89d17474bcdeaa5a5e038a48d27f"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/diamond.png"
+hash = "dc92a2b92c46e52395fd3917dc7d8709c9c2d465b5e639e5ff625579808dad96"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/diamond.png.mcmeta"
+hash = "c3330ccaf212109194da90459c05090ed1e5fab63368267e94d81a236fd79fb6"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/diamond_accent.png"
+hash = "81915c48f020996ac6783f27f1f2b89d64a39473781b93189e5a294eb70578af"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/pickaxe.png"
+hash = "cf889473bf141b83ccc9a648c2ee056f65474c9233b24e240d6dcf470bef61c8"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/pickaxe.png.mcmeta"
+hash = "b31cd3b76198c4508567f18a17b27e93c4d33bcdcdbd1f85a2926d5d736f9163"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/pickaxe_accent.png"
+hash = "403aba47376e0d71dc9190f898ba54557018fc4378d18ff475d487ba679e0713"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/red_x_large.png"
+hash = "c300bb3d5f8c7a6197278299cfb9ddc857251630c796ae84f1746d097284f9d6"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/red_x_large.png.mcmeta"
+hash = "ab8ed639d6879fa34208cbdb088a0355e3f019d23ca56e28cff308889d67e302"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/red_x_large_accent.png"
+hash = "2d6914e73f51656d21003dd376e8a8e1db22d7ccc412075429df5f6bf619d3e4"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/skull.png"
+hash = "7abb8e43a4b461328409c50daa55e32498099672064aa520c11800a4f754877e"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/skull.png.mcmeta"
+hash = "45bce94f803c2702251dcdb37918cce1e98f25bfac84fee0b7e7a28f9a4ada8b"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/skull_accent.png"
+hash = "366742e594000d77c5b141db98d7805c4575c87b7b16499de6c325815771f275"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword.png"
+hash = "3b0adee6ceca18a1b37509a8448b92abb3e6f38a120bd6d538217d588e500612"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword.png.mcmeta"
+hash = "df462f471aed3f9844b8631d7f3367f48539df7e5f865a2dcaf5939e49175679"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/stuck_sword_accent.png"
+hash = "0581730cdf56dbc681fefda283dc9c97fe63fb9a75d62ef6f05b92072fef3e68"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/sword.png"
+hash = "566b0f743cc2018a52591b42d2f827218b3aff7031a334f0b0f5e0231b36af61"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/sword.png.mcmeta"
+hash = "ea9629b312aebd2ed432a36a55279e853eebd7da144d18f07757b80812ba73e4"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/sword_accent.png"
+hash = "667bb51ca1201f0bf2fbda30393c7a1c6d3e89998218b28c177150d770842061"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/tower.png"
+hash = "a219b3fd166343da78e76bd591bc4860d7ffdf12e1693d2a906dd71400306dcc"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/tower.png.mcmeta"
+hash = "5c39cd72f2042cfacd3ef5217c1580e5275794911c78eb606d75e0788ef8d908"
+
+[[files]]
+file = "kubejs/assets/antique_atlas/textures/atlas/marker/custom/tower_accent.png"
+hash = "1be15c81e2e47a1b72a85e98ba513683af338581ad2e099ab95df94c1da16893"
+
+[[files]]
 file = "kubejs/assets/brewinandchewin/textures/gui/keg.png"
 hash = "e03bb0fd8c6c01eb17bfec00666671b20db6df96417896e7afe4e05267924cb2"
 
@@ -5796,7 +5904,7 @@ hash = "84a90579ac752a7d624f40ce46814e3932108457501bfedc787e02ce346f2322"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
-hash = "2d9a00e2ba4625cd043a326dbc87ddd5d1b8145851998967a6c892330d96784f"
+hash = "ab76a2227fb08ade7756c9544e6f97eccf95d8fb53794630884054c05a4af0cf"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"

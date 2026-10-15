@@ -1,6 +1,7 @@
 console.info('Item modifications load.')
 
 let $ArmorItem = Java.loadClass('net.minecraft.world.item.ArmorItem')
+let $TieredItem = Java.loadClass('net.minecraft.world.item.TieredItem')
 
 ItemEvents.modification(event => {
 
@@ -174,6 +175,13 @@ ItemEvents.modification(event => {
   event.modify("*", item => {
     if (item.item() instanceof $ArmorItem) {
       item.maxDamage = item.get('minecraft:max_damage') * 3
+    }
+  })
+
+  // Multiply tool durability
+  event.modify("*", item => {
+    if (item.item() instanceof $TieredItem) {
+      item.maxDamage = Math.min(2147483647, item.get('minecraft:max_damage') * 2)
     }
   })
 
