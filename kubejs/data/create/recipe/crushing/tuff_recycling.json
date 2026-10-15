@@ -5,27 +5,27 @@
       "tag": "create:stone_types/tuff"
     }
   ],
-  "processing_time": 250,
+  "processing_time": 350,
   "results": [
     {
-      "chance": 0.8,
-      "id": "minecraft:tuff"
-    },
-    {
-      "chance": 1,
+      "chance": 0.125,
       "id": "minecraft:flint"
     },
     {
-      "chance": 1,
-      "id": "spelunkery:deepslate_pebble"
+      "chance": 0.05,
+      "id": "minecraft:gold_nugget"
     },
     {
-      "chance": 0.2,
-      "id": "spelunkery:blackstone_pebble"
+      "chance": 0.05,
+      "id": "create:copper_nugget"
     },
     {
-      "chance": 0.2,
-      "id": "spelunkery:basalt_pebble"
+      "chance": 0.05,
+      "id": "create:zinc_nugget"
+    },
+    {
+      "chance": 0.05,
+      "id": "minecraft:iron_nugget"
     }
   ]
 }

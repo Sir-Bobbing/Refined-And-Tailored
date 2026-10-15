@@ -350,7 +350,7 @@ hash = "437a816f95a49af016ecb031b9411b5500c5b1f254c7fc38524c79ba7de9e9ee"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "ea8e9afac997cab4d8eb37fc0427b1c748a874eda93d5d43e1fec7fa1256cbf7"
+hash = "687c64e4359aee555d260dac36014d6630ece351f52332f25d942d2fbb926d34"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
@@ -2772,7 +2772,7 @@ hash = "7631e3191b8470892541ed7e7e677a657576acc74658c58178c4b6d80c8c20a2"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/crimsite_recycling.json"
-hash = "2dfd424399df9cf3a84fa84991e20a35eef67c93a83f7a286f5995be3077cb4e"
+hash = "8bacdd98c192951c1338fd79385ee4371d3f980abbe29bbdd7e556443e2304d3"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/galena.json"
@@ -2788,7 +2788,7 @@ hash = "f1b7965c4fbb5b398b6a79ad3ec36bc54a7823e707b6dd1585d896ef2ccd9134"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/tuff_recycling.json"
-hash = "71e91efc2a06b504c9691bf2070e699fbcd82e055239c7fbad3ae21310589180"
+hash = "f0765dfe7e204533e54f7600bcec7d45ffe5987060f16eca0cd8cdb6f2e4d300"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/veridium_recycling.json"
@@ -4435,10 +4435,6 @@ file = "kubejs/data/minecraft/loot_table/entities/bat.json"
 hash = "6b01df6f8bebd6f61853ac517421e2d289c0a0662296b63b7552f8cf7f69a64f"
 
 [[files]]
-file = "kubejs/data/minecraft/loot_table/entities/iron_golem.json"
-hash = "ff800229bcbadf21c73e4f4fa4b06b8fb3fc08c7cf5148d25aabebb53137523e"
-
-[[files]]
 file = "kubejs/data/minecraft/loot_table/entities/player.json"
 hash = "3a190c776786ba03f2e7170eceecfa39bda68756bb52433f9d0b84f5c76382e4"
 
@@ -4899,6 +4895,10 @@ file = "kubejs/data/scguns/recipe/create/sheol_from_mixing.json"
 hash = "4890b2cfb504cedb4c141142d075105e84ffebc0ec8ac5f712ab1717aa392541"
 
 [[files]]
+file = "kubejs/data/scguns/recipe/create/soul_soil.json"
+hash = "5c5e03faf815427ca6d93c8800fb5f9220e32ed98433cdf191359efa0418752e"
+
+[[files]]
 file = "kubejs/data/scguns/recipe/create/treated_brass_ingot_from_mixing.json"
 hash = "18b6a3d9c0307dd003bbf368263c64cc5d98522811a3311490543829e95f3043"
 
@@ -5309,6 +5309,18 @@ hash = "f9a6c8df9dae6c05f7e0af1616c27a9ae50f900471b902f9cb78a6b669024bc9"
 [[files]]
 file = "kubejs/data/spelunkery/recipe/lapis_lazuli_shard.json"
 hash = "b631811ece6655188dc94be83f5febfdfc02d75e4faeb75566352de5aebe5d96"
+
+[[files]]
+file = "kubejs/data/spelunkery/recipe/splashing/gravel.json"
+hash = "19d41732e53632f7707b1efb3c3dc27f4edac03b9db9ce4b1380d09058e187bc"
+
+[[files]]
+file = "kubejs/data/spelunkery/recipe/splashing/red_sand.json"
+hash = "a23a6cccc0a6b86a026d043d9c46d36570bd3416af4145eb8c1aa94ed721c153"
+
+[[files]]
+file = "kubejs/data/spelunkery/recipe/splashing/soul_sand.json"
+hash = "19c14d1da4fa1f4f5548f48c16bb7748b2c8b611f05de70bd8d4863c5d84253d"
 
 [[files]]
 file = "kubejs/data/spelunkery/worldgen/configured_feature/diamond_ore_lava.json"
@@ -5967,7 +5979,7 @@ metafile = true
 
 [[files]]
 file = "mods/clutter-no-more.pw.toml"
-hash = "94605eeab1ac7f2150f5456d47565321152c924d1ff85b50c08540eca557270f"
+hash = "272cdb9e3d56eed187e7d63a6450d226be29034f209ac993d1bf67cf43c6071a"
 metafile = true
 
 [[files]]
