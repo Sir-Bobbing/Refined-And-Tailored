@@ -383,7 +383,6 @@ ServerEvents.tags('enchantment', event => {
     event.add('nova_structures:positive', "nova_structures:illagers_bane")
     event.add('nova_structures:positive', "nova_structures:multishot")
     event.add('nova_structures:positive', "nova_structures:outreach")
-    event.add('nova_structures:positive', "nova_structures:piercing")
     event.add('nova_structures:positive', "nova_structures:power")
     event.add('nova_structures:positive', "nova_structures:traveler")
     event.add('nova_structures:positive', "nova_structures:wax_wings")
@@ -391,7 +390,6 @@ ServerEvents.tags('enchantment', event => {
 
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:gravity')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:multishot')
-    //event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:piercing')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:power')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:wither_coated')
     event.add('minecraft:on_mob_spawn_equipment', 'nova_structures:conductivity_curse')
@@ -409,7 +407,6 @@ ServerEvents.tags('enchantment', event => {
         'nova_structures:multishot',
         'nova_structures:outreach',
         'nova_structures:photosynthesis',
-        //'nova_structures:piercing',
         'nova_structures:power',
         'nova_structures:shrine',
         'nova_structures:toxic',
@@ -428,8 +425,7 @@ ServerEvents.tags('enchantment', event => {
         "nova_structures:shulker_boss",
         "nova_structures:shulker_miniboss",
         "nova_structures:boss_behaviour",
-        "nova_structures:photosynthesis",
-        "nova_structures:piercing"
+        "nova_structures:photosynthesis"
     ]
 
     event.remove('minecraft:tradeable', removeEnchants)
