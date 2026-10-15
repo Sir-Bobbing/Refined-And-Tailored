@@ -8,15 +8,15 @@
   "processing_time": 250,
   "results": [
     {
-      "chance": 0.1,
+      "chance": 0.15,
       "id": "create:crushed_raw_iron"
     },
     {
-      "chance": 0.1,
+      "chance": 0.15,
       "id": "spelunkery:raw_iron_nugget"
     },
     {
-      "chance": 0.01,
+      "chance": 0.05,
       "id": "spelunkery:raw_magnetite_nugget"
     }
   ]
