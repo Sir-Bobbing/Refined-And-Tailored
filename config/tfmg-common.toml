@@ -129,7 +129,7 @@
 		#Determines how many ticks does it take to consume one fuel.
 		# Default: 600
 		# Range: > 1
-		blastFurnaceFuelConsumption = 600
+		blastFurnaceFuelConsumption = 1200
 
 #.
 #Worldgen Settings

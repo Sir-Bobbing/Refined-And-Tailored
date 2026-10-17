@@ -418,7 +418,7 @@ hash = "6df130fe21550eef513805d6a33dd0241a800c3a6be171c31b2ec98cca9d84cc"
 
 [[files]]
 file = "config/tfmg-common.toml"
-hash = "da696e285864151d715a92b8567194ba059997dde01a40ab36a67785046c5891"
+hash = "5610ea77aeb3c4e7cfd5261cde9b42950e8d9751d64eb12850735a26cb3f61e9"
 
 [[files]]
 file = "config/toms_storage-server.toml"
@@ -3703,10 +3703,6 @@ file = "kubejs/data/kubejs/function/tick.mcfunction"
 hash = "f3fd794bc1ae1acda48bb22f0034de275222e3d153672f086ca9d271dfd56df4"
 
 [[files]]
-file = "kubejs/data/kubejs/item_contents_provider/safe.json"
-hash = "34e4364495a6f08908b0beed42060c3d34ff545d96b81d8661a4baf606d6c1fa"
-
-[[files]]
 file = "kubejs/data/kubejs/item_modifier/map/well.json"
 hash = "de8bd93242188a7230271685dc058cfe23abf9f2a1cc8893a1ecbe83b7fb0fc4"
 
@@ -5844,7 +5840,7 @@ hash = "04440b4440487b6ecbcebb10a4625f14aaab42576fbdc6aced86351e9ecb958b"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
-hash = "119619d80ffa06028f04d98ec4b073ec5dea8678fbcc4b9005dee2cba11aa143"
+hash = "b6a86007e9463800baf700b4b63430a729d7a0176da06511795f92072e24ebc1"
 
 [[files]]
 file = "kubejs/server_scripts/nephrite_condensation.js"

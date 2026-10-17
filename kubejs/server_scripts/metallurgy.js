@@ -42,7 +42,7 @@ function registerCasting( event, metalInfo ) {
             "amount": 90,
             "fluid": getMoltenID( metalInfo )
         }],
-        "processing_time": 50,
+        "processing_time": 20,
         "results": [{
             "id": getIngotID(metalInfo)
         }]
