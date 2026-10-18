@@ -12,6 +12,10 @@ function get_items_by_block_tag(block_tag){
 }
 
 ServerEvents.tags('item', event => {
+// Flux
+    event.add('tfmg:flux', 'create:cinder_flour')
+    event.add('tfmg:flux', 'create:powdered_obsidian')
+    event.add('tfmg:flux', 'create:end_stone_powder')
 
 // Shocker's Foods
     event.add('c:foods', 'kubejs:shock_dog')

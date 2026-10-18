@@ -5840,7 +5840,7 @@ hash = "04440b4440487b6ecbcebb10a4625f14aaab42576fbdc6aced86351e9ecb958b"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
-hash = "593e510a5ab81e7c0d2455619898811c7e6d7878583f96add88b6e5918b1c96d"
+hash = "1e0b29a0f5c68c99870882c386f851164d0b342e470420f21e9f00274747522f"
 
 [[files]]
 file = "kubejs/server_scripts/nephrite_condensation.js"
@@ -5872,7 +5872,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "ab54a52fb66a071ab7f760b58d335b8cd1de18b872d188ced44a242df67f79b3"
+hash = "ed490d4fd93c7267977bc4c202eb550bb0929cf7952a9aa4f9ed4cf732e4b08c"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"

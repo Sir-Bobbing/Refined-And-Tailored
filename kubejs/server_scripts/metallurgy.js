@@ -56,7 +56,7 @@ function registerBlasting( event, metalInfo ) {
             { item:getCrushedID(metalInfo) },
             { item:getFluxID(metalInfo) }
         ],
-        "processing_time": 40,
+        "processing_time": 20,
         "results": [
             {
                 "amount": 180,
