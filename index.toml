@@ -318,7 +318,7 @@ hash = "1f8dbefd4f01ad625c67e9becd111f132a14499fc569cd8e715cbec038db7b2a"
 
 [[files]]
 file = "config/personality-common.toml"
-hash = "6a982727d3c071c5f4c4a2140a6a665b4c4d414255fc900f790585a7ec115db0"
+hash = "c8e34a29daa9f5f751d182fa3efa4d3daddbddccc79222b4ee46e8323a78efb9"
 
 [[files]]
 file = "config/powergrid-common.toml"
