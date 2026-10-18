@@ -42,7 +42,7 @@ function registerCasting( event, metalInfo ) {
             "amount": 90,
             "fluid": getMoltenID( metalInfo )
         }],
-        "processing_time": 20,
+        "processing_time": 40,
         "results": [{
             "id": getIngotID(metalInfo)
         }]
@@ -56,7 +56,7 @@ function registerBlasting( event, metalInfo ) {
             { item:getCrushedID(metalInfo) },
             { item:getFluxID(metalInfo) }
         ],
-        "processing_time": 100,
+        "processing_time": 40,
         "results": [
             {
                 "amount": 180,

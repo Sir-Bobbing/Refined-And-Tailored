@@ -5840,7 +5840,7 @@ hash = "04440b4440487b6ecbcebb10a4625f14aaab42576fbdc6aced86351e9ecb958b"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
-hash = "b6a86007e9463800baf700b4b63430a729d7a0176da06511795f92072e24ebc1"
+hash = "593e510a5ab81e7c0d2455619898811c7e6d7878583f96add88b6e5918b1c96d"
 
 [[files]]
 file = "kubejs/server_scripts/nephrite_condensation.js"
