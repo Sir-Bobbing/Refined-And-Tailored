@@ -160,7 +160,7 @@
     }
   ],
   "detriments": [],
-  "shouldExcludedCount": true,
+  "shouldExcludedCount": false,
   "complexityStandardNutrition": 5,
   "complexityStandardSaturation": 6,
   "complexityBenefitEffectModifier": 0.2,
