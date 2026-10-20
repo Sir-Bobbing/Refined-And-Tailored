@@ -345,8 +345,12 @@ file = "config/reliable_advancements.json"
 hash = "607a7f9015802b3443d50c161f10dca0b2660791642b8f1e11896493f04d97c5"
 
 [[files]]
+file = "config/reliable_advancements_edits/data/minecraft/advancement/story/enchant_item.json"
+hash = "46c5dbbed15a6dea930a1afc5c84f99f9470962816bee49b8842ffa74531006b"
+
+[[files]]
 file = "config/reliable_advancements_edits/tabs.json"
-hash = "437a816f95a49af016ecb031b9411b5500c5b1f254c7fc38524c79ba7de9e9ee"
+hash = "625b7c13056fe476c9232be512b32b842bad63b5da4f1eb66b608a8ec0c7dffb"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
@@ -354,7 +358,7 @@ hash = "5fbe1e928ed0b9c273462fad7e775940b549c8e62c64108f6748d6b552913f10"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "5438b1af94f49861ffab2aec92226b860086262c22d3fb898cb4779bba2ebe54"
+hash = "1f91a6531204123b66b2586d68d80e26b19bc2343f4a4fb76210f375ec574bfb"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -2960,7 +2964,7 @@ hash = "38bdfd42a679a4b36d7d05973555bbe30b86aace5e07333dccea1e1ffd560b0f"
 
 [[files]]
 file = "kubejs/data/decorative_blocks/recipe/lattice.json"
-hash = "3b94cf8e00acc0a079c455f761c766cc3ce9643f11ba2b76b4805781fb127e65"
+hash = "b8bf0d08366f9e17d04bc2ef81168e65e3b50ca0af6757045c905d49efd3c8b2"
 
 [[files]]
 file = "kubejs/data/endermanoverhaul/neoforge/biome_modifier/cave.json"
@@ -3064,11 +3068,11 @@ hash = "26621392700f0bfea3e0d97c92f287420d546457c3c7dba0153cb54d27ba42c7"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/wood_bowl.json"
-hash = "7409e15ea62ba47a45416b8770a0f3d6a7288593e7309d38ce7eaf7cea38e5f7"
+hash = "ee1c53628152013e69c6e7dbd3dcf9274bf005fb32395ee58d01e75beb431885"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/wood_cup.json"
-hash = "d0ecfdf9641d91728c910da3686993fa8964c55123074dce49b57ce019418782"
+hash = "cacb27cdd8785adb71e129e53d6fdfdd0413076b6916b952f34dbd63ea754d87"
 
 [[files]]
 file = "kubejs/data/handcrafted/recipe/wood_plate.json"
@@ -3692,7 +3696,7 @@ hash = "43118f758d7750ec364fc8f0b278513753a71a95f2d9a4d0357fb1337e260d6c"
 
 [[files]]
 file = "kubejs/data/kubejs/function/first_world_load.mcfunction"
-hash = "9a7b2705a4c9a279777cb8914d63b97c22732899337a3ebadc8a84572d323711"
+hash = "8f76caf509a5b9163ccb02bd43fbe20e311f5a92f834316c92d530b0b58f1c65"
 
 [[files]]
 file = "kubejs/data/kubejs/function/load.mcfunction"
@@ -3955,6 +3959,10 @@ file = "kubejs/data/kubejs/recipe/mixing/fireproof_brick.json"
 hash = "2cc69ce18db0f0f093596ff2f2107d7c47070ed8bf002e8fe7e3ee8f545e7463"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/mixing/hotspring_water.json"
+hash = "0d61875b1bb2cbc50e1caee5c5322144353411b872c1bd37b4892c28b469d1e1"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/mixing/refined_brilliance_grow.json"
 hash = "fa192c8f3fdb3addbd4910fe293e9b51859444daf4a36245316ec7e4d3682327"
 
@@ -4164,7 +4172,7 @@ hash = "bbc63a89999f6dddc58d3a74420d88f2cf5c34a1a6823893e65f0125d2e18bcf"
 
 [[files]]
 file = "kubejs/data/kubejs/shape_map/add.json"
-hash = "84dc1918da19f73ed758ec5fa7e01c550ef85c18432601b377e8c928abc5a9e8"
+hash = "8b1e8bcc0cc4e8b01f6dea374a9e8b7b4a8cbdac62eef640213e0651d82bd4f6"
 
 [[files]]
 file = "kubejs/data/kubejs/shape_map/remove.json"
@@ -4257,6 +4265,10 @@ hash = "103f14303d1111f4660d6fa9e5bae0dc3912bc89f0fc7728e4f20dd88e9a4df8"
 [[files]]
 file = "kubejs/data/malum/reaping_data/phantom.json"
 hash = "e2c6657d23854515dcdce1a8feda3593eeb25e47c913ebf9e6c5e06cf8bca29f"
+
+[[files]]
+file = "kubejs/data/malum/recipe/create/milling/grim_talc.json"
+hash = "521dcec2cc65f33f1891bcd126cbedfcade49cd691565dd35a6e38e59a1f49e7"
 
 [[files]]
 file = "kubejs/data/malum/recipe/malum/spirit_repair/common/aluminum.json"
@@ -4668,7 +4680,7 @@ hash = "55d8ee28b14d85ed393393803e02a0e7c44400551a445ea3f3cb96206829a89c"
 
 [[files]]
 file = "kubejs/data/minecraft/recipe/bamboo_mosaic.json"
-hash = "5b05190e006e6bb4eb517876ec35357c3a5c26b08b09f921d6765dfa64450398"
+hash = "baf664f2a601474600c71fda8224b77431a7e346cf07357e8e20c34271ba7402"
 
 [[files]]
 file = "kubejs/data/minecraft/recipe/brush.json"
@@ -4997,6 +5009,10 @@ hash = "771be5e2ab2f3920ed1f1fa92e7a832e13e0116e8423a4704119c17037b9a43d"
 [[files]]
 file = "kubejs/data/scguns/recipe/create/diamond_steel_ingot_from_mixing.json"
 hash = "d3a23cf3d21a929fae0ac377cfda422d77990a15c3eef43b555d23c767eac71e"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/mechanical_crafting/jr_wristbreaker.json"
+hash = "1e1fabb26715f081242d56df5e0b44da101865bcafde56be76a4338ea76b5989"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/nether_star_fragment.json"
@@ -5724,7 +5740,7 @@ hash = "aebcd4bb60b003ed6a18d7c237518fafdb25b196cbb7229aaf2ac74494cc5f56"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/sequenced_assembly/unfinished_circuit_board.json"
-hash = "1c3202354aa566338a1d296a56a3bedb001287421046001dde5de1eeba850df2"
+hash = "e9cc45aabb146dcde92b66beba8f5828ae4067731c13cc0da7ce0de0015e3516"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/smelting/fireproof_brick.json"
@@ -6012,7 +6028,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "18d9fe549f06e6bbaddae1aca28e22f24a4ff5d2fb16166c85764d4c030bbda7"
+hash = "d2ec497a5af52ac5cfe18ae51af14753df734670aeabcc244e776f7fc6f445f0"
 metafile = true
 
 [[files]]
@@ -6067,7 +6083,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "e5274e03f0f9c9abb430b1a3369045fa09b1cc9381bc5933dbfe303cdab2d271"
+hash = "c143a572b4b909535b4ecdb573f9c266942c9a2b1c234ca737453b350667eedc"
 metafile = true
 
 [[files]]
@@ -6147,7 +6163,7 @@ metafile = true
 
 [[files]]
 file = "mods/clutter-no-more.pw.toml"
-hash = "272cdb9e3d56eed187e7d63a6450d226be29034f209ac993d1bf67cf43c6071a"
+hash = "dc258c9123fa0daf3672a57ba3ceb9516bed61c2d990db575b0d76ec04e0dac4"
 metafile = true
 
 [[files]]
@@ -6238,6 +6254,11 @@ metafile = true
 [[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "3f99cf6633b922545d070f909ec88973b4a45e03d4646158348acea6e5794983"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor-aeronautics-compat.pw.toml"
+hash = "27c0b4043a46cab3a08d17bc2e845eae730ed40957af52cc5bf1a2036dfc97da"
 metafile = true
 
 [[files]]
@@ -6337,7 +6358,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
-hash = "bd574fca321931a857d29aaf0b9e87087f6850fccff8315a0f8a878ca7feaf50"
+hash = "f47047a70667764f011bbb73835cde2638a0efd549fb23fb6d86d192a271d340"
 metafile = true
 
 [[files]]
@@ -6412,7 +6433,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a4efd0406aa5919286b84eabd0389907bf04af5a9e419a469d0d6b3b73d5dfa1"
+hash = "beb61c104085c9dfcae13a9db2c3ed00b7676643d232e842034a65e76dff8d71"
 metafile = true
 
 [[files]]
@@ -6492,7 +6513,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a4a0e38208546588ca1ff4ae41aada9c459c8ad01bbd37d973cc2e1a658fec2f"
+hash = "590f17591ec26594c8455c46aec297e57f593def0ba7ee13871662904ef14bf5"
 metafile = true
 
 [[files]]
@@ -6517,12 +6538,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "7831562c0356e883e8edea0696325c7cdbfe0122049536c3d0d776a009ea68b7"
+hash = "d480aa2f195e40313d197d5f711d78862a5b026473dd45acc77a76f267cc5f9c"
 metafile = true
 
 [[files]]
 file = "mods/kobolds.pw.toml"
-hash = "848bab9c4ec55ecde2354ee9a7014dcc62dbab07b2d1063ad094b6cc1c6d9d55"
+hash = "121ec848ca7a5eb09924ee20a66cad5e0db763f61ab5920b4e3e481eec981f53"
 metafile = true
 
 [[files]]
@@ -6647,7 +6668,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "35ab81f547a4efcc3db70d8cde5cdb25aad6485589224c777c0416ce198ce113"
+hash = "67774d0cf519256a4b982f2808dd22000df8a1e518fb28f36da24949a738ecfe"
 metafile = true
 
 [[files]]
@@ -6721,7 +6742,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "f3fcbe961fcd2e7f6dda503f1dbf1c8bf3d1d9ec4af9a6919fbeaed3727c948a"
+hash = "55c1caf450cc3651ad327df908b1e7cc205d5ecda946083974e23316b28b1848"
 metafile = true
 
 [[files]]
@@ -6731,12 +6752,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "7aa87108b9642401d1ccbd8f5dcfe42b59588eb886a68568c855ee09099663fa"
+hash = "f30489da5d498f587cfa13bf9ab78cd5d66c10496451187cc5d93c9bc8efc9fc"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "24649501916e2c56c9518265ec1d1572bc6e5eb80a49b6a634f206bea675f985"
+hash = "365d9db001a77c15fe5b15450f9e821f907d7e0b8f1a1cd5ec1e26b71a908c18"
 metafile = true
 
 [[files]]
@@ -6846,7 +6867,7 @@ metafile = true
 
 [[files]]
 file = "mods/streams-reflowing.pw.toml"
-hash = "f93810f5d714fd4335c83633322f524f9a0ebb985cbd326652a48614e3710b01"
+hash = "149d9a91de0aaab1bf407a33da2a544a49c34bf09ed0667d6e64e718c407086e"
 metafile = true
 
 [[files]]
@@ -6866,7 +6887,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1360af4d1fb6d0a2c6df6592916c2766f09deb2df11f79701ee71083dde7d3d1"
+hash = "9c3797eebac41a20a515628d55446234ce75c42866573b20689bc7a865af21e5"
 metafile = true
 
 [[files]]

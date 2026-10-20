@@ -1,18 +1,18 @@
-filename = 'Kobolds-4.0.1.jar'
+filename = 'Kobolds-4.0.2.jar'
 name = 'Kobolds'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.0.1'
+x-prismlauncher-version-number = '4.0.2'
 
 [download]
-hash = 'aaa482ed9e3c54699458d006505fc9d84110dc7b94373dc32c66d4a9a7d8806d972ff2531ff08d9eca81ec0633048c5557302114cbd5afd8d29d7c8707db79eb'
+hash = 'd6ebccbacb5319e2751f32c59ce152d2eedfd42089c8bb6e20d7010da96f0290b938fb4114fc36316eca7d0c8e3a7ce7d92097385e73b72963a1bb1836540359'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/ufaxN0Ay/versions/g1afAer5/Kobolds-4.0.1.jar'
+url = 'https://cdn.modrinth.com/data/ufaxN0Ay/versions/TiHomHFQ/Kobolds-4.0.2.jar'
 
 [update.modrinth]
 mod-id = 'ufaxN0Ay'
-version = 'g1afAer5'
+version = 'TiHomHFQ'

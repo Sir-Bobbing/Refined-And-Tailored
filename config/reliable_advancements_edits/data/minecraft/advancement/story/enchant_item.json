@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "enchanted_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:enchanting_table"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enchanted_item"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:story/mine_diamond",
+  "display": {
+    "icon": {
+      "id": "immersiveenchanting:ancient_book"
+    },
+    "title": "Enchanter",
+    "description": "Craft an Enchanting Table",
+    "frame": "task"
+  },
+  "parents": [
+    "minecraft:story/mine_diamond"
+  ]
+}

@@ -5,7 +5,7 @@
     "#": {
       "tag": "minecraft:wooden_slabs"
     },
-    "#": {
+    "X": {
       "tag": "c:rods/wooden"
     }
   },
