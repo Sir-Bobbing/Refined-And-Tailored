@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "P": {
+      "item": "scguns:peal"
+    },
+    "S": {
+      "item": "scguns:sheol"
+    }
+  },
+  "pattern": [
+    "P#S"
+  ],
+  "result": {
+    "id": "scguns:the_pact"
+  }
+}

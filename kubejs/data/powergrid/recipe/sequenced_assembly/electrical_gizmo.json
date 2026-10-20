@@ -5,28 +5,7 @@
   },
   "results": [
     {
-      "chance": 75.0,
       "id": "powergrid:electrical_gizmo"
-    },
-    {
-      "chance": 20.0,
-      "id": "powergrid:integrated_circuit"
-    },
-    {
-      "chance": 2,
-      "id": "create:electron_tube"
-    },
-    {
-      "chance": 1.5,
-      "id": "powergrid:copper_coil"
-    },
-    {
-      "chance": 1,
-      "id": "powergrid:magnet"
-    },
-        {
-      "chance": 0.5,
-      "id": "powergrid:zinc_sheet"
     }
   ],
   "sequence": [

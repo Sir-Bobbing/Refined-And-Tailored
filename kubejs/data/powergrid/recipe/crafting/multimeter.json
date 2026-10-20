@@ -2,9 +2,6 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "powergrid:current_gauge"
-    },
     "E": {
       "tag": "c:ingots/constantan"
     },
@@ -17,7 +14,8 @@
   },
   "pattern": [
     "W W",
-    "CEV"
+    " V ",
+    " E "
   ],
   "result": {
     "count": 1,

@@ -12,7 +12,7 @@
       "item": "create:brass_sheet"
     },
     "C": {
-      "item": "tfmg:circuit_board"
+      "item": "powergrid:integrated_circuit"
     },
     "S": {
       "tag": "c:stones"
