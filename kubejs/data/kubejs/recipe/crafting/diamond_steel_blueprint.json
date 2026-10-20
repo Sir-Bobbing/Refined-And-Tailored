@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "scguns:ocean_blueprint"
+    },
+    {
+      "item": "scguns:piglin_blueprint"
+    },
+    {
+      "item": "scguns:deep_dark_blueprint"
+    },
+    {
+      "item": "scguns:diamond_steel_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:diamond_steel_blueprint"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "scguns:iron_blueprint"
+    },
+    {
+      "item": "scguns:treated_brass_ingot"
+    },
+    {
+      "item": "scguns:treated_brass_ingot"
+    },
+    {
+      "item": "scguns:treated_brass_ingot"
+    },
+    {
+      "item": "scguns:treated_brass_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:treated_brass_blueprint"
+  }
+}

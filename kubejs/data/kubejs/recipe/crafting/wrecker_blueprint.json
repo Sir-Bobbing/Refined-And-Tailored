@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "scguns:copper_blueprint"
+    },
+    {
+      "item": "scguns:beacon_grenade"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:wrecker_blueprint"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    [
+      {
+        "item": "scguns:treated_brass_blueprint"
+      },
+      {
+        "item": "scguns:wrecker_blueprint"
+      }
+    ],
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:deep_dark_blueprint"
+  }
+}
