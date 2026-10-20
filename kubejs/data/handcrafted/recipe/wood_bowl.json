@@ -2,9 +2,6 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "minecraft:wooden_slabs"
-    },
     "/": {
       "tag": "minecraft:planks"
     },
@@ -14,7 +11,7 @@
   },
   "pattern": [
     "# #",
-    "X/X"
+    "///"
   ],
   "result": {
     "count": 3,

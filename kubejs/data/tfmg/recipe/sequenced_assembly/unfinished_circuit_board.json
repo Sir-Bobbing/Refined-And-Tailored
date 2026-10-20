@@ -3,7 +3,7 @@
   "ingredient": {
     "item": "tfmg:etched_circuit_board"
   },
-  "loops": 4,
+  "loops": 1,
   "results": [
     {
       "id": "tfmg:circuit_board"

@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 500,
+      "fluid": "spelunkery:spring_water"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 500,
+      "tag": "c:water"
+    },
+    {
+      "item": "minecraft:magma_block"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "spelunkery:spring_water"
+    },
+    {
+      "count": 1,
+      "id": "minecraft:magma_block"
+    }
+  ]
+}

@@ -2,7 +2,11 @@
   "version": 1,
   "tabs": {
     "minecraft:story/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
       "index": 0,
+      "roots": [
+        "minecraft:story/root"
+      ],
       "positions": {
         "minecraft:story/root": [
           -4,
@@ -89,7 +93,7 @@
           156
         ],
         "spelunkery:spelunkery/grindstone": [
-          118,
+          109,
           123
         ],
         "minecraft:story/mine_diamond": [
@@ -154,8 +158,8 @@
           550
         ],
         "nomansland:main/find_alchemist_ruins": [
-          -88,
-          669
+          -82,
+          671
         ],
         "minecraft:adventure/crafters_crafting_crafters": [
           -23,
@@ -170,20 +174,20 @@
           657
         ],
         "nomansland:main/dream_friend_moon": [
-          -113,
-          694
+          -109,
+          699
         ],
         "nomansland:main/find_ancient_city": [
-          -151,
-          664
+          -172,
+          654
         ],
         "minecraft:adventure/trade": [
           142,
           574
         ],
         "nomansland:main/meet_friend_moon": [
-          -139,
-          720
+          -135,
+          723
         ],
         "minecraft:adventure/blowback": [
           259,
@@ -238,8 +242,8 @@
           433
         ],
         "nomansland:main/when_pigs_fly": [
-          -109,
-          727
+          -98,
+          729
         ],
         "minecraft:adventure/under_lock_and_key": [
           239,
@@ -254,8 +258,8 @@
           689
         ],
         "nomansland:main/ignite_flammable_enemy": [
-          -174,
-          709
+          -140,
+          665
         ],
         "minecraft:adventure/lightning_rod_with_villager_no_fire": [
           141,
@@ -270,8 +274,8 @@
           513
         ],
         "minecraft:adventure/avoid_vibration": [
-          -158,
-          634
+          -179,
+          624
         ],
         "chalk:adventure/this_way": [
           18,
@@ -294,8 +298,8 @@
           617
         ],
         "spelunkery:spelunkery/echo_fork": [
-          -184,
-          663
+          -205,
+          653
         ],
         "minecraft:adventure/kill_all_mobs": [
           -127,
@@ -330,8 +334,8 @@
           503
         ],
         "spelunkery:spelunkery/soulbound": [
-          -190,
-          626
+          -211,
+          616
         ],
         "minecraft:adventure/whos_the_pillager_now": [
           -37,
@@ -354,8 +358,8 @@
           425
         ],
         "minecraft:adventure/kill_mob_near_sculk_catalyst": [
-          -162,
-          604
+          -180,
+          595
         ],
         "minecraft:adventure/adventuring_time": [
           -249,
@@ -474,8 +478,8 @@
           689
         ],
         "envelope:adventure/system_failure": [
-          -69,
-          706
+          -64,
+          708
         ],
         "envelope:adventure/what_is_my_purpose": [
           -32,
@@ -496,6 +500,10 @@
         "chalk:adventure/paint_the_grass": [
           59,
           329
+        ],
+        "nomansland:main/collect_ancient_tools": [
+          -111,
+          671
         ]
       }
     },
@@ -647,27 +655,27 @@
           130
         ],
         "minecraft:husbandry/plant_any_sniffer_seed": [
-          150,
-          446
+          148,
+          448
         ],
         "minecraft:husbandry/froglights": [
           66,
           91
         ],
         "envelope:husbandry/just_dont_smoke_it": [
-          -144,
+          -111,
           278
         ],
         "envelope:husbandry/and_you_did_it_anyway": [
-          -144,
+          -111,
           239
         ],
         "envelope:husbandry/dirt_to_diamonds": [
-          -166,
+          -133,
           310
         ],
         "envelope:husbandry/its_filthy_in_there": [
-          -178,
+          -145,
           265
         ]
       }
@@ -800,7 +808,7 @@
           247
         ],
         "minecraft:nether/create_beacon": [
-          -55,
+          -53,
           312
         ],
         "minecraft:nether/all_effects": [
@@ -808,8 +816,8 @@
           247
         ],
         "minecraft:nether/create_full_beacon": [
-          -67,
-          353
+          -60,
+          354
         ]
       }
     },
@@ -1601,7 +1609,11 @@
       }
     },
     "lootr:root": {
+      "background": "minecraft:textures/block/dark_oak_log.png",
       "index": 5,
+      "roots": [
+        "lootr:root"
+      ],
       "positions": {
         "lootr:root": [
           0,
@@ -1662,6 +1674,10 @@
         "lootr:100loot": [
           160,
           81
+        ],
+        "lootr:emergency_escape_hatch": [
+          -13,
+          35
         ]
       }
     },
@@ -1987,7 +2003,20 @@
       }
     }
   },
-  "deleted_advancements": {},
+  "deleted_advancements": {
+    "lootr:all_gravel": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "lootr:root",
+      "title": "{\"translate\":\"lootr.advancements.all_gravel.title\"}",
+      "icon": "lootr:suspicious_gravel"
+    },
+    "lootr:archaeologist": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "lootr:root",
+      "title": "{\"translate\":\"lootr.advancements.archaeologist.title\"}",
+      "icon": "minecraft:brush"
+    }
+  },
   "derived_presentation": {
     "drivebysable:root": {
       "title": "Drive-By-Sable",

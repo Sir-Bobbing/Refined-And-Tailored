@@ -1,51 +1,27 @@
-filename = 'drivebysable-r2.0.2.jar'
+filename = 'drivebysable-r2.0.3.jar'
 name = 'Drive-By-Sable'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'r2.0.2'
+x-prismlauncher-version-number = 'r2.0.3'
 
 [download]
-hash = '57ef20c2533611cf72a3b253d6ee878ae3c75301168108dc3bc4384a37e4c517925ece875d6b1d25a02df308f877adf54d8076e908280da4541c82fd6e23aa2e'
+hash = '0fe82741b1ee25df4d9463b3da72fc8ec034bc9824faecf41fc96fd0bb415b3023466d2dcda05baf8f39009f8cc0df0a1542b7f8cda8c69885c7aabee2fc4fb1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/9U5xWb1T/drivebysable-r2.0.2.jar'
+url = 'https://cdn.modrinth.com/data/rrNGnYXg/versions/WRUXBxY0/drivebysable-r2.0.3.jar'
 
 [update.modrinth]
 mod-id = 'rrNGnYXg'
-version = '9U5xWb1T'
+version = 'WRUXBxY0'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P26k79kP'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'hNGBYvQN'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'gu7yAYhd'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'T9PomCSv'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
 addonId = '5fUBLqeW'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'xZJfGh82'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -53,7 +29,19 @@ addonId = 'aJewFWOb'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
 addonId = 'cIpw2cmr'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'gu7yAYhd'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -61,5 +49,17 @@ addonId = 'H6bJ8Ju4'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
+addonId = 'xZJfGh82'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
 addonId = 'E8eHF2Yl'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hNGBYvQN'
 type = 'OPTIONAL'
