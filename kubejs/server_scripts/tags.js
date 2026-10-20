@@ -127,6 +127,7 @@ ServerEvents.tags('item', event => {
 ServerEvents.tags('fluid', event => {
     event.add('c:fuel', 'nomansland:resin_oil')
     event.add('c:fuel', 'nomansland:resin_oil_bottle')
+    event.add('create:bottomless/allow', 'spelunkery:spring_water')
 })
 
 ServerEvents.tags('block', event => {

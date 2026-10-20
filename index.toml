@@ -354,7 +354,7 @@ hash = "5fbe1e928ed0b9c273462fad7e775940b549c8e62c64108f6748d6b552913f10"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "6738a74628cb620a6c41dcdb7674be55c890fb10d4a8090232d9e638e675f46e"
+hash = "5438b1af94f49861ffab2aec92226b860086262c22d3fb898cb4779bba2ebe54"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -2928,7 +2928,7 @@ hash = "db5c530c18bc28054c26fd88536043ed27f5ccda6cb75d8dabd6e16f50a040b5"
 
 [[files]]
 file = "kubejs/data/create_connected/recipe/crafting/kinetics/sequenced_pulse_generator.json"
-hash = "52055e34b53641a74b3d7bc9e7ec527d84d576aa9aae247ad9ba8e64254a8185"
+hash = "bcb0cf5537c78a53a5b7d046d194ea1b25a1558c3302045807d48f9dbcb30731"
 
 [[files]]
 file = "kubejs/data/createpropulsion/advancement/fuel_propulsion.json"
@@ -2940,7 +2940,7 @@ hash = "7f06ca029d1f1f27b989085b24314900e5c7bcc1b9991a89dfa4d9e2cc0c83ac"
 
 [[files]]
 file = "kubejs/data/createpropulsion/recipe/crafting/ion_thruster.json"
-hash = "eb9bd49a4ea3bf66425027170fdb366b825a3bf3cdf269f0091877fa09d436f1"
+hash = "3539c81b2f1d8233b1a3560785220430f74d9d22e6afa0b66812ef0213d4f78b"
 
 [[files]]
 file = "kubejs/data/createpropulsion/recipe/crafting/redstone_converter.json"
@@ -4799,6 +4799,10 @@ file = "kubejs/data/powergrid/recipe/crafting/device_connector.json"
 hash = "4140f248f0afc6643043fb5b11c3c93de84fb3a17adb83d5ad83a207fadc40ae"
 
 [[files]]
+file = "kubejs/data/powergrid/recipe/crafting/fe_inverter.json"
+hash = "e7d1113bc9671983802e5bd65622f46d13420fe6f64ffe9b74c32eb629f57ac3"
+
+[[files]]
 file = "kubejs/data/powergrid/recipe/crafting/heating_coil.json"
 hash = "8ed9e821248bffc15d2dd531f16f9df12536339af1971786fe0cd441dafa45c7"
 
@@ -4816,11 +4820,11 @@ hash = "b1f2fe27fc4d41c61df7d3622193619c436c374c70d708d6dd80f445b23c6d31"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/crafting/multimeter.json"
-hash = "d612dfa451511699a8a02b8b3bc580326a4ad8eb7c2820c7889625b48382643d"
+hash = "8380875b995e8f475c70609560779b12d112dda80e03f7e6624408440a1ca87d"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/crafting/resistive_coil.json"
-hash = "d8918115e06038addd81edc32d73295e18fb79e796662db2354309f87420a146"
+hash = "b045d848776c908f01171e7acf5962f1f085619cbc845a1760946bfdce0d62ac"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/crafting/wire_connector.json"
@@ -4851,12 +4855,32 @@ file = "kubejs/data/powergrid/recipe/mechanical_crafting/basin_heater.json"
 hash = "61b65e0e416f6183d3fb999b49da97f16aa877194315e3574b84a0b6f8aaea95"
 
 [[files]]
+file = "kubejs/data/powergrid/recipe/mechanical_crafting/generator_induction_rotor.json"
+hash = "bbafb772609bdb5605da5b5d43ae595c4f2bd96e074c03ddd702f58601a5f185"
+
+[[files]]
 file = "kubejs/data/powergrid/recipe/mechanical_crafting/integrated_circuit.json"
 hash = "64406548bafceb75991948b23126c7e6e76a1809e33e48c836c0a2b6f6d74f3f"
 
 [[files]]
+file = "kubejs/data/powergrid/recipe/mixing/etched_circuit_board.json"
+hash = "ed5c2613a6d0270019250b7b2bcc578a292597038f057acdd19022e6d889fbc9"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/sequenced_assembly/battery.json"
+hash = "2d46593cb3b8ecf47e4c64d067b5c40188407ee649f8e9b98147c3b6d0d053e8"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/sequenced_assembly/bjt_npn.json"
+hash = "00e46496bfb6c8c543167713d6c92b4681516b7426f9b8876560b2a66ddd7412"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/sequenced_assembly/bjt_pnp.json"
+hash = "dcc375e23b9cf61a86475a9aa0f46299a596c6ddaf2de1bd23f54462f8fccbf7"
+
+[[files]]
 file = "kubejs/data/powergrid/recipe/sequenced_assembly/electrical_gizmo.json"
-hash = "c44c403e1f61c3add8316b4058daea9014e6a890038f635736d891fcebda036e"
+hash = "519e3ca530c3ec19f1ca49d7d26623fda8acdcb7013776efc8132afa4af1e469"
 
 [[files]]
 file = "kubejs/data/scguns/entity/elite_tiers.json"
@@ -5229,6 +5253,10 @@ hash = "654148990ca45483a47e3af42948a13fcb670e3d888c1922f1a5fc2ac2ceb503"
 [[files]]
 file = "kubejs/data/scguns/recipe/tension_spring.json"
 hash = "908e7affded8ebbdc15478e5507358b2fdff65f874f4034a0215621a9f8fd830"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/the_pact.json"
+hash = "529a036c52381c40e822e76150f69cf864acb101f4f5401e506a65e39e68edc5"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/vicious_acid.json"
@@ -5639,8 +5667,28 @@ file = "kubejs/data/tfmg/recipe/crafting/materials/copper_grenade.json"
 hash = "b0ade5bb97645baf10288a4697deb002a6156d3caef7dc7027493306b43e3b13"
 
 [[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/crankshaft.json"
+hash = "bcfc6829062d088449c671a0aabb7cc3963d4165d6ca948903b9cc8c73b2f9e4"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/fireproof_chemical_vat.json"
+hash = "8cffdb3672aac447f9fbaf09f8769005a2c4f71ae7a0a0b73dff65b3b27fea4d"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/lithium_blade.json"
+hash = "5fc0134ba47379f66b6dc63d0c23b2150f29dd950c53dafbf826f92fffb8333c"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/crafting/materials/lithium_charge.json"
 hash = "955f524bd8bf4f0f06fe8ae6267afc38b904dfc837acdad23699ec25023211a4"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/segmented_display.json"
+hash = "bc2d93df7c94c0eb90fabf86ec6f62bc8b427c160a152e2f682e2d71697e0d2b"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/traffic_light.json"
+hash = "881564d7e28229f671e782ac9d585fcfdf01914f24f8343295fcc032a3b58582"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/hot_blast/hot_air.json"
@@ -5659,16 +5707,20 @@ file = "kubejs/data/tfmg/recipe/industrial_blasting/steel_from_raw_iron.json"
 hash = "3367bf330abe76375c6367e37b144e1990154206688af56bdd8ca17005f5c9f7"
 
 [[files]]
+file = "kubejs/data/tfmg/recipe/mechanical_crafting/spark_plug.json"
+hash = "5495ec51acb4659dc37b92a9bc01876889683d97e7a609eabc588ba28831af6b"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/mixing/gunpowder.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/mixing/n_semiconductor.json"
-hash = "2a1938e507adb396b3468a98810233c4cb0eb0bd07b6c26b91036c25055a987d"
+hash = "d27e6bd3c6f7bc90b0742662049954a07749ce4257e823a89f732ccf2daba8dd"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/mixing/p_semiconductor.json"
-hash = "bdd5ac51e6a1d29395308303ee742ab28c917c5ba4bc6dcab7fa9432f0f69ef1"
+hash = "aebcd4bb60b003ed6a18d7c237518fafdb25b196cbb7229aaf2ac74494cc5f56"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/sequenced_assembly/unfinished_circuit_board.json"
@@ -5876,7 +5928,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "ed490d4fd93c7267977bc4c202eb550bb0929cf7952a9aa4f9ed4cf732e4b08c"
+hash = "40669602cf819776ebe33af177db73d5e67ce0369c73d536963a7d16768cf86b"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
