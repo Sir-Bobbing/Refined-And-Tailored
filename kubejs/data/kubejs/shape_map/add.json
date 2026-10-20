@@ -1,6 +1,9 @@
 {
     "priority": 750,
     "add": {
+        "powergrid:multimeter": [
+            "tfmg:multimeter"
+        ],
         "create:speedometer": [
             "create:stressometer"
         ],
