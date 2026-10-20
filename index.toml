@@ -3823,8 +3823,20 @@ file = "kubejs/data/kubejs/recipe/crafting/chainmail_leggings.json"
 hash = "a7ed01a0b7bd4faa65ef487372a7cf53bb04c2ff6096492fb26313796b8999a9"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crafting/copper_blueprint.json"
+hash = "c70232f95fed1bbbc1cbc381343ab9786db8cedc7612964a7ace188f05ba1172"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crafting/deed_of_ownership.json"
 hash = "9fae832f9140cb26045c43d78cce5e0b52a6fac7073bb6d5ff73003aa38d35cf"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crafting/deep_dark_blueprint.json"
+hash = "9b1b4185598718438c4b17955ba3297916db8b4ce3f07cf02c8d3441a6910e7f"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crafting/diamond_steel_blueprint.json"
+hash = "84d9dd8da1d04546d8f2ec55152ecee45d082f95b85b186f149e0f4deed30d95"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/electric_motor.json"
@@ -3833,6 +3845,10 @@ hash = "f746e42d324654d3973d47be941bad94d1fc1146909e389f7f10eab3ec5daf91"
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/electric_pump.json"
 hash = "3b8038c3fe3eb306ab43ff57aabddbbb44110ea53b79ef86b831595681d2104d"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crafting/end_blueprint.json"
+hash = "f85ee5b97bb23c1c0010b8604523980bf6ae5916d27bcf452d16a8cb1579e53f"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/exosuit_core.json"
@@ -3851,6 +3867,10 @@ file = "kubejs/data/kubejs/recipe/crafting/hotdog.json"
 hash = "b6cff9a67e14a0eec2575122d9e212f558d2bd2e65b6c0b3a5c08235cf9249bd"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crafting/iron_blueprint.json"
+hash = "b6c2a9d354ee2e83b889bc7f53ce5bc225987c570798230a6267eed30a72b004"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crafting/metal_detector_compass.json"
 hash = "6dc1bbfcc1e69f4f47546c230404a3540e1546304f8233294ed9427beb07dd4c"
 
@@ -3863,8 +3883,16 @@ file = "kubejs/data/kubejs/recipe/crafting/night_vision_module.json"
 hash = "1f299da6075b8b87c77612cd9a22c6652f2c33737742709d5319ed887f5d291e"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crafting/ocean_blueprint.json"
+hash = "2a2b6f22465985ec1c17e468df441d913d520080c8e2f46dec7616cbba9b94fd"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crafting/pearachute.json"
 hash = "a562e3e17942e5737afe3220e490120372928a321727c3d3950ef751ad89e0cd"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crafting/piglin_blueprint.json"
+hash = "f7c1097f1442d2137d62bf1745ae33bdb3ff1ccd645d82792dc6f355843201d3"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/crafting/rebreather_module.json"
@@ -3879,8 +3907,16 @@ file = "kubejs/data/kubejs/recipe/crafting/target_tracker_module.json"
 hash = "7dbe2b5dafae134eed5734d5cb8b7ace5a4224b3a5fbee48866a881f1cf3342c"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crafting/treated_brass_blueprint.json"
+hash = "56a89836e324094493d4ef4043eeabf1a75c356331134644eb90dd2e61a779b1"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crafting/twisted_rock.json"
 hash = "cf565b197249fbd412f9d6c1b4bcb935f68fc35520eb0bc59263e95d00b4b6c5"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crafting/wrecker_blueprint.json"
+hash = "d259745d3b59b4dd9ec1378e1b5e15bbee5d4c143dd018bbc60bb7827ebad536"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/crushing/crush_rock_salt.json"
@@ -3960,7 +3996,7 @@ hash = "2cc69ce18db0f0f093596ff2f2107d7c47070ed8bf002e8fe7e3ee8f545e7463"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/hotspring_water.json"
-hash = "0d61875b1bb2cbc50e1caee5c5322144353411b872c1bd37b4892c28b469d1e1"
+hash = "d84214ee4da161147e25f81711d2bdcb4a94e8671b53792cec688d68da7b4283"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/refined_brilliance_grow.json"
@@ -5008,7 +5044,7 @@ hash = "771be5e2ab2f3920ed1f1fa92e7a832e13e0116e8423a4704119c17037b9a43d"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/diamond_steel_ingot_from_mixing.json"
-hash = "d3a23cf3d21a929fae0ac377cfda422d77990a15c3eef43b555d23c767eac71e"
+hash = "b62b775b59d0eb3910e44fb724f6c069ca15b9b238992aa4cdc94d986fa78714"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/mechanical_crafting/jr_wristbreaker.json"
@@ -5944,7 +5980,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "40669602cf819776ebe33af177db73d5e67ce0369c73d536963a7d16768cf86b"
+hash = "2d1c30960e0b1658ae2bf9ecdb590f94141010376d798a15e9de0edf85d15a43"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"

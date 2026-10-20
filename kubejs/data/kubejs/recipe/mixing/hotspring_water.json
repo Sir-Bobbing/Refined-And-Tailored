@@ -1,15 +1,14 @@
 {
   "type": "create:mixing",
-  "heat_requirement": "heated",
   "ingredients": [
     {
       "type": "neoforge:single",
-      "amount": 500,
+      "amount": 250,
       "fluid": "spelunkery:spring_water"
     },
     {
       "type": "neoforge:tag",
-      "amount": 500,
+      "amount": 250,
       "tag": "c:water"
     },
     {
@@ -18,7 +17,7 @@
   ],
   "results": [
     {
-      "amount": 1000,
+      "amount": 500,
       "id": "spelunkery:spring_water"
     },
     {
