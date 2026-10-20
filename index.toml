@@ -386,7 +386,7 @@ hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
 
 [[files]]
 file = "config/solonion.json"
-hash = "4b773d512c0a5c095970ac13cfc82f97b94627799aaf2f52c3c5b05e2159655f"
+hash = "d2ec4209141d2795784c20b836505378563ca4352c330883d7d4565051a10825"
 
 [[files]]
 file = "config/spelunkery-common.toml"
@@ -5617,6 +5617,10 @@ hash = "aae24e912dc9dc3c41057f3f8496f6e776b6e9cfd7d59010d47219dfd1b5add6"
 [[files]]
 file = "kubejs/data/tfmg/loot_table/blocks/deepslate_lead_ore.json"
 hash = "cf19970423bc6e11594ce0f8749b2ea669fb7ab33d4b8980a6649427a4d350dd"
+
+[[files]]
+file = "kubejs/data/tfmg/loot_table/blocks/fireclay.json"
+hash = "8f1c05f4c6f5410445a3b7413d112e27ca8cc7c4f2696539a1eb9c671d5844cd"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/casting/slag_block.json"
