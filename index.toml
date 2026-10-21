@@ -5396,7 +5396,7 @@ hash = "9c14f3b00496104304e4f96920e71966bc973e4859390f4a4151f1acf4ad343c"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/spring_water/passive.json"
-hash = "1decfc1b2beea83e970a5653775fea195c4e07b2b04c7b672504e1a387902608"
+hash = "0f87031b0de6abe41508e08f2730f1d5f4c6313280619a6f18f241f97bc0cffd"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_table/gameplay/sluice/spring_water/soul_sand.json"
