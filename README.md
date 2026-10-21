@@ -28,7 +28,7 @@ To start. you will need either MultiMC or Prismlauncher to Install the modpack.
 ## Notes
 - If you disable the pre-launch command it will clear. If needed, the pre-launch command is:
 
-  `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://sir-bobbing.github.io/Breaking-New-Ground/pack.toml`
+  `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://sir-bobbing.github.io/Refined-And-Tailored/pack.toml`
 - You will need to set your launcher instance to use Java 25.
 - Your computer needs a minimum of 16GB of RAM to safely run the pack. The pack itself has 6GB of RAM dedicated to it in order to run. (this number could be wrong!)
 
