@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "nomansland:pine_log"
+    }
+  ],
+  "results": [
+    {
+      "id": "nomansland:stripped_pine_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ],
+  "processing_time": 50
+}

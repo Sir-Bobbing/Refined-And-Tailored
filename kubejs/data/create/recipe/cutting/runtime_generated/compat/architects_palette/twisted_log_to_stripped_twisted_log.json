@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "architects_palette:twisted_log"
+    }
+  ],
+  "results": [
+    {
+      "id": "architects_palette:stripped_twisted_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ],
+  "processing_time": 50
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "malum:soulwood_log"
+    }
+  ],
+  "results": [
+    {
+      "id": "malum:stripped_soulwood_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ],
+  "processing_time": 50
+}

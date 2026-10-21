@@ -215,7 +215,10 @@
     "copper_tools_armor_backport:copper_ingot_from_nuggets",
     "scguns:gravel_to_pebbles",
     "copper_tools_armor_backport:create_compatible_copper_nugget",
-    "farmersdelight:cake_from_milk_bottle"
+    "farmersdelight:cake_from_milk_bottle",
+
+    "malum:create/cutting/strip_runewood_log",
+    "malum:create/cutting/strip_soulwood_log"
     ]
   }
 ]

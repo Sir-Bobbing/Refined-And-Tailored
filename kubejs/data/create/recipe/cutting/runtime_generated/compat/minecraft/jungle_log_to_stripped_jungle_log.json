@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_log"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:stripped_jungle_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ],
+  "processing_time": 50
+}

@@ -354,7 +354,7 @@ hash = "625b7c13056fe476c9232be512b32b842bad63b5da4f1eb66b608a8ec0c7dffb"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "5fbe1e928ed0b9c273462fad7e775940b549c8e62c64108f6748d6b552913f10"
+hash = "5c0b79a5b7fe17bd30c7c3a0f863627e2a678766398fd29fcd47b30108c84f76"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
@@ -2911,6 +2911,78 @@ file = "kubejs/data/create/recipe/crushing/veridium_recycling.json"
 hash = "19d982b8e79b0f9094eb1be65daf007d25a8a76cfc9eb11b7410dcde3b7f2a92"
 
 [[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/architects_palette/twisted_log_to_stripped_twisted_log.json"
+hash = "03e505daca42364d3c17fdacc20687a3de75d8bbdc11220647985a3096b51e7d"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/malum/runewood_log_to_stripped_runewood_log.json"
+hash = "e6cfddffe08dbeadee33ebb0342a25085943b6324b2205cef88cc5038c682078"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/malum/soulwood_log_to_stripped_soulwood_log.json"
+hash = "6244c71e078fa9bd48b69a67a36d9e4bc995c4f0365882d808134eddc4fdc830"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/acacia_log_to_stripped_acacia_log.json"
+hash = "364f747f8eb20f215ba3ee13c3bc947052a8fccc4ea4edf8e848a1275d81ce92"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/bamboo_block_to_stripped_bamboo_block.json"
+hash = "13a6def84dadf254b911873a1a0dd30360f392da43e7a4564e6160f783a5e3bd"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/birch_log_to_stripped_birch_log.json"
+hash = "6911beb3c58f02eb777b91770a62f55ecd6efacbe94441fdbc39cbed87007d3f"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/cherry_log_to_stripped_cherry_log.json"
+hash = "4974b9bf2662e30b7805d40ad075d1cf081994825d8c18a216e95d59299b5d9b"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/crimson_stem_to_stripped_crimson_stem.json"
+hash = "773e9be7122b0dfb47a6b8e17d8516448642db7d4976a2ebb53cc388ca02e54b"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/dark_oak_log_to_stripped_dark_oak_log.json"
+hash = "f348b793c5264a1ffba36f171235e9f783575a024c0375bdcef641e9f57058cf"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/jungle_log_to_stripped_jungle_log.json"
+hash = "400888d0dccbaf5c11891ccf2865e77a0d626403081470fdf8e554d986592297"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/mangrove_log_to_stripped_mangrove_log.json"
+hash = "1e990ea7d0672036417772d8ee1594dba67013a74615366c16ba236429488c76"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/oak_log_to_stripped_oak_log.json"
+hash = "8923c62a3a714a085309a63f730b1c6d7cbc1027d0166742563ec3d44ecfe68d"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/spruce_log_to_stripped_spruce_log.json"
+hash = "4af4429302698796d197ea35578c98c8d0abfa9da0d0db1cec7e0ffc5da86780"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/minecraft/warped_stem_to_stripped_warped_stem.json"
+hash = "b087c018b9b27bfcd73fd5b90577e6ab966ee0564d0e7cb16be2b5df9fe1e9ae"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/nomansland/maple_log_to_stripped_maple_log.json"
+hash = "059f1967aa0f35b0dc430f34f2173a0d413430546d3662b17b645b2d32be7fff"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/nomansland/pine_log_to_stripped_pine_log.json"
+hash = "57f3d2b074452e18d4b86f4c863db60bccbda47d80d959dd6e417a665ca04c9a"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/nomansland/walnut_log_to_stripped_walnut_log.json"
+hash = "a9c3eb2e9ab29336929115383b2149fea562a0e163078fdcead244ffddba81f7"
+
+[[files]]
+file = "kubejs/data/create/recipe/cutting/runtime_generated/compat/nomansland/willow_log_to_stripped_willow_log.json"
+hash = "4012e867c69d7d857502578eb2ba1bd75dbfa0e235e8d3d974d79603daff178b"
+
+[[files]]
 file = "kubejs/data/create/recipe/milling/bone_meal.json"
 hash = "67c9c5485fb1bca8005a97bf93baa462361c0ab0537ff8bde53672ca9320665d"
 
@@ -4303,6 +4375,14 @@ file = "kubejs/data/malum/reaping_data/phantom.json"
 hash = "e2c6657d23854515dcdce1a8feda3593eeb25e47c913ebf9e6c5e06cf8bca29f"
 
 [[files]]
+file = "kubejs/data/malum/recipe/create/cutting/strip_runewood_log_alt.json"
+hash = "d53d8ab8b31baf5b0856916409891da6d24978b66eff56af8109dd48a45d4e8f"
+
+[[files]]
+file = "kubejs/data/malum/recipe/create/cutting/strip_soulwood_log_alt.json"
+hash = "daa5005997cf1037d4e5ee3a2cfc7cc354eea1175a38b6d15221f41cee9b6472"
+
+[[files]]
 file = "kubejs/data/malum/recipe/create/milling/grim_talc.json"
 hash = "521dcec2cc65f33f1891bcd126cbedfcade49cd691565dd35a6e38e59a1f49e7"
 
@@ -5065,6 +5145,10 @@ hash = "69cb5a2cb067d58bee26b16cd0403292ef1c1c92d7803144989e82f776fb2190"
 [[files]]
 file = "kubejs/data/scguns/recipe/create/peal_from_mixing.json"
 hash = "575ceacf5bbbb957325d4567ab7c7fd9b29b931d4940602e4fd802a4006e3017"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/raw_phosphor_from_milling.json"
+hash = "7a611891da2214b718724a2a10da31d00f3859bea76d5811f46bae081046a6f3"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/scorched_blend_from_mixing.json"

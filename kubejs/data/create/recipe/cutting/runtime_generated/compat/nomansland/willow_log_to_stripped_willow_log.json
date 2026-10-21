@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "nomansland:willow_log"
+    }
+  ],
+  "results": [
+    {
+      "id": "nomansland:stripped_willow_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ],
+  "processing_time": 50
+}

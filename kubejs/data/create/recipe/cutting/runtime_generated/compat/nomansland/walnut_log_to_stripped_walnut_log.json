@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "nomansland:walnut_log"
+    }
+  ],
+  "results": [
+    {
+      "id": "nomansland:stripped_walnut_log"
+    },
+    {
+      "id": "farmersdelight:tree_bark"
+    }
+  ],
+  "processing_time": 50
+}
