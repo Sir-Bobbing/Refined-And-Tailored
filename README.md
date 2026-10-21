@@ -12,7 +12,7 @@
 > Reading the ingame manual/guide is highly recommended. If you ignored you will likely be very confused!
  
 # Installation 
-To start. you will need either MultiMC or Prismlauncher to Install the modpack.
+To start. you will need Prismlauncher to Install the modpack.
 - Both launchers follow the same install process. starting with add Instance and installing from zip via the import tab.
 - You can download the required zip in the releases section of the front page of this Github.
 - Once the zip has been installed, click on the instance and select the Edit button. by either selecting it on the right-hand side of the launcher,
