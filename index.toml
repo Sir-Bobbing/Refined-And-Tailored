@@ -6555,7 +6555,7 @@ metafile = true
 
 [[files]]
 file = "mods/envelope.pw.toml"
-hash = "5187caf079335f79477cae4a7e67a32598c7e7c563d45967028ec440a2435590"
+hash = "b61751cf27f47cb673a34597dc578434861f57acb89993d391223c0f145f84b7"
 metafile = true
 
 [[files]]
@@ -6625,7 +6625,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "d496597493c3dddf0a2482f0d4c16bfd2073ab7d33698fb6256066282dc1e161"
+hash = "7c9bf46079cc9c32eaabd840bd51054dce0e75f021293a12de60154e2af33fb5"
 metafile = true
 
 [[files]]
@@ -6859,7 +6859,7 @@ hash = "db034369d779d791fdf636e4af818354706c57bb8e5e7602c44ca2626fc13c64"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "04e35f8508a33a81c8989fc333bdc63acd80b336657039071f7e478786114cc1"
+hash = "e3beace2879863e6106fa0078737201fdc2f880ab84b10fed787ac2d4367f0d3"
 metafile = true
 
 [[files]]
@@ -6939,7 +6939,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "347638484702dd7c7fc54ba49895f376b92a7e4a80b0880adb63f1299e406555"
+hash = "2ca51bf76c8ff3fc9bda393d41e6f4c50cefe6ac46af92d940145ec0ff6920e5"
 metafile = true
 
 [[files]]
@@ -6969,7 +6969,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "c92be73a439d3583c1ca80df8ed68f7b205e69adbe5836c611eb2c890a8b8559"
+hash = "588c22aa7b9aca7d376924902f693e17fc0e41ee13242072df5c92b18c1bc0a2"
 metafile = true
 
 [[files]]
