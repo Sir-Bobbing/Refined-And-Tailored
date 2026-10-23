@@ -326,7 +326,7 @@ hash = "84ccea01cf443aec50e3ba787a2d6d865752e98e919f45512868a41861a56732"
 
 [[files]]
 file = "config/powergrid-server.toml"
-hash = "f011340e58c08b072d4fb79b0ad1e67de54516e25961eb69cadee2b1bc0a067b"
+hash = "915e895534956de3ccf51503145696cddbf778061304c0c5429f1f6a57942215"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
