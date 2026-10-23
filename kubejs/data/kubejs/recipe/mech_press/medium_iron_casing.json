@@ -1,0 +1,16 @@
+{
+  "type": "scguns:mechanical_pressing",
+  "processingTime": 50,
+  "ingredients": [
+    {
+      "tag": "c:ingots/iron"
+    }
+  ],
+  "mold": {
+    "item": "scguns:medium_casing_mold"
+  },
+  "result": {
+    "id": "kubejs:medium_iron_casing",
+    "count": 10
+  }
+}

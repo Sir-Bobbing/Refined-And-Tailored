@@ -1557,6 +1557,10 @@ file = "kubejs/assets/kubejs/textures/item/arcane_scampanzer_transmitter.png.mcm
 hash = "3e7163d4fdd684651c130368616054942b4b0a38ce54a6f2f06a2ceae77fa71c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/compact_iron_round.png"
+hash = "0b98e5b02cbfdf86a13d014ce5052368dd011bed54f69c1f1f04b901f41d0ebd"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/giggler.png"
 hash = "dd17d01b8c0f6edc5474c2e2dc54e1ea06c140410e98dd69592ebc4017e77520"
 
@@ -1569,6 +1573,10 @@ file = "kubejs/assets/kubejs/textures/item/guide.png.mcmeta"
 hash = "30d84eef95eb17f54d9ffe82e588b0ca69159b9775eef17dd1a1ae902e776dd5"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/medium_iron_casing.png"
+hash = "d7ec863aec5636b68c2a96144f7874fe63004aa52f2c09708c163d0558985d22"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/scampanzer_transmitter.png"
 hash = "5025a59021f6ee2ce7b945e8d9a40ff678411147c9c614054479babede5dd67a"
 
@@ -1579,6 +1587,18 @@ hash = "3e7163d4fdd684651c130368616054942b4b0a38ce54a6f2f06a2ceae77fa71c"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/shock_dog.png"
 hash = "1aa083b75ac7f3e3f22d4203cbc75142ff6491b27a5a4f0d345edef91e49ccb4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/standard_iron_round.png"
+hash = "183e26fe2785d96990fbffd7df2761bc176ca3f5ff76587a34e6a431e536127b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_compact_iron_round.png"
+hash = "5e8971c0989e0e2a4535c08e398856b5bbeb356fae8093333815d5bbec1e644b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/unfinished_iron_round.png"
+hash = "7f715fb50c35dd136fbbe26f809b5ed77e1f085eeca34ab135cc8125aa207b33"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/mob_effect/recall_sickness.png"
@@ -4067,6 +4087,18 @@ file = "kubejs/data/kubejs/recipe/magnetization/star_processing_eldritch.json"
 hash = "4329452bca987ad2b525e328442f0e309c2dbf3a17bb5458ed1716b93457c60a"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/mech_press/compact_iron_round.json"
+hash = "58206dfc6e262fe5ba6d5f06e9c2e90ab7b568bbd153c31e3e75653680adce44"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/mech_press/iron_round.json"
+hash = "1c7746a625e2f7836046b7d1dd9ee4e302ff569a7b693ddf9e2dcc966bf17b7a"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/mech_press/medium_iron_casing.json"
+hash = "51b79c8898b3f798d7c0d6375cf5255c68ff35c3e9012bef34368a8ebc6eb269"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/mechanical_crafting/scamppanzer_beacon.json"
 hash = "010a925df128b5d1290e9868fac33b4b3e4d119514566aa178e200f6c3368005"
 
@@ -4107,12 +4139,36 @@ file = "kubejs/data/kubejs/recipe/mixing/wither_skull.json"
 hash = "9cb01b6b9081eeca93e5deb9a8ec47e899b9c0319127a36f5efa590b1143fc28"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/powered_mech_press/powered_compact_iron_round.json"
+hash = "e12c9fe88c7b5cecc2e1df44b2f4adc0aaaba8ccc7327b9d9d888800bc7d0d73"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/powered_mech_press/powered_iron_round.json"
+hash = "83b56ed2828f3d54447af1b98f2cdb6409d194e60cf65ef1c165f63e18c70be4"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/powered_mech_press/powered_medium_iron_casing.json"
+hash = "720bed1ece24a4f88f59ea2968b36ccc25e9e2c52893b3177b0ed214a04418a1"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/pressing/star_processing_earthen.json"
 hash = "8389ece699a84ed0d78cc8cee2ebba6fb327fa52d632ba49cbecd2c9c0bc882f"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/sawing/star_processing_aerial.json"
 hash = "3fda320ad1a0450a7d20e46b02e091c70b0e1c4cec9b0d10bca1c61bd518292a"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/sequenced_assembly/compact_iron_round.json"
+hash = "cd070a25b153d3aad0f9cd07fca67ce5ac5a289c830dd0b6adb0dc711770503e"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/sequenced_assembly/medium_iron_casing.json"
+hash = "d4c46f36221225d18d4195bc87af65fd489af96b871a3ace8f719c497b54c104"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/sequenced_assembly/standard_iron_round.json"
+hash = "ea6815a3db57435b3115d7385fe16e987e9194418750cfd9860b43e8d0d6e193"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/smithing/redcoat_boots.json"
@@ -5033,6 +5089,30 @@ hash = "11c25aaa8fe558bf475a5b44f2b010680ec25f51ec9ff3920f4c894b36187b66"
 [[files]]
 file = "kubejs/data/scguns/entity/tier_weapons.json"
 hash = "9dd4a974a360b08e459bb77103de2ddfc06899acd711495d99fdde1d70977507"
+
+[[files]]
+file = "kubejs/data/scguns/guns/defender_pistol.json"
+hash = "5ff4859274d47e0979473523a0f4624fb97886e388e1e64ee8578f461868cfb0"
+
+[[files]]
+file = "kubejs/data/scguns/guns/greaser_smg.json"
+hash = "0cec4f7891c44370fec80ed7f363327b75f3638579c75ae0250ff6444b50218f"
+
+[[files]]
+file = "kubejs/data/scguns/guns/iron_javelin.json"
+hash = "5365673eab32b1f63e10d53cb8263094d4cf7c114cd65145dd5af2c4951c22f9"
+
+[[files]]
+file = "kubejs/data/scguns/guns/m3_carabine.json"
+hash = "387d0de66993f88f1f531f6656bd395719ab11bf48072f172e22ffc8308baaf6"
+
+[[files]]
+file = "kubejs/data/scguns/guns/sequoia.json"
+hash = "5639b844e19bd21be76a2fc8b2db214eb888d3d17621eb09049487b5208529ec"
+
+[[files]]
+file = "kubejs/data/scguns/guns/trenchur.json"
+hash = "5d5b7038854a3662cbe345569d09f120e52460de737704e28d4d44254068b051"
 
 [[files]]
 file = "kubejs/data/scguns/loot_modifiers/pebbles_from_gravel.json"
@@ -6080,7 +6160,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "b80ecc458491332454ccdc2a0d1b5c9249370549eafa5c87687aa8411aca4e44"
+hash = "1ef4638fcc3a8b31d6892d46509b610bdb31d51535304a30c824a66d67cefaca"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -6105,6 +6185,10 @@ hash = "6c869c3727dc13171713a7f0af8507756da13e75d1cdd5e4582b6e74f7d7bc8b"
 [[files]]
 file = "kubejs/startup_scripts/giggler.js"
 hash = "84a90579ac752a7d624f40ce46814e3932108457501bfedc787e02ce346f2322"
+
+[[files]]
+file = "kubejs/startup_scripts/iron_rounds.js"
+hash = "a1556cee4b662739a1ab307435b7c1b8246e6999a67e0165402a7d3b32b062c0"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"

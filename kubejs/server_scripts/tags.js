@@ -12,6 +12,15 @@ function get_items_by_block_tag(block_tag){
 }
 
 ServerEvents.tags('item', event => {
+// Iron Bullets
+    event.add('scguns:empty_casing', 'kubejs:medium_iron_casing')
+    event.add('scguns:rifle_ammo', 'kubejs:standard_iron_round')
+    event.add('scguns:pistol_ammo', 'kubejs:compact_iron_round')
+    event.add('scguns:ammo', 'kubejs:standard_iron_round')
+    event.add('scguns:ammo', 'kubejs:compact_iron_round')
+    event.add('c:hidden_from_recipe_viewers', 'kubejs:unfinished_iron_round')
+    event.add('c:hidden_from_recipe_viewers', 'kubejs:unfinished_compact_iron_round')
+
 // Flux
     event.add('tfmg:flux', 'create:cinder_flour')
     event.add('tfmg:flux', 'create:powdered_obsidian')
@@ -119,6 +128,7 @@ ServerEvents.tags('item', event => {
     event.add('scguns:advanced_bullet_tips', 'scguns:hardened_bullet')
     event.add('scguns:advanced_bullet_tips', 'scguns:treated_iron_nugget')
     event.add('scguns:advanced_bullet_tips', '#c:nuggets/cast_iron')
+    event.add('scguns:stan_bullet_tips', '#c:nuggets/iron')
     event.add('scguns:stan_bullet_tips', '#c:nuggets/lead')
     event.add('scguns:stan_bullet_tips', 'scguns:standard_bullet')
     event.add('scguns:standard_bullet_material', '#c:ingots/lead')
