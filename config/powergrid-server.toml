@@ -17,7 +17,7 @@ configVersion = 5
 	#Controls the torque force calculated from stress impact of machines (used by generators and motors)
 	# Default: 15.0
 	# Range: 0.0 ~ 3.4028234663852886E38
-	torqueForStress = 15.0
+	torqueForStress = 30.0
 	#.
 	#How much lightning rod linear velocity is needed to reach the maximum lightning attractor firing rate
 	# Default: 0.05000000074505806
@@ -62,7 +62,7 @@ configVersion = 5
 		#Force of friction applied for each segment of the rotor assembly
 		# Default: 0.25
 		# Range: 0.0 ~ 3.4028234663852886E38
-		rotorSegmentFriction = 0.25
+		rotorSegmentFriction = 0.025
 		#.
 		# Default: 0.5
 		# Range: 0.0 ~ 3.4028234663852886E38
@@ -95,7 +95,7 @@ configVersion = 5
 		fieldSaturationCurrent = 2.0
 		#.
 		#Allow generator rotors to deal damage to entities
-		dangerousGenerators = true
+		dangerousGenerators = false
 
 		#.
 		#Fine tune the kinetic stats of individual components
@@ -106,16 +106,16 @@ configVersion = 5
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
 			[kinetics.stressValues.v3.impact]
-				generator_clutch = 32.0
+				generator_clutch = 0.0
 				hv_breaker = 2.0
 				generator_induction_rotor = 32.0
 				hv_switch = 2.0
 				rheostat = 0.0
-				generator_vertical_commutator = 8.0
+				generator_vertical_commutator = 0.0
 				plotter = 2.0
 				punch_card_reader = 2.0
 				variac = 0.0
-				generator_commutator = 8.0
+				generator_commutator = 0.0
 				generator_large_induction_rotor = 128.0
 
 			#.
