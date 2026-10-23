@@ -66,7 +66,7 @@ hash = "1633094b884ef08214b37e4d68e46b90fdfad479caeb9a48a50cd3cfe224ebb5"
 
 [[files]]
 file = "config/biggerstacks-rules.xml"
-hash = "b21c2ab3b7e77a4b17bace8d11ec8fbee0a8d9c63c5bea2de68e56a623a878fe"
+hash = "81e61ba7ea30f0521857afc3d40797a1b99b88f05f8ca7a24f19fe6746fa4af2"
 
 [[files]]
 file = "config/blueprint-common.toml"
@@ -3767,16 +3767,36 @@ file = "kubejs/data/kubejs/damage_type/giggler.json"
 hash = "43118f758d7750ec364fc8f0b278513753a71a95f2d9a4d0357fb1337e260d6c"
 
 [[files]]
+file = "kubejs/data/kubejs/function/dimension_transfer.mcfunction"
+hash = "0bf329164c3a60332deddd1775b390c9ecebece1bdd6ff17b49f9f954dac944f"
+
+[[files]]
 file = "kubejs/data/kubejs/function/first_world_load.mcfunction"
 hash = "8f76caf509a5b9163ccb02bd43fbe20e311f5a92f834316c92d530b0b58f1c65"
 
 [[files]]
 file = "kubejs/data/kubejs/function/load.mcfunction"
-hash = "1af7dbe2d021490db5f93a9007b92da7a89e02bcd0a29bf8766f9abb168cddda"
+hash = "f249d1c38adeb5494296d633c928a291f890cf1c25f6c02c941ed3014a6ed569"
+
+[[files]]
+file = "kubejs/data/kubejs/function/minecart_transfer.mcfunction"
+hash = "09e8dddf971a2c68ef789be9e57bb86062e497a47dd0c2d20ad2643b206426f3"
+
+[[files]]
+file = "kubejs/data/kubejs/function/nether_to_over.mcfunction"
+hash = "db3bc1b2e991f428c8e09d3b5b23059b643ff661688e4417eb8afdf139ff43dd"
+
+[[files]]
+file = "kubejs/data/kubejs/function/over_to_nether.mcfunction"
+hash = "034c73f20ef5b06b9582e3cfd3341fe09511cbd3d738f9af7956b6068c7c41d3"
 
 [[files]]
 file = "kubejs/data/kubejs/function/tick.mcfunction"
-hash = "f3fd794bc1ae1acda48bb22f0034de275222e3d153672f086ca9d271dfd56df4"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/kubejs/function/transfer_non_blacklisted.mcfunction"
+hash = "5cd7ad94f3e82743c8d2c06e52cd0b3b2c3f2bfc35ce89d8ef91440717467a92"
 
 [[files]]
 file = "kubejs/data/kubejs/item_modifier/map/well.json"
@@ -3857,10 +3877,6 @@ hash = "1011f58a044f45f3dd4c90995a3a9ed4b64fd45f38917b9b6685ae51e334ad72"
 [[files]]
 file = "kubejs/data/kubejs/predicate/over_to_nether.json"
 hash = "b1c30a8553a36e02f95ab309873b4fa897606b441c564fc82e37749c5475019d"
-
-[[files]]
-file = "kubejs/data/kubejs/predicate/over_to_nether_dismount.json"
-hash = "46577abfe051008371e420079547916729056771e68f3867f0bbc64ed3151498"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/compacting/star_processing_infernal.json"
@@ -6064,7 +6080,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "2d1c30960e0b1658ae2bf9ecdb590f94141010376d798a15e9de0edf85d15a43"
+hash = "b80ecc458491332454ccdc2a0d1b5c9249370549eafa5c87687aa8411aca4e44"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
