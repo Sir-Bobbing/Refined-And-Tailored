@@ -353,6 +353,10 @@ file = "config/reliable_advancements_edits/tabs.json"
 hash = "625b7c13056fe476c9232be512b32b842bad63b5da4f1eb66b608a8ec0c7dffb"
 
 [[files]]
+file = "config/reliable_advancements_layout.json"
+hash = "b94f0929d0357837d6e214925008fbe291f5ac6dc025f228ac1f3f720b9d2ad8"
+
+[[files]]
 file = "config/reliable_recipes/recipe_rules.json"
 hash = "5c0b79a5b7fe17bd30c7c3a0f863627e2a678766398fd29fcd47b30108c84f76"
 
