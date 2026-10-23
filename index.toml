@@ -3768,7 +3768,7 @@ hash = "43118f758d7750ec364fc8f0b278513753a71a95f2d9a4d0357fb1337e260d6c"
 
 [[files]]
 file = "kubejs/data/kubejs/function/dimension_transfer.mcfunction"
-hash = "0bf329164c3a60332deddd1775b390c9ecebece1bdd6ff17b49f9f954dac944f"
+hash = "9fb4d2a430a2fe2ce39b16e281792963527b9df5b1a4db4a6e598d907b764712"
 
 [[files]]
 file = "kubejs/data/kubejs/function/first_world_load.mcfunction"
@@ -3793,10 +3793,6 @@ hash = "034c73f20ef5b06b9582e3cfd3341fe09511cbd3d738f9af7956b6068c7c41d3"
 [[files]]
 file = "kubejs/data/kubejs/function/tick.mcfunction"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "kubejs/data/kubejs/function/transfer_non_blacklisted.mcfunction"
-hash = "5cd7ad94f3e82743c8d2c06e52cd0b3b2c3f2bfc35ce89d8ef91440717467a92"
 
 [[files]]
 file = "kubejs/data/kubejs/item_modifier/map/well.json"
@@ -6484,7 +6480,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "da391013dff1e607c24195b3aab92e8508603531ccaf7e64bc809955de71e632"
+hash = "0b1e4602f8446626ddb32a906bb4b9e0a64aba8ea2eddc7becfca0920baa8140"
 metafile = true
 
 [[files]]
