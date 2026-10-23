@@ -1,6 +1,6 @@
 
 <ruleset>
-	<rule stacksize="16">
+	<rule stacksize="64">
 		<or>
 			<condition>id = minecraft:potion</condition>
 			<condition>id = minecraft:splash_potion</condition>
