@@ -357,6 +357,13 @@ ServerEvents.tags('entity_type', event => {
         event.add('scguns:bullet', 'scguns:rocket')
         event.add('scguns:bullet', 'scguns:scamp_rocket')
 
+// Dimension Transfer Blacklist
+        event.add('kubejs:transfer_blacklist', '#scguns:bullet')
+        event.add('kubejs:transfer_blacklist', 'create:carrige_contraption')
+        event.add('kubejs:transfer_blacklist', 'create:contraption')
+        event.add('kubejs:transfer_blacklist', 'create:gantry_contraption')
+        event.add('kubejs:transfer_blacklist', 'create:stationary_contraption')
+
 // Gunner blacklist
         event.remove('scguns:gunner', 'minecraft:zombie')
         event.remove('scguns:gunner', 'minecraft:zombie_villager')
