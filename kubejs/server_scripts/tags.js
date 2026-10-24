@@ -145,6 +145,7 @@ ServerEvents.tags('block', event => {
 // CNM blocks tags
     event.add('minecraft:mineable/pickaxe', '#clutternomore:steps')
     event.add('minecraft:mineable/pickaxe', '#clutternomore:vertical_slabs')
+    event.remove('minecraft:mineable/pickaxe', '#clutternomore:wooden_vertical_slabs')
 
 // Soul speed enchant works on scoria variants
     event.add('minecraft:soul_speed_blocks', '#create:stone_types/scorchia')
