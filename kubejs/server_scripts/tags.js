@@ -142,6 +142,10 @@ ServerEvents.tags('fluid', event => {
 
 ServerEvents.tags('block', event => {
 
+// Soul speed enchant works on scoria variants
+    event.add('minecraft:soul_speed_blocks','create:stone_types/scorchia')
+    event.add('minecraft:soul_speed_blocks','create:stone_types/scoria')
+
 // Cinnabar_wire_blacklist
     event.add('kubejs:cinnabar_protected', 'minecraft:lava')
     event.add('kubejs:cinnabar_protected', 'minecraft:water')
