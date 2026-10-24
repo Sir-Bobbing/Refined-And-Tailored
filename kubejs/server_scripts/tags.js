@@ -142,9 +142,13 @@ ServerEvents.tags('fluid', event => {
 
 ServerEvents.tags('block', event => {
 
+// CNM blocks tags
+    event.add('minecraft:mineable/pickaxe', '#clutternomore:steps')
+    event.add('minecraft:mineable/pickaxe', '#clutternomore:vertical_slabs')
+
 // Soul speed enchant works on scoria variants
-    event.add('minecraft:soul_speed_blocks','create:stone_types/scorchia')
-    event.add('minecraft:soul_speed_blocks','create:stone_types/scoria')
+    event.add('minecraft:soul_speed_blocks', '#create:stone_types/scorchia')
+    event.add('minecraft:soul_speed_blocks', '#create:stone_types/scoria')
 
 // Cinnabar_wire_blacklist
     event.add('kubejs:cinnabar_protected', 'minecraft:lava')
