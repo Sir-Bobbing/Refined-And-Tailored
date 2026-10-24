@@ -6160,7 +6160,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "1ef4638fcc3a8b31d6892d46509b610bdb31d51535304a30c824a66d67cefaca"
+hash = "891b5946a90c40def0fdacfc5576df785bdc7d118ce05b324183f67d39844d24"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
