@@ -2,7 +2,7 @@ const moltenMetals = [
     ["iron","minecraft:iron_ingot", "create:crushed_raw_iron", "tfmg:limesand", "malum:iron_node"],
     ["gold","minecraft:gold_ingot", "create:crushed_raw_gold", "create:powdered_obsidian", "malum:gold_node"],
     ["copper","minecraft:copper_ingot", "create:crushed_raw_copper", "tfmg:limesand", "malum:copper_node"],
-    ["zinc","create:zinc_ingot", "create:crushed_raw_zinc", "create:cinder_flour", "malum:iron_node"],
+    ["zinc","create:zinc_ingot", "create:crushed_raw_zinc", "create:cinder_flour", "malum:zinc_node"],
     ["lead","tfmg:lead_ingot", "create:crushed_raw_lead", "tfmg:limesand", "malum:lead_node"],
     ["nickel", "tfmg:nickel_ingot", "create:crushed_raw_nickel", "create:cinder_flour", "malum:nickel_node"],
     ["anthralite", "scguns:anthralite_ingot", "scguns:crushed_raw_anthralite", "tfmg:limesand",],
