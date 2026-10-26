@@ -38,7 +38,7 @@ hash = "f0cc7603cdd0f6ca729085a4fe3f6bc0552618257e4d1771741cdb8a66235a8a"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "191805e6b6bbbc31844bb1bb078f422adab3b4743c157282d89c2d68ade4e3a7"
+hash = "cf13bba1ad4e6088f0fc448e99f3bb778f47e39380f196324a6c41ca6a34e4cd"
 
 [[files]]
 file = "config/architects_palette-common.toml"

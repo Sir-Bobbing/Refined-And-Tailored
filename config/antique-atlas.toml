@@ -14,7 +14,7 @@ keepOffset = false
 # How to depict player death locations.
 # options: CAUSE, GRAVE, ITEMS, DIED, EUPHEMISMS
 # default: EUPHEMISMS
-graveStyle = "EUPHEMISMS"
+graveStyle = "CAUSE"
 # The maximum number of chunks to represent as a tile, as a power of 2
 # Effectively the 'minimum zoom'
 # 0: 1x1 chunk = 1 tile | 6: 64x64 chunks = 1 tile
@@ -48,15 +48,15 @@ emptyHandling = "EMPTY"
 
 [structureMarkers]
 	"minecraft:start/bastion_remnant" = true
-	"minecraft:type/ocean_monument" = true
+	"minecraft:type/ocean_monument" = false
 	"minecraft:type/woodland_mansion" = true
-	"minecraft:start/village_taiga" = true
-	"minecraft:start/village_desert" = true
-	"minecraft:type/end_city" = false
-	"minecraft:tag/village" = true
-	"minecraft:start/village_snowy" = true
-	"minecraft:start/village_savanna" = true
-	"minecraft:start/village_plains" = true
+	"minecraft:start/village_taiga" = false
+	"minecraft:start/village_desert" = false
+	"minecraft:type/end_city" = true
+	"minecraft:tag/village" = false
+	"minecraft:start/village_snowy" = false
+	"minecraft:start/village_savanna" = false
+	"minecraft:start/village_plains" = false
 
 # Options to adjust map behaviour for custom or modified dimensions.
 [dimensions]
@@ -65,5 +65,8 @@ emptyHandling = "EMPTY"
 	# If not 0, the relative position of the player will be shown.
 	[dimensions.scales]
 		"minecraft:overworld" = 1
+		"nomansland:friend_moon_dream_474ddaeb-e01b-4670-aa7f-d06f1d0b44df" = 0
+		"nomansland:friend_moon_dream_488dc728-74bf-4d31-a6ae-a54a4deb717f" = 0
+		"nomansland:friend_moon_dream_87107380-b3ab-4e90-ae54-ad614f67bca3" = 0
 		"minecraft:the_nether" = 1
 		"minecraft:the_end" = 0
