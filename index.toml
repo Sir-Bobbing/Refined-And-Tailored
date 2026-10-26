@@ -3791,6 +3791,10 @@ file = "kubejs/data/kubejs/damage_type/giggler.json"
 hash = "43118f758d7750ec364fc8f0b278513753a71a95f2d9a4d0357fb1337e260d6c"
 
 [[files]]
+file = "kubejs/data/kubejs/function/.first_world_load.mcfunction.kate-swp"
+hash = "f8a070eb40c455a1a3d470a5194e7794fc2d1dc3f8b2b1e0224df5cd3f2b0850"
+
+[[files]]
 file = "kubejs/data/kubejs/function/dimension_transfer.mcfunction"
 hash = "9fb4d2a430a2fe2ce39b16e281792963527b9df5b1a4db4a6e598d907b764712"
 
@@ -6160,7 +6164,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "438d7ba918324078057352e3e9128617e1e0784da57304ee85f54ae4560e2c32"
+hash = "45dab1c2f25d3b1a451f615457a6a96421a6566aba0718be84dbbdab317c0f84"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -6578,7 +6582,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
-hash = "f47047a70667764f011bbb73835cde2638a0efd549fb23fb6d86d192a271d340"
+hash = "36fdaeacfd155cb32b4695732af293beba4e53c68c3a0d40089af92475671ad3"
 metafile = true
 
 [[files]]
@@ -6643,7 +6647,7 @@ metafile = true
 
 [[files]]
 file = "mods/envelope.pw.toml"
-hash = "b61751cf27f47cb673a34597dc578434861f57acb89993d391223c0f145f84b7"
+hash = "707036189a2f6bbe39123ce18873555a4ab776271fcd74522bd3002428dd6626"
 metafile = true
 
 [[files]]
@@ -6693,7 +6697,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ff269c064ad46bb865d11009960f3ab44a710664c64ae164f3bac1b1f53e55d3"
+hash = "689ba46c126a25d7c92a5e30f55e9dfe0db61e9f9d6ba764ce0c6ec5d8ba4d07"
 metafile = true
 
 [[files]]
@@ -6743,7 +6747,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "def793e0282e789cc45de892bbe675fbf0b21956c4a0e8eee69ea8cf8d3667d9"
+hash = "c9710d18cf05b02063a2acf91e9d09678bcdeb246cbbfbbf619fbc8c52513513"
 metafile = true
 
 [[files]]
@@ -6873,7 +6877,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ae881ae4d15d664200c5bc804260b98851927a697736ae5088da779e92f9a67e"
+hash = "7602a206ba8e5dc0a22c10c6740932d3a4035a978239f2ba7e39b284e17f6cbb"
 metafile = true
 
 [[files]]
@@ -6888,7 +6892,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "67774d0cf519256a4b982f2808dd22000df8a1e518fb28f36da24949a738ecfe"
+hash = "852b75a076233c9162c739ba4cc6cb007e18df2500e8e99e73c56fb1115f59ea"
 metafile = true
 
 [[files]]
@@ -6947,7 +6951,7 @@ hash = "db034369d779d791fdf636e4af818354706c57bb8e5e7602c44ca2626fc13c64"
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e3beace2879863e6106fa0078737201fdc2f880ab84b10fed787ac2d4367f0d3"
+hash = "340684b4539c1dd073cb5730a8a4207bf4c936167e21bb61cc3f3cafa9d52eeb"
 metafile = true
 
 [[files]]
@@ -6972,12 +6976,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "f30489da5d498f587cfa13bf9ab78cd5d66c10496451187cc5d93c9bc8efc9fc"
+hash = "fda766c76781d469dafae7472f2a284d3dba2a4599906fe5da04546a94a566f0"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "365d9db001a77c15fe5b15450f9e821f907d7e0b8f1a1cd5ec1e26b71a908c18"
+hash = "609faa9e3f98a238f073279fbca0957bf8cbbc815ffbc0b407430af176c75633"
 metafile = true
 
 [[files]]
@@ -7027,7 +7031,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2ca51bf76c8ff3fc9bda393d41e6f4c50cefe6ac46af92d940145ec0ff6920e5"
+hash = "bead183f626a446aaaaef2570be0b0f29bd45232bdaf935780c61f07824db805"
 metafile = true
 
 [[files]]
@@ -7042,7 +7046,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "10db2bd86cb721d135cfb7aed1f46b41f0e1a3d69a59c389141898e07c7b81ab"
+hash = "9a982c5551522ad2da220c85a55478b0a47f8f1c7a0d926654159c894a5c7205"
 metafile = true
 
 [[files]]

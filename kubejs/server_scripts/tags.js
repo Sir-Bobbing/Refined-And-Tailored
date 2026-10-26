@@ -313,6 +313,19 @@ ServerEvents.tags('block', event => {
 })
 
 ServerEvents.tags('entity_type', event => {
+
+// Persistent Entities
+        event.add('respawninganimals:persistent_animals', 'minecraft:bee')
+        event.add('respawninganimals:persistent_animals', 'kobolds:kobold')
+        event.add('respawninganimals:persistent_animals', 'nomansland:buddy')
+        event.add('respawninganimals:persistent_animals', '@create')
+        event.add('respawninganimals:persistent_animals', '@aeronautics')
+        event.add('respawninganimals:persistent_animals', '@simulated')
+        event.add('respawninganimals:persistent_animals', '@sable')
+        event.add('respawninganimals:persistent_animals', '@offroad')
+        event.add('respawninganimals:persistent_animals', 'notalone:notalone_entity')
+
+
 // Cage and Jar Entities
         event.add('supplementaries:jar_catchable', 'minecraft:silverfish')
         event.add('supplementaries:jar_catchable', 'endermanoverhaul:spirit')

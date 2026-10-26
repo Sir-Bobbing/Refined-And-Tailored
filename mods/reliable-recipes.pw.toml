@@ -1,27 +1,27 @@
-filename = 'reliable_recipes-3.7.0+1.21.1-neoforge.jar'
+filename = 'reliable_recipes-3.8.2+1.21.1-neoforge.jar'
 name = 'Reliable Recipes'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.7.0+1.21.1-neoforge'
+x-prismlauncher-version-number = '3.8.2+1.21.1-neoforge'
 
 [download]
-hash = '54e0f4a95712eb3956eedf0f4159afeef77ffee5e3a758419adf1569336db5691f53757d833e9bbcb428d7c34fd3522b44abe0904c3ce3cf319036218c47c51e'
+hash = '8f1bc469861e352090a4e73eac8c1ccef80265b644f06ede6f5de322b967d2c84bd5ed9442fa5dc14227fbd6f88ae84281a7bc1db9e6afa79d4a93dff053deab'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Hl4ARA1z/versions/UoYRcfBE/reliable_recipes-3.7.0%2B1.21.1-neoforge.jar'
+url = 'https://cdn.modrinth.com/data/Hl4ARA1z/versions/QY4ttR3Z/reliable_recipes-3.8.2%2B1.21.1-neoforge.jar'
 
 [update.modrinth]
 mod-id = 'Hl4ARA1z'
-version = 'UoYRcfBE'
+version = 'QY4ttR3Z'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'fRiHVvU7'
+addonId = 'u6dRKJwZ'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '5VolwT6c'
+addonId = 'fRiHVvU7'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -29,5 +29,5 @@ addonId = '1eAoo2KR'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
+addonId = '5VolwT6c'
 type = 'OPTIONAL'
