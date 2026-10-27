@@ -130,7 +130,7 @@ hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "fe834f3cce6934218f6f5cd1f477ddfa4d33726eef7a172925530c81c0ce3503"
+hash = "a7712377a5846f1d6315e7ec0fac63e061f524440f224f30e699e453ad251e69"
 
 [[files]]
 file = "config/create_connected-common.toml"
@@ -2600,7 +2600,7 @@ hash = "e7df02d5c28858a3ba50929fefbb28c1d5175af8a22c7d4451fefe240ee4e405"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "5714c1b1d5cf5232444b7e06a879ca1fe1f797ceb4d151a361a576823c3356e0"
+hash = "e6a0fd35c43991f9244c4f4104c37798c889781b08232609059a87f2e382e369"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -3791,16 +3791,12 @@ file = "kubejs/data/kubejs/damage_type/giggler.json"
 hash = "43118f758d7750ec364fc8f0b278513753a71a95f2d9a4d0357fb1337e260d6c"
 
 [[files]]
-file = "kubejs/data/kubejs/function/.first_world_load.mcfunction.kate-swp"
-hash = "f8a070eb40c455a1a3d470a5194e7794fc2d1dc3f8b2b1e0224df5cd3f2b0850"
-
-[[files]]
 file = "kubejs/data/kubejs/function/dimension_transfer.mcfunction"
 hash = "9fb4d2a430a2fe2ce39b16e281792963527b9df5b1a4db4a6e598d907b764712"
 
 [[files]]
 file = "kubejs/data/kubejs/function/first_world_load.mcfunction"
-hash = "8f76caf509a5b9163ccb02bd43fbe20e311f5a92f834316c92d530b0b58f1c65"
+hash = "4ae8c7043870f573a372f026b72ff508fe9e6ed9de2963858e715de0b18793a4"
 
 [[files]]
 file = "kubejs/data/kubejs/function/load.mcfunction"

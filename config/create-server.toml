@@ -542,7 +542,7 @@
 	#Maximum length of track that can be placed as one batch or turn.
 	# Default: 32
 	# Range: 16 ~ 128
-	maxTrackPlacementLength = 32
+	maxTrackPlacementLength = 64
 	#.
 	#Maximum length of a Train Stations' assembly track.
 	# Default: 128
@@ -567,13 +567,13 @@
 		#The top speed of any assembled Train.
 		# Default: 28.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		trainTopSpeed = 28.0
+		trainTopSpeed = 56.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of Trains during a turn.
 		# Default: 14.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 14.0
+		trainTurningTopSpeed = 28.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
@@ -589,13 +589,13 @@
 		#The top speed of powered Trains.
 		# Default: 40.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 40.0
+		poweredTrainTopSpeed = 80.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of powered Trains during a turn.
 		# Default: 20.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 20.0
+		poweredTrainTurningTopSpeed = 40.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
