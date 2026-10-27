@@ -9,6 +9,10 @@ ItemEvents.modifyTooltips(event => {
     event.add('tfmg:lead_sword', Text.gray('Attacks apply poison.'))
     event.add('tfmg:lead_axe', Text.gray('Attacks apply poison.'))
 
+    event.add('tfmg:turbine_engine', Text.darkRed('Requires screwdriver to remove installed components!'))
+    event.add('tfmg:regular_engine', Text.darkRed('Requires screwdriver to remove installed components!'))
+    event.add('tfmg:radial_engine', Text.darkRed('Requires screwdriver to remove installed components!'))
+
     event.add('tfmg:circuit_board', Text.gray('Dropped by the Scamppanzer boss.'))
     event.add('tfmg:steel_mechanism', Text.gray('Rarely dropped by hostile Cog enemies.'))
     event.add('powergrid:electrical_gizmo', Text.gray('Rarely dropped by Cog mobs.'))
