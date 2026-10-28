@@ -6160,7 +6160,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "45dab1c2f25d3b1a451f615457a6a96421a6566aba0718be84dbbdab317c0f84"
+hash = "724fe02abd1172810b30fad9efd4eb42586bc842d4b0a0574c0d8a39f23196be"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -7148,6 +7148,11 @@ metafile = true
 [[files]]
 file = "mods/void-water.pw.toml"
 hash = "2b51d720c00deeb58e4f54f4467a9795089caf402429ec9c369d1c204e3122e5"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "4d01a90a34b5cf39af35ed5d2a9398142d13c93a402f5761f7482aa292d4bfe6"
 metafile = true
 
 [[files]]
