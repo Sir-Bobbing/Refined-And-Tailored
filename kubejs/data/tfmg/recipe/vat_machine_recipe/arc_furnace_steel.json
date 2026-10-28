@@ -1,9 +1,12 @@
 {
   "type": "tfmg:vat_machine_recipe",
   "allowed_vat_types": [
-    "tfmg:firebrick_lined_vat"
+    "tfmg:fireproof"
   ],
   "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
     {
       "item": "minecraft:iron_ingot"
     },
@@ -20,18 +23,14 @@
     "tfmg:graphite_electrode"
   ],
   "min_size": 9,
-  "processing_time": 20,
+  "processing_time": 10,
   "results": [
     {
-      "chance": 0.9,
-      "id": "tfmg:coal_coke_dust"
-    },
-    {
-      "amount": 90,
+      "amount": 360,
       "id": "tfmg:molten_steel"
     },
     {
-      "amount": 80,
+      "amount": 190,
       "id": "tfmg:molten_slag"
     }
   ]

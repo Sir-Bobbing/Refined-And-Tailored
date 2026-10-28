@@ -1,6 +1,6 @@
 {
   "type": "tfmg:industrial_blasting",
-  "hot_air_usage": 20,
+  "hot_air_usage": 5,
   "ingredients": [
     {
       "item": "minecraft:iron_ingot"
@@ -9,10 +9,10 @@
       "tag": "tfmg:flux"
     }
   ],
-  "processing_time": 20,
+  "processing_time": 10,
   "results": [
     {
-      "amount": 90,
+      "amount": 135,
       "id": "tfmg:molten_steel"
     },
     {

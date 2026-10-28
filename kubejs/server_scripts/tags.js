@@ -50,6 +50,8 @@ ServerEvents.tags('item', event => {
     event.remove('malum:void_soulstone_material', 'createpropulsion:raw_platinum')
     event.add('c:fuel', 'nomansland:resin_oil')
     event.add('c:fuel', 'nomansland:resin_oil_bottle')
+    event.add('c:coal', 'malum:arcane_charcoal')
+    event.add('minecraft:coals', 'malum:arcane_charcoal')
 
 // Enchant Tags
     event.add('minecraft:enchantable/durability', '#prospectingpicks:prospecting_pick')

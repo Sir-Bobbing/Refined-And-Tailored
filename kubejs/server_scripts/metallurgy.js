@@ -78,8 +78,8 @@ function registerVatLow( event, metalInfo ) {
     event.custom({
         type: "tfmg:vat_machine_recipe",
         "allowed_vat_types": [
-            "tfmg:steel_vat",
-            "tfmg:firebrick_lined_vat"
+            "tfmg:steel",
+            "tfmg:fireproof"
         ],
         "heat_requirement": "heated",
         "machines": [
@@ -117,14 +117,13 @@ function registerVatHigh( event, metalInfo ) {
     event.custom({
         type: "tfmg:vat_machine_recipe",
         "allowed_vat_types": [
-            "tfmg:firebrick_lined_vat"
+            "tfmg:fireproof"
         ],
         "heat_requirement": "superheated",
         "machines": [
             "tfmg:graphite_electrode",
             "tfmg:graphite_electrode",
-            "tfmg:graphite_electrode",
-            "tfmg:mixing"
+            "tfmg:graphite_electrode"
         ],
         "min_size": 9,
         "processing_time": 20,
@@ -152,8 +151,8 @@ function registerSlurry(event, metalInfo) {
     event.custom({
         type: "tfmg:vat_machine_recipe",
         "allowed_vat_types": [
-            "tfmg:steel_vat",
-            "tfmg:firebrick_lined_vat"
+            "tfmg:steel",
+            "tfmg:fireproof"
         ],
         "heat_requirement": "heated",
         "machines": [

@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    { "item": "minecraft:iron_nugget" },
+    { "item": "minecraft:iron_nugget" },
+    { "item": "minecraft:iron_nugget" },
+    { "tag": "tfmg:flux" },
+    { "item": "tfmg:coal_coke_dust" }
+  ],
+  "processing_time": 882,
+  "results": [
+    {
+      "amount": 30,
+      "id": "tfmg:molten_steel"
+    },
+    {
+      "count": 1,
+      "id": "tfmg:coal_coke_dust",
+      "chance": 0.6
+    }
+  ]
+}

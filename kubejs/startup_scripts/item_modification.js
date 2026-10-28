@@ -33,6 +33,10 @@ ItemEvents.modification(event => {
     item.setMaxDamage(512)
   })
 
+  event.modify('architects_palette:charcoal_block',item => {
+        item.setBurnTime(6400)
+  })
+
   function modifyAluminumItem(id, attackDamage, attackSpeed) {
     event.modify(id, item => {
     item.setUnbreakableWithTooltip()

@@ -30,18 +30,11 @@
     "target": "minecraft:enderpearl",
     "replacement": "#c:enderpearls"
   },
-  // Big cannons
+  // Charcoal block storge
   {
     "action": "remove_recipe",
-    "type": "createbigcannons:melting"
-  },
-  {
-    "action": "remove_recipe",
-    "type": "scguns:macerating"
-  },
-  {
-    "action": "remove_recipe",
-    "type": "scguns:powered_macerating"
+    "type": "minecraft:smoking",
+    "output": "architects_palette:charcoal_block"
   },
   // Experience Nugget
   {
