@@ -2331,7 +2331,7 @@ hash = "949d759ab01f7887a8041413515c2f6462a404b78c5ea53db6443874215da67e"
 
 [[files]]
 file = "kubejs/assets/tfmg/lang/en_us.json"
-hash = "c6e90391c4ffb5efb348f717ecb409dc943d098d5f1a42ab703fa33bc5cb27b6"
+hash = "3716c16d18f8ed86e295ab8c18866a2ab5b62561a6c434fa857f8f8e6be47e60"
 
 [[files]]
 file = "kubejs/assets/tfmg/sounds.json"
@@ -2921,6 +2921,14 @@ hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 [[files]]
 file = "kubejs/data/create/loot_table/blocks/deepslate_zinc_ore.json"
 hash = "f50ca92522b71e99f64ce3256227792da08172f7d729f5ff7cf8a1212f4c31c5"
+
+[[files]]
+file = "kubejs/data/create/recipe/crafting/materials/red_sand_paper.json"
+hash = "deb65e38cf132e496c46c5d24c31b691ba9ca6ae3df933383efa55db1b722abd"
+
+[[files]]
+file = "kubejs/data/create/recipe/crafting/materials/sand_paper.json"
+hash = "5c57dd13e7f3b54b04faabe492602355575dcb7691cb60274fdb7e227911e34f"
 
 [[files]]
 file = "kubejs/data/create/recipe/crushing/asurine_recycling.json"
@@ -6001,6 +6009,10 @@ hash = "d27e6bd3c6f7bc90b0742662049954a07749ce4257e823a89f732ccf2daba8dd"
 [[files]]
 file = "kubejs/data/tfmg/recipe/mixing/p_semiconductor.json"
 hash = "aebcd4bb60b003ed6a18d7c237518fafdb25b196cbb7229aaf2ac74494cc5f56"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/sequenced_assembly/heavy_plate.json"
+hash = "ae1eefd0469710cc7e19a6f4ee4d19cb3d65d570356890844f703812863daa39"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/sequenced_assembly/unfinished_circuit_board.json"
