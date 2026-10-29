@@ -4,25 +4,7 @@
             {
                 "xp_levels": 2,
                 "item_cost": {
-                    "item": "minecraft:feather",
-                    "count": 1
-                }
-            }
-        ],
-        "2": [
-            {
-                "xp_levels": 8,
-                "item_cost": {
-                    "item": "supplementaries:wind_vane",
-                    "count": 16
-                }
-            }
-        ],
-        "3": [
-            {
-                "xp_levels": 10,
-                "item_cost": {
-                    "item": "aeronautics:music_disc_cloud_skipper",
+                    "item": "supplementaries:feather_block",
                     "count": 1
                 }
             }

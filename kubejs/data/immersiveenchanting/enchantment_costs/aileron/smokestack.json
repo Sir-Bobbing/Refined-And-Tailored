@@ -8,24 +8,6 @@
                     "count": 1
                 }
             }
-        ],
-        "2": [
-            {
-                "xp_levels": 8,
-                "item_cost": {
-                    "item": "minecraft:firework_rocket",
-                    "count": 192
-                }
-            }
-        ],
-        "3": [
-            {
-                "xp_levels": 10,
-                "item_cost": {
-                    "item": "sootychimneys:dirty_brick_chimney",
-                    "count": 1
-                }
-            }
         ]
     }
 }
