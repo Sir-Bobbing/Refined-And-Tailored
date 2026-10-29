@@ -358,11 +358,11 @@ hash = "b94f0929d0357837d6e214925008fbe291f5ac6dc025f228ac1f3f720b9d2ad8"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "acaad93228cbc0e0496d6e2d5f1d9ff2055eb167a07727ee8442da0f835d091b"
+hash = "d1a27a2ae267e95c37080ccdf5f6a240196be04ba91b322f7285ac434b17ad93"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "1f91a6531204123b66b2586d68d80e26b19bc2343f4a4fb76210f375ec574bfb"
+hash = "5a7099cf7d49e438457fe7c7af4f98beb415bbd09d0e63f3a3de73da7bd99433"
 
 [[files]]
 file = "config/resourceful-config-web.json"

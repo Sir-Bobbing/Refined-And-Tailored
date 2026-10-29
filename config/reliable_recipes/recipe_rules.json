@@ -1,4 +1,20 @@
 [
+  // Deco Fix
+  {
+    "action": "replace_input",
+    "target": "createdeco:industrial_iron_ingot",
+    "replacement": "#c:ingots/cast_iron"
+  },
+  {
+    "action": "replace_input",
+    "target": "createdeco:industrial_iron_nugget",
+    "replacement": "#c:nuggets/cast_iron"
+  },
+  {
+    "action": "replace_input",
+    "target": "createdeco:industrial_iron_sheet",
+    "replacement": "#c:sheets/cast_iron"
+  },
   // Alternative tagging
   {
     "action": "replace_input",
@@ -30,11 +46,18 @@
     "target": "minecraft:enderpearl",
     "replacement": "#c:enderpearls"
   },
-  // Charcoal block storge
+  // Big cannons
   {
     "action": "remove_recipe",
-    "type": "minecraft:smoking",
-    "output": "architects_palette:charcoal_block"
+    "type": "createbigcannons:melting"
+  },
+  {
+    "action": "remove_recipe",
+    "type": "scguns:macerating"
+  },
+  {
+    "action": "remove_recipe",
+    "type": "scguns:powered_macerating"
   },
   // Experience Nugget
   {
@@ -211,7 +234,8 @@
     "farmersdelight:cake_from_milk_bottle",
 
     "malum:create/cutting/strip_runewood_log",
-    "malum:create/cutting/strip_soulwood_log"
+    "malum:create/cutting/strip_soulwood_log",
+    "createdeco:industrial_iron_block"
     ]
   }
 ]
