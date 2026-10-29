@@ -358,7 +358,7 @@ hash = "b94f0929d0357837d6e214925008fbe291f5ac6dc025f228ac1f3f720b9d2ad8"
 
 [[files]]
 file = "config/reliable_recipes/recipe_rules.json"
-hash = "5c0b79a5b7fe17bd30c7c3a0f863627e2a678766398fd29fcd47b30108c84f76"
+hash = "acaad93228cbc0e0496d6e2d5f1d9ff2055eb167a07727ee8442da0f835d091b"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
@@ -394,7 +394,7 @@ hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
 
 [[files]]
 file = "config/solonion.json"
-hash = "d2ec4209141d2795784c20b836505378563ca4352c330883d7d4565051a10825"
+hash = "f2c6c991bfe4e717069e01795ee44b94b9622d29bc8483a25aa39f7b45ddf498"
 
 [[files]]
 file = "config/spelunkery-common.toml"
@@ -2687,6 +2687,14 @@ file = "kubejs/data/architects_palette/recipe/cerebral_pillar.json"
 hash = "71d437972ee376f01cdbb09b723c2e9ef35ffebdfd3273aaeb4d7903ef8ef222"
 
 [[files]]
+file = "kubejs/data/architects_palette/recipe/charcoal.json"
+hash = "ee21a57e458a09d8cf609ebac7e82aa682e709b08869cecd8d014b211a5a83fc"
+
+[[files]]
+file = "kubejs/data/architects_palette/recipe/charcoal_block.json"
+hash = "066ac7c754c3785d0b14dda1d63fb1130f7a3b3a49cd6d224e345a140551befc"
+
+[[files]]
 file = "kubejs/data/architects_palette/recipe/dripstone_pillar.json"
 hash = "913cd2d7d9dd948bb5a62977362c8a633a6eb48310611acacc320d9a99c21564"
 
@@ -3011,6 +3019,10 @@ file = "kubejs/data/create/recipe/milling/bone_meal.json"
 hash = "67c9c5485fb1bca8005a97bf93baa462361c0ab0537ff8bde53672ca9320665d"
 
 [[files]]
+file = "kubejs/data/create/recipe/sequenced_assembly/precision_mechanism.json"
+hash = "c709645228489d7e21fafd2258a590526397ddd59b401e5f815d57c65b541d1d"
+
+[[files]]
 file = "kubejs/data/create_connected/advancement/control_chip.json"
 hash = "001a6cab91fd318e7d76ca59deef22bd117eeee797da8c8d286246f751caaffe"
 
@@ -3176,11 +3188,11 @@ hash = "b492560f82a8fdc004215cd727916a175a54e446902746a3661fcec443833cbf"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/cloudskipper.json"
-hash = "171273868d7077e4e81b7ff386b42c42ed81141c7ede4b2350eb1e182ac062a1"
+hash = "2764010d06afe214023ea194b816635b39618aa02c22ba7d4c5dd333cffe6cdc"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/aileron/smokestack.json"
-hash = "0396ffbb2842ca3b0c0cca82297664f0a497f68d320a7f621094759fb00dc96c"
+hash = "9529d7850d183499bac8afbad30dcf0242a8add08f4b1a540c39c83d05fe6403"
 
 [[files]]
 file = "kubejs/data/immersiveenchanting/enchantment_costs/create/capacity.json"
@@ -3899,6 +3911,10 @@ file = "kubejs/data/kubejs/predicate/over_to_nether.json"
 hash = "b1c30a8553a36e02f95ab309873b4fa897606b441c564fc82e37749c5475019d"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/coking/charcoal_coking.json"
+hash = "653c88286ec7b47d313e8ed347b29dc558cc91cc4535baaf63c4aa5f0af91cf3"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/compacting/star_processing_infernal.json"
 hash = "495ef6f60fe5ed2ac84e6ea993c3a2fdba64351a6fbcca5e1bf5d1232b07385e"
 
@@ -4133,6 +4149,10 @@ hash = "103eb4cd26528d7cda8f395676679af11b418fed9c3473b453975f808d4dedc0"
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/star_processing_aqueous.json"
 hash = "f3421b10c91014444a5902cf703617480da755dd45006b352e53abc50ef4298d"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/mixing/steel.json"
+hash = "55f0dd19098cef3b9b29a1d58de9e7bdc390882dc552ad7b184f523779e7c207"
 
 [[files]]
 file = "kubejs/data/kubejs/recipe/mixing/wither_skull.json"
@@ -5083,6 +5103,10 @@ file = "kubejs/data/powergrid/recipe/sequenced_assembly/electrical_gizmo.json"
 hash = "519e3ca530c3ec19f1ca49d7d26623fda8acdcb7013776efc8132afa4af1e469"
 
 [[files]]
+file = "kubejs/data/powergrid/recipe/sequenced_assembly/solar_panel.json"
+hash = "76011b618865251c34977cbc190cd428dfdac692b336dbe7d0c75316f5f00d8b"
+
+[[files]]
 file = "kubejs/data/scguns/entity/elite_tiers.json"
 hash = "11c25aaa8fe558bf475a5b44f2b010680ec25f51ec9ff3920f4c894b36187b66"
 
@@ -5213,6 +5237,10 @@ hash = "37d4ed6ee18532dcc26e93c326e6023b111aa250e4d7e3fe7c624fc70a75563d"
 [[files]]
 file = "kubejs/data/scguns/recipe/create/deploying/depleted_diamond_steel.json"
 hash = "b96698d5976d8b523949682e68f4a9333528b31748d85df1f3e6bec8198e8c31"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/deploying/empty_cell.json"
+hash = "8d4c8490cbd97e43a7036d361726f9ec4f7e99e5630c0252707bca97532aca8d"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/deploying/hardened_bullet_steel.json"
@@ -5447,6 +5475,10 @@ file = "kubejs/data/scguns/recipe/mech_press/depleted_diamond_steel.json"
 hash = "bb363b90e00f37de1b3407ec71d0c125a1e6f65900b6401533e8f1e6c81586e5"
 
 [[files]]
+file = "kubejs/data/scguns/recipe/mech_press/empty_cell.json"
+hash = "12fd9755a2c18508384195341e4a99fe708c4ef11dea3ba03dfebbd005a8c334"
+
+[[files]]
 file = "kubejs/data/scguns/recipe/night_vision_module.json"
 hash = "d6dc0f7c0488b20560b5bc471372fbb360a16ea0658a2d0485390bae1210cb61"
 
@@ -5465,6 +5497,10 @@ hash = "f72aff2fb027a1cd2d6a8993515bfcfea508097ba2dd2d5f25529c2f7ad3a2f5"
 [[files]]
 file = "kubejs/data/scguns/recipe/powered_mech_press/powered_depleted_diamond_steel.json"
 hash = "6969bb872cfeb7f660bf3fd7529a29c83e6a77ae076bf914352e27977bdc30f2"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/powered_mech_press/powered_empty_cell.json"
+hash = "f90977072774bd65e205707a7ce20b4af6da53ffa96cca08071f974c04b28284"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/rabbit_module.json"
@@ -5888,11 +5924,15 @@ hash = "092335b47b09ea5ea236036b3bc9b9e4fa6de773e54672a0307eae68459c9286"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/coking/charcoal.json"
-hash = "765c302bd9347d8ab99002b71626606109fb39f20e917bce838a4c18d49a8323"
+hash = "47ded30eb878f3ca8ca4d61e7027ac6f716ae4de052c8a80bd9b66ced00b0f7a"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/coking/coal.json"
 hash = "93a08b829fc9a10970ad98bc4a6f415862010081145df2b8cf4a97eb8b5bb1ae"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/compacting/cast_iron.json"
+hash = "bac24508e3f7d4e270d577808056248c1068ee70267057a416f84b3b60c80c1a"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/crafting/materials/copper_grenade.json"
@@ -5928,7 +5968,7 @@ hash = "09b3077304fd864198d3e254a4e5c202d7ce7ea48fa89b5394536fa8cc5fa01c"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/industrial_blasting/steel.json"
-hash = "744414488f249d1c4734d95ce2f755dcddef63eaacab0765a36a0a3b67ee3364"
+hash = "935fb455367e68f314219039ac8036632acfb2344812bccf450576ba15183ac9"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/industrial_blasting/steel_from_dust.json"
@@ -5964,15 +6004,15 @@ hash = "76aa7c54e02ed258563f4b9d7a1bd11d6e1fc3f132496c2e5666f390500e96ca"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/arc_furnace_steel.json"
-hash = "0a8132a26f620054935577ebec798e7b02aa05511950975213c82ed3fde8bad9"
+hash = "6524f1ea956233e7cad208a3c007c54104eb9abdef258be19f699425fc041adb"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/rubber.json"
-hash = "e449331537a8a7c306fcc6ecf829c0b568881c4de821a659eb4406fed4c4ab00"
+hash = "3de358a9d9fea076bc66505a6d3f6533ae9fe7c78bcfc380cbe46f6aeb5c43cc"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/sulfuric_acid.json"
-hash = "b624273b113bf92828615348d17f70002bd351908f18ccdf0d728024198af82d"
+hash = "45655c9b01a607938a057ea075829fa87e1a82bae62ee91ac98671de9951da07"
 
 [[files]]
 file = "kubejs/data/tfmg/worldgen/placed_feature/oil_deposit.json"
@@ -6111,6 +6151,10 @@ file = "kubejs/server_scripts/creature_conjuration.js"
 hash = "2347ac1de174759cc44a498ce502767c9a55e9a4d0f1867fcea0a424231c1b88"
 
 [[files]]
+file = "kubejs/server_scripts/diversity_retention.js"
+hash = "190ebd15fb7143897e93c7931dd58e242536415c41aee185d2f02b12dafdce39"
+
+[[files]]
 file = "kubejs/server_scripts/emi.js"
 hash = "5619c76fef6fede2ce95cd649e8bfea7c8c8d4b1aa79448805be3ee3362bf328"
 
@@ -6128,7 +6172,7 @@ hash = "04440b4440487b6ecbcebb10a4625f14aaab42576fbdc6aced86351e9ecb958b"
 
 [[files]]
 file = "kubejs/server_scripts/metallurgy.js"
-hash = "2fafccf20131057e90641d975b5cfc42bf3ea73f2c4e750a6ecbfa294067cb6a"
+hash = "427d8a2690d311f595a2b7acdaf7fbaa487d37b9275d3478b9b6d696047b12fe"
 
 [[files]]
 file = "kubejs/server_scripts/nephrite_condensation.js"
@@ -6160,7 +6204,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "724fe02abd1172810b30fad9efd4eb42586bc842d4b0a0574c0d8a39f23196be"
+hash = "c262f5f1cad0cf4dcd57bcd37d2dc0800966bf63d0f02a363d61ef0565cf3142"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -6192,7 +6236,7 @@ hash = "a1556cee4b662739a1ab307435b7c1b8246e6999a67e0165402a7d3b32b062c0"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
-hash = "ab76a2227fb08ade7756c9544e6f97eccf95d8fb53794630884054c05a4af0cf"
+hash = "de3750536c663e937ce602a54ff22eeb1a63b60d6c77316bee3f510a95e2b2f7"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -6329,6 +6373,11 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "f402a82221297e462fb01cfeebff2a75979b37cc22085718799d3b9bee1b4765"
+metafile = true
+
+[[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "bcdfc0b43c8efbf42caf6fb31d8aeacb99f876418cbb61dd425931882093504f"
 metafile = true
 
 [[files]]
@@ -6474,6 +6523,11 @@ metafile = true
 [[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "3f99cf6633b922545d070f909ec88973b4a45e03d4646158348acea6e5794983"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "d232fcd0146fe483381d87c1ce4a6ebba6a9282a81b0e3ad048c5af2cc08b704"
 metafile = true
 
 [[files]]
