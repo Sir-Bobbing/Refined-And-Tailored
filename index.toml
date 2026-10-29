@@ -6003,6 +6003,10 @@ file = "kubejs/data/tfmg/recipe/mixing/gunpowder.json"
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
+file = "kubejs/data/tfmg/recipe/mixing/liquid_asphalt.json"
+hash = "166df8726cbf149a3e2ee77d4a9b8445d74296355d53f04002b17ee2a907b91f"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/mixing/n_semiconductor.json"
 hash = "d27e6bd3c6f7bc90b0742662049954a07749ce4257e823a89f732ccf2daba8dd"
 
