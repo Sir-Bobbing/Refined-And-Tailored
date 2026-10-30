@@ -1,0 +1,44 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "c:plates/iron"
+  },
+  "loops": 8,
+  "results": [
+    {
+      "chance": 100.0,
+      "id": "simulated:engine_assembly"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "simulated:incomplete_engine_assembly"
+        }
+      ],
+      "results": [
+        {
+          "id": "simulated:incomplete_engine_assembly"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "simulated:incomplete_engine_assembly"
+        }
+      ],
+      "results": [
+        {
+          "id": "simulated:incomplete_engine_assembly"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "simulated:incomplete_engine_assembly"
+  }
+}

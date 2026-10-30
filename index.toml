@@ -362,7 +362,7 @@ hash = "d1a27a2ae267e95c37080ccdf5f6a240196be04ba91b322f7285ac434b17ad93"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "5a7099cf7d49e438457fe7c7af4f98beb415bbd09d0e63f3a3de73da7bd99433"
+hash = "e61c01ab8c2575317f89a22fd4193dc816dd45ab398b50578f1d82ee914e8273"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -2943,6 +2943,10 @@ file = "kubejs/data/create/recipe/crushing/crimsite_recycling.json"
 hash = "42fe98439c87dd79601ef86db3084de5cbe104965597c6b91101490d196523a2"
 
 [[files]]
+file = "kubejs/data/create/recipe/crushing/deepslate_zinc_ore.json"
+hash = "9d5f3552831a4d6f6fed56de49b2d3ff418b73c13d26447b213e3ffd22dbd443"
+
+[[files]]
 file = "kubejs/data/create/recipe/crushing/galena.json"
 hash = "2270eb8e0cd6aeaa6ae2c5a646e993740bd12e4d2f086b4f8a2326196892c347"
 
@@ -3093,6 +3097,10 @@ hash = "38bdfd42a679a4b36d7d05973555bbe30b86aace5e07333dccea1e1ffd560b0f"
 [[files]]
 file = "kubejs/data/decorative_blocks/recipe/lattice.json"
 hash = "b8bf0d08366f9e17d04bc2ef81168e65e3b50ca0af6757045c905d49efd3c8b2"
+
+[[files]]
+file = "kubejs/data/drivebysable/recipe/cable_io_bus.json"
+hash = "53ec94a5d37975eb918a3a3fa4668e9b79bebcee25e4186cbb581064a0158360"
 
 [[files]]
 file = "kubejs/data/endermanoverhaul/neoforge/biome_modifier/cave.json"
@@ -4067,6 +4075,14 @@ file = "kubejs/data/kubejs/recipe/crushing/crush_rock_salt.json"
 hash = "bc44a56d390ae7f6a3d6abc30af89057aed4db0d4a2a01e7b05a0c3abba139f6"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/crushing/quartzite_block.json"
+hash = "9efa5189389d1a3bd39b7a8401e484320f66e7c6ea1cf47afb5cddbbc42c0204"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/crushing/quartzite_cluster.json"
+hash = "92ad15704c5876f8b1abbab1e0624b5bd2dbf4cfd44f30ba25df85b70d10d188"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/crushing/star_processing_arcane.json"
 hash = "195fe8bdaaf82aa3d1e20484596316576a1ff84209972b5ee2815ebe2859b3fb"
 
@@ -4485,6 +4501,10 @@ hash = "103f14303d1111f4660d6fa9e5bae0dc3912bc89f0fc7728e4f20dd88e9a4df8"
 [[files]]
 file = "kubejs/data/malum/reaping_data/phantom.json"
 hash = "e2c6657d23854515dcdce1a8feda3593eeb25e47c913ebf9e6c5e06cf8bca29f"
+
+[[files]]
+file = "kubejs/data/malum/recipe/create/crushing/ore/crush_deepslate_soulstone_ore.json"
+hash = "3aedaa53917b746fa25da57590355a7753465384155d2dfd927513ff5a886e70"
 
 [[files]]
 file = "kubejs/data/malum/recipe/create/cutting/strip_runewood_log_alt.json"
@@ -4907,12 +4927,24 @@ file = "kubejs/data/minecraft/moonlight/villager_trade/librarian/5_safe.json"
 hash = "55d8ee28b14d85ed393393803e02a0e7c44400551a445ea3f3cb96206829a89c"
 
 [[files]]
+file = "kubejs/data/minecraft/recipe/andesite.json"
+hash = "faa04fb6cb863828eda7f7940654759979eed8ff6f14fedd6e5bfb241d3f1a29"
+
+[[files]]
 file = "kubejs/data/minecraft/recipe/bamboo_mosaic.json"
 hash = "baf664f2a601474600c71fda8224b77431a7e346cf07357e8e20c34271ba7402"
 
 [[files]]
 file = "kubejs/data/minecraft/recipe/brush.json"
 hash = "895827a36810346035bf52203e8a0a32b8dc1389707e9e2851dfc294e3f26dfb"
+
+[[files]]
+file = "kubejs/data/minecraft/recipe/diorite.json"
+hash = "af4ae49abdb383398b31147179cb857623019b500ef95f3bcdfd50a9c551ceb5"
+
+[[files]]
+file = "kubejs/data/minecraft/recipe/granite.json"
+hash = "373aa466caf1e38675713ebb831b372c4d9761d21653d108f4435fe795bafebc"
 
 [[files]]
 file = "kubejs/data/minecraft/tags/function/load.json"
@@ -5123,8 +5155,16 @@ file = "kubejs/data/powergrid/recipe/sequenced_assembly/electrical_gizmo.json"
 hash = "519e3ca530c3ec19f1ca49d7d26623fda8acdcb7013776efc8132afa4af1e469"
 
 [[files]]
+file = "kubejs/data/powergrid/recipe/sequenced_assembly/punch_card.json"
+hash = "e26438152741b65f66afab1f7235c6127bea826e8c48459ae67d127dbca037ad"
+
+[[files]]
 file = "kubejs/data/powergrid/recipe/sequenced_assembly/solar_panel.json"
 hash = "76011b618865251c34977cbc190cd428dfdac692b336dbe7d0c75316f5f00d8b"
+
+[[files]]
+file = "kubejs/data/powergrid/recipe/sequenced_assembly/transformer_core.json"
+hash = "a1d64111d9566664af53cda3fac7076c0ccb28fbba1f1d79974751ec109cc77d"
 
 [[files]]
 file = "kubejs/data/scguns/entity/elite_tiers.json"
@@ -5253,6 +5293,10 @@ hash = "edf25b47fae85d28dd730926edafc05251d20d5ccb695b817bc2e055aeac99c9"
 [[files]]
 file = "kubejs/data/scguns/recipe/create/ancient_brass_brass_from_mixing.json"
 hash = "37d4ed6ee18532dcc26e93c326e6023b111aa250e4d7e3fe7c624fc70a75563d"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/deepslate_anthralite_ore.json"
+hash = "651169ca0e4f7f721c7007c866268ce2f2469d1454af5926a23ae3cbe625d699"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/deploying/depleted_diamond_steel.json"
@@ -5593,6 +5637,14 @@ hash = "936fec40d959ebc62d90fd651d391b6ac713ba092083f04980354a74264bae4e"
 [[files]]
 file = "kubejs/data/simulated/end_sea/overworld.json"
 hash = "f390a92a94ed876ebebfc98f817238fb4bfaacc04a634a734bc796b5362ce715"
+
+[[files]]
+file = "kubejs/data/simulated/recipe/sequenced_assembly/engine_assembly.json"
+hash = "fe8a2a968066c80dd63da8fbc9652e312f54e2f8b9616304963108fcbaa92d8e"
+
+[[files]]
+file = "kubejs/data/simulated/recipe/sequenced_assembly/gyroscopic_mechanism.json"
+hash = "850d6939431cf2c1cf36a46b0361172390411761d60a0446d1ccb95ec7ad990a"
 
 [[files]]
 file = "kubejs/data/spelunkery/advancement/spelunkery/compression_blast_miner.json"
@@ -5975,12 +6027,32 @@ file = "kubejs/data/tfmg/recipe/crafting/materials/lithium_charge.json"
 hash = "955f524bd8bf4f0f06fe8ae6267afc38b904dfc837acdad23699ec25023211a4"
 
 [[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/rebar_block.json"
+hash = "25d35875129a08592848a2e4ca5943b66191d683290fdd2be2e4f9e18228148b"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/rebar_floor.json"
+hash = "ff12f4986f4c4de532b088c2693aa9ca5f6a62532a6b0a984ba5ed76d51f54ce"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crafting/materials/rebar_pillar.json"
+hash = "e3fcbdcc8453188d022eeba05a3e93027a80aa5028b8df7cf3592007c36ff655"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/crafting/materials/segmented_display.json"
 hash = "bc2d93df7c94c0eb90fabf86ec6f62bc8b427c160a152e2f682e2d71697e0d2b"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/crafting/materials/traffic_light.json"
 hash = "881564d7e28229f671e782ac9d585fcfdf01914f24f8343295fcc032a3b58582"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crushing/deepslate_lead_ore.json"
+hash = "b2bd368673bde67a23256f71cbbc71aa32759547186e625ea5e668fb361bae4d"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/crushing/deepslate_nickel_ore.json"
+hash = "b0424039d9727852a2317b3e0ef362dba680cab3c23b0407234c41641674f601"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/hot_blast/hot_air.json"
@@ -6011,6 +6083,10 @@ file = "kubejs/data/tfmg/recipe/mixing/liquid_asphalt.json"
 hash = "166df8726cbf149a3e2ee77d4a9b8445d74296355d53f04002b17ee2a907b91f"
 
 [[files]]
+file = "kubejs/data/tfmg/recipe/mixing/liquid_concrete.json"
+hash = "90260efe799011fa62f864077de45ca7bdbb09759fe0ea7087c7c947dd197aac"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/mixing/n_semiconductor.json"
 hash = "d27e6bd3c6f7bc90b0742662049954a07749ce4257e823a89f732ccf2daba8dd"
 
@@ -6019,8 +6095,16 @@ file = "kubejs/data/tfmg/recipe/mixing/p_semiconductor.json"
 hash = "aebcd4bb60b003ed6a18d7c237518fafdb25b196cbb7229aaf2ac74494cc5f56"
 
 [[files]]
+file = "kubejs/data/tfmg/recipe/rebar_from_ingots_steel_stonecutting.json"
+hash = "22b6268baf9cf04dd169547877a132811a8ae879e0e8c43f39b16c2abf17203d"
+
+[[files]]
 file = "kubejs/data/tfmg/recipe/sequenced_assembly/heavy_plate.json"
 hash = "ae1eefd0469710cc7e19a6f4ee4d19cb3d65d570356890844f703812863daa39"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/sequenced_assembly/steel_mechanism.json"
+hash = "627a902b46ca9ead169984b283b0a085747214669c53d034669d70947b7532ba"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/sequenced_assembly/unfinished_circuit_board.json"
@@ -6033,6 +6117,10 @@ hash = "76aa7c54e02ed258563f4b9d7a1bd11d6e1fc3f132496c2e5666f390500e96ca"
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/arc_furnace_steel.json"
 hash = "6524f1ea956233e7cad208a3c007c54104eb9abdef258be19f699425fc041adb"
+
+[[files]]
+file = "kubejs/data/tfmg/recipe/vat_machine_recipe/concrete.json"
+hash = "2d319bd964592f8e2d843c192d3fc8668e5487e65d63bbbe8796ba6407f59504"
 
 [[files]]
 file = "kubejs/data/tfmg/recipe/vat_machine_recipe/rubber.json"
@@ -6236,7 +6324,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "c262f5f1cad0cf4dcd57bcd37d2dc0800966bf63d0f02a363d61ef0565cf3142"
+hash = "080b1361e6c2a7088240639d047b56172ba2f9e8bef2db367ce8cee53d607e17"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"

@@ -1,0 +1,49 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": { "tag": "c:plates/gold" },
+  "results": [
+    { "chance": 100.0, "id": "drivebysable:cable_io_bus" }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "drivebysable:incomplete_cable_io_bus" },
+        { "item": "create:sturdy_sheet" }
+      ],
+      "results": [
+        { "id": "drivebysable:incomplete_cable_io_bus" }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "drivebysable:incomplete_cable_io_bus" },
+        { "item": "drivebysable:cable" }
+      ],
+      "results": [
+        { "id": "drivebysable:incomplete_cable_io_bus" }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        { "item": "drivebysable:incomplete_cable_io_bus" },
+        { "item": "minecraft:redstone" }
+      ],
+      "results": [
+        { "id": "drivebysable:incomplete_cable_io_bus" }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        { "item": "drivebysable:incomplete_cable_io_bus" }
+      ],
+      "results": [
+        { "id": "drivebysable:incomplete_cable_io_bus" }
+      ]
+    }
+  ],
+  "transitional_item": { "id": "drivebysable:incomplete_cable_io_bus" }
+}

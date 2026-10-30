@@ -316,6 +316,8 @@ ServerEvents.tags('entity_type', event => {
         event.add('respawninganimals:persistent_animals', 'minecraft:bee')
         event.add('respawninganimals:persistent_animals', 'kobolds:kobold')
         event.add('respawninganimals:persistent_animals', 'nomansland:buddy')
+        event.add('respawninganimals:persistent_animals', 'nomansland:tortoise')
+        event.add('respawninganimals:persistent_animals', 'nomansland:living_pot')
         event.add('respawninganimals:persistent_animals', '@create')
         event.add('respawninganimals:persistent_animals', '@aeronautics')
         event.add('respawninganimals:persistent_animals', '@simulated')

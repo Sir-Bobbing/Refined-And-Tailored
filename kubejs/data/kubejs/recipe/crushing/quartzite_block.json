@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "nomansland:quartzite"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:quartz"
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:quartz"
+    }
+  ]
+}
