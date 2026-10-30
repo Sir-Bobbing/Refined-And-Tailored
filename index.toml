@@ -2583,6 +2583,10 @@ file = "kubejs/client_scripts/client_guideme.js"
 hash = "e88b7603c9f63183011a46e069cfd2a7647279f8d7065cb5ad9bba6685c04c37"
 
 [[files]]
+file = "kubejs/client_scripts/elytra_drag.js"
+hash = "a4c9b1e9b261e7ee3a8c4918081c8aeeb94d6d3c1164b5592842ff8a7d6794c4"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "074d0711e4acb8ad4f0421127c8df1e8eb73c060bf0417bb159fc05239dbdcb8"
 
@@ -2628,7 +2632,7 @@ hash = "7c6af25bd0b9a885e2ec974548df3a0c3e877081d2d6cfd976ae3da4f7174849"
 
 [[files]]
 file = "kubejs/data/aileron/enchantment/cloudskipper.json"
-hash = "53bdbe1fc888814176bf1ddde58a2923547afd24a98d24b54bbf945a123cd1d1"
+hash = "baab3a12b302e622b00290d22b87486f1e3b3acb8d17b9436dd9c16f470adab7"
 
 [[files]]
 file = "kubejs/data/aileron/enchantment/smokestack.json"
