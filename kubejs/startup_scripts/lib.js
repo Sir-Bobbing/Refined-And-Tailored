@@ -16,71 +16,97 @@ lib.funcs = {}
 lib.customOres = [
     {
         id: 'coal',
-        stone:'lignite',
+        stone:'tfmg:lignite',
         vein:true,
-        exp: [0,2]
+        exp: [0,2],
+        smelted: 'minecraft:coal',
+        crushed: 'minecraft:coal'
     },
     {
         id: 'copper',
-        stone:'veridium',
-        vein:true,
-        stoneTier:true,
-        exp: 0
-    },
-    {
-        id: 'iron',
-        stone:'crimsite',
-        vein:true,
-        stoneTier:true,
-        exp: 0
-    },
-    {
-        id: 'iron',
-        stone:'tuff',
+        stone:'create:veridium',
         vein:true,
         stoneTier:true,
         exp: 0,
-        texture:'spelunkery:block/tuff_iron_ore'
+        smelted: 'minecraft:copper_ingot',
+        crushed: 'create:crushed_raw_copper',
+        yield: 7
     },
     {
         id: 'iron',
-        stone:'dripstone',
+        stone:'create:crimsite',
+        vein:true,
         stoneTier:true,
-        exp: 0
+        exp: 0,
+        smelted: 'minecraft:iron_ingot',
+        crushed: 'create:crushed_raw_iron'
+    },
+    {
+        id: 'iron',
+        stone:'minecraft:tuff',
+        vein:true,
+        stoneTier:true,
+        exp: 0,
+        texture:'spelunkery:block/tuff_iron_ore',
+        smelted: 'minecraft:iron_ingot',
+        crushed: 'create:crushed_raw_iron',
+        yield: 2
+    },
+    {
+        id: 'iron',
+        stone:'minecraft:dripstone_block',
+        stoneTier:true,
+        exp: 0,
+        smelted: 'minecraft:iron_ingot',
+        crushed: 'create:crushed_raw_iron'
     },
     {
         id: 'gold',
-        stone:'ochrum',
+        stone:'create:ochrum',
         vein:true,
         ironTier:true,
-        exp: 0
+        exp: 0,
+        smelted: 'minecraft:gold_ingot',
+        crushed: 'create:crushed_raw_gold',
+        yield: 2,
+        brilliance: 2
     },
     {
         id: 'gold',
-        stone:'quartzite',
+        stone:'nomansland:quartzite',
         ironTier:true,
-        exp: 0
+        exp: 0,
+        smelted: 'minecraft:gold_ingot',
+        crushed: 'create:crushed_raw_gold',
+        brilliance: 2
     },
     {
         id: 'lapis',
-        stone:'calcite',
+        stone:'minecraft:calcite',
         vein:true,
         stoneTier:true,
-        exp: [2,5]
+        exp: [2,5],
+        smelted: 'minecraft:lapis_lazuli',
+        crushed: 'spelunkery:rough_lazurite',
+        yield: 4
     },
     {
         id: 'diamond',
-        stone:'smooth_basalt',
+        stone:'minecraft:smooth_basalt',
         vein:true,
         ironTier:true,
         exp: [3,7],
-        texture:'spelunkery:block/smooth_basalt_diamond_ore'
+        texture:'spelunkery:block/smooth_basalt_diamond_ore',
+        smelted: 'minecraft:diamond',
+        crushed: 'spelunkery:rough_diamond',
+        yield: 2
     }
 ]
 
 for (let ore of lib.customOres) {
     if (ore.stone) {
-        ore.name = ore.stone + '_' + ore.id + '_ore'
+        ore.stone_name = ore.stone.split(':')[1].replace('_block','')
+        ore.name = ore.stone_name + '_' + ore.id + '_ore'
     }
     else {
         ore.name = ore.id + '_ore'

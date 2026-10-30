@@ -6,8 +6,8 @@ ClientEvents.lang('en_us', event => {
 
     function getOreName(ore) {
         let str = ''
-        if (ore.stone) {
-            let stoneStrings = ore.stone.split('_')
+        if (ore.stone_name) {
+            let stoneStrings = ore.stone_name.split('_')
             for (let stone of stoneStrings) {
                 str += capitalizeFirstLetter(stone) + ' '
             }
