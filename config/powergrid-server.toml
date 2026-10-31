@@ -95,7 +95,7 @@ configVersion = 5
 		fieldSaturationCurrent = 2.0
 		#.
 		#Allow generator rotors to deal damage to entities
-		dangerousGenerators = false
+		dangerousGenerators = true
 
 		#.
 		#Fine tune the kinetic stats of individual components
