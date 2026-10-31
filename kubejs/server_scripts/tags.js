@@ -15,7 +15,9 @@ ServerEvents.tags('item', event => {
 // Iron Bullets
     event.add('scguns:empty_casing', 'kubejs:medium_iron_casing')
     event.add('scguns:rifle_ammo', 'kubejs:standard_iron_round')
+    event.add('scguns:rifle_ammo', 'kubejs:krahg_round')
     event.add('scguns:pistol_ammo', 'kubejs:compact_iron_round')
+    event.add('scguns:ammo',  'kubejs:krahg_round')
     event.add('scguns:ammo', 'kubejs:standard_iron_round')
     event.add('scguns:ammo', 'kubejs:compact_iron_round')
     event.add('c:hidden_from_recipe_viewers', 'kubejs:unfinished_iron_round')

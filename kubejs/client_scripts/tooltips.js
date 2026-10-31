@@ -1,5 +1,7 @@
 ItemEvents.modifyTooltips(event => {
 
+    event.add("kubejs:krahg_round", Text.gray('§oArmor Bypass: 4'))
+
     event.add("tfmg:asphalt", Text.gray('Increases movement speed.'))
 
     event.add('nomansland:warding_effigy', Text.gray('Prevents hostile mob spawns in a radius, stackable.'))

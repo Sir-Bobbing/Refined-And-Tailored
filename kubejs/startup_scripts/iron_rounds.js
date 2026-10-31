@@ -14,5 +14,8 @@ StartupEvents.registry('item', event => {
 
     event.create('unfinished_compact_iron_round')
         .displayName("Unfinished Compact Iron Round")
+
+    event.create('krahg_round')
+        .displayName("Krahg Round")
     
 })

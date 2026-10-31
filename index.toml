@@ -362,7 +362,7 @@ hash = "d1a27a2ae267e95c37080ccdf5f6a240196be04ba91b322f7285ac434b17ad93"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "e61c01ab8c2575317f89a22fd4193dc816dd45ab398b50578f1d82ee914e8273"
+hash = "d890eaae242f598a5ef08005d9e915da75d75029bd54f31262def9b6e7ce6c7e"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1573,6 +1573,10 @@ file = "kubejs/assets/kubejs/textures/item/guide.png.mcmeta"
 hash = "30d84eef95eb17f54d9ffe82e588b0ca69159b9775eef17dd1a1ae902e776dd5"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/krahg_round.png"
+hash = "38a8c69e7824f0c308b2a4e05b98ba4377fdebcb5bb2e243dbfb7f0938c12735"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/medium_iron_casing.png"
 hash = "d7ec863aec5636b68c2a96144f7874fe63004aa52f2c09708c163d0558985d22"
 
@@ -2604,7 +2608,7 @@ hash = "e7df02d5c28858a3ba50929fefbb28c1d5175af8a22c7d4451fefe240ee4e405"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "e6a0fd35c43991f9244c4f4104c37798c889781b08232609059a87f2e382e369"
+hash = "f55c4cfe1ec5dc3604807ace4bd8aa0a952fc9fe2950e245b34d3841798c5422"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -5187,6 +5191,14 @@ file = "kubejs/data/scguns/guns/greaser_smg.json"
 hash = "0cec4f7891c44370fec80ed7f363327b75f3638579c75ae0250ff6444b50218f"
 
 [[files]]
+file = "kubejs/data/scguns/guns/howler.json"
+hash = "e896af60aeac122166dbbfc808784d42fde82c8077a1e6b8933d317ba2423910"
+
+[[files]]
+file = "kubejs/data/scguns/guns/howler_conversion.json"
+hash = "b0f2505a36e937166aad30e071ee42a54d28adb68671e733b0c9a097a495da97"
+
+[[files]]
 file = "kubejs/data/scguns/guns/iron_javelin.json"
 hash = "5365673eab32b1f63e10d53cb8263094d4cf7c114cd65145dd5af2c4951c22f9"
 
@@ -5197,6 +5209,14 @@ hash = "387d0de66993f88f1f531f6656bd395719ab11bf48072f172e22ffc8308baaf6"
 [[files]]
 file = "kubejs/data/scguns/guns/sequoia.json"
 hash = "5639b844e19bd21be76a2fc8b2db214eb888d3d17621eb09049487b5208529ec"
+
+[[files]]
+file = "kubejs/data/scguns/guns/stiletto.json"
+hash = "df801d288482fb273464d2104685a4587070d47abb2bea2c7cf5ae0b6f8362d4"
+
+[[files]]
+file = "kubejs/data/scguns/guns/thunderhead.json"
+hash = "0d57893c750bd9317a6de17f435861ed203d445add0f22384c3645b43f1391e6"
 
 [[files]]
 file = "kubejs/data/scguns/guns/trenchur.json"
@@ -5345,6 +5365,10 @@ hash = "7a611891da2214b718724a2a10da31d00f3859bea76d5811f46bae081046a6f3"
 [[files]]
 file = "kubejs/data/scguns/recipe/create/scorched_blend_from_mixing.json"
 hash = "7a2261a6e85f96d8eb6c9cd61e0c7a3c19b0c3aa13b05dbdf57af1a43b859c59"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/create/sequenced_assembly/krahg_round.json"
+hash = "468a0614e4b21155962334c779722c3c5e70e504e1a574b72e3385bdbd75c668"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/create/sheol_from_mixing.json"
@@ -5547,6 +5571,10 @@ file = "kubejs/data/scguns/recipe/mech_press/empty_cell.json"
 hash = "12fd9755a2c18508384195341e4a99fe708c4ef11dea3ba03dfebbd005a8c334"
 
 [[files]]
+file = "kubejs/data/scguns/recipe/mech_press/krahg_round.json"
+hash = "8b976745b6f54fa55dfbe038bd6ae9f469c8dc768b84765d157e0da1bb55f5e8"
+
+[[files]]
 file = "kubejs/data/scguns/recipe/night_vision_module.json"
 hash = "d6dc0f7c0488b20560b5bc471372fbb360a16ea0658a2d0485390bae1210cb61"
 
@@ -5569,6 +5597,10 @@ hash = "6969bb872cfeb7f660bf3fd7529a29c83e6a77ae076bf914352e27977bdc30f2"
 [[files]]
 file = "kubejs/data/scguns/recipe/powered_mech_press/powered_empty_cell.json"
 hash = "f90977072774bd65e205707a7ce20b4af6da53ffa96cca08071f974c04b28284"
+
+[[files]]
+file = "kubejs/data/scguns/recipe/powered_mech_press/powered_krahg_round.json"
+hash = "13150fc92fce84c2eefba266ff01e8ceda5b84054d0bcc7a4f1ac66d9cfa3486"
 
 [[files]]
 file = "kubejs/data/scguns/recipe/rabbit_module.json"
@@ -6332,7 +6364,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "080b1361e6c2a7088240639d047b56172ba2f9e8bef2db367ce8cee53d607e17"
+hash = "2522897936d4bd8eb17615e009261a9f23cd43bfe2838e5b5357c18b8729d537"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
@@ -6360,7 +6392,7 @@ hash = "84a90579ac752a7d624f40ce46814e3932108457501bfedc787e02ce346f2322"
 
 [[files]]
 file = "kubejs/startup_scripts/iron_rounds.js"
-hash = "a1556cee4b662739a1ab307435b7c1b8246e6999a67e0165402a7d3b32b062c0"
+hash = "f26a0d5110c883edcb6a60ea2694a968ff043909c8153f2c37731ce5b4246659"
 
 [[files]]
 file = "kubejs/startup_scripts/item_modification.js"
