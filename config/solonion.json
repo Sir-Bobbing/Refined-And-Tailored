@@ -1,7 +1,8 @@
 {
   "foodItems": {
     "entries": [
-      "{id:\"item\",item:\"malum:refined_brilliance\"}"
+      "{id:\"item\",item:\"malum:refined_brilliance\"}",
+      "{id:\"item\",item:\"supplementaries:lunch_basket\"}"
     ],
     "isWhitelist": false
   },
