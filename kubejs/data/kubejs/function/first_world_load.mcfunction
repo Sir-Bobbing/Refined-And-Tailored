@@ -5,7 +5,7 @@ gamerule playersSleepingPercentage 25
 gamerule doImmediateRespawn true
 gamerule doInsomnia false
 
-gamerule persistentAnimals true
+gamerule persistentAnimals false
 gamerule animalMobCap 15
 
 execute store result storage kubejs:first_world_load daylight_cycle byte 1 run gamerule doDaylightCycle
