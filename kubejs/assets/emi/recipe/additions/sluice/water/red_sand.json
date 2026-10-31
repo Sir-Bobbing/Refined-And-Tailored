@@ -1,7 +1,7 @@
 {
   "type": "emi:world_interaction",
   "left": [
-    "item:minecraft:sand",
+    "item:minecraft:red_sand",
     "fluid:minecraft:water"
   ],
   "right": "item:spelunkery:sluice_grate",
