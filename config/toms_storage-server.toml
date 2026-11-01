@@ -38,7 +38,7 @@ invLinkBeaconLvl = 0
 #Value of 0 disables this feature entirely
 # Default: 4096
 # Range: > 0
-invLinkBeaconRange = 4096
+invLinkBeaconRange = 256
 #Inventory Cable Connector requied beacon level for same dimension access with unlimited range
 #Value of 0 only requires a single beacon block
 #Value of -1 disables this feature entirely
