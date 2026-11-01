@@ -394,7 +394,7 @@ hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
 
 [[files]]
 file = "config/solonion.json"
-hash = "f2c6c991bfe4e717069e01795ee44b94b9622d29bc8483a25aa39f7b45ddf498"
+hash = "141f7b138cb878a42c23769f4350a1c526d46c4c60d3f265f65d0f980e843916"
 
 [[files]]
 file = "config/spelunkery-common.toml"
@@ -430,7 +430,7 @@ hash = "5610ea77aeb3c4e7cfd5261cde9b42950e8d9751d64eb12850735a26cb3f61e9"
 
 [[files]]
 file = "config/toms_storage-server.toml"
-hash = "3906891bc3b1625282a7c697e0445ccad27c803e7065611e2356301966dc7a59"
+hash = "53a5ddf54c79613509dc4db4c056bff9902850ac097c72fb0c6117b4d5fa372c"
 
 [[files]]
 file = "config/tradingpost-server.toml"
@@ -1226,7 +1226,7 @@ hash = "f696e33276dde7c559002dbbc30e565adff0caf9e7f2a1ce5be020d53a97e435"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/water/red_sand.json"
-hash = "bb7368e11fc50e0033a04cdb58b4bb5d3696dbb0babd69dbae4cff4f3d96cda3"
+hash = "9c5ad95b07dd03d31fc575c984a2f0fe64a3086199ba896b5a8cbf24e3685bbf"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/additions/sluice/water/rooted_dirt.json"
