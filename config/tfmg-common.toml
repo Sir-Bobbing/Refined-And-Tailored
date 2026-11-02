@@ -37,7 +37,7 @@
 		#Determines the amount of fuel a firebox needs to run for 3 seconds.
 		# Default: 100
 		# Range: > 1
-		fireboxFuelConsumption = 100
+		fireboxFuelConsumption = 4
 
 	#.
 	#Engines

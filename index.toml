@@ -426,7 +426,7 @@ hash = "6df130fe21550eef513805d6a33dd0241a800c3a6be171c31b2ec98cca9d84cc"
 
 [[files]]
 file = "config/tfmg-common.toml"
-hash = "6080923ad9a33096aa738594361176501633b50176a90023417955f4acaade57"
+hash = "dc85675def0f9997fe07358715f50ca8efb8a797e59f7870b3261045919c58b4"
 
 [[files]]
 file = "config/toms_storage-server.toml"
