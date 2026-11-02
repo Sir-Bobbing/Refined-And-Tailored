@@ -32,7 +32,7 @@
 	[machines.firebox]
 		#.
 		#If set to true, fireboxes will require exhaust management.
-		fireboxExhaustRequirement = true
+		fireboxExhaustRequirement = false
 		#.
 		#Determines the amount of fuel a firebox needs to run for 3 seconds.
 		# Default: 100
@@ -195,7 +195,7 @@
 			depositMaxReserves = 10000
 			#.
 			#Makes oil reservoirs bottomless.
-			infiniteDeposits = false
+			infiniteDeposits = true
 
 #.
 #Config options for TFMG's equipment
