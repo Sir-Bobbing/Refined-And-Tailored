@@ -81,7 +81,7 @@ function registerVatLow( event, metalInfo ) {
             "tfmg:steel",
             "tfmg:fireproof"
         ],
-        "heat_requirement": "heated",
+        "heat_level": 2,
         "machines": [
             "tfmg:electrode",
             "tfmg:electrode",
@@ -119,7 +119,7 @@ function registerVatHigh( event, metalInfo ) {
         "allowed_vat_types": [
             "tfmg:fireproof"
         ],
-        "heat_requirement": "superheated",
+        "heat_level": 4,
         "machines": [
             "tfmg:graphite_electrode",
             "tfmg:graphite_electrode",
@@ -154,7 +154,7 @@ function registerSlurry(event, metalInfo) {
             "tfmg:steel",
             "tfmg:fireproof"
         ],
-        "heat_requirement": "heated",
+        "heat_level": 2,
         "machines": [
             "tfmg:mixing"
         ],
