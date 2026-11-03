@@ -394,7 +394,7 @@ hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
 
 [[files]]
 file = "config/solonion.json"
-hash = "141f7b138cb878a42c23769f4350a1c526d46c4c60d3f265f65d0f980e843916"
+hash = "fd9c5a2d68bde2996407a7e193f267001c976e07b404959b4ee2380515d14fc2"
 
 [[files]]
 file = "config/spelunkery-common.toml"
