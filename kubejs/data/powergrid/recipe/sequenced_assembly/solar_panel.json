@@ -1,8 +1,9 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "minecraft:glass_pane"
+    "item": "powergrid:zinc_sheet"
   },
+  "loops": 4,
   "results": [
     {
       "chance": 100.0,
@@ -17,7 +18,7 @@
           "item": "powergrid:incomplete_solar_panel"
         },
         {
-          "item": "minecraft:slime_ball"
+          "item": "minecraft:quartz"
         }
       ],
       "results": [
@@ -32,9 +33,11 @@
         {
           "item": "powergrid:incomplete_solar_panel"
         },
-        {
-          "item": "create:polished_rose_quartz"
-        }
+        [
+          {
+            "item": "minecraft:lapis_lazuli"
+          }
+        ]
       ],
       "results": [
         {
@@ -62,36 +65,7 @@
           "item": "powergrid:incomplete_solar_panel"
         },
         {
-          "tag": "c:ingots/zinc"
-        }
-      ],
-      "results": [
-        {
-          "id": "powergrid:incomplete_solar_panel"
-        }
-      ]
-    },
-    {
-      "type": "create:pressing",
-      "ingredients": [
-        {
-          "item": "powergrid:incomplete_solar_panel"
-        }
-      ],
-      "results": [
-        {
-          "id": "powergrid:incomplete_solar_panel"
-        }
-      ]
-    },
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "powergrid:incomplete_solar_panel"
-        },
-        {
-          "tag": "c:plates/zinc"
+          "item": "minecraft:glass_pane"
         }
       ],
       "results": [
