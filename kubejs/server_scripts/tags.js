@@ -110,6 +110,14 @@ ServerEvents.tags('item', event => {
         event.add('minecraft:coral_blocks', item)
     })
 
+// Farmer's Delight Tools
+    event.add('c:tools/knife', 'tfmg:aluminum_sword')
+    event.add('sliceanddice:allowed_tools', 'tfmg:aluminum_sword')
+    event.add('sliceanddice:allowed_tools', 'minecraft:shears')
+    event.add('sliceanddice:allowed_tools', '#minecraft:pickaxes')
+    event.add('sliceanddice:allowed_tools', '#minecraft:shovels')
+    event.add('sliceanddice:allowed_tools', '#minecraft:hoes')
+
 // Steel Tools
     event.add('kubejs:steel_tools', 'tfmg:steel_sword')
     event.add('kubejs:steel_tools', 'tfmg:steel_pickaxe')
