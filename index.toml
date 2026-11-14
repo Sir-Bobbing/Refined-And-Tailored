@@ -362,7 +362,7 @@ hash = "d1a27a2ae267e95c37080ccdf5f6a240196be04ba91b322f7285ac434b17ad93"
 
 [[files]]
 file = "config/reliable_remover/rules.json"
-hash = "d890eaae242f598a5ef08005d9e915da75d75029bd54f31262def9b6e7ce6c7e"
+hash = "cddafa642764c964696c852ef7878f9abac8fb325fb055649c17ef210b86cab0"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -3840,7 +3840,7 @@ hash = "9fb4d2a430a2fe2ce39b16e281792963527b9df5b1a4db4a6e598d907b764712"
 
 [[files]]
 file = "kubejs/data/kubejs/function/first_world_load.mcfunction"
-hash = "85a76a54a478d9ce6d929d9449ecfe4bb97e551968d4d6e42861edeebef87efd"
+hash = "8f76caf509a5b9163ccb02bd43fbe20e311f5a92f834316c92d530b0b58f1c65"
 
 [[files]]
 file = "kubejs/data/kubejs/function/load.mcfunction"
@@ -5107,6 +5107,10 @@ file = "kubejs/data/powergrid/recipe/crafting/resistive_coil.json"
 hash = "b045d848776c908f01171e7acf5962f1f085619cbc845a1760946bfdce0d62ac"
 
 [[files]]
+file = "kubejs/data/powergrid/recipe/crafting/solar_panel_bearing.json"
+hash = "6faf7a406d14fb34c855cf6091614046ed992dda810bc439c2df16bb8c9aa859"
+
+[[files]]
 file = "kubejs/data/powergrid/recipe/crafting/wire_connector.json"
 hash = "cde6372b9a8158445bcad6820a5d2158fcb169815a48b3d38c176c0dfe42afca"
 
@@ -5168,7 +5172,7 @@ hash = "e26438152741b65f66afab1f7235c6127bea826e8c48459ae67d127dbca037ad"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/sequenced_assembly/solar_panel.json"
-hash = "76011b618865251c34977cbc190cd428dfdac692b336dbe7d0c75316f5f00d8b"
+hash = "c52e7773bd7d9298a44a70c17ebcd66604f4fbb8e2b8749c36dfbfa6ef089e8f"
 
 [[files]]
 file = "kubejs/data/powergrid/recipe/sequenced_assembly/transformer_core.json"
@@ -6364,7 +6368,7 @@ hash = "5096b2c0dadfb9851dbed06bf87058cdcf3044109c6390e1b26965f7d561aa69"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "2522897936d4bd8eb17615e009261a9f23cd43bfe2838e5b5357c18b8729d537"
+hash = "143ebf306af7d6c4ca96114a9ea13ed19c394e79166bcdc136ce335362eb784f"
 
 [[files]]
 file = "kubejs/server_scripts/zombie_modification.js"
