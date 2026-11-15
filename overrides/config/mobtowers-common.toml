@@ -1,0 +1,21 @@
+#§l§nON by default§r
+#
+#ON: You can enter a bed at any time for healing, but the night cannot be skipped.
+#
+#OFF: Default Minecraft bed behavior.
+#
+#
+#§7§o(§lPlease reload your world for full effect.)
+applybedchanges = true
+#§l§nON by default§r
+#
+#ON: The Spire Heart spawns phantoms around it when it's active.
+#
+#OFF: The Spire Heart does not spawn phantoms.
+spirespawnsphantoms = true
+#§l§nOFF by default§r
+#
+#OFF: When you disable a Spire Heart, the phantoms around it will continue to live, but they will not keep spawning.
+#
+#ON: When you disable a Spire Heart, the phantoms around it will take damage until they die.
+phantomsdiewithoutheart = false

@@ -7,6 +7,9 @@
 		[types.lantern.scguns]
 			plasma_lantern = true
 
+		[types.lantern.supplementaries]
+			redstone_lantern = true
+
 		[types.wood_type.architects_palette]
 			twisted = true
 

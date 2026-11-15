@@ -1,6 +1,10 @@
 # Breaking New Ground
 
+<<<<<<< Updated upstream
 **Minecraft 1.21.1 · NeoForge 21.1.266**, 0 mods
+=======
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 189 mods (2 dependencies)
+>>>>>>> Stashed changes
 
 ## Contents
 
