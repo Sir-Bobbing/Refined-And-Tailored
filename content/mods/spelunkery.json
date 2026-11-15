@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "krskFMfA",
       "slug": "spelunkery",
-      "versionId": "rFDQXIT4",
-      "versionNumber": "1.21.1-0.4.4",
-      "filename": "spelunkery-1.21.1-0.4.4-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/krskFMfA/versions/rFDQXIT4/spelunkery-1.21.1-0.4.4-neoforge.jar",
-      "sha1": "be89b95ee7926351517f9bf56122452a2a9a94a9",
-      "sha512": "459c3219e514b41cf65e512df2f3f0383053c8daeae0870a8692a314870924e298c0f520d93340877843d7f521e6686e2190302179582be38956eb18516d6d1b",
-      "fileSize": 2081417
+      "versionId": "A9ac6DN7",
+      "versionNumber": "1.21.1-0.4.5",
+      "filename": "spelunkery-1.21.1-0.4.5-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/krskFMfA/versions/A9ac6DN7/spelunkery-1.21.1-0.4.5-neoforge.jar",
+      "sha1": "39e6caf792e1311c93d0db1da528247d0a1d9c29",
+      "sha512": "fa5c0d8a537bb5c44e49a789f0106ae5c4929aeda08b94066568248d239fb4f5d594457d04073ea3c7a60b0562db008d548ca40518dc233415826009ab6f45bb",
+      "fileSize": 2080979
     }
   },
   "dependents": [],

@@ -16,7 +16,9 @@
       "fileSize": 30517
     }
   },
-  "dependents": [],
+  "dependents": [
+    "580689"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }

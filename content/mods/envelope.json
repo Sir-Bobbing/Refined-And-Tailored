@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "bINSbhYK",
       "slug": "envelope",
-      "versionId": "E5ItQJuD",
-      "versionNumber": "0.8.1",
-      "filename": "envelope-neoforge-1.21.1-0.8.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/bINSbhYK/versions/E5ItQJuD/envelope-neoforge-1.21.1-0.8.1.jar",
-      "sha1": "f2f9510cbc6666b978ecd08dbfae77f5dd974956",
-      "sha512": "a3e6dd05e40dbf2e5e00b3bc9a43bfee9305e35de04396c8f2494f2d93ead785be18c4f81382c1fd84b16205b5dd0167cb9413ed00f7c7a45abfed2bfe185fd2",
-      "fileSize": 2541943
+      "versionId": "6mpcJy5P",
+      "versionNumber": "0.8.2",
+      "filename": "envelope-neoforge-1.21.1-0.8.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bINSbhYK/versions/6mpcJy5P/envelope-neoforge-1.21.1-0.8.2.jar",
+      "sha1": "46ab43001206f6f1f99f5aa29e1300fbaafb6a28",
+      "sha512": "97dd1f16299d3a4f339c2b86f4fe37550c8dbf201c3ec42e6cbf8d3d6ddbfcb35d9c25f13e0a9865cad67b035b6aa466389b132e3ac020018c2d062d7f2bc710",
+      "fileSize": 2542119
     }
   },
   "dependents": [],

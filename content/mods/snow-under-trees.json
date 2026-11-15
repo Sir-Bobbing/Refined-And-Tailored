@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Q3vyMuj2",
       "slug": "snow-under-trees",
-      "versionId": "MWz6mhd4",
-      "versionNumber": "v1.5.1",
-      "filename": "snowundertrees-1.21.1-1.5.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Q3vyMuj2/versions/MWz6mhd4/snowundertrees-1.21.1-1.5.1.jar",
-      "sha1": "5b6a85a2a833c6c6a5337e3fb720dba1a4d073aa",
-      "sha512": "74d00d1671bf15e6f470a032f01b32eb70436860cb1fad4fe94e972b9824d59fe1a445ecf8c0e07d2ff0f2a8596eae46b912b98e8dc51ffcbff55ad119472289",
-      "fileSize": 30512
+      "versionId": "OYaUDns6",
+      "versionNumber": "v1.7",
+      "filename": "snowundertrees-1.21.1-1.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Q3vyMuj2/versions/OYaUDns6/snowundertrees-1.21.1-1.7.jar",
+      "sha1": "6efae152672029a2347943e7d38850b07aa0e27e",
+      "sha512": "1dfa76b08955af43652732360670b08fb2cb363ab9ac2531d81df16fc86f59f835ef8259fa61bbe86744a7729df6eeea7cb0328da268200f0e2d2ac8b23711d9",
+      "fileSize": 33281
     }
   },
   "dependents": [],

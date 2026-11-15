@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Gi02250Z",
       "slug": "almanac",
-      "versionId": "cHGan9fQ",
-      "versionNumber": "1.5.2",
-      "filename": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Gi02250Z/versions/cHGan9fQ/Almanac-1.21.1-2-neoforge-1.5.2.jar",
-      "sha1": "d613dbc38ca5bcc718408db432385c2e67ac763f",
-      "sha512": "b8c87ce784d1afee68cf8943dd64be899d9a25d111aeec1d72f1c80431cacaf71c1b4d6eb16bdaaaa36bdfd3cd4df653e8575cb567f5cdbecdefc581ad187177",
-      "fileSize": 25593
+      "versionId": "hvOxynOa",
+      "versionNumber": "1.26.11.1",
+      "filename": "almanac-neoforge-1.21.1-1.26.11.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Gi02250Z/versions/hvOxynOa/almanac-neoforge-1.21.1-1.26.11.1.jar",
+      "sha1": "b5c46d36aebc046f8f57ffef430dfe3aeb805320",
+      "sha512": "f7928461882dfa3ebc1d75021b44d75fd9327e2bbc92863a9638907c0d58acdab2413cd6246a31f2e590dfb8731e5f5b326f5083983d01b894c4df439d27141c",
+      "fileSize": 430991
     }
   },
   "dependents": [

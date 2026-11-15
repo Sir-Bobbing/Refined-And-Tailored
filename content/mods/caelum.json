@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Xkw3TXqP",
       "slug": "caelum",
-      "versionId": "n6LJlQL2",
-      "versionNumber": "3.0.0.6",
-      "filename": "caelum-3.0.0.6+1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Xkw3TXqP/versions/n6LJlQL2/caelum-3.0.0.6%2B1.21.1.jar",
-      "sha1": "184859f34053dc1ff59b57549b443aac007555d9",
-      "sha512": "1ed3e209ad3c1c8c1aedbbcd42e0f9e384c8378ad6d3dbef588411cf2204d9a9e4de3b9b750fce7f6373547d8d8c49da8e16a0b8a39f71b5662a59992529fbe1",
-      "fileSize": 374778
+      "versionId": "v7m56Suu",
+      "versionNumber": "3.0.0.7",
+      "filename": "caelum-3.0.0.7+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Xkw3TXqP/versions/v7m56Suu/caelum-3.0.0.7%2B1.21.1.jar",
+      "sha1": "97a0cabe528ed1df3a704a1e5a023387454b23ff",
+      "sha512": "b96667dee3ae9a6a047424e6c020834148ba315672f0387a8f97e0103dd3bcf24d8c79e95630e7b7bdaa2708879daf22fc3d4076bcfd728f1f5643135f42776e",
+      "fileSize": 381393
     }
   },
   "dependents": [],

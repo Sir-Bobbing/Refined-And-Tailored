@@ -8,12 +8,12 @@
     "curseforge": {
       "id": "1306367",
       "slug": "kubejs-tweaks",
-      "versionId": "7516288",
-      "versionNumber": "kubejstweaks-1.0.6.jar",
-      "filename": "kubejstweaks-1.0.6.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/7516/288/kubejstweaks-1.0.6.jar",
-      "sha1": "6548ec47aa6b0498c3018cde40d9d0a203b67446",
-      "fileSize": 421764
+      "versionId": "9360127",
+      "versionNumber": "kubejstweaks-1.0.7.jar",
+      "filename": "kubejstweaks-1.0.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9360/127/kubejstweaks-1.0.7.jar",
+      "sha1": "c5d664b4c1e109c1e1c8c3a74c950acba14c059f",
+      "fileSize": 421343
     }
   },
   "dependents": [],

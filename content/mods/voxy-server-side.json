@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "84zcagOb",
       "slug": "voxy-server-side",
-      "versionId": "pjhowbMS",
-      "versionNumber": "0.20.0",
+      "versionId": "mxk1NUqF",
+      "versionNumber": "0.21.0",
       "filename": "voxy-server-side-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/84zcagOb/versions/pjhowbMS/voxy-server-side-neoforge.jar",
-      "sha1": "6e948d39f8b0d61f1ed2703f8c8555d2095fcdd0",
-      "sha512": "4bf5afb5e51d309b245eaccb01de7d45014631fd0639772096488d9df261e3f5108c9bba29fd0cf58b0a00896d777d8b185a92648d1bad8bdbd1c11c169c02a0",
-      "fileSize": 14546742
+      "downloadUrl": "https://cdn.modrinth.com/data/84zcagOb/versions/mxk1NUqF/voxy-server-side-neoforge.jar",
+      "sha1": "efc29eb35fe8e1a2a1d91976bd4acc1c57a6ca31",
+      "sha512": "610de4654bbe86bbc47fec92901454dc3251aa3176ce0bee6528ba14d12db765ba3b81480868b409885e252447e5aede4636febee194935a5068d1f8785cc81a",
+      "fileSize": 14593706
     }
   },
   "dependents": [],

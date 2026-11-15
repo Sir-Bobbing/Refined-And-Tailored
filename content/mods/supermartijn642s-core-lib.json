@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "rOUBggPv",
       "slug": "supermartijn642s-core-lib",
-      "versionId": "OG6Edgmm",
-      "versionNumber": "1.1.25-neoforge-mc1.21",
-      "filename": "supermartijn642corelib-1.1.25-neoforge-mc1.21.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/rOUBggPv/versions/OG6Edgmm/supermartijn642corelib-1.1.25-neoforge-mc1.21.jar",
-      "sha1": "60d45feac8cd2f0b497b013c7fd501b3ae8b6f6d",
-      "sha512": "c9c4f22ed1657da646331f519e5d40495cc7e92a6683800691823dfcaf858973c8f202285322c095ebeca245c6a512aa8edf83a97c8a65be0080f9b176f5c2e2",
-      "fileSize": 562683
+      "versionId": "sLRKmslC",
+      "versionNumber": "1.1.26a-neoforge-mc1.21",
+      "filename": "supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rOUBggPv/versions/sLRKmslC/supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+      "sha1": "519506ced4c9126e1fbb2c7999636eec7d417e39",
+      "sha512": "e90a1f1a2a4b1b095b6692e82b3f1bbf3aafa5653fa80759ac4243385ac1d10605b8713107847a9d0f5e8e4da161009aa3380ae20ca8f70784abfaa85e868492",
+      "fileSize": 593442
     }
   },
   "dependents": [

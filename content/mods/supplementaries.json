@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "fFEIiSDQ",
       "slug": "supplementaries",
-      "versionId": "rWq0ko29",
-      "versionNumber": "1.21.1-4.0.2",
-      "filename": "supplementaries-1.21.1-4.0.2-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/rWq0ko29/supplementaries-1.21.1-4.0.2-neoforge.jar",
-      "sha1": "af25cb08a82c72b3fb67508071ce627714bd2b57",
-      "sha512": "092034ac007c327c9dd58c68ae585df59fa523a5ca40da88b34ad8f1c6347523d302e490acc1650eae6837f46979442ea8a8c151802074de2da99c396ec28894",
-      "fileSize": 13840377
+      "versionId": "ry2Njtnv",
+      "versionNumber": "1.21.1-4.1.1",
+      "filename": "supplementaries-1.21.1-4.1.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/ry2Njtnv/supplementaries-1.21.1-4.1.1-neoforge.jar",
+      "sha1": "b1e0c795341f98ce4980ef2d606f3b9f9ef38021",
+      "sha512": "4acaddb2c7ff2cd93819fade6553b233f50ad084f8dbf1e8ad492eebc79cf1a4b477c46c775cf7fb7d93881d562d29f4e0de58701713a77cac03b72b31a04060",
+      "fileSize": 13958834
     }
   },
   "dependents": [],

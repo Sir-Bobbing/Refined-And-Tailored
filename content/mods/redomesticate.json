@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "4QTKALKe",
       "slug": "redomesticate",
-      "versionId": "uoJoscHM",
-      "versionNumber": "1.11.2-1.21.1-neoforge",
-      "filename": "redomesticate-neoforge-1.21.1-1.11.2.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/4QTKALKe/versions/uoJoscHM/redomesticate-neoforge-1.21.1-1.11.2.jar",
-      "sha1": "90ffcc3390f740efea242c3b16e2d3e8f4cbccf9",
-      "sha512": "cc5a9042a740186655e82756a58ae664110b9f9bd1e6b9c09864246d60cdc98e27c995dd9f3e9e12617f7cffded3b3cfce986458b8911a55ee6d12a86a4214da",
-      "fileSize": 1039042
+      "versionId": "udDTf6ev",
+      "versionNumber": "2.1.0+1.21.1-neoforge",
+      "filename": "redomesticate-2.1.0+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4QTKALKe/versions/udDTf6ev/redomesticate-2.1.0%2B1.21.1-neoforge.jar",
+      "sha1": "6ead96bfce11f784e387be4a9f797dd60d91ca2b",
+      "sha512": "de4209b081c9e94fa022f986041ee118f15c8287b37026cbbe2645f4b5639bf9e3f1fcc7f31117ec97e52b84afc5600dffae0110260d53dfbabe67c61a64fb12",
+      "fileSize": 1037012
     }
   },
   "dependents": [],
