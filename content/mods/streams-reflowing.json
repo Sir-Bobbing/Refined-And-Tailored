@@ -1,0 +1,23 @@
+{
+  "name": "Streams Reflowing",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "oLS8HdJ1",
+      "slug": "streams-reflowing",
+      "versionId": "vbJ5meb8",
+      "versionNumber": "2.15.2",
+      "filename": "StreamsReflowing-1.21.1-neoforge-2.15.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/oLS8HdJ1/versions/vbJ5meb8/StreamsReflowing-1.21.1-neoforge-2.15.2.jar",
+      "sha1": "4e1c4e542b589fd0d1212005dbbfa1af60201df4",
+      "sha512": "ffcab786e1d634d4a2d19fef3f7b819fd51868da7d2807f8af2efa35c8b55d543a285ab2c57f2e8fc60c3102eeac13aea410ed85220f27a3261e9b73c71a5af3",
+      "fileSize": 3035995
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

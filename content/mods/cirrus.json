@@ -1,0 +1,23 @@
+{
+  "name": "Cirrus",
+  "side": "client",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SJDzFJH7",
+      "slug": "cirrus",
+      "versionId": "gQSzD7br",
+      "versionNumber": "1.4.1",
+      "filename": "cirrus-neoforge-1.21.1-1.4.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SJDzFJH7/versions/gQSzD7br/cirrus-neoforge-1.21.1-1.4.1.jar",
+      "sha1": "b34bb9e8698306778f927341ccc57f3101b13145",
+      "sha512": "85b8796a77e624ac443324df876605d60c577b5c255736c030eeac8a885248b4e026c69b5779212332a2c6373f4a998d8b5c760be98ceec91051b3df2a095360",
+      "fileSize": 6472459
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

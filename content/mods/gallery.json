@@ -1,0 +1,23 @@
+{
+  "name": "Gallery",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EOA6vv83",
+      "slug": "gallery",
+      "versionId": "HzOpAks9",
+      "versionNumber": "2.0.1",
+      "filename": "gallery-1.21.1-2.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EOA6vv83/versions/HzOpAks9/gallery-1.21.1-2.0.1.jar",
+      "sha1": "e5facb54dccd46c75c938a599f2f9da1ef39f19e",
+      "sha512": "a7a4c8943cb936db53bd385a6aade02b9bc023cf405aac1aab8a829f0019680c3a359de35ba9d9e5b28cd2466e7010caea58823b43262a95eb684686e0aa7b92",
+      "fileSize": 391516
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

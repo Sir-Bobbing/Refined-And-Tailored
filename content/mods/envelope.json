@@ -1,0 +1,23 @@
+{
+  "name": "Envelope",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bINSbhYK",
+      "slug": "envelope",
+      "versionId": "E5ItQJuD",
+      "versionNumber": "0.8.1",
+      "filename": "envelope-neoforge-1.21.1-0.8.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bINSbhYK/versions/E5ItQJuD/envelope-neoforge-1.21.1-0.8.1.jar",
+      "sha1": "f2f9510cbc6666b978ecd08dbfae77f5dd974956",
+      "sha512": "a3e6dd05e40dbf2e5e00b3bc9a43bfee9305e35de04396c8f2494f2d93ead785be18c4f81382c1fd84b16205b5dd0167cb9413ed00f7c7a45abfed2bfe185fd2",
+      "fileSize": 2541943
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

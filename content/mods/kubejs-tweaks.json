@@ -1,0 +1,22 @@
+{
+  "name": "KubeJS Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1306367",
+      "slug": "kubejs-tweaks",
+      "versionId": "7516288",
+      "versionNumber": "kubejstweaks-1.0.6.jar",
+      "filename": "kubejstweaks-1.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7516/288/kubejstweaks-1.0.6.jar",
+      "sha1": "6548ec47aa6b0498c3018cde40d9d0a203b67446",
+      "fileSize": 421764
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

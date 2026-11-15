@@ -1,0 +1,23 @@
+{
+  "name": "Storage Labels",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "x6r7yhfi",
+      "slug": "labels",
+      "versionId": "oQH8Om8c",
+      "versionNumber": "1.21-2.1.1",
+      "filename": "labels-neoforge-1.21-2.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/x6r7yhfi/versions/oQH8Om8c/labels-neoforge-1.21-2.1.1.jar",
+      "sha1": "ba6c64f874d8ca02dbdf977e002880946ab8fe8a",
+      "sha512": "d1418dad839434e94e7180c7db397af3a2ed68466624ce1cd41e8760a30ed6b71d0227570725ac5dacdd68e104c0ff5643e1aeccd229641c85fa735a97677e3a",
+      "fileSize": 108511
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

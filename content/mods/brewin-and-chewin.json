@@ -1,0 +1,23 @@
+{
+  "name": "Brewin' And Chewin'",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hIu9KJTT",
+      "slug": "brewin-and-chewin",
+      "versionId": "MbcR48Ou",
+      "versionNumber": "4.5.0+1.21.1-neoforge",
+      "filename": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hIu9KJTT/versions/MbcR48Ou/BrewinAndChewin-neoforge-4.5.0%2B1.21.1.jar",
+      "sha1": "bc86c776779b16dec386f4b667ff46d9e2ecb88d",
+      "sha512": "2d4d264564d12784f5425177fb1b88b5ec0d1672c0957d6a78eb1e12ffa5e0e31a7f85f8beb9c02df0489043f5d2ae5889fc3f589e8e5f8ee7971a458ba0f34d",
+      "fileSize": 1575450
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

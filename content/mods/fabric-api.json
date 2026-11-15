@@ -1,0 +1,29 @@
+{
+  "name": "Fabric API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "P7dR8mSH",
+      "slug": "fabric-api",
+      "versionId": "4AkOEqGy",
+      "versionNumber": "0.115.6+1.21.1",
+      "filename": "fabric-api-0.115.6+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar",
+      "sha1": "1148b398767708be366ddc9988a357831cc456bb",
+      "sha512": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
+      "fileSize": 2406680
+    }
+  },
+  "dependents": [
+    "4KjqhPc9",
+    "NOxfLnRC",
+    "Y5Ve4Ui4",
+    "qgWgCnzi",
+    "yBW8D80W"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Common Network",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HIuqnQpi",
+      "slug": "common-network",
+      "versionId": "pR7AeZk3",
+      "versionNumber": "1.0.21-1.21.1",
+      "filename": "common-networking-neoforge-1.0.21-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HIuqnQpi/versions/pR7AeZk3/common-networking-neoforge-1.0.21-1.21.1.jar",
+      "sha1": "f55722a4278997e7ef278f4390a31e848f7beea7",
+      "sha512": "2797cb78554fb413276d700c1021c2c0b93c30a7cbd2c47fd6f88578a99788c37f1a5241165fafc61e114377ec328f9155db77fc8975c9c66416ff7081980f31",
+      "fileSize": 26017
+    }
+  },
+  "dependents": [
+    "LmQ1A760"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

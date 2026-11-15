@@ -1,0 +1,23 @@
+{
+  "name": "Glow",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Y8eR2217",
+      "slug": "glows",
+      "versionId": "e3kmZxi7",
+      "versionNumber": "1.3.2",
+      "filename": "glow-1.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Y8eR2217/versions/e3kmZxi7/glow-1.3.2.jar",
+      "sha1": "e03adde2d176c96b964756a404ac7022424d95b1",
+      "sha512": "d422e119a5df8e3b4652d1e50c523c21f1f0daab6c067aa114c8dca35e14599448a00ca7af19aa95285c1421161521dbef1dd56035a2398adef345b22d5c16ff",
+      "fileSize": 36493
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

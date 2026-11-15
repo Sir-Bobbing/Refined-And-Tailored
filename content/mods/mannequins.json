@@ -1,0 +1,23 @@
+{
+  "name": "Mannequins",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wfGzjtBG",
+      "slug": "mannequins",
+      "versionId": "BTD20asX",
+      "versionNumber": "3.0.0-rc.1",
+      "filename": "mannequins-3.0.0-rc.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wfGzjtBG/versions/BTD20asX/mannequins-3.0.0-rc.1.jar",
+      "sha1": "1f3194f376ae08ab2f3114637c8c87d70c2a0f90",
+      "sha512": "1b844a327605f26a4b87b8b5608c09620354b5d1a8c39573477e374f78f1ee4a27b11be605cf5a2f8d3339a715f2b373afcbba3f725bcf189b8e384f506f16e6",
+      "fileSize": 165919
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

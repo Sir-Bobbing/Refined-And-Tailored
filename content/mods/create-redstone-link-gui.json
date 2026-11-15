@@ -1,0 +1,23 @@
+{
+  "name": "Create: Redstone Link GUI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GhtD1QcW",
+      "slug": "create-redstone-link-gui",
+      "versionId": "s8Yw7I6l",
+      "versionNumber": "1.21.1-1.9.2",
+      "filename": "createredstonelinkgui-1.21.1-1.9.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GhtD1QcW/versions/s8Yw7I6l/createredstonelinkgui-1.21.1-1.9.2.jar",
+      "sha1": "408f1af35409f8931171dc9c5ab724b762bf65c1",
+      "sha512": "aa5271c30c343d1f03073283c79d144e5690fe0c68b206f24e29f4dd5299bd137870e4c95ec7878fccb32c76c8924cec5f38013cad7f833cef08013570cf3762",
+      "fileSize": 243975
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

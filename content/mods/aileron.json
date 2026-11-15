@@ -1,0 +1,23 @@
+{
+  "name": "Aileron",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "b8kG1VGq",
+      "slug": "aileron",
+      "versionId": "XDz1C9KI",
+      "versionNumber": "1.21.1-neoforge-1.1.4",
+      "filename": "aileron-1.21.1-neoforge-1.1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/b8kG1VGq/versions/XDz1C9KI/aileron-1.21.1-neoforge-1.1.4.jar",
+      "sha1": "9fe97b808ccac3289644fc55ad364475434dfb2f",
+      "sha512": "65fdd62ab143a09a5b0049996f6a65361a4447646d41fa1f092af8df85e3106eb531de07e32ce10ac29c318d1ff03427dde143abcf2e616d8bd2bccfb2f575c3",
+      "fileSize": 269209
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

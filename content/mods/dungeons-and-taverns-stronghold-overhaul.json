@@ -1,0 +1,23 @@
+{
+  "name": "Dungeons and Taverns Stronghold Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rYocd2LE",
+      "slug": "dungeons-and-taverns-stronghold-overhaul",
+      "versionId": "6PYBSejs",
+      "versionNumber": "v2.1.f+mod",
+      "filename": "dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rYocd2LE/versions/6PYBSejs/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
+      "sha1": "0c4e1c959a37e024c01be6f8a70f53aac399dad4",
+      "sha512": "39a70d5a1b4f18c782dee0e0193be966d7c5b2de78c4c3241450caacf7a11372303c4bfa8cf7fa01dd432cba5f9eb8d4fd60d5fa8adf27500ed49017941f1c1c",
+      "fileSize": 3128192
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

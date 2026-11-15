@@ -1,0 +1,23 @@
+{
+  "name": "No Chat Reports",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qQyHxfxd",
+      "slug": "no-chat-reports",
+      "versionId": "ZV8eL55E",
+      "versionNumber": "NeoForge-1.21.1-v2.9.1",
+      "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "sha1": "9edfc7861277ff661141304dc8216f83eacdd9af",
+      "sha512": "292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21",
+      "fileSize": 306668
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

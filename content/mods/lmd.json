@@ -1,0 +1,23 @@
+{
+  "name": "Let Me Despawn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vE2FN5qn",
+      "slug": "lmd",
+      "versionId": "fgcMDg9B",
+      "versionNumber": "1.5.0",
+      "filename": "letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vE2FN5qn/versions/fgcMDg9B/letmedespawn-1.21.x-neoforge-1.5.0.jar",
+      "sha1": "576fe2edaa96e7e71015287457bd52f87646d968",
+      "sha512": "e6c892bb621a9382728c6f5735922736283cd54ec4f5a5d4d7d0745dedbe39851e21a69abcdf7af783fbacf8c700789b6ef9278dc09782ad1cd63ec004bc7a35",
+      "fileSize": 14911
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

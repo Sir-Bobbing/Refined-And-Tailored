@@ -1,0 +1,22 @@
+{
+  "name": "Loot Integrations",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "580689",
+      "slug": "loot-integrations",
+      "versionId": "6640970",
+      "versionNumber": "lootintegrations-1.21.1-4.7.jar",
+      "filename": "lootintegrations-1.21.1-4.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6640/970/lootintegrations-1.21.1-4.7.jar",
+      "sha1": "ba601fe630f444d974838bfd80a185a0e3e0309c",
+      "fileSize": 36966
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Amendments",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6iTJugQR",
+      "slug": "amendments",
+      "versionId": "83ntBcVk",
+      "versionNumber": "1.21-2.1.11",
+      "filename": "amendments-1.21-2.1.11-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6iTJugQR/versions/83ntBcVk/amendments-1.21-2.1.11-neoforge.jar",
+      "sha1": "3d1ba6f88621e4f7f4264d262eb20a2d98bf1f59",
+      "sha512": "bc09b6ee63aae62faf3ad1c8f44aceb8b82b1e490e463f62608da7a210301e8fa097189ff1bed2a168e842ef2f1b2e6a967b26de709d65b4ef7ed8f8623c88a7",
+      "fileSize": 1175215
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ixeris",
+  "side": "client",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "p8RJPJIC",
+      "slug": "ixeris",
+      "versionId": "QZHF8QKH",
+      "versionNumber": "4.6.10+1.21.1-neoforge",
+      "filename": "Ixeris-4.6.10+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/p8RJPJIC/versions/QZHF8QKH/Ixeris-4.6.10%2B1.21.1-neoforge.jar",
+      "sha1": "0635de4635d2d5cd784eaba62a17d2544e1cf4dd",
+      "sha512": "333f8e22aa00b9732f3ac4372c637049f444206f10c0baea39ce8477ee3aa7975c5eaba36cf9c04e7c488ffa7125e3870fb28492b42a6132112cdff2fae10f7d",
+      "fileSize": 698627
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

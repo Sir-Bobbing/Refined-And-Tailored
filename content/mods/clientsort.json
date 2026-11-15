@@ -1,0 +1,23 @@
+{
+  "name": "Client Sort",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "K0AkAin6",
+      "slug": "clientsort",
+      "versionId": "2c4hM8Ut",
+      "versionNumber": "3.89.2+1.21.1",
+      "filename": "clientsort-neoforge-3.89.2+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/K0AkAin6/versions/2c4hM8Ut/clientsort-neoforge-3.89.2%2B1.21.1.jar",
+      "sha1": "05c7d37ad5f8aa5dcbe81623842b6f87f5ce1ae8",
+      "sha512": "64fbd0f381e01c698569c1e292c6aa0699c3c685eca824124f674d03aaebc55bda5c879864061809dfdbc89fd2203c166f719edcb811a6b3cf71a9480647b589",
+      "fileSize": 353091
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

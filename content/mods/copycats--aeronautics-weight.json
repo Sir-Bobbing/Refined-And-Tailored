@@ -1,0 +1,23 @@
+{
+  "name": "Copycats+ aeronautics weight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wjpmYU1u",
+      "slug": "copycats-plus-aeronautics-weight",
+      "versionId": "wsXjRa7l",
+      "versionNumber": "1.1.1",
+      "filename": "aerocopycats-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wjpmYU1u/versions/wsXjRa7l/aerocopycats-1.1.1.jar",
+      "sha1": "3a93862421d0a8cdae1e3a3d7f0d4bd01e049007",
+      "sha512": "4f48c03a25a6f4ec022398cece20e5aa8d51f00951a0f568980e6e5419c1af2f12c8bb652500721afef119ecc455e4c5b1bc4bb7bef38d88846759f0e4c39e8c",
+      "fileSize": 14702
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

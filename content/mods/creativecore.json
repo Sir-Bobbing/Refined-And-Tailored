@@ -1,0 +1,27 @@
+{
+  "name": "CreativeCore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OsZiaDHq",
+      "slug": "creativecore",
+      "versionId": "vRMtFt35",
+      "versionNumber": "2.13.51",
+      "filename": "CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/vRMtFt35/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+      "sha1": "eb2242b3d4442ad4017ba0624a7f9588e778b157",
+      "sha512": "864301fa1229511203fc291e9b683db5af3cb4aa4faed0ef1eb54112491b3c97f9b5006b42d41fb2c169f7fc93ad13459f5079c6ffc73dc4b145ee61b7687997",
+      "fileSize": 1236490
+    }
+  },
+  "dependents": [
+    "aT8BzaOj",
+    "eHGYGKJz",
+    "fM515JnW"
+  ],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

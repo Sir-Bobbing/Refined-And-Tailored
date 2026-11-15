@@ -1,0 +1,23 @@
+{
+  "name": "Drive-By-Sable",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rrNGnYXg",
+      "slug": "drive-by-sable",
+      "versionId": "JOu5h38h",
+      "versionNumber": "r2.0.4",
+      "filename": "drivebysable-r2.0.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rrNGnYXg/versions/JOu5h38h/drivebysable-r2.0.4.jar",
+      "sha1": "354c2e529aa4a9c154a2f51595f39860eb3093a1",
+      "sha512": "e9673ddc1353398fafe90be7bb1044e6c8928eef27ba7a3ea9a649ca225558da27770ccab6490cc9447782fc02872d070c10948d1c37b92f59590211b4ac2567",
+      "fileSize": 2108362
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Creeper Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MI1LWe93",
+      "slug": "creeper-overhaul",
+      "versionId": "HNrAYCLH",
+      "versionNumber": "4.0.6",
+      "filename": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MI1LWe93/versions/HNrAYCLH/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565",
+      "sha512": "880ca9d8d23b527d3583cbe7fa399b2a26421b6ccba1deacd666cf9b61f4af4378157f404ab3789a7ae9c3c8693e2b7f6c8c532e703e5bb0e1881b9cc2879a6e",
+      "fileSize": 1185088
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

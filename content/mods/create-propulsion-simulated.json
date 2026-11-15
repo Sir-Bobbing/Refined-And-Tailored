@@ -1,0 +1,23 @@
+{
+  "name": "Create Propulsion: Simulated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ApkoHNO9",
+      "slug": "create-propulsion-simulated",
+      "versionId": "H13U56dc",
+      "versionNumber": "1.1.5",
+      "filename": "createpropulsion-1.1.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar",
+      "sha1": "928e9428ee92d07426c296b04a7fffb1e737e290",
+      "sha512": "6096c9c5cb220219a0b58b56f9fefd63f8b79a0967d326727b4206d62df1813da73956aeae2fa5b839160a1bb5af8e099726d12d2d93f10e5f157beb85bb9c52",
+      "fileSize": 1707765
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

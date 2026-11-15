@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "layerCount": 3,
+  "heightOffset": 0,
+  "layerSpacing": 40,
+  "baseOpacity": 0.8,
+  "tint": 16777215,
+  "scale": 12.0,
+  "thickness": 4.0,
+  "speedMultiplier": 1.0,
+  "smoothShading": true,
+  "sunMoonLighting": true
+}

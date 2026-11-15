@@ -1,0 +1,23 @@
+{
+  "name": "BetterF3",
+  "side": "client",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8shC1gFX",
+      "slug": "betterf3",
+      "versionId": "maXNB1dn",
+      "versionNumber": "11.0.3",
+      "filename": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+      "sha512": "59c36a882669399dce2110db42df05e8fe935a2e1194c4bac49abffc3129b2e19373dfe3c4a3d2f8b22f21b1d66ad8cbd653944ce0a71ae05d3d65528d1b7514",
+      "fileSize": 481646
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
