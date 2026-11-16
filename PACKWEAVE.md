@@ -8,7 +8,7 @@
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Aileron](https://modrinth.com/project/aileron) `1.21.1-neoforge-1.1.4`
 - [AlfinoLib](https://modrinth.com/project/alfinolib) `1.2.0`
-- [Almanac](https://modrinth.com/project/almanac) `1.5.2`
+- [Almanac](https://modrinth.com/project/almanac) `1.26.11.1`
 - [AmbientSounds](https://modrinth.com/project/ambientsounds) `6.3.11`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Another Furniture](https://modrinth.com/project/another-furniture) `4.0.3`
@@ -145,7 +145,7 @@
 - [NoisiumForked](https://modrinth.com/project/noisiumforked) `2.7.0+mc1.21-1.21.1`
 - [Not Alone](https://modrinth.com/project/notalone) `mc1.21.1-1.2.0-neoforge`
 - [Nyf's Spiders](https://modrinth.com/project/nyfs-spiders) `3.0.2`
-- [Offgrid](https://modrinth.com/project/offgrid) `1.0.5+1.21.1-neoforge`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.6+1.21.1-neoforge`
 - [Particle Core](https://modrinth.com/project/particle-core) `0.3.3+1.21+neoforge`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.3+1.21.1-neoforge`
 - [Pehkui](https://modrinth.com/project/pehkui) `3.8.3+1.21-neoforge`

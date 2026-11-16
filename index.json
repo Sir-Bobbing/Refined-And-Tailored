@@ -22,7 +22,7 @@
     },
     {
       "path": "content/mods/almanac.json",
-      "sha1": "981feb8d496919d4f33e977c1b2665fb97fd502d"
+      "sha1": "0844531bf4e1dfaa19a79353157f5c2af956c4f9"
     },
     {
       "path": "content/mods/ambientsounds.json",
@@ -574,7 +574,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "f62bdcb1749ff769f434635c6ab3f154f35bfbd6"
+      "sha1": "c79e5aaac7a29b6635306f43bd3977b59364daeb"
     },
     {
       "path": "content/mods/particle-core.json",
