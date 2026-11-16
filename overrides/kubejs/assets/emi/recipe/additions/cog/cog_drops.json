@@ -1,8 +1,0 @@
-{
-  "type": "emi:info",
-  "stacks": [
-    "item:powergrid:electrical_gizmo",
-    "item:tfmg:steel_mechanism"
-  ],
-  "text": "kubejs.info.cog_drops"
-}

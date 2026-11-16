@@ -1,9 +1,6 @@
 {
     "priority": 750,
     "add": {
-        "powergrid:multimeter": [
-            "tfmg:multimeter"
-        ],
         "create:speedometer": [
             "create:stressometer"
         ],
@@ -12,9 +9,6 @@
         ],
         "/create_connected:(?<type>(?!vertical).*)_gearbox/": [
             "create_connected:vertical_${type}_gearbox"
-        ],
-        "/tfmg:steel_gearbox/": [
-            "tfmg:steel_vertical_gearbox"
         ],
         "create:item_vault": [
             "create_connected:item_silo"
@@ -30,9 +24,6 @@
         ],
         "create:metal_girder": [
             "dndecor:diagonal_girder"
-        ],
-        "tfmg:fireproof_bricks": [
-            "tfmg:fireproof_brick_reinforcement"
         ],
         "dndecor:metal_support": [
             "dndecor:diagonal_metal_support"

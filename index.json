@@ -14,7 +14,7 @@
     },
     {
       "path": "content/mods/alfinolib.json",
-      "sha1": "645908741c952da894758be89de3ddb456671dba"
+      "sha1": "aed5979b733c6bf56444cd64e12bb5fd7c784105"
     },
     {
       "path": "content/mods/almanac.json",
@@ -698,7 +698,7 @@
     },
     {
       "path": "content/mods/surveyor.json",
-      "sha1": "beb6a53282fb8f6724a0de2982b4a5d69b7b878e"
+      "sha1": "17beb73cba4e0951867b1bc66c10ad761a35410a"
     },
     {
       "path": "content/mods/tectonic.json",
@@ -858,7 +858,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "5485e2fa48555ac113147ea38fce266f81ce502f"
+      "sha1": "dd585361102eb27f66cb0bd6e127b543e2777057"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1045,10 +1045,6 @@
       "sha1": "ac866999f8d4ecd1eff17efd6a7eee2ee6032d6a"
     },
     {
-      "path": "overrides/config/createpropulsion-common.toml",
-      "sha1": "38bc6d3d259479514fe586ed9044b010c1d2fac3"
-    },
-    {
       "path": "overrides/config/createrailgrinding-client.toml",
       "sha1": "3e7537c8e1fd5e2163196c07eba8e6f15aeecf45"
     },
@@ -1194,7 +1190,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "1119f159ce702fc6fab21c2a1194693d336ca803"
+      "sha1": "d1fd454eb9343d7c16e9142efaf522f959e4dd5f"
     },
     {
       "path": "overrides/config/fancymenu/assets/food_book.png",
@@ -1477,14 +1473,6 @@
       "sha1": "2fac78ab5473c64e65cfbc4a35339aa70c26425d"
     },
     {
-      "path": "overrides/config/malum-client.toml",
-      "sha1": "5fd94b26fac67847e481f3c4f6a59c49b0d63500"
-    },
-    {
-      "path": "overrides/config/malum-common.toml",
-      "sha1": "6b410e527b0cc1db19ea2de951b87e099bd9ac1d"
-    },
-    {
       "path": "overrides/config/mcqoy.toml",
       "sha1": "e060d81d6c0e6048c81aac633d4ef5b2fc595cc8"
     },
@@ -1653,24 +1641,12 @@
       "sha1": "e5aac16ed27fb9595de76cdd20e25a9e223152b2"
     },
     {
-      "path": "overrides/config/reliable_recipes/recipe_rules.json",
-      "sha1": "3a092ca28babe65d603bfa2895803c5ce4ae33bf"
-    },
-    {
       "path": "overrides/config/reliable_remover.json",
       "sha1": "89178df4f58ef3f4f8dbd8a5510535de188fe82e"
     },
     {
-      "path": "overrides/config/reliable_remover/rules.json",
-      "sha1": "063e69dea5723ce3cb6afd9ded89e4587eaa0c1c"
-    },
-    {
       "path": "overrides/config/resourceful-config-web.json",
       "sha1": "0d9d74c211549301100ca938fbb3d900a2b88438"
-    },
-    {
-      "path": "overrides/config/roxy-fog.json",
-      "sha1": "84205a8707a7eecd2fd366ce417a04d17933cb65"
     },
     {
       "path": "overrides/config/sable-client.toml",
@@ -1897,24 +1873,12 @@
       "sha1": "32c22de9185430cfb21e6a4c00824e5382a67e31"
     },
     {
-      "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "d99e54ca2b02579ec011fd030b2cfb63d0608a46"
-    },
-    {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "79f3d012683d133654d66ff31bed7600a7eb17af"
+      "sha1": "bd52f9d9ad425f8c9d20f1d89754619b270106c4"
     },
     {
       "path": "overrides/config/tectonic.json",
       "sha1": "a49cbe958d4c45c59783b426a5079ad83ed2a206"
-    },
-    {
-      "path": "overrides/config/tfmg-client.toml",
-      "sha1": "340dc53b9886fe41c03ed84566e4bd36bfa8f810"
-    },
-    {
-      "path": "overrides/config/tfmg-common.toml",
-      "sha1": "e38e4a131a47a700f03441592c1cc94aaa22533c"
     },
     {
       "path": "overrides/config/toms_storage-common.toml",
@@ -1997,12 +1961,12 @@
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
     },
     {
-      "path": "overrides/defaultconfigs/biolith/general.json",
-      "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
-    },
-    {
       "path": "overrides/icon.png",
       "sha1": "afa7fef274171a7c7d473fbe3b868139e489731a"
+    },
+    {
+      "path": "overrides/kubejs/README.txt",
+      "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
     },
     {
       "path": "overrides/kubejs/assets/SC2_SND_REMIX.zip",
@@ -2337,14 +2301,6 @@
       "sha1": "144cfc054adb8ea125aa8f01a952b384b9248bc9"
     },
     {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/cog/circuit.json",
-      "sha1": "e541d71e84ffddef5d579638d65d30d3ec8b448b"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/cog/cog_drops.json",
-      "sha1": "195c9a795ea5004c2c0c36a0019b9d9726fe3b0a"
-    },
-    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/aileron/cloudskipper.json",
       "sha1": "d8a4ea74bd7e31f6a03250e5387cd83f93a37bfe"
     },
@@ -2429,16 +2385,8 @@
       "sha1": "6d6924efba1dfbba9638b5c86b5bbb7443f4f968"
     },
     {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/density.json",
-      "sha1": "b136c544f134bff06311576c4e80a25867a6c6e0"
-    },
-    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/depth_strider.json",
       "sha1": "535c1e7bc7688182899578f99f708f104b35dab8"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/efficiency.json",
-      "sha1": "7dcad50da578b8254adfceee0d589947c970cb88"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/feather_falling.json",
@@ -2613,10 +2561,6 @@
       "sha1": "4229996e210de8ab15bc7088303df0616b314acc"
     },
     {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/accelerator.json",
-      "sha1": "ae8011d9369da9c64787dfbcf740db9ed456c888"
-    },
-    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/banzai.json",
       "sha1": "71237e0dcc0d4b9531e681d165e6f76dd82d5fc3"
     },
@@ -2633,16 +2577,8 @@
       "sha1": "1d181d2a433439f3ae09065871a9b501df3cc86f"
     },
     {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/heavy_shot.json",
-      "sha1": "6e02b2b876c7dd1bfcf5957773cc696158a30d40"
-    },
-    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/hot_barrel.json",
       "sha1": "82d4828ae88496fe614b35c5df5834dede5331fa"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/lightweight.json",
-      "sha1": "4ed6d0add9dce7fe4603fa465dad9c76696932bd"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/puncturing.json",
@@ -2661,10 +2597,6 @@
       "sha1": "1a9c5801221358670c8fe69c2894880dd9ada182"
     },
     {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/trigger_finger.json",
-      "sha1": "3142ae034e9d41c6f7d7618a211e36458fff7a45"
-    },
-    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/waterproof.json",
       "sha1": "3c4b35cc86f37b9d50370d3b28bb7e3badd2bc98"
     },
@@ -2677,20 +2609,12 @@
       "sha1": "ec5f11120c4487b959725e0b38db0ab64ca79b55"
     },
     {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/player_head.json",
-      "sha1": "da68ea75229d852e79f0998b91da093302eea8f1"
-    },
-    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/player_head_info.json",
       "sha1": "4d723ef73f868031c7fb1af69597e58a69b59d6d"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/polar_generator.json",
       "sha1": "6063c51f501614cfb7fab04eb13b9c6e651818f9"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/sluice/crude_oil/passive.json",
-      "sha1": "925e42f1d80aba123ca368cd68409433ed7b4ed4"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/sluice/honey/string.json",
@@ -2795,14 +2719,6 @@
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/tap/resin.json",
       "sha1": "37a20593533c2ea745832badcb02e51141d12746"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/tools/aluminum.json",
-      "sha1": "18dfe394de1f7b3a96b13ff34b434390f84ea5ad"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/recipe/additions/tools/lead.json",
-      "sha1": "efffde7cec1dd69de77efe926369cea713b8a5f7"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/tools/steel.json",
@@ -4377,10 +4293,6 @@
       "sha1": "513a901dc5266bf30ab3d37faf5eb43bce3b4a5a"
     },
     {
-      "path": "overrides/kubejs/data/create/recipe/crushing/lignite.json",
-      "sha1": "a32550766c603b16b4e3f720c5fbdb1afcc14c31"
-    },
-    {
       "path": "overrides/kubejs/data/create/recipe/crushing/ochrum_recycling.json",
       "sha1": "7091c1d6d58971b25bcf3233f612c2cd52cfa63c"
     },
@@ -5421,10 +5333,6 @@
       "sha1": "63d16fd0d9744436e223a5174407659e64529edc"
     },
     {
-      "path": "overrides/kubejs/data/kubejs/recipe/crafting/electric_pump.json",
-      "sha1": "c0b10ac25f19ffe91d837ad3673faa59c9654c7d"
-    },
-    {
       "path": "overrides/kubejs/data/kubejs/recipe/crafting/end_blueprint.json",
       "sha1": "ececf978b38a48001d1617091b43e9c42bbf42be"
     },
@@ -5527,10 +5435,6 @@
     {
       "path": "overrides/kubejs/data/kubejs/recipe/distillation/slag_3.json",
       "sha1": "ab9e5afcd0b755a064e92005c8e16d1f40662cd5"
-    },
-    {
-      "path": "overrides/kubejs/data/kubejs/recipe/distillation/slag_4.json",
-      "sha1": "eb7c4aad4a656222bb28894d51563c8e660d8f53"
     },
     {
       "path": "overrides/kubejs/data/kubejs/recipe/distillation/slag_5.json",
@@ -5785,14 +5689,6 @@
       "sha1": "b46234b6b63d97040c8e183dcf775f213676647f"
     },
     {
-      "path": "overrides/kubejs/data/kubejs/recipe/spirit_transmutation/create_stones/blighted_earth_from_galena.json",
-      "sha1": "1b7182b19af515cc5bd3ebae5d85fbc5124ecb69"
-    },
-    {
-      "path": "overrides/kubejs/data/kubejs/recipe/spirit_transmutation/create_stones/galena_from_ochrum.json",
-      "sha1": "207137c9f38f4bd1453a1fa4191d1ae56c83a5ce"
-    },
-    {
       "path": "overrides/kubejs/data/kubejs/recipe/spirit_transmutation/create_stones/ochrum_from_asurine.json",
       "sha1": "e41735a7fc39c1b166a8d2d2ea802ae30c0baa30"
     },
@@ -5833,12 +5729,8 @@
       "sha1": "feca0a97451ae6bf24bcf5c0d89ea804a290cede"
     },
     {
-      "path": "overrides/kubejs/data/kubejs/recipe/void_favor/malignant_lead.json",
-      "sha1": "48252af27669fb7806df77b6d41d2f488c7e6db0"
-    },
-    {
       "path": "overrides/kubejs/data/kubejs/shape_map/add.json",
-      "sha1": "e116c995a447b6bdee9e8e9fc6df58b6f1431845"
+      "sha1": "7dc6c8d54d8e14c1d8979761b6716e5a9e141318"
     },
     {
       "path": "overrides/kubejs/data/kubejs/shape_map/remove.json",
@@ -7302,7 +7194,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_modification.js",
-      "sha1": "d07242e49c5abf321df6969306f3cf3947f71d3b"
+      "sha1": "6c49dc9f5304045852f3f0e40b7661a8e25c38e2"
     },
     {
       "path": "overrides/kubejs/startup_scripts/jsconfig.json",

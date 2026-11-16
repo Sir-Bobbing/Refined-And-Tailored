@@ -37,51 +37,6 @@ ItemEvents.modification(event => {
         item.setBurnTime(6400)
   })
 
-  function modifyAluminumItem(id, attackDamage, attackSpeed) {
-    event.modify(id, item => {
-    item.setUnbreakableWithTooltip()
-    item.setBaseAttackDamage(attackDamage-1)
-    item.setBaseAttackSpeed(attackSpeed-4)
-    item.addAttributeModifier("minecraft:player.block_break_speed",{amount:-0.4,id:"kubejs:aluminum_mine_penalty",operation:"add_multiplied_base"},"mainhand")
-    item.setTier(tier => {
-        tier.setSpeed(3)
-        tier.setIncorrectBlocksForDropsTag("minecraft:incorrect_for_iron_tool")
-      })
-    })
-  }
-
-  // Same tier as iron tools
-  // Between stone/wood stats wise
-  // Has a 40% mining speed penalty
-  // Unbreakable
-  modifyAluminumItem('tfmg:aluminum_sword', 4.5, 1.6)
-  modifyAluminumItem('tfmg:aluminum_pickaxe', 2.5, 1.2)
-  modifyAluminumItem('tfmg:aluminum_axe', 8, 0.8)
-  modifyAluminumItem('tfmg:aluminum_shovel', 3, 1)
-  modifyAluminumItem('tfmg:aluminum_hoe', 1, 1.5)
-
-
-  function modifySteelItem(id, attackDamage, attackSpeed) {
-    event.modify(id, item => {
-    item.setBaseAttackDamage(attackDamage-1)
-    item.setBaseAttackSpeed(attackSpeed-4)
-    item.setTier(tier => {
-        tier.setSpeed(7)
-        tier.setIncorrectBlocksForDropsTag("minecraft:incorrect_for_diamond_tool")
-      })
-    })
-  }
-
-  // Same tier as diamond tools
-  // Between iron/diamond stats wise
-
-  modifySteelItem('tfmg:steel_sword', 6.5, 1.6)
-  modifySteelItem('tfmg:steel_pickaxe', 4.5, 1.2)
-  modifySteelItem('tfmg:steel_axe', 9, 0.85)
-  modifySteelItem('tfmg:steel_shovel', 5, 1)
-  modifySteelItem('tfmg:steel_hoe', 1, 3.5)
-
-
   const slotMap = {
     head: "minecraft:armor.helmet",
     chest: "minecraft:armor.chestplate",

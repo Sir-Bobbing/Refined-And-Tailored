@@ -1,6 +1,0 @@
-{
-  "type": "emi:world_interaction",
-  "left": "fluid:tfmg:crude_oil",
-  "right": "item:spelunkery:sluice_grate",
-  "output": "item:tfmg:bitumen"
-}

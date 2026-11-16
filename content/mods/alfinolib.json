@@ -15,6 +15,16 @@
       "sha1": "534ec2d4319f7aed36809e60430b501f7451ac39",
       "sha512": "3ef7500c35d7d8115bf555b0e5ef73ea077ce29a27b689f901022d2205c982dae24ea61eb0414e9013d208ab1937c782f92f8e3fb681f2aa3bebbf8a9958e75f",
       "fileSize": 273188
+    },
+    "curseforge": {
+      "id": "1554698",
+      "slug": "alfinolib",
+      "versionId": "8596074",
+      "versionNumber": "alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "filename": "alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8596/74/alfinolib-1.2.0-neoforge-1.21.1.jar",
+      "sha1": "534ec2d4319f7aed36809e60430b501f7451ac39",
+      "fileSize": 273188
     }
   },
   "dependents": [
