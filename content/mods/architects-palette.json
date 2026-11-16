@@ -1,0 +1,26 @@
+{
+  "name": "Architect's Palette",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vt0VyseM",
+      "slug": "architects-palette",
+      "versionId": "mfYFPWxH",
+      "versionNumber": "1.4.0-beta.5N",
+      "filename": "architects_palette-neoforge-1.21.1-1.4.0-beta.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vt0VyseM/versions/mfYFPWxH/architects_palette-neoforge-1.21.1-1.4.0-beta.5.jar",
+      "sha1": "d03842aecd0173edaabd4dd66e22103a5c0f2597",
+      "sha512": "1d2f27e5f0ae15828f68368aae3d935d2cc4dddbd8113986dd04bed2c56eb5e7ae65ecd6a009e6e2108a91cd1538e6585c95163e19a8f4cd56e82f864b9c2d22",
+      "fileSize": 2844281
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "eiktJyw1"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

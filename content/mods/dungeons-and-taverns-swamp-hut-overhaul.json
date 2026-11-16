@@ -1,0 +1,23 @@
+{
+  "name": "Dungeons and Taverns Swamp Hut Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nWSeFpQt",
+      "slug": "dungeons-and-taverns-swamp-hut-overhaul",
+      "versionId": "XJq4ei5a",
+      "versionNumber": "v2+mod",
+      "filename": "dungeons-and-taverns-swamp-hut-overhaul-v2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nWSeFpQt/versions/XJq4ei5a/dungeons-and-taverns-swamp-hut-overhaul-v2.jar",
+      "sha1": "bb1ba40b6089571f761ad443cc49543d5f645bdd",
+      "sha512": "fb5ce420a4772c6957f0148b1e84411c8671ab2f6737edc514baaab0e943121bcb2f27b617b5eea17ffc13006eaa9aac400b1b29db1f90ab77673128825d1f3b",
+      "fileSize": 112184
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

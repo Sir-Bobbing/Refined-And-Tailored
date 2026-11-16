@@ -1,0 +1,23 @@
+{
+  "name": "I'm Fast",
+  "side": "server",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PaUMOeP0",
+      "slug": "im-fast",
+      "versionId": "FWI4gJ6y",
+      "versionNumber": "1.0.3",
+      "filename": "imfast-NEOFORGE-1.21.1-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PaUMOeP0/versions/FWI4gJ6y/imfast-NEOFORGE-1.21.1-1.0.3.jar",
+      "sha1": "f8e92ef61de3751f619238eed5ae9952b5a049d0",
+      "sha512": "0f87cf740894165c50f342e706ff6526073801690d1ac1ae51dcf50084c0293371ad7440bfa9563c905114da3ee1b19c1fa22a35224fb965e83eb887408ecd12",
+      "fileSize": 4193
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

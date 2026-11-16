@@ -1,0 +1,23 @@
+{
+  "name": "Sable CleanUp",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wVnz7KNf",
+      "slug": "sable-cleanup",
+      "versionId": "uRRVItgd",
+      "versionNumber": "0.3.0",
+      "filename": "sablecleanup-0.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wVnz7KNf/versions/uRRVItgd/sablecleanup-0.3.0.jar",
+      "sha1": "b6321c5c969e18a528b00fe51dec72d77b528681",
+      "sha512": "ebd60672d0edec3ae07f09a725546630b441dc6ebd82d4e4469f47e6571faf2150659328b509c909d1750de29bea871c3f419c9101b0779776a08073abbdfabf",
+      "fileSize": 168719
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

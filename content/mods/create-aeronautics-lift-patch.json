@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics Lift Patch",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wEWnF0xx",
+      "slug": "create-aeronautics-lift-patch",
+      "versionId": "b5GqYXEI",
+      "versionNumber": "1.1.0",
+      "filename": "create-aeronautics-lift-patch-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wEWnF0xx/versions/b5GqYXEI/create-aeronautics-lift-patch-1.1.0.jar",
+      "sha1": "1baa3312d1b29414dd41a77ed5c665bbbd63cf44",
+      "sha512": "149484359f8fef802cb9e7796167d1e0e8a328cbed1d66f0fe3b5fedae420f2dbbbe0430675d192bd23adf2fbc613be5a590e1d2c6c223589403d63e32fe5524",
+      "fileSize": 6360
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

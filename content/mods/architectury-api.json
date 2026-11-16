@@ -1,0 +1,26 @@
+{
+  "name": "Architectury API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lhGA9TYQ",
+      "slug": "architectury-api",
+      "versionId": "xGfBrBzj",
+      "versionNumber": "13.0.12+neoforge",
+      "filename": "architectury-13.0.12-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/xGfBrBzj/architectury-13.0.12-neoforge.jar",
+      "sha1": "646dace27624ac08ad8d229fe15f6601a8b7fbb2",
+      "sha512": "286127f99708d1e2723e1dcc9104ebcab258f04db92040fc2394e5b7faf36d731ef3b84e592d94ec0d0f7f899eca84f806b1e012223da4894d4d8af5030ffe0f",
+      "fileSize": 584731
+    }
+  },
+  "dependents": [
+    "SJDzFJH7",
+    "eWiBLJ9R"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

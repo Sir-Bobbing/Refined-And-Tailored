@@ -1,0 +1,23 @@
+{
+  "name": "Spawn Spires",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OaKjpsRL",
+      "slug": "spawn-spires",
+      "versionId": "am6GlYLW",
+      "versionNumber": "1.0.6",
+      "filename": "mobtowers-1.0.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OaKjpsRL/versions/am6GlYLW/mobtowers-1.0.6.jar",
+      "sha1": "c17ce5455833fb96414f3a68bcd4791ea2871c06",
+      "sha512": "6a06de31f5c41797ca51882750db96077f6a5c47b9d31b44a6b1aca3be566d11a77dae73739c9109833124a0ecbb7b04372dad6368bfea151f94bfdddc3eaaf4",
+      "fileSize": 2061098
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

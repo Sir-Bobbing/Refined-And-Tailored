@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Enchanting",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DfWQAvS4",
+      "slug": "immersive-enchanting",
+      "versionId": "1axWAPS7",
+      "versionNumber": "6.0.1",
+      "filename": "beta-immersiveenchanting-6.0.1-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DfWQAvS4/versions/1axWAPS7/beta-immersiveenchanting-6.0.1-neoforge-1.21.1.jar",
+      "sha1": "d76ee256cb5d559446d78ded1692def6ae569ae1",
+      "sha512": "9c65fcb0544a20e122eeea25bd5d15c706315a236973e42021ab0a67d501dc963f77516014016a45acc77d765f0b6e60f40cd2abb757bcc082ec547b09b923f9",
+      "fileSize": 7266576
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

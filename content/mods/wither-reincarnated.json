@@ -1,0 +1,23 @@
+{
+  "name": "Wither: Reincarnated",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YDc8cRWF",
+      "slug": "wither-reincarnated",
+      "versionId": "6d4I4VPO",
+      "versionNumber": "1.0.5",
+      "filename": "witherreincarnated-1.21.1-1.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YDc8cRWF/versions/6d4I4VPO/witherreincarnated-1.21.1-1.0.5.jar",
+      "sha1": "7d5b44a8ec9e6c4f4624382e3a804b32160450de",
+      "sha512": "7341fb6914bb9a922993c4481fbae966d9ed0321c8e625fd67fd626795c61ad989204abcdc1acafe983dea49084ae1e0772359fa6d4e7aedbe2e4ecd5539c622",
+      "fileSize": 12616597
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

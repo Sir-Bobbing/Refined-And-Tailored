@@ -1,0 +1,23 @@
+{
+  "name": "Scholar",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fX4dIQCo",
+      "slug": "scholar",
+      "versionId": "ZIsoNOTJ",
+      "versionNumber": "1.2.10",
+      "filename": "scholar-neoforge-1.21.1-1.2.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fX4dIQCo/versions/ZIsoNOTJ/scholar-neoforge-1.21.1-1.2.10.jar",
+      "sha1": "526a89718c72f90fbfa4ea00861cfa0cf2fa931c",
+      "sha512": "f8d53a31d3c455b3279c42e403b7389e2f25a9937c04ddae2cf7d170f764595714140a1dc0a9a3e84b1b8606fb93491ae57304238433b618e834c1b7950f549f",
+      "fileSize": 927682
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

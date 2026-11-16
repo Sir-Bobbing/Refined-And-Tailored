@@ -1,0 +1,23 @@
+{
+  "name": "Offgrid",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vvgTqF0n",
+      "slug": "offgrid",
+      "versionId": "HfyFMZ2o",
+      "versionNumber": "1.0.5+1.21.1-neoforge",
+      "filename": "offgrid-neoforge-1.0.5+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vvgTqF0n/versions/HfyFMZ2o/offgrid-neoforge-1.0.5%2B1.21.1.jar",
+      "sha1": "1c57ecb1f627d726320135a29d2fcfa6056e60fe",
+      "sha512": "00f7bd00797bdf6a1bbddfd5538dce6ef0c147b7e5783872c9c6403ca793ff1e5a5bd1307b0265e74cd79d26c7f565fc8475a6eef454cbefd95dbd0c6fb1d89b",
+      "fileSize": 836139
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Customizable Player Models OSC Compat",
+  "side": "client",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QDihBtsN",
+      "slug": "cpmoscc",
+      "versionId": "N9yFPuek",
+      "versionNumber": "1.14.4-1.7.2",
+      "filename": "cpm-osc-compat-1.7.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QDihBtsN/versions/N9yFPuek/cpm-osc-compat-1.7.2.jar",
+      "sha1": "cf1030761f1ee43ebe82d914beadfb9184fb83d7",
+      "sha512": "01fa8bf6fe62d16b08cfdbd908a00ba981abbedc1c1f4cd7da8d476262400336396a1e8abb3b0b7f818e7688bb375d972bda37c1b175314695ef7cc2ffbd9458",
+      "fileSize": 268247
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

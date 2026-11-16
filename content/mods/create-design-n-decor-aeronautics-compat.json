@@ -1,0 +1,23 @@
+{
+  "name": "Create: Design n' Decor - Aeronautics Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KhnOEVjA",
+      "slug": "create-design-n-decor-aeronautics-compat",
+      "versionId": "Jhg0FhSv",
+      "versionNumber": "1.0.0",
+      "filename": "dnd_aero_compat-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KhnOEVjA/versions/Jhg0FhSv/dnd_aero_compat-1.0.0.jar",
+      "sha1": "6013c41135d21bee109006e4abaa52452b680e5d",
+      "sha512": "97863743030315cc738087a3750ec0e1462ba2a81bb9277617ebf32d7c05fadfac01d924e6f5cc9fda7baaaf7993e9f50e438eb45907d188f8d2b71b409c380b",
+      "fileSize": 18718
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

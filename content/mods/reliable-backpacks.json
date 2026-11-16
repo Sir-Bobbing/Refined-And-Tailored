@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Backpacks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GVh7zzwG",
+      "slug": "reliable-backpacks",
+      "versionId": "HRVysOMj",
+      "versionNumber": "1.9.1-1.21.1-neoforge",
+      "filename": "reliable_backpacks-neoforge-1.21.1-1.9.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GVh7zzwG/versions/HRVysOMj/reliable_backpacks-neoforge-1.21.1-1.9.1.jar",
+      "sha1": "0a6656ff8eb12eec04cd9ead6e0e135bfbb711c3",
+      "sha512": "cd9ef0cffbc0ae081f3e7befd6b834e59808b72bdc0483c9c0031dc526c1f576e2b51ab2ef6170910a895fa3ac1ac06605e1ad0a52abdb57706eebe44b94e1b0",
+      "fileSize": 343249
+    }
+  },
+  "dependents": [],
+  "clientSide": "unknown",
+  "serverSide": "unknown"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Advancements",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xVwaUG1g",
+      "slug": "reliable-advancements",
+      "versionId": "EBkeyrYU",
+      "versionNumber": "6.3.3+1.21.1-neoforge",
+      "filename": "reliable_advancements-6.3.3+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xVwaUG1g/versions/EBkeyrYU/reliable_advancements-6.3.3%2B1.21.1-neoforge.jar",
+      "sha1": "456da0d49f5fb598a531eef98f3694009f9acf67",
+      "sha512": "9fd01912128f70c458db7145dac056a0deeb60b71f179ba412084003955e0b2d4a24712c4688ed9f08219c77a404b864a02d30582444d6b99de3ca9f28ffbddb",
+      "fileSize": 731081
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

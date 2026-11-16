@@ -1,0 +1,23 @@
+{
+  "name": "Create: TFMG Community Edition",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hC1xYvnS",
+      "slug": "tfmg-community-edition",
+      "versionId": "o8aSx7yp",
+      "versionNumber": "1.3.3a",
+      "filename": "tfmg-1.21.1-1.3.3a-community.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hC1xYvnS/versions/o8aSx7yp/tfmg-1.21.1-1.3.3a-community.jar",
+      "sha1": "05869fc36732f40c1a23770208b0b7cb649373a6",
+      "sha512": "fe59e45a6da83bad2afbec3b0f434b8791f317edefe6b53213e8dc3f75f4c8c0f37823f40ce9af463165952b983b908ad1974d4b8704e08687571925c9584d66",
+      "fileSize": 5631220
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

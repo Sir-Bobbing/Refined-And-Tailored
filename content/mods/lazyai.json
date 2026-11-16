@@ -1,0 +1,23 @@
+{
+  "name": "LazyAI",
+  "side": "server",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qgWgCnzi",
+      "slug": "lazyai",
+      "versionId": "hONdhTof",
+      "versionNumber": "1.6.1",
+      "filename": "lazy-ai-1.6.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qgWgCnzi/versions/hONdhTof/lazy-ai-1.6.1.jar",
+      "sha1": "c3c13a05a3879689f484bc957a3e4309f6439f0d",
+      "sha512": "c3b9f5f329c6696e10eb8a0c743665fe249c7c1c592a727599d5d5cff545f0f9b741bb062e55cdad725e3e8acfcf99790cee20a5122522b12a7352bb7debcaf3",
+      "fileSize": 637853
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

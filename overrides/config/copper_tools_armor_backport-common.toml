@@ -1,0 +1,4 @@
+#Compatibility settings for other mods that add copper nuggets.
+[compat]
+	#When true, and Create is loaded, this mod stops exposing its own copper nugget recipes and uses Create's nugget as the preferred recipe output.
+	disableOwnCopperNuggetRecipesWhenCreateLoaded = true

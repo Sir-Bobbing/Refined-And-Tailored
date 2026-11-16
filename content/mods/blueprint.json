@@ -1,0 +1,27 @@
+{
+  "name": "Blueprint",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "VsM5EDoI",
+      "slug": "blueprint",
+      "versionId": "FHOjk8Ez",
+      "versionNumber": "8.2.0",
+      "filename": "blueprint-1.21.1-8.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/VsM5EDoI/versions/FHOjk8Ez/blueprint-1.21.1-8.2.0.jar",
+      "sha1": "b947d5faef872a3f4c856a814c994d70f2065666",
+      "sha512": "0b523c2d53a56676286ddd13adbe65b1a24f5af6040dbec6af9a38cc535b7ba2531a1879afb7a496c407683eacbfbed22701053861a5fd12271b08ac93239db4",
+      "fileSize": 1214507
+    }
+  },
+  "dependents": [
+    "A4Xrv60A",
+    "EOA6vv83",
+    "zrAMu1nt"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

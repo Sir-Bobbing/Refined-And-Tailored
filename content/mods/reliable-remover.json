@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Remover",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pLxsKvNt",
+      "slug": "reliable-remover",
+      "versionId": "49ZtEkjX",
+      "versionNumber": "3.9.2+1.21.1-neoforge",
+      "filename": "reliable_remover-3.9.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pLxsKvNt/versions/49ZtEkjX/reliable_remover-3.9.2%2B1.21.1-neoforge.jar",
+      "sha1": "c6573991509f689cda52eb8604f2451932f6f0a0",
+      "sha512": "135a2d94e9a4c6642fab8ef054b69a80389cf957cae2d1c2e45ea6b5870928a8b483689c94f56dbc6a4a6236b79b5096163afece432d71fc21eba263d9fea5f0",
+      "fileSize": 204855
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

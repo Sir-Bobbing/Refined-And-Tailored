@@ -1,0 +1,22 @@
+{
+  "name": "Framework",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "549225",
+      "slug": "framework",
+      "versionId": "7530361",
+      "versionNumber": "Framework 0.13.11",
+      "filename": "framework-neoforge-1.21.1-0.13.11.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
+      "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475",
+      "fileSize": 387334
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
