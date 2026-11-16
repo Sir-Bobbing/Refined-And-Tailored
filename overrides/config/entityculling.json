@@ -1,6 +1,5 @@
 {
-  "configVersion": 9,
-  "safeMode": true,
+  "configVersion": 8,
   "renderNametagsThroughWalls": true,
   "blockEntityWhitelist": [
     "create:rope_pulley",

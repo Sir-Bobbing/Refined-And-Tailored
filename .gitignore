@@ -1,4 +1,5 @@
 # File Types
+*.jar
 hs_err_pid*
 *.bak
 *.tmp

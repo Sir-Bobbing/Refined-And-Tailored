@@ -2,7 +2,6 @@
 version = 0
 testIfSpaceEmpty = false
 paintingsHaveCollision = false
-canOnlyBeDestroyedByPlayer = false
 showOtherPlayersPaintings = true
 automaticImageResizing = false
 enableBundledPaintings = false
