@@ -1,0 +1,23 @@
+{
+  "name": "Enderman Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Lq6ojcWv",
+      "slug": "enderman-overhaul",
+      "versionId": "TH9YXp9r",
+      "versionNumber": "2.0.3",
+      "filename": "endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Lq6ojcWv/versions/TH9YXp9r/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+      "sha1": "f71aa503738f2e23a8d939b7ea9f96f2fe203f11",
+      "sha512": "d2032b35ed5dcf028a35a1d3da16a48b71d182fab1203bbf0f9f9123b99bb725730c60cdd8a9f48431c91f7ac9e04fa958aed842ee94114ade3a9418392ee6ab",
+      "fileSize": 1330403
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

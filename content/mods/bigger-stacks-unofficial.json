@@ -1,0 +1,23 @@
+{
+  "name": "Bigger Stacks(Unofficial)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cYBdnuCT",
+      "slug": "bigger-stacks-unofficial",
+      "versionId": "pBAyyns5",
+      "versionNumber": "1.0.2",
+      "filename": "biggerstacks-unofficial-1.21.1-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/cYBdnuCT/versions/pBAyyns5/biggerstacks-unofficial-1.21.1-1.0.2.jar",
+      "sha1": "a7a38728f2a43ba3d53b2a62453ab8816826e058",
+      "sha512": "9877636454aca7e569ccf498bce5e0f3b8322d55ac1f5522167798b127671a26a25db29f683c7190f153d8937e70924b1ef80a620050a0e4296036e98a6d1b9b",
+      "fileSize": 2281355
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Fzzy Config",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hYykXjDp",
+      "slug": "fzzy-config",
+      "versionId": "jRuOkBAG",
+      "versionNumber": "0.7.7+fix1+1.21+neoforge",
+      "filename": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hYykXjDp/versions/jRuOkBAG/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar",
+      "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
+      "sha512": "7ea074ac2bee3471a213ed6e55d3beafded16631ea517ecbc6711324f6af82b697c9d391aaadcefff67eda13d5dcc2bfb5011373c73a7015761060b6d89cf15c",
+      "fileSize": 2392720
+    }
+  },
+  "dependents": [
+    "6txNkua3",
+    "RSeLon5O"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

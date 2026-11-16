@@ -1,0 +1,23 @@
+{
+  "name": "Lever drugster",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GQNtImhh",
+      "slug": "lever-drugster",
+      "versionId": "epR68IoB",
+      "versionNumber": "1.8.8",
+      "filename": "lever-drugster-1.8.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GQNtImhh/versions/epR68IoB/lever-drugster-1.8.8.jar",
+      "sha1": "5a523e3966260bc85b3e4e0b3af966d0019126cb",
+      "sha512": "e2e5c645bc88636a33eba02c02c3f40617b81585875243f1c543d637de4ac703c610f4d55dc68e90eddc480f267e55b844e949773cb44856d59af2bca0dcb947",
+      "fileSize": 477209
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Create: Power Grid",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eWiBLJ9R",
+      "slug": "power-grid",
+      "versionId": "jCkPHjmP",
+      "versionNumber": "0.6.2",
+      "filename": "powergrid-mc1.21.1-0.6.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/jCkPHjmP/powergrid-mc1.21.1-0.6.2.jar",
+      "sha1": "e09452dac8202e31f282149d45c49dcdb218bd54",
+      "sha512": "60307e23a27526d22bf753d387edef5a2f2a063a04a47b69e98b7f71bbad32fdf17e05f9838008e47a5999a60e5e77a91f0695215d0ab57694f0034fde9873ca",
+      "fileSize": 5738480
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

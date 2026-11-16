@@ -1,0 +1,23 @@
+{
+  "name": "GuideME",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Ck4E7v7R",
+      "slug": "guideme",
+      "versionId": "QeYKsstN",
+      "versionNumber": "21.1.22",
+      "filename": "guideme-21.1.22.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/QeYKsstN/guideme-21.1.22.jar",
+      "sha1": "eb2f531c91566a0f119b4b3a3acd927b48b6b27e",
+      "sha512": "2a7b29143c1bef18375f221c337c6e744d04b79bc3cc10cadac46b7d6bb217ad78c51a3c33cd802b221cc7b38ff04a3f7064bd63d292e53bf9f3e09047eeda24",
+      "fileSize": 9332340
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

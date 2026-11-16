@@ -1,0 +1,23 @@
+{
+  "name": "Chalk",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YWGP4Y1d",
+      "slug": "chalk-mod",
+      "versionId": "Cw4mfhCD",
+      "versionNumber": "2.0.3",
+      "filename": "chalk-neoforge-1.21.1-2.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YWGP4Y1d/versions/Cw4mfhCD/chalk-neoforge-1.21.1-2.0.3.jar",
+      "sha1": "6e7eff0cd223915e6cf26fa1c54eb95bde4fcd7a",
+      "sha512": "3c11b7080d97ed9040797d1d3461b37e118e27aca0c6a179a60d0ec86e8613d4b905bcbb921ef916a985a969d84f014681b63ea77dc5bead508fd5901605d4c5",
+      "fileSize": 792522
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,21 @@
+// 基本用法：
+//   - 每一条规则写成一个 {} 对象，放在下面 entries 数组里
+//   - 看不懂就照着示例往下复制，改 category / targetType / target 即可
+//   - 物品或者标签会使用下方所配置规则的堆叠数
+//
+// 字段说明：
+//   category:
+//     - NORMAL          普通物品（使用普通物品堆叠规则）
+//     - POTION          药水类（使用药水堆叠规则）
+//     - ENCHANTED_BOOK  附魔书类（使用附魔书堆叠规则）
+//
+//   targetType:
+//     - ITEM  单个物品
+//     - TAG   整个标签（不需要写 #）
+{
+  "entries": [
+    // 下面是示例规则（默认可留空或注释掉）：
+    // {"category": "NORMAL", "targetType": "ITEM", "target": "minecraft:totem_of_undying"},
+    // {"category": "NORMAL", "targetType": "TAG",  "target": "forge:ingots/iron"}
+  ]
+}

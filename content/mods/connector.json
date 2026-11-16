@@ -1,0 +1,25 @@
+{
+  "name": "Sinytra Connector",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "u58R1TMW",
+      "slug": "connector",
+      "versionId": "IITF0PRC",
+      "versionNumber": "2.0.0-beta.17+1.21.1",
+      "filename": "connector-2.0.0-beta.17+1.21.1-full.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar",
+      "sha1": "15e652d3628b1bcb644b93576fcab154496f770a",
+      "sha512": "cb92b662047208792e61191d372d1e255766200406c35769007101f8c578c1018938610c3b90352afd93ec42d7963acf3607e35c50e669df50ac85d7c5529560",
+      "fileSize": 4573244
+    }
+  },
+  "dependents": [
+    "KW2DN49D"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

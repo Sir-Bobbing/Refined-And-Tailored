@@ -1,0 +1,23 @@
+{
+  "name": "Particle Rain",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nrikgvxm",
+      "slug": "particle-rain",
+      "versionId": "inhna3NE",
+      "versionNumber": "v4.0.3+1.21.1-neoforge",
+      "filename": "particlerain-4.0.3+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/inhna3NE/particlerain-4.0.3%2B1.21.1-neoforge.jar",
+      "sha1": "d1b6bb30d56d29b6f850bfbd29d45fc5e3bcaf02",
+      "sha512": "85d3ee20ebecaeac9a3f83e27ac71a811d2429c0e918566d84e921f7f6937532ca466437b75f16498550f1dbaa4d563773174287dc6f22d869d1dcc80531ab5d",
+      "fileSize": 623684
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

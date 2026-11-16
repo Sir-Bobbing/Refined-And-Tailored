@@ -1,0 +1,23 @@
+{
+  "name": "Malum",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jgzwYsAN",
+      "slug": "malum",
+      "versionId": "BIbVs1fo",
+      "versionNumber": "1.8.2",
+      "filename": "malum-1.21.1-1.8.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jgzwYsAN/versions/BIbVs1fo/malum-1.21.1-1.8.2.jar",
+      "sha1": "7bea3f874f186a17ad3e271df145c179e81c2a1d",
+      "sha512": "dd9ccc1dea3b090f69f807be3e7a8b99ec6d3d7d6b047e2893cb49ca505860bbf640cf767082c1a32ea403b35e2a9f9d1755327890bbfb2f8778058a9597a99e",
+      "fileSize": 33585331
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

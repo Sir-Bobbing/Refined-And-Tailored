@@ -1,0 +1,24 @@
+{
+  "name": "Cupboard",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "326652",
+      "slug": "cupboard",
+      "versionId": "8889050",
+      "versionNumber": "cupboard-1.21.1-4.2.jar",
+      "filename": "cupboard-1.21.1-4.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8889/50/cupboard-1.21.1-4.2.jar",
+      "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b",
+      "fileSize": 30517
+    }
+  },
+  "dependents": [
+    "580689"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

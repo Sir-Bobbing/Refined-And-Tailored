@@ -1,0 +1,23 @@
+{
+  "name": "VS / Sable Hose Connectors",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "YaZEkFmd",
+      "slug": "vs-hose-connectors",
+      "versionId": "2UHpqeLs",
+      "versionNumber": "0.2.2",
+      "filename": "VS-Sable-HoseConnectors-0.2.2-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YaZEkFmd/versions/2UHpqeLs/VS-Sable-HoseConnectors-0.2.2-1.21.1.jar",
+      "sha1": "c7bcae645d9c505b2bb68c97648008c65cd69621",
+      "sha512": "601e1ba5f4d25cba01bf1cfce3e55cf5ecae0f14f7b1a072742a30f59af769636edf83c49ec0eb1a4ea67a5478687df69400bfe96f48ad136c92f09923b8f9ea",
+      "fileSize": 2088408
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

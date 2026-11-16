@@ -1,0 +1,23 @@
+{
+  "name": "Ready Player Fun",
+  "side": "server",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AwiAYDUq",
+      "slug": "ready-player-fun",
+      "versionId": "aWP826oQ",
+      "versionNumber": "1.21.1-3.0.1.5-NEOFORGE",
+      "filename": "readyplayerfun-1.21.1-neoforge-3.0.1.5-NEOFORGE.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AwiAYDUq/versions/aWP826oQ/readyplayerfun-1.21.1-neoforge-3.0.1.5-NEOFORGE.jar",
+      "sha1": "7f646f264cd39c27e31de504564f0a4d0aa29eef",
+      "sha512": "de5eb83f11b0cda318ac65c36394cd3cb14540387a6a5bd33441617295dd890df061519e1baecc92ef92c06bed5578dbfbc1eb872fa726d7d8015dd9be92219c",
+      "fileSize": 471424
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

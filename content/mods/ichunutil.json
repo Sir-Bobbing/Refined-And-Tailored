@@ -1,0 +1,25 @@
+{
+  "name": "iChunUtil",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "W6ROj0Hl",
+      "slug": "ichunutil",
+      "versionId": "OvIyyNh4",
+      "versionNumber": "1.0.3",
+      "filename": "iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W6ROj0Hl/versions/OvIyyNh4/iChunUtil-1.21-NeoForge-1.0.3.jar",
+      "sha1": "1f161c8b6288e6094fc57f4a9c10a6050df71081",
+      "sha512": "f91fd9d81639364ef13a796fdbfebf9d67ba1ca946d7ddacfade98c085dfac3097d9440ee16fb3f7b7fa22c6a75c6ff5cb0cfd57024144ec41ff12b9036ea11f",
+      "fileSize": 688343
+    }
+  },
+  "dependents": [
+    "UEtTD3gP"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

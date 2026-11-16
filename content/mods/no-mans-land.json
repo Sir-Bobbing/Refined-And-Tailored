@@ -1,0 +1,23 @@
+{
+  "name": "No Man's Land",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kjZCvAn6",
+      "slug": "no-mans-land",
+      "versionId": "xEOvRePP",
+      "versionNumber": "1.6.3",
+      "filename": "nomansland-1.6.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kjZCvAn6/versions/xEOvRePP/nomansland-1.6.3.jar",
+      "sha1": "c6f69a4d7e23c07cf6321792cd134b99a2078938",
+      "sha512": "44cd94888052e8af3cd1fbe3d8f286df01a7cf42a3e723ae14a1cbe4b1f595978f419602ca486f630631a509810c174377ccc51130df998ae39bb9490c047eef",
+      "fileSize": 31737013
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

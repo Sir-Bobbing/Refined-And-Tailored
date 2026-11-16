@@ -1,0 +1,23 @@
+{
+  "name": "Scorched Guns Neoforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GwtIopV4",
+      "slug": "scorched-guns-neoforged",
+      "versionId": "8pMPZhvI",
+      "versionNumber": "1.5",
+      "filename": "ScorchedGuns-1.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GwtIopV4/versions/8pMPZhvI/ScorchedGuns-1.5.jar",
+      "sha1": "d9b2678b014c3ee4ad2599877dbb3e017675dd6b",
+      "sha512": "b5257551ca98aaffc223e99679dd722198b9adf5b711803f8b7e4773053bfe869bd42f68f61a2c06ec168bfe6fd389bbdb29e35539c70221952a43c8f5ccfeae",
+      "fileSize": 18972536
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
