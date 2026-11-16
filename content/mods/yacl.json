@@ -3,6 +3,7 @@
   "side": "auto",
   "explicit": true,
   "disabled": false,
+  "pinned": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
@@ -18,7 +19,6 @@
     }
   },
   "dependents": [
-    "SJDzFJH7",
     "tNmWwdI2",
     "yz7AM2zx"
   ],

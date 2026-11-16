@@ -2,7 +2,7 @@
   "name": "Fabric API",
   "side": "auto",
   "explicit": false,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
@@ -21,7 +21,6 @@
     "4KjqhPc9",
     "NOxfLnRC",
     "Y5Ve4Ui4",
-    "fxxUqruK",
     "qgWgCnzi",
     "yBW8D80W"
   ],

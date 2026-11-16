@@ -1,10 +1,14 @@
 {
   "name": "KubeJS",
   "side": "auto",
-  "explicit": false,
+  "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
   "sources": {
+    "modrinth": {
+      "id": "umyGl7zF",
+      "slug": "kubejs"
+    },
     "curseforge": {
       "id": "238086",
       "slug": "kubejs",

@@ -1,7 +1,7 @@
 {
   "name": "Cupboard",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "curseforge",
   "sources": {

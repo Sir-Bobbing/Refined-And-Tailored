@@ -1,7 +1,7 @@
 {
   "name": "Searchables",
   "side": "client",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {

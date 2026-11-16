@@ -1,0 +1,22 @@
+{
+  "name": "Tom's Metal Storage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1163202",
+      "slug": "toms-metal-storage",
+      "versionId": "6268211",
+      "versionNumber": "Tom's Metal Storage v1.2",
+      "filename": "Tom's Metal Storage v1.2 (1.21.1).zip",
+      "downloadUrl": "https://edge.forgecdn.net/files/6268/211/Tom%27s%20Metal%20Storage%20v1.2%20(1.21.1).zip",
+      "sha1": "4759ae87655f4b47ab46409e00173ecb6e9c70e4",
+      "fileSize": 222932
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

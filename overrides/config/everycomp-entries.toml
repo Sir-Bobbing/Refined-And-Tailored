@@ -13,23 +13,17 @@
 		[types.wood_type.architects_palette]
 			twisted = true
 
-		[types.wood_type.malum]
-			runewood = true
-			soulwood = true
-
 		[types.wood_type.nomansland]
 			pine = true
 			maple = true
 			walnut = true
 			willow = true
 
+		[types.wood_type.createdieselgenerators]
+			chip_wood = true
+
 		[types.leaves_type.architects_palette]
 			twisted = true
-
-		[types.leaves_type.malum]
-			runewood = true
-			azure_runewood = true
-			soulwood = true
 
 		[types.leaves_type.nomansland]
 			autumnal_oak = true

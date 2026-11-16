@@ -1,6 +1,6 @@
 {
   "name": "Loot Integrations",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "curseforge",
@@ -17,6 +17,6 @@
     }
   },
   "dependents": [],
-  "clientSide": "unsupported",
+  "clientSide": "required",
   "serverSide": "required"
 }

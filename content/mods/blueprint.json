@@ -1,7 +1,7 @@
 {
   "name": "Blueprint",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -19,8 +19,7 @@
   },
   "dependents": [
     "A4Xrv60A",
-    "EOA6vv83",
-    "zrAMu1nt"
+    "EOA6vv83"
   ],
   "clientSide": "required",
   "serverSide": "required"

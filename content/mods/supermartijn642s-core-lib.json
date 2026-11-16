@@ -1,7 +1,7 @@
 {
   "name": "SuperMartijn642's Core Lib",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {

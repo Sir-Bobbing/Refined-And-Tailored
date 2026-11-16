@@ -1,0 +1,9 @@
+{
+  "DistanceScaling": "Medium",
+  "AIOptimizationType": "Dynamic",
+  "BlockDistance_Close": 64,
+  "BlockDistance_Far": 196,
+  "TemptDelay": "Low",
+  "DisableZombieEggStomping": false,
+  "EnableVanillaMobTicking": false
+}

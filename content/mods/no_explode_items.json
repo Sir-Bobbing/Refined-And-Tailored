@@ -1,6 +1,6 @@
 {
   "name": "NoExplodeItems",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -18,6 +18,6 @@
     }
   },
   "dependents": [],
-  "clientSide": "unsupported",
+  "clientSide": "required",
   "serverSide": "required"
 }

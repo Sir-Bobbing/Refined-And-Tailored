@@ -1,20 +1,20 @@
 {
   "name": "Surveyor Map Framework",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
       "id": "4KjqhPc9",
       "slug": "surveyor",
-      "versionId": "egJBsDTn",
-      "versionNumber": "1.2.4+1.21",
-      "filename": "surveyor-1.2.4+1.21.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/4KjqhPc9/versions/egJBsDTn/surveyor-1.2.4%2B1.21.jar",
-      "sha1": "77e9d3996c11eed104fe224c3ba706be1c759303",
-      "sha512": "3a91efbc596db7192792de069e814aeb3e9e1d771267ea5a5d4371b1311bef26a7f9bd02a28619026c23e4df702d99a1bbaaf732e06179dd4999dbd01aaf920c",
-      "fileSize": 602264
+      "versionId": "iLOZqG06",
+      "versionNumber": "1.1.2+1.21",
+      "filename": "surveyor-1.1.2+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4KjqhPc9/versions/iLOZqG06/surveyor-1.1.2%2B1.21.jar",
+      "sha1": "979447efc95f7a4caf6da244a6cb50b1d24c1109",
+      "sha512": "d452d5929103f7ef3fdab76f31076f048aca61d8911e6fea0c60f64e3528f669411f03cfa8b71578b208c569973d766f13c719d4ab80663b55e7e9214c47a4a2",
+      "fileSize": 585958
     }
   },
   "dependents": [

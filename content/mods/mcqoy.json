@@ -1,7 +1,7 @@
 {
   "name": "McQoy",
   "side": "client",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {
@@ -22,8 +22,7 @@
     "Y5Ve4Ui4"
   ],
   "optionalDependents": [
-    "KW2DN49D",
-    "qANg5Jrr"
+    "KW2DN49D"
   ],
   "clientSide": "required",
   "serverSide": "unsupported"

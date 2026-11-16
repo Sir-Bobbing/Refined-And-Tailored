@@ -1,6 +1,6 @@
 {
   "name": "Lithostitched",
-  "side": "auto",
+  "side": "both",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -18,8 +18,8 @@
     }
   },
   "dependents": [
-    "yqHsPROA"
+    "lWDHr9jE"
   ],
-  "clientSide": "unsupported",
+  "clientSide": "required",
   "serverSide": "required"
 }

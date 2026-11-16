@@ -1,7 +1,7 @@
 {
   "name": "Common Network",
   "side": "auto",
-  "explicit": true,
+  "explicit": false,
   "disabled": false,
   "preferred": "modrinth",
   "sources": {

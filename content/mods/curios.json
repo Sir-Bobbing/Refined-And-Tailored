@@ -19,8 +19,7 @@
   },
   "dependents": [],
   "optionalDependents": [
-    "P0Mu4wcQ",
-    "hC1xYvnS"
+    "P0Mu4wcQ"
   ],
   "clientSide": "required",
   "serverSide": "required"
