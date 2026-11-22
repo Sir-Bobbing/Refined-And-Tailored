@@ -1,0 +1,11 @@
+[rules]
+	#Disassemble refuses if any block would land where a block already is. Turn off to let disassemble replace what's there.
+	protectDisassembleDestination = false
+	#When staff delete, disassemble, freeze, boot, move or rename a sub-level, the player who assembled it gets a chat message (on their next login if they're offline).
+	notifyOwners = true
+	#Save Schematic folds rotors on swivel bearings into plain blocks, as if their bearings were disassembled, giving a normal Create schematic. Turn off to keep attached sub-levels as separate sub-levels inside the schematic.
+	flattenSchematics = true
+	#Abandoned-build cleanup judges a build by how long its owner has been away. Turn off to only do that for owners known for certain (who pulled the lever, inherited, placed the machine); builds with a guessed owner are then judged by their own age instead.
+	trustGuessedOwners = true
+	#¯\_(ツ)_/¯
+	disableEasterEgg = false

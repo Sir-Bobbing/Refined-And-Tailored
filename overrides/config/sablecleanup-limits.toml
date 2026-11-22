@@ -1,0 +1,67 @@
+[limits]
+	#Minimum ticks between one player's 3D-view loads (20 = 1 second). Requests arriving faster are merged: only the newest is served once the cooldown ends, so scrolling through the list stays cheap.
+	# Default: 10
+	# Range: 1 ~ 200
+	diagramCooldownTicks = 10
+	#Most Live view updates one player gets per second (needs the live permission). Also caps 3D-view add-ons such as Blender export, which use the same stream.
+	# Default: 20
+	# Range: 1 ~ 20
+	liveMaxPerSecond = 20
+	#Most players streaming Live view at once, server-wide. Past it, new viewers get no updates.
+	# Default: 8
+	# Range: 1 ~ 200
+	liveMaxStreams = 8
+	#Sub-levels bigger than this (bounding-box volume, in blocks) show "Render anyway" instead of loading straight away. Also editable in-game from the Rules panel.
+	# Default: 25000
+	# Range: 1000 ~ 10000000
+	renderWarningBlocks = 25000
+	#Hard cap, even with "Render anyway". The server builds the 3D view on its main thread, so a huge build here means a lag spike for everyone. Also editable in-game from the Rules panel.
+	# Default: 250000
+	# Range: 1000 ~ 10000000
+	maxRenderBlocks = 250000
+	#Remove Sable ragdolls (players' and mobs') older than this many minutes, whole ragdoll at once. 0 = off. Ragdolls are never saved into Sable Cleanup's tracking files either way.
+	# Default: 0
+	# Range: 0 ~ 10080
+	ragdollCleanupMinutes = 0
+	#Before Delete or Disassemble, save the sub-level's blocks as a structure file in <world>/sablecleanup/backups/ (load it with a structure block or Create's Schematicannon) and keep it this many days. 0 = no backups.
+	# Default: 7
+	# Range: 0 ~ 365
+	backupDays = 7
+	#Keep this many months of action logs (<world>/sablecleanup/actions-YYYY-MM.log); older files are deleted at server start. 0 = keep forever.
+	# Default: 12
+	# Range: 0 ~ 1200
+	actionLogMonths = 12
+	#Schematic transfer speed per player, in bytes per second. "Load into schematic" of an N-byte file takes N / this many seconds (at least 1). After an N-byte .nbt file is dropped on the Schematics tab, the next waits that long. The default, 3724, is twice a default Create Schematic Table (1024 bytes every 11 ticks).
+	# Default: 3724
+	# Range: 256 ~ 100000000
+	schematicBytesPerSecond = 3724
+	#Most .nbt files the server's shared schematics folder may hold before dropping files on the Schematics tab is refused (replacing a file of the same name always works). Stops a client filling the disk.
+	# Default: 500
+	# Range: 1 ~ 100000
+	maxSchematicFiles = 500
+	#An unloaded sub-level saved more than this many chunks from where it sits is listed as Stranded: Sable saved its whole group out where one member ran off, and won't load it in normal play. Checked at server start.
+	# Default: 32
+	# Range: 2 ~ 1000000
+	strandedDistanceChunks = 32
+	#Most chunks Sable Cleanup loads at once to bring back one unloaded sub-level and the builds saved with it (acting on it from the list). Bigger groups are refused; teleport to them instead.
+	# Default: 512
+	# Range: 1 ~ 10000
+	maxLoaderChunks = 512
+
+[remote]
+	#How far away, in blocks, the Sable Remote can grab a build, and the farthest it holds one while carrying.
+	# Default: 256
+	# Range: 8 ~ 1024
+	remoteRange = 256
+	#How far away, in blocks, the Sable Remote can paste its copy.
+	# Default: 96
+	# Range: 8 ~ 512
+	remotePasteRange = 96
+	#Biggest build the Sable Remote can copy, as bounding-box volume in blocks (width x height x length).
+	# Default: 2000000
+	# Range: 1000 ~ 50000000
+	remoteMaxCopyVolume = 2000000
+	#Whether the Sable Remote's copies keep what's inside chests, barrels, furnaces and other containers.
+	#false empties them in the copy, so Paste can't duplicate items. It clears the item list vanilla containers
+	#and most modded ones save; storage that saves its items under another name still copies them.
+	remoteCopyItems = true

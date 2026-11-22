@@ -341,10 +341,6 @@
       "sha1": "8e0c1258d93940ce0af35fd93fe0d5ef2e5bbdcd"
     },
     {
-      "path": "content/mods/fabric-api.json",
-      "sha1": "7bebd833b79f7cafd20dae4ea8342be0c21b49f3"
-    },
-    {
       "path": "content/mods/fancymenu.json",
       "sha1": "b0a041a2f6e9018af70fd2040613774462de54d9"
     },
@@ -1102,7 +1098,7 @@
     },
     {
       "path": "overrides/config/createdieselgenerators-server.toml",
-      "sha1": "3ed4416a4d29e09bb686d0983630649798624be4"
+      "sha1": "fecb5d0fbccde4e47eb87470aa97245c2a8c2bb3"
     },
     {
       "path": "overrides/config/createpropulsion-client.toml",
@@ -1821,6 +1817,18 @@
       "sha1": "c53f16976c6c19b062f6027fbbaea0cc0ea92c50"
     },
     {
+      "path": "overrides/config/sablecleanup-limits.toml",
+      "sha1": "26edc5246214253c61d30113ae7489677bed98ab"
+    },
+    {
+      "path": "overrides/config/sablecleanup-roles.toml",
+      "sha1": "e2c4877fec5d8a54ad9c1a59731b932e0f0eb9e5"
+    },
+    {
+      "path": "overrides/config/sablecleanup-server.toml",
+      "sha1": "63b3b005967071cf693de3c79bb36cba90977420"
+    },
+    {
       "path": "overrides/config/sablecleanup-startup.toml",
       "sha1": "1c434dd7635515b63104d0dfbc94407111afda09"
     },
@@ -1878,7 +1886,7 @@
     },
     {
       "path": "overrides/config/sodium-extra-options.json",
-      "sha1": "353428c5411f2bd9fa4063d545619f002d15bb22"
+      "sha1": "85a2661a4039440c10e35cf864f2b1a189c4db8f"
     },
     {
       "path": "overrides/config/sodium-extra.properties",
@@ -2167,6 +2175,10 @@
     {
       "path": "overrides/data/scholar_loaded_built_in_resource_packs.dat",
       "sha1": "e0a186a5416918484f697c219701c7f1d4cac2cd"
+    },
+    {
+      "path": "overrides/data/surveyor/-7770121592131067844/00000000-0000-0000-0000-000000000000.dat",
+      "sha1": "ba8518c1f10ac4c87d17856d0113799496903273"
     },
     {
       "path": "overrides/data/surveyor/-7845253334853161597/00000000-0000-0000-0000-000000000000.dat",
@@ -6234,7 +6246,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "a1acc9f93b106419ed6a4394ce08a6f1a5099cee"
+      "sha1": "45b39492ee97d4f2543fc4a16128e780094b9d7e"
     },
     {
       "path": "overrides/streamsreflowing/waterfalls/64ec6b8f7c479228.bin",

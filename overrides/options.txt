@@ -21,7 +21,7 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"false"
+renderClouds:"true"
 renderDistance:12
 simulationDistance:12
 screenEffectScale:1.0
@@ -156,7 +156,7 @@ key_key.analogleverdrag.gear_neutral:key.keyboard.n
 key_key.analogleverdrag.debug_report:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
+key_key.mute_microphone:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
@@ -199,7 +199,7 @@ key_key.scguns.attachments:key.keyboard.z
 key_key.scguns.melee:key.keyboard.v
 key_key.scguns.inspect:key.keyboard.x
 key_key.scguns.enable_exo_helmet:key.keyboard.b
-key_key.scguns.enable_exo_chestplate:key.keyboard.m
+key_key.scguns.enable_exo_chestplate:key.keyboard.unknown
 key_key.scguns.enable_exo_boots:key.keyboard.n
 key_key.scguns.swap_ammo:key.keyboard.h
 key_key.drivebysable.hide_inactive_channels:key.keyboard.unknown
@@ -215,6 +215,7 @@ key_key.let_it_walk.crab:key.keyboard.v
 key_key.let_it_walk.lean_mode:key.keyboard.tab
 key_key.tracks.open_tuning:key.keyboard.j
 key_key.sablecleanup.open_list:key.keyboard.unknown
+key_key.sablecleanup.remote_turn:key.keyboard.tab
 key_key.loconautics.grab_rotate:key.keyboard.tab
 key_key.loconautics.variant_picker:key.keyboard.left.alt
 key_key.loconautics.casing_picker:key.keyboard.v

@@ -2,7 +2,7 @@
   "name": "Fabric API",
   "side": "auto",
   "explicit": false,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {
@@ -24,5 +24,6 @@
     "yBW8D80W"
   ],
   "clientSide": "optional",
-  "serverSide": "optional"
+  "serverSide": "optional",
+  "noBundle": true
 }

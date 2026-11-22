@@ -1,6 +1,6 @@
 # Refined & Tailored: Refresh
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 172 mods (22 dependencies), 2 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 172 mods (21 dependencies), 2 resource packs
 
 ## Contents
 

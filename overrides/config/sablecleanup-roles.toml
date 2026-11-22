@@ -1,0 +1,14 @@
+#Who may use Sable Cleanup. If a permissions mod (e.g. LuckPerms) is installed, it decides instead:
+#grant the nodes sablecleanup.<permission> there. Permissions: open, live, teleport, move, rename, freeze, boot, ignore, guard, schematic, schematic_manage, delete, disassemble, restore, rescue, bulk, log, rules, roles
+[permissions]
+	#Server operators (at opLevel or above) have every permission.
+	opsHaveAllPermissions = true
+	#Operator level that counts as having every permission.
+	# Default: 2
+	# Range: 0 ~ 4
+	opLevel = 2
+	#Roles as "name: permission, permission, ..."; "*" grants everything.
+	#Assign with /sablecleanup assign <player> <role>.
+	roles = ["admin: *", "moderator: open, live, teleport, move, rename, freeze, boot, ignore, guard, schematic, bulk, log", "helper: open, teleport, ignore"]
+	#Role every player has unless assigned another ("" = none).
+	everyoneRole = ""
