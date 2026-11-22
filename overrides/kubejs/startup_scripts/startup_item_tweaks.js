@@ -6,12 +6,9 @@ ItemEvents.modification(event => {
         item.rarity = 'UNCOMMON'
     })
     event.modify('immersiveenchanting:ancient_book', item => {
-        item.maxStackSize = 1
+        item.maxStackSize = 16
     })
     event.modify('solonion:food_book', item => {
         item.maxStackSize = 1
-    })
-    event.modify('tfmg:lignite', item => {
-        item.burnTime = 400
     })
 })

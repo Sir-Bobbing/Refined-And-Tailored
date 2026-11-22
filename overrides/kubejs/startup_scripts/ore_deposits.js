@@ -6,6 +6,7 @@ let $BlockItem = Java.loadClass("net.minecraft.world.item.BlockItem")
 let $NMLBlocks = Java.loadClass('com.farcr.nomansland.common.registry.blocks.NMLBlocks')
 
 const oreProperties = {
+    "lignite":$BlockBehaviour$Properties.ofFullCopy(Blocks.TUFF),
     "lignite_coal":$BlockBehaviour$Properties.ofFullCopy(Blocks.TUFF),
     "veridium_copper":$BlockBehaviour$Properties.ofFullCopy(Blocks.TUFF),
     "crimsite_iron":$BlockBehaviour$Properties.ofFullCopy(Blocks.DEEPSLATE),

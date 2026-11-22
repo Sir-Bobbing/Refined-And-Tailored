@@ -1,0 +1,6 @@
+#Dedicated servers only. The Sable Remote item (grab, carry, freeze, copy and paste builds from the world).
+#false: the server registers no item and no remote network channels, so players can join without Sable Cleanup
+#installed. The menu (/sablecleanup) and every console command still work, and players who do have the mod still
+#get the menu. true: every player needs Sable Cleanup to join, because the item has to exist on their client.
+#Restart the server after changing this.
+remoteItem = true

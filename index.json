@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "CREDITS.md",
-      "sha1": "421e4893503108c7d85faebce918831af87bf84a"
+      "sha1": "411c6d9158e6d16c865a82e68b647e013a22edf2"
     },
     {
       "path": "content/mods/aeronautics-propeller-blur.json",
@@ -26,7 +26,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
+      "sha1": "ef857e078a33980212813ab505de33a6f54ff6ae"
     },
     {
       "path": "content/mods/another-furniture.json",
@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/better-advanced-tooltips.json",
-      "sha1": "9886bbde72cae5b86e3ecccadda653c5b5204190"
+      "sha1": "34ee99182c297f32367c48a631d776551415cdde"
     },
     {
       "path": "content/mods/better-ping-display.json",
@@ -174,7 +174,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "44e1a8a9ba1168957ac56ae4665f1ccfb63d348c"
+      "sha1": "1043d698467125bc1d0b56185c5ad24388ba89d3"
     },
     {
       "path": "content/mods/create-aeroworks.json",
@@ -182,7 +182,7 @@
     },
     {
       "path": "content/mods/create-coasters-simulated.json",
-      "sha1": "e545f76a7c0ee908dc06fae1334ff61256f1591f"
+      "sha1": "9484a9e6e7f1d49a6f72e535513e82563ad6528e"
     },
     {
       "path": "content/mods/create-compact-flap.json",
@@ -210,11 +210,7 @@
     },
     {
       "path": "content/mods/create-diesel-generators.json",
-      "sha1": "8f1a931163a3a7d1fa7e3c1bd5c2c29ce748565b"
-    },
-    {
-      "path": "content/mods/create-electro-energetics.json",
-      "sha1": "9e33917b1a3df88a2bf15b4f17dffa71eb183647"
+      "sha1": "63dd9eb79bfea9a4e87fa50c03a90316e24c02ad"
     },
     {
       "path": "content/mods/create-nowheel.json",
@@ -242,11 +238,11 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "12167d834983187964f6561846bff35dd722fe7d"
+      "sha1": "6194dafb80dcc44cd8fdace461d7504d008b00fa"
     },
     {
       "path": "content/mods/creativecore.json",
-      "sha1": "d900981ff26364887a152d241cf969ce7a88d591"
+      "sha1": "8181c75977557279c413d11a7f368c1d33ab510c"
     },
     {
       "path": "content/mods/creeper-overhaul.json",
@@ -258,7 +254,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "30ef4a2a6305294ed4780daa7a4d39de61a20144"
+      "sha1": "94447e0165bcc79c40010b52574b141086da2a8d"
     },
     {
       "path": "content/mods/custom-player-models.json",
@@ -275,10 +271,6 @@
     {
       "path": "content/mods/ding.json",
       "sha1": "6361d75dce57f6ed642eb6fda3dd508577d0d933"
-    },
-    {
-      "path": "content/mods/distanthorizons.json",
-      "sha1": "501c5472bcafeaf09545b07ecd87ddf65d6438eb"
     },
     {
       "path": "content/mods/dramatic-doors.json",
@@ -330,7 +322,7 @@
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "7dd206aea27838ef58469c415f18edc96e24dbca"
+      "sha1": "e4126dcadca3e03309f52291754e579c7bc9727b"
     },
     {
       "path": "content/mods/envelope.json",
@@ -342,11 +334,15 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "aeb2e933e4ac0665ab8df38e81f84e2c632d3daa"
+      "sha1": "9d320411c343272908dcd9f063a56404b5fd62b6"
     },
     {
       "path": "content/mods/exposure.json",
       "sha1": "8e0c1258d93940ce0af35fd93fe0d5ef2e5bbdcd"
+    },
+    {
+      "path": "content/mods/fabric-api.json",
+      "sha1": "7bebd833b79f7cafd20dae4ea8342be0c21b49f3"
     },
     {
       "path": "content/mods/fancymenu.json",
@@ -365,7 +361,7 @@
       "sha1": "726589a810c88aedece60a01a436c51433904a5e"
     },
     {
-      "path": "content/mods/forgified-fabric-api.json",
+      "path": "content/mods/forgified-fabric-api-2.json",
       "sha1": "031c6f04a861c8e93fb87d0a3cdc5de15df35554"
     },
     {
@@ -382,7 +378,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "4068f4cb3c264f2338363420b1b065c098504570"
+      "sha1": "0afdc79bc39e4ca43836ed4461b44f8771f6a7b8"
     },
     {
       "path": "content/mods/glows.json",
@@ -441,12 +437,8 @@
       "sha1": "0c7cb7c15b0246c0ce731883501b0722372663d8"
     },
     {
-      "path": "content/mods/kubejs-2.json",
-      "sha1": "a66129adf53fbc0f5a95dfa2bb21a0cae3eba19f"
-    },
-    {
-      "path": "content/mods/kubejs-tweaks.json",
-      "sha1": "b1ceedd730e3af55e3c982454949012a3d7be3bd"
+      "path": "content/mods/kubejs.json",
+      "sha1": "53cf25c5a3b11b4cd89d429c2225c7550c3d2685"
     },
     {
       "path": "content/mods/labels.json",
@@ -478,11 +470,19 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "8da5b52da6380b2410fbc01366ef173d4dc7bb90"
+      "sha1": "5a23d820bc6740093c063a82403b7e9963c14cb6"
+    },
+    {
+      "path": "content/mods/living-wind.json",
+      "sha1": "229bb296bc607e97a326c5e7b61663737620cfbe"
     },
     {
       "path": "content/mods/lmd.json",
       "sha1": "2a790e4c03ab4a5f69ea5f14c316f3f0e96fdefa"
+    },
+    {
+      "path": "content/mods/lmft.json",
+      "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
     },
     {
       "path": "content/mods/loot-integrations.json",
@@ -521,6 +521,10 @@
       "sha1": "271054ce440b6b9b4c7a1a0ed9166f2d6b38328a"
     },
     {
+      "path": "content/mods/natures-spirit.json",
+      "sha1": "c2e730caf51035e41e88b189bf3a01cf8621e03b"
+    },
+    {
       "path": "content/mods/no-chat-reports.json",
       "sha1": "45dbd694a784f53d50b8672ab94365dd8becf967"
     },
@@ -542,7 +546,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "c79e5aaac7a29b6635306f43bd3977b59364daeb"
+      "sha1": "d15c8144e43fa11e6bae20665dd9b809aa0f168b"
     },
     {
       "path": "content/mods/particle-core.json",
@@ -550,11 +554,15 @@
     },
     {
       "path": "content/mods/particle-rain.json",
-      "sha1": "90df3a1b85120df2cc650c6f95af0031744f0326"
+      "sha1": "009ea17ff42a2eee9e194492ee10f79a96d01630"
     },
     {
       "path": "content/mods/pehkui.json",
       "sha1": "b34a7672b0798ee858b92fcc31b3c0fc85c8c3c7"
+    },
+    {
+      "path": "content/mods/polymorph.json",
+      "sha1": "088ab3dea4c6c03535ddffce0d63e714bc6cc181"
     },
     {
       "path": "content/mods/portfolio.json",
@@ -573,16 +581,20 @@
       "sha1": "219db4e9973589f31d6ef518bf7fb591bb707deb"
     },
     {
+      "path": "content/mods/realistic-waves.json",
+      "sha1": "26b07f9e76a09dabf17effc87a81dd47e43098c9"
+    },
+    {
       "path": "content/mods/redomesticate.json",
       "sha1": "06ba24e86875f9c28d69849e4a8618a47b16075a"
     },
     {
       "path": "content/mods/reliable-advancements.json",
-      "sha1": "16417479fa631579c4192f398ab645a0921e4a67"
+      "sha1": "86cae4261731de7f137b84575286bfd6c7e5e402"
     },
     {
       "path": "content/mods/reliable-backpacks.json",
-      "sha1": "149fe33d099689ab0f6a8a2f8a699a069c56581b"
+      "sha1": "99a9fe933f75e73c9ebce76426598f9502050dfd"
     },
     {
       "path": "content/mods/reliable-recipes.json",
@@ -590,7 +602,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "6292a9e4397c8360cd336c3b1a16014be12160cb"
+      "sha1": "5940b7dde4f7d7a00458ac988d934ff4596d2cb3"
     },
     {
       "path": "content/mods/resourceful-config.json",
@@ -601,24 +613,20 @@
       "sha1": "d83d0cb5177202573c324bbfc41ab7177517ee73"
     },
     {
-      "path": "content/mods/rhino-2.json",
-      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
-    },
-    {
       "path": "content/mods/rhino.json",
-      "sha1": "e49f3edd58b254bf6c6a857cf86e42892af0bf94"
+      "sha1": "fbc2252b39a090e20c9e53386ffc6084e8448463"
     },
     {
       "path": "content/mods/sable-cleanup.json",
-      "sha1": "481b871a288b0245879a5d076ad35a74b0d621d5"
+      "sha1": "e7e728e06cc1355ccb2e5b450346f610b074f2df"
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "73bbec724bd718f263ffac7937f6452e36147ea9"
+      "sha1": "b4f1ff3172e4ea9ccc64d9744de24693ae3d847c"
     },
     {
       "path": "content/mods/scholar.json",
-      "sha1": "b7362aed58022ab91f0e1a51ac0b1fc74096427f"
+      "sha1": "d2fa729c5fd38511eb4c0e95825141f581dab30a"
     },
     {
       "path": "content/mods/scorched-guns-neoforged.json",
@@ -690,11 +698,11 @@
     },
     {
       "path": "content/mods/supermartijn642s-core-lib.json",
-      "sha1": "49b6aee63271a09b6f0077c6b0ff489aaafbc472"
+      "sha1": "6cda2efed43fce099669732ac5e0a4391d8491d4"
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "187e04fa9c5f10ebc03b80e06265db2a0a8df59a"
+      "sha1": "f8da60ead947f9e330e8ed9ff32e121f6c7b7c42"
     },
     {
       "path": "content/mods/surveyor.json",
@@ -721,6 +729,30 @@
       "sha1": "55899189560b2423730d1b94148bf72cfc70a31b"
     },
     {
+      "path": "content/mods/vanity-aesthetic-armory.json",
+      "sha1": "65701ea5f091ba2cf9448c3cc9146e738c680e42"
+    },
+    {
+      "path": "content/mods/vanity-ancient-tool-variants.json",
+      "sha1": "8f40efe98b6d9ad20be7f7de51a22f8d7d11fec5"
+    },
+    {
+      "path": "content/mods/vanity-colossal-weapons.json",
+      "sha1": "975e42ef89047c226e70d3c85fc3f4b3cd4fb85e"
+    },
+    {
+      "path": "content/mods/vanity-core.json",
+      "sha1": "a24e435b3c10bbd58fbcba285ab5e54ff17c4533"
+    },
+    {
+      "path": "content/mods/vanity-deep-forged.json",
+      "sha1": "4e3945d9cda61626eaf284746ddda91eea966216"
+    },
+    {
+      "path": "content/mods/vanity-ornate-weaponry.json",
+      "sha1": "948367b82e8e29d70f38579d427dda6a34b17e56"
+    },
+    {
       "path": "content/mods/veil-bonk.json",
       "sha1": "53a69b702ecc95583aeb5c8814498c6c91c9e0e5"
     },
@@ -730,11 +762,15 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "b8accccf2718f284856361a8f74478a07ded5ddf"
+      "sha1": "ba0f1e5cec91b6e28e65262e86d411c1536ee330"
     },
     {
       "path": "content/mods/void-water.json",
       "sha1": "2e72f0bf22f75ef71cbbe41cc65248ba4d0b6ac0"
+    },
+    {
+      "path": "content/mods/wakes-reforged.json",
+      "sha1": "b41bccee9caa9930622aab5f9ab2edf51023e4cf"
     },
     {
       "path": "content/mods/wither-reincarnated.json",
@@ -745,12 +781,16 @@
       "sha1": "5ddd81b8f15b703dc45c7eb6a0e25dc290f7b051"
     },
     {
+      "path": "content/resourcepacks/sc2_snd_remix.json",
+      "sha1": "d65c73d8c0f21095576ffb20b2b6fad06c4b8653"
+    },
+    {
       "path": "content/resourcepacks/toms-metal-storage.json",
       "sha1": "410a5674a06d4399965addbdbea5504a9f506827"
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "ccb186640de7f275f45d05ac866fcd43b68937df"
+      "sha1": "a4f39262d8af572ef3c52c58bec93a40f1ce94e3"
     },
     {
       "path": "overrides/config/NoChatReports/NCR-Client.json",
@@ -773,8 +813,20 @@
       "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3"
     },
     {
+      "path": "overrides/config/aeronautics-client.toml",
+      "sha1": "bfeef9cdbcd934c4bbce58f3e25dd303845de5ee"
+    },
+    {
       "path": "overrides/config/aeronautics-server.toml",
       "sha1": "427bd55fa8cea09a79f6d00947cbca9944a36dd5"
+    },
+    {
+      "path": "overrides/config/aeronauticswinds-client.toml",
+      "sha1": "b84bc3c549a5c71040d8e69678633244e0d13771"
+    },
+    {
+      "path": "overrides/config/aeronauticswinds-common.toml",
+      "sha1": "698115c54cf491724274662a637ee2e34f4b510e"
     },
     {
       "path": "overrides/config/aeroworks-client.toml",
@@ -802,11 +854,11 @@
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "5daf4da83a5f30dc68ca9a979be9f2f54bf4967f"
+      "sha1": "af1d9caedbbad26b9833e39f5ac3040a06b9c308"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "df73de17041f4f67eaf313effc520b7f45e7249e"
+      "sha1": "4e7803c17066d379da857ddc6a0d550526dc525e"
     },
     {
       "path": "overrides/config/analogleverdrag-client.toml",
@@ -858,7 +910,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "dd585361102eb27f66cb0bd6e127b543e2777057"
+      "sha1": "b5b1c8f90fe879907d58cf47afebd760edc483be"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -889,6 +941,10 @@
       "sha1": "b9c523efd8f423a392f531ec5258b8acfc80b6ba"
     },
     {
+      "path": "overrides/config/biggerstacks-server.toml",
+      "sha1": "605bc857bbece2bc7864f560f7ef0b3e9b3d36ef"
+    },
+    {
       "path": "overrides/config/biggerstacks-template-overrides.json",
       "sha1": "4912da627d0cd06217a5c29c2ecf33b52efbab6d"
     },
@@ -910,7 +966,7 @@
     },
     {
       "path": "overrides/config/c2me.toml",
-      "sha1": "3b8b2d86d56ee7f4cdc98f6a7ce3bbf9bebec2e2"
+      "sha1": "e879c2c0ce3c6fac3cf0ff9f10bd1098d14a67a4"
     },
     {
       "path": "overrides/config/caelum-client.toml",
@@ -931,6 +987,10 @@
     {
       "path": "overrides/config/chalk-common.toml",
       "sha1": "19ffd5f1304bb2dda97c1f605039ec9c45ccf548"
+    },
+    {
+      "path": "overrides/config/chalk-server.toml",
+      "sha1": "b8bc66284d0755dc722a28fbc4d221de0e42736b"
     },
     {
       "path": "overrides/config/chunkloaders-common.toml",
@@ -1022,7 +1082,7 @@
     },
     {
       "path": "overrides/config/create-server.toml",
-      "sha1": "c3645d468b320ba6cdde295f5fb14c95ab72ce3c"
+      "sha1": "eabb54325ad9c11c74674649c56aaee294a85be2"
     },
     {
       "path": "overrides/config/create_connected-common.toml",
@@ -1030,23 +1090,35 @@
     },
     {
       "path": "overrides/config/create_connected-server.toml",
-      "sha1": "4dc52091948b7f6c374ffc2061bde0684611e38a"
+      "sha1": "148622942dcfaccf4362dfab841576dc2ae25969"
     },
     {
       "path": "overrides/config/createdieselgenerators-client.toml",
-      "sha1": "93ba88a441b9e10723e5c5ba49f330bf280d4652"
+      "sha1": "b0ac64ceeff221915b476c232f4715dd1072232f"
     },
     {
       "path": "overrides/config/createdieselgenerators-common.toml",
       "sha1": "254f5d4a342e70247ed62a7d980963d07dbe99e4"
     },
     {
+      "path": "overrides/config/createdieselgenerators-server.toml",
+      "sha1": "3ed4416a4d29e09bb686d0983630649798624be4"
+    },
+    {
       "path": "overrides/config/createpropulsion-client.toml",
       "sha1": "ac866999f8d4ecd1eff17efd6a7eee2ee6032d6a"
     },
     {
+      "path": "overrides/config/createpropulsion-common.toml",
+      "sha1": "4d14a8ea8f8038b86ff3b1c7f432aabb4e7b5fa2"
+    },
+    {
       "path": "overrides/config/createrailgrinding-client.toml",
       "sha1": "3e7537c8e1fd5e2163196c07eba8e6f15aeecf45"
+    },
+    {
+      "path": "overrides/config/createrailgrinding-server.toml",
+      "sha1": "4ae5d905a3cf2ed6520236cba546768b50cbe559"
     },
     {
       "path": "overrides/config/createredstonelinkgui-client.toml",
@@ -1055,6 +1127,14 @@
     {
       "path": "overrides/config/createredstonelinkgui-common.toml",
       "sha1": "cc1782daf5498af1867a41ec9a04706c2a81596e"
+    },
+    {
+      "path": "overrides/config/creativecore-client.json",
+      "sha1": "2ac12a74fc6c40a697dfeb4ee9eda22e9241a6b7"
+    },
+    {
+      "path": "overrides/config/creativecore.json",
+      "sha1": "b97078641402978a24ffe8af190038943b99438a"
     },
     {
       "path": "overrides/config/creeperoverhaul.jsonc",
@@ -1077,6 +1157,10 @@
       "sha1": "315972fac2e0ad7fb6bbc9f945b05eef57e92cd7"
     },
     {
+      "path": "overrides/config/curios-server.toml",
+      "sha1": "81d93eedbe298af8dbc0f41ddf930563de3ed98d"
+    },
+    {
       "path": "overrides/config/cutthrough-client.toml",
       "sha1": "315338cdbdb723a4a8602ffb59b40f4491379d96"
     },
@@ -1091,6 +1175,10 @@
     {
       "path": "overrides/config/dnd_aero_compat-common.toml",
       "sha1": "d6bc549c8e9ee94aaf8618de6ab9572447b5d88d"
+    },
+    {
+      "path": "overrides/config/dndecor-server.toml",
+      "sha1": "b3f504a9f9810fea1fa4e6837cbb9e922137b537"
     },
     {
       "path": "overrides/config/dramaticdoors-startup.toml",
@@ -1123,6 +1211,10 @@
     {
       "path": "overrides/config/electroenergetics-client.toml",
       "sha1": "6364d081789a4c3cfbffb6db97cf3dcb1f602060"
+    },
+    {
+      "path": "overrides/config/electroenergetics-server.toml",
+      "sha1": "4e995a9379d5b9f06753912dab0e6125d06f6004"
     },
     {
       "path": "overrides/config/emi.css",
@@ -1158,11 +1250,15 @@
     },
     {
       "path": "overrides/config/envelope-server.toml",
-      "sha1": "ce0a6ab71bf2f6df778b5f928f22b22f076ddcd8"
+      "sha1": "11ae73bc70e280da9260e6226c642038cfbc8fd9"
     },
     {
       "path": "overrides/config/etched-client.toml",
       "sha1": "580aed6d8f0121d756bed99ca0bda1ab83439561"
+    },
+    {
+      "path": "overrides/config/etched-server.toml",
+      "sha1": "3d0097f6585a9e4ea0456b528389c07f29b17408"
     },
     {
       "path": "overrides/config/everycomp-client.toml",
@@ -1174,7 +1270,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "58dd28c74049aa120b0a3f6a467b2fa3c3b23422"
+      "sha1": "615ca1ed0dcb273c0f3d0e0025d7530beaac4119"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -1189,8 +1285,12 @@
       "sha1": "403cc66232153f39ff35d6c420fbe77d99f61c7f"
     },
     {
+      "path": "overrides/config/exposure-server.toml",
+      "sha1": "caf8c717995367850ecee88d695a8807d71f0bad"
+    },
+    {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "d1fd454eb9343d7c16e9142efaf522f959e4dd5f"
+      "sha1": "d3311e164d5a1caf70735db326d4dfa30ff6b2c7"
     },
     {
       "path": "overrides/config/fancymenu/assets/food_book.png",
@@ -1390,15 +1490,23 @@
     },
     {
       "path": "overrides/config/immersiveenchanting-server.toml",
-      "sha1": "cae9b2dde03b35eab8aacfc5cd14111659a51f20"
+      "sha1": "52cfdb25cfe87db733d617350cd61b1db710d366"
     },
     {
       "path": "overrides/config/iteminteractions-client.toml",
       "sha1": "f0a38cbcde79371d68f971aaf61e8deeb62671ad"
     },
     {
+      "path": "overrides/config/iteminteractions-server.toml",
+      "sha1": "8fba87a1b9c4529f3a38a7b2efea01358bd57cae"
+    },
+    {
       "path": "overrides/config/itemphysic-client.json",
-      "sha1": "109ed7a8a9513d4f9f57f3834d0265c8ee834972"
+      "sha1": "d633a1d1e0c9d558c2f03918dc69a706377db973"
+    },
+    {
+      "path": "overrides/config/itemphysic.json",
+      "sha1": "f7a651c1b388277d2704f7816929c3a46100b467"
     },
     {
       "path": "overrides/config/ixeris.toml",
@@ -1430,7 +1538,7 @@
     },
     {
       "path": "overrides/config/lazy-ai.json",
-      "sha1": "83e8db3b00f600fb9377a0e62d0b4981c68e742a"
+      "sha1": "7b33a7ec60c2dde43382601fa7ea82cb1603487f"
     },
     {
       "path": "overrides/config/ldfix-common.toml",
@@ -1439,6 +1547,10 @@
     {
       "path": "overrides/config/let_it_walk-client.toml",
       "sha1": "f5a8562b397550a84c4b441ad889946bcc8ee0e0"
+    },
+    {
+      "path": "overrides/config/let_it_walk-server.toml",
+      "sha1": "652e980098970d3b40d25c277edc6aefeb7a29c3"
     },
     {
       "path": "overrides/config/letmedespawn.json.migrated",
@@ -1455,6 +1567,30 @@
     {
       "path": "overrides/config/lithostitched.json",
       "sha1": "9ae03c2dafdba47d9518aae1865d20e5abadbe03"
+    },
+    {
+      "path": "overrides/config/livingwind-client.toml",
+      "sha1": "d5a0d58bc6ebf660140563681bd1097f47552f91"
+    },
+    {
+      "path": "overrides/config/livingwind-common.toml",
+      "sha1": "01c5fc9e71814710ea470d8d0c2673fdc166c404"
+    },
+    {
+      "path": "overrides/config/lmft.json",
+      "sha1": "cc01fc9b9cfe79c57a1e65ac2f9915834fe446fe"
+    },
+    {
+      "path": "overrides/config/loconautics-client.toml",
+      "sha1": "e46d74a48bbd1730c2d1b34bda1ab5b2584fe244"
+    },
+    {
+      "path": "overrides/config/loconautics-experimental.toml",
+      "sha1": "5580cb5b42410fbf9a1155ecf0535dd093330682"
+    },
+    {
+      "path": "overrides/config/loconautics-server.toml",
+      "sha1": "08da09dd171b82e6f22d0024dc03bbab48a5da34"
     },
     {
       "path": "overrides/config/lodestone-client.toml",
@@ -1517,6 +1653,14 @@
       "sha1": "68e7dd519f901fc8e65bd22eee11af11b27f7f6f"
     },
     {
+      "path": "overrides/config/mortaar-server.toml",
+      "sha1": "804aa23ee62febeb55b22d6bf177c156c839c39a"
+    },
+    {
+      "path": "overrides/config/natures_spirit-common.toml",
+      "sha1": "dd66ee4ca16d602a06733dd01d9bec1fb644ade5"
+    },
+    {
       "path": "overrides/config/neoforge-client.toml",
       "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
     },
@@ -1557,6 +1701,10 @@
       "sha1": "eea3f20a6ef175449a9ae5b7c6930903d638df3a"
     },
     {
+      "path": "overrides/config/offroad-server.toml",
+      "sha1": "1dc8951f873e490ae81989d878cb8b5101455d49"
+    },
+    {
       "path": "overrides/config/particle_core_config.toml",
       "sha1": "43e6c438d51b00a097df56f6625d62bd3ce8029a"
     },
@@ -1575,6 +1723,10 @@
     {
       "path": "overrides/config/pehkui-common.toml",
       "sha1": "bfdf478532dfce45f5e6f178e39fe6176a7c3241"
+    },
+    {
+      "path": "overrides/config/pehkui-server.toml",
+      "sha1": "68f4ac8ce69f9db41bb6e382eb31944abf18575b"
     },
     {
       "path": "overrides/config/personality-client.toml",
@@ -1618,7 +1770,7 @@
     },
     {
       "path": "overrides/config/reliable_advancements.json",
-      "sha1": "9dd6383d2d1fd439a979e1068b10dd8883b66bb6"
+      "sha1": "f7282a543f23a3667631f8f7eef19097da1aa58a"
     },
     {
       "path": "overrides/config/reliable_advancements_edits/data/minecraft/advancement/story/enchant_item.json",
@@ -1645,6 +1797,10 @@
       "sha1": "89178df4f58ef3f4f8dbd8a5510535de188fe82e"
     },
     {
+      "path": "overrides/config/reliable_remover/removal_example.json.disabled",
+      "sha1": "c24a0c8204ebf3f29a475b8157416b0fb233f1ba"
+    },
+    {
       "path": "overrides/config/resourceful-config-web.json",
       "sha1": "0d9d74c211549301100ca938fbb3d900a2b88438"
     },
@@ -1657,8 +1813,16 @@
       "sha1": "1b5c140eb6b9181e06686330b80c86c227476705"
     },
     {
+      "path": "overrides/config/sable-server.toml",
+      "sha1": "2ae72c8b6392b27c338bb2392ecf00733f032fe1"
+    },
+    {
       "path": "overrides/config/sablecleanup-client.toml",
-      "sha1": "a986931a1ee29a36c074b37dedd5b8efba8fa553"
+      "sha1": "c53f16976c6c19b062f6027fbbaea0cc0ea92c50"
+    },
+    {
+      "path": "overrides/config/sablecleanup-startup.toml",
+      "sha1": "1c434dd7635515b63104d0dfbc94407111afda09"
     },
     {
       "path": "overrides/config/scguns-client.toml",
@@ -1670,7 +1834,7 @@
     },
     {
       "path": "overrides/config/scguns-server.toml",
-      "sha1": "e12eff8606f8a3a049bb1188078cd20463d54474"
+      "sha1": "d35f95c6de1b616bee8bbc14f4b516db240986fb"
     },
     {
       "path": "overrides/config/scholar-client.toml",
@@ -1691,6 +1855,10 @@
     {
       "path": "overrides/config/simulated-client.toml",
       "sha1": "5ecd38c0dc2dc7245bbbb7ad0187a1196f816d2f"
+    },
+    {
+      "path": "overrides/config/simulated-server.toml",
+      "sha1": "1ab3343ed4a74008ad939c208a2536d7b3e79fe0"
     },
     {
       "path": "overrides/config/simulatedcoasters-common.toml",
@@ -1722,7 +1890,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
     },
     {
       "path": "overrides/config/solonion-client.json",
@@ -1730,7 +1898,7 @@
     },
     {
       "path": "overrides/config/solonion.json",
-      "sha1": "1ce002e9d18733d1c7f9df7bf3ae52cebce74998"
+      "sha1": "54de00c926f15a5393ec95f21bb5565279a39ee9"
     },
     {
       "path": "overrides/config/sootychimneys-client.toml",
@@ -1750,11 +1918,15 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "a132b9f96e18274fd76b35a1b1f982296df9b04d"
+      "sha1": "13419405c4e76849272b1fd4262e6019434e43b7"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
       "sha1": "f19e89b002596ede2b4b5a528ddb12180db6ac93"
+    },
+    {
+      "path": "overrides/config/spark/config.json",
+      "sha1": "33b6644f61573b11848cde9419529737418e0207"
     },
     {
       "path": "overrides/config/spark/tmp/about.txt",
@@ -1873,12 +2045,20 @@
       "sha1": "32c22de9185430cfb21e6a4c00824e5382a67e31"
     },
     {
+      "path": "overrides/config/supplementaries-common.toml",
+      "sha1": "d99e54ca2b02579ec011fd030b2cfb63d0608a46"
+    },
+    {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "bd52f9d9ad425f8c9d20f1d89754619b270106c4"
+      "sha1": "79f3d012683d133654d66ff31bed7600a7eb17af"
     },
     {
       "path": "overrides/config/tectonic.json",
       "sha1": "a49cbe958d4c45c59783b426a5079ad83ed2a206"
+    },
+    {
+      "path": "overrides/config/tmrv_plugins.json5",
+      "sha1": "68f24615533216a59f235eacff9c238735917277"
     },
     {
       "path": "overrides/config/toms_storage-common.toml",
@@ -1887,6 +2067,10 @@
     {
       "path": "overrides/config/toms_storage-server.toml",
       "sha1": "1d188726e4a4a3a6ab4ff5a6fb45f1850177da71"
+    },
+    {
+      "path": "overrides/config/tracks-server.toml",
+      "sha1": "7094e1e0cef2963a6e8ac274903213453fa941d1"
     },
     {
       "path": "overrides/config/tradingpost-server.toml",
@@ -1929,6 +2113,10 @@
       "sha1": "51ed6d74ce390b2219a85fb3cfdad19c85039d79"
     },
     {
+      "path": "overrides/config/voicechat/username-cache.json",
+      "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+    },
+    {
       "path": "overrides/config/voicechat/voicechat-client.properties",
       "sha1": "c729e21262f6e8756addf7d2b8f55cb638a26c91"
     },
@@ -1937,12 +2125,24 @@
       "sha1": "d39ea2e8b69a3262bf90b057f689483844f9f60f"
     },
     {
+      "path": "overrides/config/void_water-server.toml",
+      "sha1": "f58811184daa1213b6adbf7bd609fd1d16b6f796"
+    },
+    {
       "path": "overrides/config/voxy-config.json",
       "sha1": "3b25c4411c0f18033702333fde695b8e98f61042"
     },
     {
       "path": "overrides/config/vsfluidlink-server.toml",
       "sha1": "8508f4ba214ce4a46a8883bb874bcc8228b00299"
+    },
+    {
+      "path": "overrides/config/wakes-client.toml",
+      "sha1": "ec0c534b8c82f6cee3e2cb63e7712c4f96a0c629"
+    },
+    {
+      "path": "overrides/config/whitecap.json",
+      "sha1": "68724f8af37c7462e44f3faf64c2538dcd37ac25"
     },
     {
       "path": "overrides/config/whitenoise-client.toml",
@@ -1961,16 +2161,40 @@
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
     },
     {
+      "path": "overrides/data/fabricDefaultResourcePacks.dat",
+      "sha1": "a3c4a4317e4e7c682d2eff72d0527ee1822167a0"
+    },
+    {
+      "path": "overrides/data/scholar_loaded_built_in_resource_packs.dat",
+      "sha1": "e0a186a5416918484f697c219701c7f1d4cac2cd"
+    },
+    {
+      "path": "overrides/data/surveyor/-7845253334853161597/00000000-0000-0000-0000-000000000000.dat",
+      "sha1": "ba8518c1f10ac4c87d17856d0113799496903273"
+    },
+    {
+      "path": "overrides/data/surveyor/490927902772903491/00000000-0000-0000-0000-000000000000.dat",
+      "sha1": "ba8518c1f10ac4c87d17856d0113799496903273"
+    },
+    {
+      "path": "overrides/data/surveyor/5005940521731040529/00000000-0000-0000-0000-000000000000.dat",
+      "sha1": "ba8518c1f10ac4c87d17856d0113799496903273"
+    },
+    {
+      "path": "overrides/data/surveyor/5073886189758953801/00000000-0000-0000-0000-000000000000.dat",
+      "sha1": "ba8518c1f10ac4c87d17856d0113799496903273"
+    },
+    {
+      "path": "overrides/defaultconfigs/biolith/general.json",
+      "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
+    },
+    {
       "path": "overrides/icon.png",
-      "sha1": "afa7fef274171a7c7d473fbe3b868139e489731a"
+      "sha1": "c6127488543e264a2c2aa4c10583ae1e755756ff"
     },
     {
       "path": "overrides/kubejs/README.txt",
       "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
-    },
-    {
-      "path": "overrides/kubejs/assets/SC2_SND_REMIX.zip",
-      "sha1": "b35022e0b8b70a740ad7e1b4135a7d40d4e927cd"
     },
     {
       "path": "overrides/kubejs/assets/ambientsounds/basic/blockgroups/flesh.json",
@@ -2097,10 +2321,6 @@
       "sha1": "053a5c02d590d3d706eace53350170c914ff7f90"
     },
     {
-      "path": "overrides/kubejs/assets/brewinandchewin/textures/gui/keg.png",
-      "sha1": "46177776bbc17fc57c00403d07bca2b28cf3cf9b"
-    },
-    {
       "path": "overrides/kubejs/assets/chunkloaders/textures/advanced_chunk_loader.png",
       "sha1": "5568df18d0e12cc8f6cc2b6f559b24dc1c4a29e2"
     },
@@ -2117,116 +2337,12 @@
       "sha1": "14f0c2fe2072968135d4314f17e69d3b14e364ed"
     },
     {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_down.png",
-      "sha1": "980f8b0fd6d48944987903a3978a80b713e9b204"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_down_disabled.png",
-      "sha1": "a399862992f665e43a2389a038756ab601caa273"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_down_highlighted.png",
-      "sha1": "123f8e31883c822366c645c629bad71c82831dfd"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_up.png",
-      "sha1": "5b635501469a2511a53d6cae7d55f6c6a8853d25"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_up_disabled.png",
-      "sha1": "d839514c9347c2aba82ab10cda66df812898d777"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/match_transfer_up_highlighted.png",
-      "sha1": "569296d78b9246c9ee799750db90cd266812a841"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/sort.png",
-      "sha1": "67780d7b5206c0edea6c820cac92bc7a4a73b343"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/sort_disabled.png",
-      "sha1": "8939888b2fc7b5586b80999ca86ae640c4b59b31"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/sort_highlighted.png",
-      "sha1": "92ceaf292c3a3018d61a27296050ea29efc31ee2"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_down.png",
-      "sha1": "e89175fdb7600c450b305a3c274c2232362eec49"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_down_disabled.png",
-      "sha1": "dd366c0c4f97cfdf6a5cccb33b8a6193a0388c2b"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_down_highlighted.png",
-      "sha1": "dbd0c6e3b1069a11f5c3351f551939f8749e281e"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_up.png",
-      "sha1": "9ee955139432e1a6e3ad4c9609a7a6e6f436a930"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_up_disabled.png",
-      "sha1": "c9c50251a91caae38d7dd3a28ba9948cf0a76c76"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/stack_fill_up_highlighted.png",
-      "sha1": "302aff21d7f6dda4871d165787a24e07c50b5169"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_down.png",
-      "sha1": "10f9cef0563ec116c97610e44a992a8c31a0de36"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_down_disabled.png",
-      "sha1": "64021812b5e5dbe7c1a6f200a60d85ec25472353"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_down_highlighted.png",
-      "sha1": "0a9ed41cbdd91238cee91fdfd6348e6616862cf1"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_up.png",
-      "sha1": "0c8008e631b2b284cd8d52cf8825809f9afd2233"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_up_disabled.png",
-      "sha1": "aeed1dbb562a00c1aa9f69f807fc632051e9f754"
-    },
-    {
-      "path": "overrides/kubejs/assets/clientsort/textures/gui/sprites/widget/transfer_up_highlighted.png",
-      "sha1": "e2fcf703fb90b16be58792045212bc629e49ce39"
-    },
-    {
-      "path": "overrides/kubejs/assets/corpse/textures/gui/gui_corpse.png",
-      "sha1": "0f4bf0be84351221a2a10fd492f48eed74520ce5"
-    },
-    {
-      "path": "overrides/kubejs/assets/corpse/textures/gui/gui_death_history.png",
-      "sha1": "5fba9bef0908835d99a1050ab2b792c2e1e31a23"
-    },
-    {
-      "path": "overrides/kubejs/assets/corpse/textures/gui/inventory_corpse.png",
-      "sha1": "72b672a21cbfc4fa01def0d0011f40ac92632392"
-    },
-    {
-      "path": "overrides/kubejs/assets/cosmeticarmorreworkedforked/textures/gui/cosarmorinventory.png",
-      "sha1": "cc396d12136f4a68999c6bfd3770206f57b1f879"
-    },
-    {
       "path": "overrides/kubejs/assets/create/lang/en_us.json",
       "sha1": "9936c49b78d146a5a86457599fea05d8dd3f2350"
     },
     {
       "path": "overrides/kubejs/assets/create/textures/block/deepslate_zinc_ore.png",
       "sha1": "9a8ea178edc252280a057b7022c74911ab716c1e"
-    },
-    {
-      "path": "overrides/kubejs/assets/create/textures/gui/player_inventory.png",
-      "sha1": "e4af783503c351b21d7e409502d32aa2409201c2"
     },
     {
       "path": "overrides/kubejs/assets/createpropulsion/sounds.json",
@@ -2271,26 +2387,6 @@
     {
       "path": "overrides/kubejs/assets/createpropulsion/textures/block/vector_thruster.png",
       "sha1": "7f992f9b994255373b67004c207f9fa5b6a415b3"
-    },
-    {
-      "path": "overrides/kubejs/assets/curios/textures/gui/curios/cosmetic_off.png",
-      "sha1": "73cac77760734f9b0e89ad289341b2ffb5b3e293"
-    },
-    {
-      "path": "overrides/kubejs/assets/curios/textures/gui/curios/cosmetic_off_highlighted.png",
-      "sha1": "73cac77760734f9b0e89ad289341b2ffb5b3e293"
-    },
-    {
-      "path": "overrides/kubejs/assets/curios/textures/gui/curios/cosmetic_on.png",
-      "sha1": "d8e2937a6ec97941ce0c541a22cd8a5149ff0331"
-    },
-    {
-      "path": "overrides/kubejs/assets/curios/textures/gui/curios/cosmetic_on_highlighted.png",
-      "sha1": "d8e2937a6ec97941ce0c541a22cd8a5149ff0331"
-    },
-    {
-      "path": "overrides/kubejs/assets/curios/textures/gui/curios/inventory.png",
-      "sha1": "ff8e0a9180da87eb703cf52941a65835ac03f3c0"
     },
     {
       "path": "overrides/kubejs/assets/emi/index/stacks/copycat.json",
@@ -2385,8 +2481,16 @@
       "sha1": "6d6924efba1dfbba9638b5c86b5bbb7443f4f968"
     },
     {
+      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/density.json",
+      "sha1": "b136c544f134bff06311576c4e80a25867a6c6e0"
+    },
+    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/depth_strider.json",
       "sha1": "535c1e7bc7688182899578f99f708f104b35dab8"
+    },
+    {
+      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/efficiency.json",
+      "sha1": "7dcad50da578b8254adfceee0d589947c970cb88"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/minecraft/feather_falling.json",
@@ -2561,6 +2665,10 @@
       "sha1": "4229996e210de8ab15bc7088303df0616b314acc"
     },
     {
+      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/accelerator.json",
+      "sha1": "ae8011d9369da9c64787dfbcf740db9ed456c888"
+    },
+    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/banzai.json",
       "sha1": "71237e0dcc0d4b9531e681d165e6f76dd82d5fc3"
     },
@@ -2577,8 +2685,16 @@
       "sha1": "1d181d2a433439f3ae09065871a9b501df3cc86f"
     },
     {
+      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/heavy_shot.json",
+      "sha1": "6e02b2b876c7dd1bfcf5957773cc696158a30d40"
+    },
+    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/hot_barrel.json",
       "sha1": "82d4828ae88496fe614b35c5df5834dede5331fa"
+    },
+    {
+      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/lightweight.json",
+      "sha1": "4ed6d0add9dce7fe4603fa465dad9c76696932bd"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/puncturing.json",
@@ -2597,6 +2713,10 @@
       "sha1": "1a9c5801221358670c8fe69c2894880dd9ada182"
     },
     {
+      "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/trigger_finger.json",
+      "sha1": "3142ae034e9d41c6f7d7618a211e36458fff7a45"
+    },
+    {
       "path": "overrides/kubejs/assets/emi/recipe/additions/enchantments/scguns/waterproof.json",
       "sha1": "3c4b35cc86f37b9d50370d3b28bb7e3badd2bc98"
     },
@@ -2607,6 +2727,10 @@
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/nephrite_condensation.json",
       "sha1": "ec5f11120c4487b959725e0b38db0ab64ca79b55"
+    },
+    {
+      "path": "overrides/kubejs/assets/emi/recipe/additions/player_head.json",
+      "sha1": "da68ea75229d852e79f0998b91da093302eea8f1"
     },
     {
       "path": "overrides/kubejs/assets/emi/recipe/additions/player_head_info.json",
@@ -2727,38 +2851,6 @@
     {
       "path": "overrides/kubejs/assets/emi/recipe/filters/sluice_filter.json",
       "sha1": "641110fcaf64e22c597343185653e19c2420ba70"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/textures/gui/background.png",
-      "sha1": "21263ab323dbad3918ac661490d566508829e7bf"
-    },
-    {
-      "path": "overrides/kubejs/assets/emi/textures/gui/buttons.png",
-      "sha1": "0bb1ed4c80d16d53159acfd784a5c0b23deeaad6"
-    },
-    {
-      "path": "overrides/kubejs/assets/exposure/textures/gui/album.png",
-      "sha1": "39c15f5dcb45f85e63c0c55ba5431ae3700a4ac7"
-    },
-    {
-      "path": "overrides/kubejs/assets/exposure/textures/gui/camera_attachments.png",
-      "sha1": "8a8f26f090096f286022eefe1cf03c8880795954"
-    },
-    {
-      "path": "overrides/kubejs/assets/exposure/textures/gui/film_frame_inspect.png",
-      "sha1": "2ea3e3ec71c6cd2c8bdd70bcc7f76980f8b99d28"
-    },
-    {
-      "path": "overrides/kubejs/assets/exposure/textures/gui/item_list.png",
-      "sha1": "1ea06a7380f8f50d8af18fce41777be5c7145767"
-    },
-    {
-      "path": "overrides/kubejs/assets/exposure/textures/gui/item_rename.png",
-      "sha1": "10f74d3f37aa75345471f9b21134df8eedf71d8a"
-    },
-    {
-      "path": "overrides/kubejs/assets/gallery/textures/gui/painting_selector.png",
-      "sha1": "6ba95793c5f1df44e4d5b1fd3a912ebcc10a4abe"
     },
     {
       "path": "overrides/kubejs/assets/guide.zip",
@@ -3097,22 +3189,6 @@
       "sha1": "68049fe891a505baeecfd76ecddb3deb60b3cf7f"
     },
     {
-      "path": "overrides/kubejs/assets/minecraft/sounds.json",
-      "sha1": "4d0223951550216c6a7541937f89b9955c898547"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/sounds/random/click_stereo_1.ogg",
-      "sha1": "00cbe56076e5a235df042bb2d7a2d31ecba2c7bf"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/sounds/random/click_stereo_2.ogg",
-      "sha1": "3f705a10b78ec75b1d305875ef05e0d83c5c8d32"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/sounds/random/click_stereo_3.ogg",
-      "sha1": "3eeb782483c51e4e17795e6682a8a11ee6c66f30"
-    },
-    {
       "path": "overrides/kubejs/assets/minecraft/texts/splashes.txt",
       "sha1": "128d729a19bbe3d47ac94e9b0ddf775efca1047b"
     },
@@ -3131,514 +3207,6 @@
     {
       "path": "overrides/kubejs/assets/minecraft/textures/entity/warden/warden_pulsating_spots_2.png",
       "sha1": "794de36cb3dd27b0110d7e461c2999e56bf06d24"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/anvil.png",
-      "sha1": "ff21b5427022dbf3d03b369ac65d1437e6db1c11"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/crafting_table.png",
-      "sha1": "5674531ef68b2bb02aa2401e50757d3362a9a230"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png",
-      "sha1": "5282203e0430c1e9325a0838a702b05b8d45060b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png",
-      "sha1": "c4fbe3058b76aeec80473ace382e904f56c729fd"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png",
-      "sha1": "aae4e86e993bc3a98a3c970d1c81bee89ce53c7c"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/dispenser.png",
-      "sha1": "4805e46c0048c9b978fd6460d36ac961afa23500"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/furnace.png",
-      "sha1": "634f83b86a93c9ceb615a1e5ee8f1634465e720b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/generic_54.png",
-      "sha1": "85a7288861b295ae0f398ce3c44cd82863f7a6d1"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/hopper.png",
-      "sha1": "efd897f3ec530048aaad9d9a7e4bcb2685d65714"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/inventory.png",
-      "sha1": "b0765394a8e3bc41983cbb5db41206b27a66b453"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/loom.png",
-      "sha1": "9d2901095b144a02c08ff77b4d8417ff07215b53"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/shulker_box.png",
-      "sha1": "e614c14d6072d91195bd445b1a12a2d31d172c00"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/container/stonecutter.png",
-      "sha1": "fa1a674fed519f86933a9f5b0a5f04141c954f68"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/anvil/error.png",
-      "sha1": "7767925b23b092fee1bd720b12d2e94f7587cb0e"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/scroller.png",
-      "sha1": "f16a9f20322525504965817ed61d034f46d9ae5f"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/scroller_disabled.png",
-      "sha1": "34a4919a9646e367d05b19d203e4ffc004405ac2"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_1.png",
-      "sha1": "31d66e18e959b51ab748b7a015537487ed79c6f8"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_2.png",
-      "sha1": "55631a0b419233fce96bb8dfb3ff4cd99f82ec24"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_3.png",
-      "sha1": "55631a0b419233fce96bb8dfb3ff4cd99f82ec24"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_4.png",
-      "sha1": "55631a0b419233fce96bb8dfb3ff4cd99f82ec24"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_5.png",
-      "sha1": "55631a0b419233fce96bb8dfb3ff4cd99f82ec24"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_6.png",
-      "sha1": "55631a0b419233fce96bb8dfb3ff4cd99f82ec24"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_selected_7.png",
-      "sha1": "9f8d1461d19526d320d7930abe3014a5e2d21275"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_1.png",
-      "sha1": "a01b6bfc78557150ab9b24fc019933521d09d5d7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_2.png",
-      "sha1": "a01b6bfc78557150ab9b24fc019933521d09d5d7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_3.png",
-      "sha1": "a01b6bfc78557150ab9b24fc019933521d09d5d7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_4.png",
-      "sha1": "a01b6bfc78557150ab9b24fc019933521d09d5d7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_5.png",
-      "sha1": "a01b6bfc78557150ab9b24fc019933521d09d5d7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_6.png",
-      "sha1": "a01b6bfc78557150ab9b24fc019933521d09d5d7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_7.png",
-      "sha1": "a01b6bfc78557150ab9b24fc019933521d09d5d7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_1.png",
-      "sha1": "6cdb3fccb438bd770e7a163a8105c1d933097ee5"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_2.png",
-      "sha1": "f1ddde47fc87027bece053b1d91444d48b3562ac"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_3.png",
-      "sha1": "f1ddde47fc87027bece053b1d91444d48b3562ac"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_4.png",
-      "sha1": "f1ddde47fc87027bece053b1d91444d48b3562ac"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_5.png",
-      "sha1": "f1ddde47fc87027bece053b1d91444d48b3562ac"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_6.png",
-      "sha1": "f1ddde47fc87027bece053b1d91444d48b3562ac"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_selected_7.png",
-      "sha1": "4f6bc948a9894df136b60a143c78d3e86e03f767"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_1.png",
-      "sha1": "55df08b83308fc2c6400424fa911e5f67458789b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_2.png",
-      "sha1": "55df08b83308fc2c6400424fa911e5f67458789b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_3.png",
-      "sha1": "55df08b83308fc2c6400424fa911e5f67458789b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_4.png",
-      "sha1": "55df08b83308fc2c6400424fa911e5f67458789b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_5.png",
-      "sha1": "55df08b83308fc2c6400424fa911e5f67458789b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_6.png",
-      "sha1": "55df08b83308fc2c6400424fa911e5f67458789b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/creative_inventory/tab_top_unselected_7.png",
-      "sha1": "55df08b83308fc2c6400424fa911e5f67458789b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/furnace/burn_progress.png",
-      "sha1": "c3a29d0c141f1245b8a333f4c5ced64d92ac0387"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/furnace/lit_progress.png",
-      "sha1": "7a742ff728e5c0fae9f13d36147197dd808fb35d"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/loom/banner_slot.png",
-      "sha1": "0f1422691504139e54eeea5f39de8720227ad19a"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/loom/dye_slot.png",
-      "sha1": "906dcf2aaf41cb9edcb9dcd46f1aac08fb059eef"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/loom/pattern_slot.png",
-      "sha1": "ce1ec6f2445208ff82079401a86b1cb22211fb58"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/loom/scroller.png",
-      "sha1": "e97198a8ecf82c3dfa399fb8660fb45b4e1f1dc1"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/loom/scroller_disabled.png",
-      "sha1": "3660c0b70aa299f04f863e63ca234f28bbcd0992"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/stonecutter/scroller.png",
-      "sha1": "e97198a8ecf82c3dfa399fb8660fb45b4e1f1dc1"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/container/stonecutter/scroller_disabled.png",
-      "sha1": "3660c0b70aa299f04f863e63ca234f28bbcd0992"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/recipe_book/button.png",
-      "sha1": "71c3b2217e6f363912ac4503478584dbed6cc404"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/recipe_book/button_highlighted.png",
-      "sha1": "128740bf48687eba2162c54e42552b7fba5f0706"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/incompatible.png",
-      "sha1": "9b52877da3dc4e8fb0e35aa7637c446c33ea0bc6"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/join.png",
-      "sha1": "70b573cb49e67af411f4c8ab948d6c70284714b0"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/join_highlighted.png",
-      "sha1": "9651ef742f5d702b3f1eb2103cd873a8e739478f"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/marked_join.png",
-      "sha1": "70b573cb49e67af411f4c8ab948d6c70284714b0"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/marked_join_highlighted.png",
-      "sha1": "9651ef742f5d702b3f1eb2103cd873a8e739478f"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/move_down.png",
-      "sha1": "f496e8fb8d7fb38fb4f8d7cc6f489ded402337cf"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/move_down_highlighted.png",
-      "sha1": "b9343cee0b4dc61bc250a4131a8442ed1f9c736f"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/move_up.png",
-      "sha1": "b4888a542c55e7797e9ce1e31b6949bc6b552907"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/move_up_highlighted.png",
-      "sha1": "b0d8847fead1349dc83a0b736f1d8adcf21738bd"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/ping_1.png",
-      "sha1": "453e1ee2bdf1888865a151be4206120afc52ec7b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/ping_2.png",
-      "sha1": "c2e59e7cceec6479edae07c0c85691bc99b678e4"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/ping_3.png",
-      "sha1": "a14edc3637a007d8ca08b4c6b159fa7f45d85be3"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/ping_4.png",
-      "sha1": "f0d1f36cd2d5cd2578c394a62cc717b2c2db8903"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/ping_5.png",
-      "sha1": "f0cf1367a92e83ac99d0488543ee45cc3613da14"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/pinging_1.png",
-      "sha1": "453e1ee2bdf1888865a151be4206120afc52ec7b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/pinging_2.png",
-      "sha1": "28a377873b58796f301497ae9d5834efb181afc9"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/pinging_3.png",
-      "sha1": "9f31a41a7fbd64d675820de514d7639aa48be054"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/pinging_4.png",
-      "sha1": "1ce3d55ce6f3848b4b8a27f561c2188f61e77f44"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/pinging_5.png",
-      "sha1": "374172b897b28e15869b92ec26a661d1199bc081"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/server_list/unreachable.png",
-      "sha1": "9b52877da3dc4e8fb0e35aa7637c446c33ea0bc6"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_down.png",
-      "sha1": "95fecccef4b2461bade5ed6c16739fe7a775f2ae"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_down_highlighted.png",
-      "sha1": "b90a4df0d5a7fe0ded043123dcd6fccf5fc25dda"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_up.png",
-      "sha1": "aa2a70f11990c61bb810150dc4d6c2576c3ea6be"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/move_up_highlighted.png",
-      "sha1": "2abefbf5592228752038c42c3dec9a0ef7d81207"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/select.png",
-      "sha1": "2e743b5ef84edc03c1d0be5f252ac66934919886"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/select_highlighted.png",
-      "sha1": "60486cfc70dfc8f49e09f78c5532c577d40e1803"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/unselect.png",
-      "sha1": "7245b68c9caa1dc98998a095d620b759fb99c86a"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/transferable_list/unselect_highlighted.png",
-      "sha1": "6ac1f24eef55317ffb5cf5c967329683b6a9af2b"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/button.png",
-      "sha1": "5cf171b19b265bc89532d84bbc066430295eb543"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta",
-      "sha1": "ce2b66c81863d9a7a5e4ecbdcfa79c8a3a7dc805"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/button_disabled.png",
-      "sha1": "9ea6a8b869beaaa52db33a136992877f1ebffcd4"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta",
-      "sha1": "ce2b66c81863d9a7a5e4ecbdcfa79c8a3a7dc805"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png",
-      "sha1": "560fab82d6d41841e8df0fed363e5faa87f39eb1"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta",
-      "sha1": "ce2b66c81863d9a7a5e4ecbdcfa79c8a3a7dc805"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/checkbox.png",
-      "sha1": "3094cab4da54d8b3a137045f93c301735a96b828"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/checkbox_highlighted.png",
-      "sha1": "8e5b7439af32ae63031ddcf929da0e9993148b85"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/checkbox_selected.png",
-      "sha1": "06803586da0b2368ca319ef1379232a43ea00dc9"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/checkbox_selected_highlighted.png",
-      "sha1": "79f8438d0e9270449a65005a800425034686a559"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/cross_button.png",
-      "sha1": "a026c517c5ae158578b2d6ea0467394afa2fa334"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/cross_button_highlighted.png",
-      "sha1": "a377b783830248638c1b01f8b02bcf6c280c6ac8"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/locked_button.png",
-      "sha1": "cd261cf92357c155b93accfc5cf708163147b4c8"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/locked_button_disabled.png",
-      "sha1": "a170cea5e379f1fe89209f4c2056e95bbdead797"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/locked_button_highlighted.png",
-      "sha1": "8289bb805c7900b6bbee94ecfe9604f53a131464"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/scroller.png",
-      "sha1": "909c45d297d2250b5727bcf3e8d4edacece845e0"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/scroller.png.mcmeta",
-      "sha1": "e14ca8d600c37881158cf9893927e1dc7d8178ba"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/scroller_background.png",
-      "sha1": "9ee31dedf492ac91f27cab1518a0548c02e10ea5"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/scroller_background.png.mcmeta",
-      "sha1": "e14ca8d600c37881158cf9893927e1dc7d8178ba"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider.png",
-      "sha1": "9e9be89155d998e8371c5eb493ee7e119d7036b7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider.png.mcmeta",
-      "sha1": "11bf074d748f2449c8133e33f5c4ff652092d2de"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle.png",
-      "sha1": "89e380cc1f15d8213fcc949fb7af0b720b04a292"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta",
-      "sha1": "ca537cb0bdecc7e8692958f8b48af7f8cc017f71"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png",
-      "sha1": "d1fab2c4ee54f68b7590a6194ee02ee3f4fc9f9e"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta",
-      "sha1": "ca537cb0bdecc7e8692958f8b48af7f8cc017f71"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png",
-      "sha1": "9e9be89155d998e8371c5eb493ee7e119d7036b7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png.mcmeta",
-      "sha1": "9ffeef6939aac78028b8dc7a8d637f03ba6f4b01"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/text_field.png",
-      "sha1": "05688e93068cf030162c8ef93b627f11893d74c0"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/text_field.png.mcmeta",
-      "sha1": "11bf074d748f2449c8133e33f5c4ff652092d2de"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/text_field_highlighted.png",
-      "sha1": "f51f90704c87664087760b1b0a1b4ee4986b0c82"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/text_field_highlighted.png.mcmeta",
-      "sha1": "11bf074d748f2449c8133e33f5c4ff652092d2de"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/unlocked_button.png",
-      "sha1": "6f5e843e7a5486997c02b9b20ddb5728142aef75"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/unlocked_button_disabled.png",
-      "sha1": "ef336b0ae00bf2ceff409cde4ada8d0dc4c11056"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png",
-      "sha1": "5cd09f175f0178985e76558d8c8dde1cb7eee079"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/world_list/join.png",
-      "sha1": "70b573cb49e67af411f4c8ab948d6c70284714b0"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/world_list/join_highlighted.png",
-      "sha1": "9651ef742f5d702b3f1eb2103cd873a8e739478f"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/world_list/marked_join.png",
-      "sha1": "70b573cb49e67af411f4c8ab948d6c70284714b0"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/sprites/world_list/marked_join_highlighted.png",
-      "sha1": "9651ef742f5d702b3f1eb2103cd873a8e739478f"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png",
-      "sha1": "1c85c81e9b4e58830b7d2f3b861e8e37613f21d1"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png",
-      "sha1": "fd71593f8ddead6111db3e3ac0a07dabd60755e7"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png",
-      "sha1": "f11b794c2323c5ed2e75c3b01be3964a0a8cf53c"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png",
-      "sha1": "a54b469a619a97691f63628b1e28eac7caf86973"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png",
-      "sha1": "203d3950414576c4b85899426e1fc2ea93548934"
-    },
-    {
-      "path": "overrides/kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png",
-      "sha1": "310fe81cc24446d840fef0cafd0c72369e3ab407"
     },
     {
       "path": "overrides/kubejs/assets/minecraft/textures/item/creeper_banner_pattern.png",
@@ -3675,14 +3243,6 @@
     {
       "path": "overrides/kubejs/assets/neoforge/textures/gui/version_check_icons.png",
       "sha1": "6c1439091198e6f911d5cceb8720993795638f2c"
-    },
-    {
-      "path": "overrides/kubejs/assets/reliable_advancements/textures/gui/tabs.png",
-      "sha1": "94162e7c1351d3b99e8c014705acf253cc86efa9"
-    },
-    {
-      "path": "overrides/kubejs/assets/reliable_advancements/textures/gui/window.png",
-      "sha1": "e7600e16297d3f815a64d548a6607d5057823b0d"
     },
     {
       "path": "overrides/kubejs/assets/scguns/lang/en_us.json",
@@ -3745,184 +3305,8 @@
       "sha1": "c92ead81da7d83434a70783e0a836d310defd4e7"
     },
     {
-      "path": "overrides/kubejs/assets/sounds.json",
-      "sha1": "8cec3f2c8f2372e19d4cde347ed13c72e272c4ef"
-    },
-    {
-      "path": "overrides/kubejs/assets/supplementaries/textures/gui/lunch_basket_gui.png",
-      "sha1": "96201aeac6480ea7f297b7e27723ed13e1f1692a"
-    },
-    {
-      "path": "overrides/kubejs/assets/supplementaries/textures/gui/sack_gui.png",
-      "sha1": "07bc094af78f9f35a58ca82bdc830a811d8bf8af"
-    },
-    {
-      "path": "overrides/kubejs/assets/supplementaries/textures/gui/sprites/slot.png",
-      "sha1": "0cf62f2d125c46616a2c0d446c8c864466524135"
-    },
-    {
-      "path": "overrides/kubejs/assets/supplementaries/textures/item/gui_slots/empty_slot_banner.png",
-      "sha1": "170ff5a806d371aa78f34a94a36a5132097b4eab"
-    },
-    {
-      "path": "overrides/kubejs/assets/supplementaries/textures/item/gui_slots/empty_slot_flag.png",
-      "sha1": "1ac5782d88a384ce5f91a2e9dba7202ca8c8337f"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/crafting_terminal.png",
-      "sha1": "6134bb7295d1e80ac460535bf4482536f01ab937"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/inventory_configurator.png",
-      "sha1": "ffc50fbf89afb27319cd2cd9e260fd20931805a7"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/inventory_link.png",
-      "sha1": "a7fce9723df42e370cc72db222ba002a38db06fb"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/level_emitter.png",
-      "sha1": "d2f628f3223c28e2cc4ac3a85d44655a51f5477f"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/side_scrollbar.png",
-      "sha1": "23e414cfaa4a5e618cb5d78c046e29d410cc53af"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/clear_button.png",
-      "sha1": "d318afabc457d248f00b3352832b045cf0f9ac6a"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/clear_button_disabled.png",
-      "sha1": "afb9dd0c31a0fe4c41b903c3f9badafe606681d2"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/clear_button_hovered.png",
-      "sha1": "6b53b90ae5bc4b5a5f8a246ad044e8a097b60b8c"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/floating_slot.png",
-      "sha1": "2ea99791efc100fdb9526f490d3a5fc2a739e3c9"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/slot_button.png",
-      "sha1": "5091119f2d49c4d2d72dd8ae9f874ccc4564282a"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/slot_button.png.mcmeta",
-      "sha1": "2072a82c8fbbd2a91aa2d08a5b402279d7174ff3"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/slot_button_disabled.png",
-      "sha1": "f2893b4860ef423741abce95d7ba981315ecbb69"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/slot_button_disabled.png.mcmeta",
-      "sha1": "2072a82c8fbbd2a91aa2d08a5b402279d7174ff3"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/slot_button_hovered.png",
-      "sha1": "46f72cac5c1224cbdb34a3c82d05911753bbd7ad"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/slot_button_hovered.png.mcmeta",
-      "sha1": "2072a82c8fbbd2a91aa2d08a5b402279d7174ff3"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button.png",
-      "sha1": "7fbeabde6a7b6a9b2fd0c09caec1074c85ccd9ca"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button.png.mcmeta",
-      "sha1": "1397a7eb539ec4716ff699d3ce2c2679208c65b2"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_disabled.png",
-      "sha1": "0a124c7dcec7dd57d7851b3d6ead7c97210da630"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_disabled.png.mcmeta",
-      "sha1": "1397a7eb539ec4716ff699d3ce2c2679208c65b2"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_hovered.png",
-      "sha1": "c5c6b05ba3b400af7ef9c1d77b323c762b24bf17"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_hovered.png.mcmeta",
-      "sha1": "1397a7eb539ec4716ff699d3ce2c2679208c65b2"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_selected.png",
-      "sha1": "d6c7b352cd27f02ea49fcb44aacb7c8f7e4b02d6"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_selected.png.mcmeta",
-      "sha1": "1397a7eb539ec4716ff699d3ce2c2679208c65b2"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_selected_hovered.png",
-      "sha1": "d6c7b352cd27f02ea49fcb44aacb7c8f7e4b02d6"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_button_selected_hovered.png.mcmeta",
-      "sha1": "1397a7eb539ec4716ff699d3ce2c2679208c65b2"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_scroll.png",
-      "sha1": "b2828d4bb81743255418f64534c63bb111536b27"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_scroll_disabled.png",
-      "sha1": "54583957e058a15f5802b4ce679d404db1315930"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/sprites/widget/small_scroll_hovered.png",
-      "sha1": "b2828d4bb81743255418f64534c63bb111536b27"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/storage_terminal.png",
-      "sha1": "adc579356bf5d5a435209fca3653131c9925b64d"
-    },
-    {
-      "path": "overrides/kubejs/assets/toms_storage/textures/gui/tag_filter.png",
-      "sha1": "019cc65f66d9b864e4c96f792386da81d53827c1"
-    },
-    {
       "path": "overrides/kubejs/assets/vista/textures/block/wave_gate/antenna.png",
       "sha1": "746084b0831bc12eb9452870372642ff24e57600"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_audio_devices.png",
-      "sha1": "3706cdb957603d264c89bd83b7e704f02cdf8afc"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_create_group.png",
-      "sha1": "d031e3fcfd36f731b685b3a85f5b41fc34c8c2a8"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_enter_password.png",
-      "sha1": "382670c244866e9dded3f6791def38d5a1a651ff"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_group.png",
-      "sha1": "3706cdb957603d264c89bd83b7e704f02cdf8afc"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_join_group.png",
-      "sha1": "3706cdb957603d264c89bd83b7e704f02cdf8afc"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_voicechat.png",
-      "sha1": "2b037557c55281b889aca04b793486f445b4d40f"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_voicechat_settings.png",
-      "sha1": "c7e8e068c2845848dea3e960e7474d6a62eb3952"
-    },
-    {
-      "path": "overrides/kubejs/assets/voicechat/textures/gui/gui_volumes.png",
-      "sha1": "e0370fca1d8a686bce47bef0fd506d5d2be8cc0c"
     },
     {
       "path": "overrides/kubejs/client_scripts/client_guideme.js",
@@ -3950,11 +3334,11 @@
     },
     {
       "path": "overrides/kubejs/client_scripts/tooltips.js",
-      "sha1": "ab0a4e14ae1e8cbaeea91676ee1d1fff88720d17"
+      "sha1": "a0c354dd576008a514897301c17b18774306695e"
     },
     {
       "path": "overrides/kubejs/config/client.json",
-      "sha1": "4eea7056968cb1b8c406665371aee1a3213fe3fa"
+      "sha1": "c2c283d92287b309a206abee82f924e92911e973"
     },
     {
       "path": "overrides/kubejs/config/common.json",
@@ -3971,10 +3355,6 @@
     {
       "path": "overrides/kubejs/config/web_server.json",
       "sha1": "1352571433067d9ec812ed6fb29c0d7f6ce0f5fe"
-    },
-    {
-      "path": "overrides/kubejs/data/aeronautics/advancement/root.json",
-      "sha1": "4df162b879708a30a2157089f7789c160b851fcd"
     },
     {
       "path": "overrides/kubejs/data/aileron/enchantment/cloudskipper.json",
@@ -4245,10 +3625,6 @@
       "sha1": "b79c07c32aa6c18bfb7c61f0abb03f20070dfe48"
     },
     {
-      "path": "overrides/kubejs/data/brewinandchewin/advancement/main/place_keg.json",
-      "sha1": "2cfa7851a97491bac4185cb05effb505f7f468b3"
-    },
-    {
       "path": "overrides/kubejs/data/chunkloaders/recipe/advanced_chunk_loader.json",
       "sha1": "b87e7131aa1eff17695c0643bca65436e1340b0b"
     },
@@ -4259,10 +3635,6 @@
     {
       "path": "overrides/kubejs/data/chunkloaders/recipe/ultimate_chunk_loader.json",
       "sha1": "4f7515596f3a81512db4d740dc8a41f67694b37a"
-    },
-    {
-      "path": "overrides/kubejs/data/create/advancement/train_portal.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
     },
     {
       "path": "overrides/kubejs/data/create/loot_table/blocks/deepslate_zinc_ore.json",
@@ -4385,28 +3757,8 @@
       "sha1": "69a2af4e8abb8d73bd0507b73996c1f3d32611d1"
     },
     {
-      "path": "overrides/kubejs/data/create_connected/advancement/control_chip.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
-    },
-    {
-      "path": "overrides/kubejs/data/create_connected/advancement/kinetic_battery.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
-    },
-    {
-      "path": "overrides/kubejs/data/create_connected/advancement/root.json",
-      "sha1": "0c350acc07feadd5023b6c14434837aca990f2c0"
-    },
-    {
-      "path": "overrides/kubejs/data/create_connected/advancement/sequenced_pulse_generator.json",
-      "sha1": "72e074fd50268097484fb56d06af7e5bab459baf"
-    },
-    {
       "path": "overrides/kubejs/data/create_connected/recipe/crafting/kinetics/sequenced_pulse_generator.json",
       "sha1": "cb408cf9923a04d6244ff3db176f6e042f2dbb92"
-    },
-    {
-      "path": "overrides/kubejs/data/createpropulsion/advancement/fuel_propulsion.json",
-      "sha1": "3410d68b83d21f3f51feea5ddcfa27ab06c1cf81"
     },
     {
       "path": "overrides/kubejs/data/createpropulsion/recipe/crafting/coral_generator.json",
@@ -4427,10 +3779,6 @@
     {
       "path": "overrides/kubejs/data/creeperoverhaul/tags/worldgen/biome/is_cave.json",
       "sha1": "7f58493ad2f8b44c369e873b85168174414bf886"
-    },
-    {
-      "path": "overrides/kubejs/data/custom_ore_gen.zip",
-      "sha1": "2758af9af3a7c0a4a6fd9de032ae3c431b6e5ccd"
     },
     {
       "path": "overrides/kubejs/data/decorative_blocks/recipe/lattice.json",
@@ -4515,10 +3863,6 @@
     {
       "path": "overrides/kubejs/data/envelope/structure/collapsed_mail_hub/platform_storage_2.nbt",
       "sha1": "865cc3ffbfc94dea46ee2d1456e0d79fd6853f19"
-    },
-    {
-      "path": "overrides/kubejs/data/exposure/advancement/adventure/exposure.json",
-      "sha1": "db17bd33710973e33d487e28a6bcf0419ace1181"
     },
     {
       "path": "overrides/kubejs/data/glow/loot_table/blocks/glowstone_prism.json",
@@ -5174,7 +4518,7 @@
     },
     {
       "path": "overrides/kubejs/data/kubejs/function/first_world_load.mcfunction",
-      "sha1": "51b090ed38101a341e09a4fb5bec4e5e6bcf0533"
+      "sha1": "2b5ecae86a2b606e81bc78a2bd10a3c1f11777cc"
     },
     {
       "path": "overrides/kubejs/data/kubejs/function/load.mcfunction",
@@ -5190,7 +4534,7 @@
     },
     {
       "path": "overrides/kubejs/data/kubejs/function/over_to_nether.mcfunction",
-      "sha1": "946986b9a92d2cb3d13035cc1c562bdcdab82857"
+      "sha1": "111e12e1933b6c8b4954f947e484fc0216973cf8"
     },
     {
       "path": "overrides/kubejs/data/kubejs/function/tick.mcfunction",
@@ -5885,130 +5229,6 @@
       "sha1": "acf4f628fe7e889d9bcbc76880366a8bfc366e78"
     },
     {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/cartographer/well_map_3.json",
-      "sha1": "b100d73b2a915d52aab1566b235d1b978e8dd150"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/1_bookshelf.json",
-      "sha1": "5f56b6888c21a2e999963cd1f0a897f588638eef"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/1_camera.json",
-      "sha1": "f3dda90fcaa668fa94797bd2cb52b056a18c6572"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/1_envelope_tag.json",
-      "sha1": "b62e0aac8f29e62e3784a43ba0b20c4b72d723a3"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/1_paper.json",
-      "sha1": "b1c4bc49a73ea294e3dc2b4c550712f5fe42b22d"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/1_reset.json",
-      "sha1": "022f2f1f50c266d7e4a580339de5da2cd74fb57e"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/2_black_and_white_film.json",
-      "sha1": "0e49e42d7228edeb0303c0586bbe9317bf1198fc"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/2_book.json",
-      "sha1": "5ec3238ab6c641a6f02784c766ab37e468a20d58"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/2_cardboard.json",
-      "sha1": "bb28f6d025dd8c3bccbb221b4e23d2353646a4ea"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/2_color_film.json",
-      "sha1": "c8dd184a5c76081bd84ae4c35f7f5b937b82214e"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/2_ink.json",
-      "sha1": "f9390c898b9e98a782bc99a4597713666a59b1d5"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/2_payback_tag.json",
-      "sha1": "901cde551af2e9a6b95dad880d74578f328c297a"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/2_reset.json",
-      "sha1": "59250c78f19b6698c55eec0232e51f661cf7a778"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_crimson.json",
-      "sha1": "9f6cf989a19d796a830a699c4251e81bc65175fa"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_soulwood.json",
-      "sha1": "f04ad6e7f0de987ae9e9b4be9cb2cd8b3d2a2e50"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_twisted.json",
-      "sha1": "ae63b1b4964eb8398db6eea7b0f168f3e99a1768"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_bookshelf_warped.json",
-      "sha1": "13c04ee04fe4ada2a57495d3a722269e169fa14c"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_package_block.json",
-      "sha1": "7ff5fc4262bf11f04eae2ea61a7feed695a221bb"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_package_junk.json",
-      "sha1": "6890bb6a6a08a5019e7ebfb913cc2644f5eea469"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_package_plants.json",
-      "sha1": "788cef6147fbecaf621114bb66aa29b230e6ff1a"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/3_reset.json",
-      "sha1": "05cfa31755f856ffa1ca5010dfa6a618c7ec70b9"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/4_black_and_white_film.json",
-      "sha1": "90e87c32d499d6b13d6e55c8b342e76379fa0243"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/4_color_film.json",
-      "sha1": "4d09054a76904e02b4a971c328d38b660611a179"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/4_filing_cabinet.json",
-      "sha1": "e2d2406b9c2d489757c8a5adb6f419210523e93c"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/4_package_tools.json",
-      "sha1": "85e93f01361880ee72a74765d779b20a993fb93f"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/4_package_weapons.json",
-      "sha1": "09bc9e3047d25f6a40dea73120e5611e2e980ec8"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/4_reset.json",
-      "sha1": "e26ba1f610afe470fbf597a7af9fdb5f3d8b1b28"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/5_interplanar_projector.json",
-      "sha1": "2af84b4e7d5db5bca7dbeb396ee076bc7e288ea4"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/5_package_valuables.json",
-      "sha1": "cc11d49ef3f3c18d533fe43d95cb5c47f5f86ce5"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/5_reset.json",
-      "sha1": "ec088a45c413f9b9522b9aaeb5e42fe2cc0e7a27"
-    },
-    {
-      "path": "overrides/kubejs/data/minecraft/moonlight/villager_trade/librarian/5_safe.json",
-      "sha1": "b27cea01aafe98d8cbd69dfbf8a3932ccf84a224"
-    },
-    {
       "path": "overrides/kubejs/data/minecraft/recipe/andesite.json",
       "sha1": "d9cb49b21181f60ae3f066ea0930bdc3a22f4ae3"
     },
@@ -6099,22 +5319,6 @@
     {
       "path": "overrides/kubejs/data/nomansland/recipe/pebbles.json",
       "sha1": "c389a05a786b07ed7c7905ce3d2360c0038cc526"
-    },
-    {
-      "path": "overrides/kubejs/data/nova_structures/advancement/adventure/find_shrine.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
-    },
-    {
-      "path": "overrides/kubejs/data/nova_structures/advancement/adventure/find_tavern.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
-    },
-    {
-      "path": "overrides/kubejs/data/nova_structures/advancement/adventure/tavern_quest.json",
-      "sha1": "55d573e0edbeaa28e268da3539ad037acda91b96"
-    },
-    {
-      "path": "overrides/kubejs/data/nova_structures/advancement/root.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
     },
     {
       "path": "overrides/kubejs/data/nova_structures/enchantment/photosynthesis.json",
@@ -6637,22 +5841,6 @@
       "sha1": "05c471db1021a9d6eeeb04ec5221f3c0027f55f5"
     },
     {
-      "path": "overrides/kubejs/data/spelunkery/advancement/spelunkery/compression_blast_miner.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
-    },
-    {
-      "path": "overrides/kubejs/data/spelunkery/advancement/spelunkery/depth_gauge.json",
-      "sha1": "b40cdbf9ef914137d66247cae51c6ccd296fa06c"
-    },
-    {
-      "path": "overrides/kubejs/data/spelunkery/advancement/spelunkery/every_ore.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
-    },
-    {
-      "path": "overrides/kubejs/data/spelunkery/advancement/spelunkery/true_north.json",
-      "sha1": "5484bc7c88633ccfeeacc48d8a8a60880de687fa"
-    },
-    {
       "path": "overrides/kubejs/data/spelunkery/loot_table/gameplay/sluice/crude_oil/passive.json",
       "sha1": "6bf14069cf606c9fb3933901a0dab44cf14e7aff"
     },
@@ -6805,162 +5993,6 @@
       "sha1": "8529fa9fcf5b32475a1609a37dabab68f9837b30"
     },
     {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/badlands.json",
-      "sha1": "1f14ee75cbed59cc09301402c480b4f3db805b05"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/beach.json",
-      "sha1": "c4a2c21d618de0090afa2718ed6523bb578461db"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/cherry_grove.json",
-      "sha1": "358e1f4c1edb740a042e73b416120860b2eb52c9"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_dry.json",
-      "sha1": "0279da3593db58cea83b6c84875b7dfc470c72a0"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_sandy.json",
-      "sha1": "a0b6272ce887071f985bc208ded18e12b040cb05"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_snowy.json",
-      "sha1": "c3168c80ceafe0688fd5d650e02baabf49641611"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/climate_wet.json",
-      "sha1": "0d6c1f1bf66f12606d81a07ed5dbc78fbadc9181"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/dark_forest.json",
-      "sha1": "c4111d398fa00b4c209a40728c8078a0cd3154a8"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/deciduous.json",
-      "sha1": "74b4349c057c75792e921ae621517feaab89796b"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/default.json",
-      "sha1": "69de5863871893268026cfa4283629b777e1ea98"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/desert.json",
-      "sha1": "28cd4ea7d1b986a2406736eb2e6ce2877c02c27c"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/forest.json",
-      "sha1": "9f2cda6b4f6d8f37488b266f26198454523181fc"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/frozen_river.json",
-      "sha1": "6f062a88ad9af33f7b8cbdfa0ade5576774338b6"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/hills_clay.json",
-      "sha1": "2a01d868457477743c453a199d1baa738fec7470"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/hills_clay_c.json",
-      "sha1": "fd63979e9532aa4bd68f9da3e0d8a55e8c0c8cbc"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/jungle.json",
-      "sha1": "75c8efb8211da4b8b7dd57ec9dd915cba8803d7e"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/mangrove_swamp.json",
-      "sha1": "0f589bf05bca0dd0a810edbefbd20dd41469e18c"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/meadow.json",
-      "sha1": "5a4d57a09ecd18b2719d7789ff2ea91472237621"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/mountain.json",
-      "sha1": "efb0ec7ccafa0d8eb8973f7cf34ef28e9dd24fae"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/mushroom_fields.json",
-      "sha1": "00253497e19926646dda7423cf6765e346b84bb2"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/ocean.json",
-      "sha1": "ab586f8d7505811cd9fc4a4ee9b55e2d06727cf5"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/ocean_c.json",
-      "sha1": "cf0d85ce5e4f685a2cc418c664b077327719d887"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/ocean_cold.json",
-      "sha1": "cc32ce65aa6b9646bf8904ae2f01afaa076c9a34"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/ocean_deep.json",
-      "sha1": "01b6f20675e50a45d0214c1b38c1d59cef0842ac"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/ocean_frozen.json",
-      "sha1": "3a9e9cdedefb41192599f5359675f1ce57eea36d"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/ocean_warm.json",
-      "sha1": "42a9c8aaf03bd5bb62ee818a2d45d66274be3d35"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/plains.json",
-      "sha1": "2e13fd6bb24d88903b7c8fad283509aaf3a62ed5"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/plains_c.json",
-      "sha1": "b1016581d654925f859cd882fa9dae7b98bec1cd"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/river.json",
-      "sha1": "22b92b2bb7f1a5660e60775254262ddcd24de03a"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/river_c.json",
-      "sha1": "27c3bb70e0a91e2dfa57c049e4a0835a62658176"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/savanna.json",
-      "sha1": "d037217c48ca3802ea8a8208b7f55f5e91f95e06"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/snowy.json",
-      "sha1": "177e84ea4663e97c94f57ced28e8bf6ada0f66b3"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/snowy_beach.json",
-      "sha1": "b7334d3486455819df66dcd15d07be25091e2a01"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/stony_peaks.json",
-      "sha1": "bbb7b6d5d73b3f417f754d9f40cf3896f4d08a97"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/stony_shore.json",
-      "sha1": "757b823635e0a78891c3dc22d02a388f542ca167"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/swamp.json",
-      "sha1": "8b6ef26b1195b59b3f4e404eb0af8ee73dda02b9"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/swamp_c.json",
-      "sha1": "a277bd5f132cdeac4d6a1c3080420b883ea0eed7"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/taiga.json",
-      "sha1": "6fa51b7332a3d1ee9624b0f36f08aa850c743355"
-    },
-    {
-      "path": "overrides/kubejs/data/streamsreflowing/streamsreflowing/bank_style/taiga_c.json",
-      "sha1": "14ef718cd78ce75ac6d236419cee56fa2e85fbd7"
-    },
-    {
       "path": "overrides/kubejs/data/supplementaries/item_contents_provider/sack.json",
       "sha1": "405a2833b7c121caeac1b83e257acb9ba1544be5"
     },
@@ -7053,38 +6085,6 @@
       "sha1": "6b107917992336be56e50016a970fd9a547c825b"
     },
     {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/chain_connector.json",
-      "sha1": "1bfe2887745ba0fe5c4bd150fc1314d52d6bb394"
-    },
-    {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/electric_magnet_wire_connector.json",
-      "sha1": "c6c69edd87f07331eee512eab4a2c40b4deeecac"
-    },
-    {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/electric_wire_connector.json",
-      "sha1": "8423201ba923e8e0edc1d35b616b114265f2109f"
-    },
-    {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/hose_connector.json",
-      "sha1": "ae6f11d70eb49cf87c34a264585a924eddd827cf"
-    },
-    {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/item_hose_connector.json",
-      "sha1": "e4bb34739aa3685dfd47f4276ba11549336b8ae0"
-    },
-    {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/item_magnet_hose_connector.json",
-      "sha1": "1ac70448de4b6443b6c72da1834fb46c2ac23564"
-    },
-    {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/magnet_chain_connector.json",
-      "sha1": "686f1e8e85884e796a289aece7e299dab3d43a1b"
-    },
-    {
-      "path": "overrides/kubejs/data/vsfluidlink/recipe/crafting/magnet_hose_connector.json",
-      "sha1": "0b6a415e886f8d271105526e22a4c04e4be04a28"
-    },
-    {
       "path": "overrides/kubejs/immersive_enchanting_datagen.py",
       "sha1": "00effc3f4faa438f220ff1b720dea05e7915729e"
     },
@@ -7095,10 +6095,6 @@
     {
       "path": "overrides/kubejs/server_scripts/chunkloader.js",
       "sha1": "c324921a2dba5e5ddde43cd4e85644fab42ecf25"
-    },
-    {
-      "path": "overrides/kubejs/server_scripts/creature_conjuration.js",
-      "sha1": "5405121cfd07df0a4b7b22f095d8aa8e2d02f7ee"
     },
     {
       "path": "overrides/kubejs/server_scripts/diversity_retention.js",
@@ -7123,10 +6119,6 @@
     {
       "path": "overrides/kubejs/server_scripts/lib.js",
       "sha1": "830364c620a50b1417a56204bb9eb414cd4f0c85"
-    },
-    {
-      "path": "overrides/kubejs/server_scripts/metallurgy.js",
-      "sha1": "fcaa59c8319b911ba1696773fbca9cb53c774b63"
     },
     {
       "path": "overrides/kubejs/server_scripts/nephrite_condensation.js",
@@ -7170,7 +6162,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/block_modification.js",
-      "sha1": "0b8c0b149778029c710c58d13bf2f8f4e550fbe6"
+      "sha1": "a2ca813bc0f7a56c0bd0e7beadff9ae2b3237980"
     },
     {
       "path": "overrides/kubejs/startup_scripts/chunkloader.js",
@@ -7194,7 +6186,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/item_modification.js",
-      "sha1": "6c49dc9f5304045852f3f0e40b7661a8e25c38e2"
+      "sha1": "48d76b418ca3b7518a5eae2674864d8892466412"
     },
     {
       "path": "overrides/kubejs/startup_scripts/jsconfig.json",
@@ -7206,7 +6198,7 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/ore_deposits.js",
-      "sha1": "5d9cd92db9af1335e9c052e5fb43fbb3791919ce"
+      "sha1": "8d103f696cf2f3be27c1d24a0e70dd2de3e09488"
     },
     {
       "path": "overrides/kubejs/startup_scripts/player_navigation.js",
@@ -7226,7 +6218,11 @@
     },
     {
       "path": "overrides/kubejs/startup_scripts/startup_item_tweaks.js",
-      "sha1": "cfe2a5baf9a42def254da678ec8f702db91f6280"
+      "sha1": "4ba9386b6c60bdc334b8bcee66e5d350453eca9c"
+    },
+    {
+      "path": "overrides/mods/loconautics-0.1.3BETA.jar",
+      "sha1": "c37063f3002e85d1a65d35705f123e7df1e9c5af"
     },
     {
       "path": "overrides/mods/moonbrooch-neoforge-1.21.1-1.0.0.jar",
@@ -7238,7 +6234,11 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "d1018c710fac060bc2466f1965c7f940f5b0e269"
+      "sha1": "a1acc9f93b106419ed6a4394ce08a6f1a5099cee"
+    },
+    {
+      "path": "overrides/streamsreflowing/waterfalls/64ec6b8f7c479228.bin",
+      "sha1": "51738716df694f2f1b3159d4633d83d5eff83dc1"
     }
   ]
 }

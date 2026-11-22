@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "wVnz7KNf",
       "slug": "sable-cleanup",
-      "versionId": "uRRVItgd",
-      "versionNumber": "0.3.0",
-      "filename": "sablecleanup-0.3.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/wVnz7KNf/versions/uRRVItgd/sablecleanup-0.3.0.jar",
-      "sha1": "b6321c5c969e18a528b00fe51dec72d77b528681",
-      "sha512": "ebd60672d0edec3ae07f09a725546630b441dc6ebd82d4e4469f47e6571faf2150659328b509c909d1750de29bea871c3f419c9101b0779776a08073abbdfabf",
-      "fileSize": 168719
+      "versionId": "jSPWQAww",
+      "versionNumber": "0.4.0",
+      "filename": "Sable_Cleanup_0.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wVnz7KNf/versions/jSPWQAww/Sable_Cleanup_0.4.0.jar",
+      "sha1": "2e802b97d1086526976a1e3efeb07bd1ff3d9b20",
+      "sha512": "d6fb7fe25a3d20e8c4b95941aad0bd2e60003a3a2b6a1a8347c52268cbefa1f20661672f64fb6bff64e3c26e2d987deb966073ecad6fdd692a57d9b9bdd57347",
+      "fileSize": 1085529
     }
   },
   "dependents": [],

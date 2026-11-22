@@ -39,6 +39,28 @@
 		# Default: 24.0
 		# Range: 0.0 ~ 1.7976931348623157E308
 		reloadMaxDistance = 24.0
+		#If true, players outside the normal gunshot radius can hear delayed distant gunshot reports.
+		enableDistantGunshots = true
+		#The maximum distance distant unsilenced gunshots can be heard by players.
+		# Default: 640.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		distantGunShotMaxDistance = 640.0
+		#Volume multiplier for the distant gunshot layer.
+		# Default: 2.5
+		# Range: 0.0 ~ 10.0
+		distantGunShotVolumeMultiplier = 2.5
+		#Minimum ticks between distant gunshot packets from the same source to the same listener. Helps automatic weapons stay cheap on servers.
+		# Default: 8
+		# Range: 0 ~ 200
+		distantGunShotThrottleTicks = 8
+		#Speed used to delay distant gunshot reports. Minecraft blocks are treated as meters.
+		# Default: 343.0
+		# Range: 1.0 ~ 1.7976931348623157E308
+		distantGunShotSpeedOfSoundBlocksPerSecond = 343.0
+		#Maximum client delay for distant gunshot reports in ticks.
+		# Default: 80
+		# Range: 0 ~ 400
+		distantGunShotMaxDelayTicks = 80
 
 	[server.experimental]
 		#Forces all attachments to be dyeable regardless if they have an affect on the model. This is useful if your server uses custom models for attachments and the models have dyeable elements

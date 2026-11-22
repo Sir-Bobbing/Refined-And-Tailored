@@ -1,0 +1,23 @@
+{
+  "name": "Vanity: Ornate Weaponry",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MfuSR2k8",
+      "slug": "vanity-ornate-weaponry",
+      "versionId": "rr1Di3kP",
+      "versionNumber": "3.0.0",
+      "filename": "ornate_weaponry.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MfuSR2k8/versions/rr1Di3kP/ornate_weaponry.jar",
+      "sha1": "e83e64ba37e8835768aa53653518911c3101d7fe",
+      "sha512": "9b8a9f40aae2cdbfb13dc9239c9c89030ed11a81fdd977ad75cd350ce66755bcd81b9879de3836612d21f21f816c61423813c01181257d0ce6b25f9f27ff7d2c",
+      "fileSize": 13466
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

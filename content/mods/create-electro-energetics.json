@@ -2,7 +2,7 @@
   "name": "Create: Electro Energetics",
   "side": "auto",
   "explicit": true,
-  "disabled": false,
+  "disabled": true,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

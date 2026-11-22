@@ -1,0 +1,23 @@
+{
+  "name": "Nature's Spirit",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WBvnqHfV",
+      "slug": "natures-spirit",
+      "versionId": "EQReaqUo",
+      "versionNumber": "2.3.2-1.21.1",
+      "filename": "natures_spirit-2.3.2-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WBvnqHfV/versions/EQReaqUo/natures_spirit-2.3.2-1.21.1.jar",
+      "sha1": "df178fbd03d204a69f355f9b613dd4f18639ec78",
+      "sha512": "31227b3bb608a2805c625e7bb0f6b1780c66530424c05f389cffa48c32fa2df090c794feb3fa0dc571a00e335843f5545a3ae1e0e0316e51c2f655a74c66a9bf",
+      "fileSize": 18677548
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

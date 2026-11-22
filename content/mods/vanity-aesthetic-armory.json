@@ -1,0 +1,23 @@
+{
+  "name": "Vanity: Aesthetic Armory",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vEDzaSHn",
+      "slug": "vanity-aesthetic-armory",
+      "versionId": "5Z2AFerI",
+      "versionNumber": "1.1.1",
+      "filename": "vanity_aesthetic_armory-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vEDzaSHn/versions/5Z2AFerI/vanity_aesthetic_armory-1.1.1.jar",
+      "sha1": "69f30910d6a723761dbb9f03a4f63ffe98d83e4d",
+      "sha512": "7b28d30e9fc799afd92d00c66c394694ab47cbb32688a3ebe24ac15a3568dec132e2e43f04b549622e09aebfdd9e1ca158fdb48d3b81faaa49181e3b0f3557ae",
+      "fileSize": 364158
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

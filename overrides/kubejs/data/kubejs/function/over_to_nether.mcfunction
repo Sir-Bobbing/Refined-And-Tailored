@@ -1,6 +1,5 @@
 execute on passengers run ride @s[type=!create:contraption] dismount
 
-effect give @s malum:sky_tether 4 4 true
 effect give @s minecraft:slow_falling 4 0 true
 
 execute as @s[type=#c:minecarts] on passengers run tag @s[type=create:contraption] add minecart_transfer

@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "nrikgvxm",
       "slug": "particle-rain",
-      "versionId": "inhna3NE",
-      "versionNumber": "v4.0.3+1.21.1-neoforge",
-      "filename": "particlerain-4.0.3+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/inhna3NE/particlerain-4.0.3%2B1.21.1-neoforge.jar",
-      "sha1": "d1b6bb30d56d29b6f850bfbd29d45fc5e3bcaf02",
-      "sha512": "85d3ee20ebecaeac9a3f83e27ac71a811d2429c0e918566d84e921f7f6937532ca466437b75f16498550f1dbaa4d563773174287dc6f22d869d1dcc80531ab5d",
-      "fileSize": 623684
+      "versionId": "DW2m22Qi",
+      "versionNumber": "v4.0.4+1.21.1-neoforge",
+      "filename": "particlerain-4.0.4+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/DW2m22Qi/particlerain-4.0.4%2B1.21.1-neoforge.jar",
+      "sha1": "0a8c52eea34e3bf9edcc7b2b03d1f8a100cb71be",
+      "sha512": "0e3ba8f5f83904ff8979d8d69f8e5be0eef340b6d1e326762ec9ab933c088ab63ef3b88117dc1023000ade11e9ad23d84390e3840b08519bb20638c131b08151",
+      "fileSize": 626707
     }
   },
   "dependents": [],

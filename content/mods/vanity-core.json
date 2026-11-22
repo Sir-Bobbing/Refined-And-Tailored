@@ -1,0 +1,29 @@
+{
+  "name": "Vanity: Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kEcg2xYc",
+      "slug": "vanity-core",
+      "versionId": "QAqYAkRv",
+      "versionNumber": "5.0.3",
+      "filename": "vanity-neoforge-1.21.1-5.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kEcg2xYc/versions/QAqYAkRv/vanity-neoforge-1.21.1-5.0.3.jar",
+      "sha1": "940347c76b301c1b4abe495f58938b68b89a1a59",
+      "sha512": "1210e2e72e6f1c2663c129ff65b78dba5d9512da44e51b89302b7fa29c201873ce552f010291f02cc565e047d1d17da4018e7d0b2e9cd6a6125eb42552b96b6d",
+      "fileSize": 722562
+    }
+  },
+  "dependents": [
+    "MfuSR2k8",
+    "PzD3qsuR",
+    "UHJHjAMr",
+    "WGTY6Lgi",
+    "vEDzaSHn"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

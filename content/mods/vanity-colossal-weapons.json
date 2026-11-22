@@ -1,0 +1,23 @@
+{
+  "name": "Vanity: Colossal Weapons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PzD3qsuR",
+      "slug": "vanity-colossal-weapons",
+      "versionId": "XnR1qv1J",
+      "versionNumber": "1.0.2",
+      "filename": "vanity_colossal_weapons-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PzD3qsuR/versions/XnR1qv1J/vanity_colossal_weapons-1.0.2.jar",
+      "sha1": "b8e1cd9c095682097ff84405e1719666cb7eea8a",
+      "sha512": "e0d0dcf8e1af8777517ec3a4fd37ed1bc132133d60c1a2a3e080073b871b5400695dd75423ef57dc95b9373781157ad9a12d5e5b2e74ee0d29a3c50864a83229",
+      "fileSize": 293627
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

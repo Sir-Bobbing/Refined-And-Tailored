@@ -2,22 +2,9 @@ ItemEvents.modifyTooltips(event => {
 
     event.add("kubejs:krahg_round", Text.gray('§oArmor Bypass: 4'))
 
-    event.add("tfmg:asphalt", Text.gray('Increases movement speed.'))
-
     event.add('nomansland:warding_effigy', Text.gray('Prevents hostile mob spawns in a radius, stackable.'))
 
     event.add('simulated:navigation_table', Text.gray('Supports player heads.'))
-
-    event.add('tfmg:lead_sword', Text.gray('Attacks apply poison.'))
-    event.add('tfmg:lead_axe', Text.gray('Attacks apply poison.'))
-
-    event.add('tfmg:turbine_engine', Text.darkRed('Requires screwdriver to remove installed components!'))
-    event.add('tfmg:regular_engine', Text.darkRed('Requires screwdriver to remove installed components!'))
-    event.add('tfmg:radial_engine', Text.darkRed('Requires screwdriver to remove installed components!'))
-
-    event.add('tfmg:circuit_board', Text.gray('Dropped by the Scamppanzer boss.'))
-    event.add('tfmg:steel_mechanism', Text.gray('Rarely dropped by hostile Cog enemies.'))
-    event.add('powergrid:electrical_gizmo', Text.gray('Rarely dropped by Cog mobs.'))
 
     event.add("minecraft:budding_amethyst", Text.darkPurple('Can be removed with a hammer and chisel.'))
     event.add('nomansland:budding_quartzite', Text.darkPurple('Can be removed with a hammer and chisel.'))

@@ -2,7 +2,7 @@
   "name": "Fabric API",
   "side": "auto",
   "explicit": false,
-  "disabled": true,
+  "disabled": false,
   "preferred": "modrinth",
   "sources": {
     "modrinth": {

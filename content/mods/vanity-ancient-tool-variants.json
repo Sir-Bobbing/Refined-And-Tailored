@@ -1,0 +1,23 @@
+{
+  "name": "Vanity: Ancient Tool Variants",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "UHJHjAMr",
+      "slug": "vanity-ancient-tool-variants",
+      "versionId": "PwWRGzNo",
+      "versionNumber": "3.0.0",
+      "filename": "ancient_design.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/UHJHjAMr/versions/PwWRGzNo/ancient_design.jar",
+      "sha1": "f97bafbd9d5836218969fe2fb2dea27c62a6610b",
+      "sha512": "1e88ea625507583c822cc49e13f0abbbf8e542d7d58352acfe0048d0497a04500c81e2051dceaa1ef09442909d03c376ab504e8a22ed903106b9a5e340182fe9",
+      "fileSize": 26127
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

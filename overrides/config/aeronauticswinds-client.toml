@@ -1,0 +1,249 @@
+[clouds]
+	#Render regional 3D clouds and replace vanilla clouds.
+	enableCustomClouds = true
+	#How the weather deck is drawn. VANILLA: Minecraft's own clouds, drawn by the game
+	#itself, but shaped, coloured and moved by this mod's weather and wind, so they keep
+	#working with shader packs, Fast/Fancy clouds and resource packs. SMOOTH: this mod's
+	#soft volumetric sheet (not drawn while a shader pack is active).
+	#Allowed Values: VANILLA, SMOOTH
+	cloudStyle = "VANILLA"
+	#Stop rendering Aeronautics clouds above this camera Y; useful for space gameplay.
+	# Default: 512.0
+	# Range: 192.0 ~ 100000.0
+	cloudRenderCutoffY = 512.0
+	#Draw a second, thin sheet of high ice cloud above the weather deck.
+	#It is what gives the sky depth: the two layers drift past each other at
+	#different speeds. Turn it off to save a little fill rate.
+	enableCirrusLayer = true
+	#With Distant Horizons, carry the cloud deck on out to its far terrain as a flat sheet.
+	#Does nothing without Distant Horizons.
+	farCloudBand = true
+	#Strength of smooth, non-particle haze while the camera is inside a cloud.
+	# Default: 0.75
+	# Range: 0.0 ~ 2.0
+	insideCloudFogStrength = 0.75
+	#Draw winter aurora curtains on clear polar nights.
+	#They appear far from the equator (|Z| beyond about 1200), at night, in winter,
+	#and only when the sky is clear enough to see through.
+	enableAurora = true
+
+[atmosphere]
+	#Enable dynamic seasonal color transitions for foliage, leaves, and grass.
+	enableSeasonalFoliage = true
+	#Leaves, grass, flowers and crops sway with the local wind: a gentle stir in calm air,
+	#bent flat in a gale. Works with Sodium. Under an Iris shader pack the pack's own
+	#waving is used instead.
+	foliageSway = true
+	#How far foliage moves in the wind.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	foliageSwayStrength = 1.0
+	#Each season colours the sky and the air: fresh in spring, hazy in summer, golden and misty
+	#in autumn, pale and closer in winter.
+	seasonalSkyAndFog = true
+	enableRegionalFog = false
+	#Regional fog strength multiplier (0..2).
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	fogDensity = 1.0
+	#Players and creatures breathe out little clouds of vapour in cold air.
+	enableColdBreath = true
+	#Frost creeps in from the edges of the screen when you stand out in bitter cold.
+	enableFrostVignette = true
+	#Heavy rain, snow and dust thicken the air: the far hills fade into grey rain, a blizzard
+	#turns into a whiteout and a sandstorm into an orange-brown murk.
+	stormHaze = true
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	stormHazeStrength = 1.0
+	#Lightning lights up the sky, the fog, the clouds and the world, flickering through each
+	#return stroke. Vanilla's Hide Lightning Flashes option turns this off as well.
+	lightningFlashes = true
+	#Storm clouds flicker with lightning that stays inside the cloud, between ground strikes.
+	inCloudLightning = true
+
+[ocean]
+	#Draw the waves on the water itself, shader packs included.
+	waterWaves = true
+	#How much of the wave height a shader pack's water gets, in percent. Lower it if the pack's own waves pile up on ours; 0 leaves the pack's water flat.
+	# Default: 100
+	# Range: 0 ~ 100
+	shaderPackWaves = 100
+	#1 = nearby waves only, 2 = balanced, 3 = every wave out to the horizon.
+	# Default: 2
+	# Range: 1 ~ 3
+	waterWaveQuality = 2
+	#Wave faces turned to the sun or moon catch a little more light.
+	waterSurfaceShading = true
+	#Foam on breaking crests, whitecaps and surf.
+	seaFoam = true
+	#Waves running on over low land at the beach, as over water.
+	shorelineSwash = true
+	#Spray off breaking waves and where hulls slam into the sea.
+	oceanSpray = true
+	#Waves washing over docks, jetties and other low floors by the sea.
+	deckWash = true
+	#No longer used: the sea over the land is always drawn as water.
+	shorelineSheet = false
+	#Wakes and bow waves behind moving ships and boats.
+	shipWakes = true
+	#Spray off a ship's bow and where she comes down hard on the sea.
+	hullSpray = true
+	#Spray where a crest comes over a ship's rail.
+	greenWater = true
+
+[particles]
+	#Foam at rapids, mist under waterfalls and bits drifting on the current.
+	riverParticles = true
+	#Ambient weather events: autumn leaf fall, spring blossom, pollen, snow squalls,
+	#sandstorm grit, dust devils, sea spray, summer fireflies and storm debris.
+	#These are what make a season and a biome look different rather than only
+	#reading differently on the HUD.
+	enableWeatherEventVisuals = true
+	#Multiplier on how often ambient weather events emit particles. 0 disables them.
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	weatherEventAmount = 1.0
+	#Lift sparse, opaque block dust from exposed ground. Disable for no mod-created particles.
+	enableWindParticles = true
+	#Density of discreet ground dust. One remains intentionally sparse.
+	# Default: 0.65
+	# Range: 0.0 ~ 2.0
+	windParticleAmount = 0.65
+	#Make existing vanilla and mod particles drift gently with wind; does not spawn extra particles.
+	enableParticleWind = true
+	#Strength of cosmetic particle drift.
+	# Default: 0.45
+	# Range: 0.0 ~ 2.0
+	particleWindStrength = 0.45
+	#Spawn rising vortex wind particles inside campfire and thermal updrafts.
+	enableUpdraftParticles = true
+	#Spawn aerodynamic wingtip vapor condensation ribbons at high speed.
+	enableGliderTrailParticles = true
+	#Weather you can feel: long rain streaks and splashes, haze over the ground, spray and
+	#spindrift, bouncing hail, snow devils, rolling dust and fog banks.
+	enableStormEffects = true
+	#How many storm particles to spawn. Also follows vanilla's Particles setting.
+	# Default: 1.0
+	# Range: 0.0 ~ 3.0
+	stormEffectAmount = 1.0
+	#Draw grey curtains of rain hanging under distant storm cells, and the dust wall of an
+	#approaching sandstorm.
+	distantRainCurtains = true
+	#Rain and snow fall slanted with the wind, heavier in storms, and sweep across in gusts.
+	slantedRain = true
+	#In a solar eclipse keep Minecraft's square sun instead of the mod's round pixel sun.
+	squareEclipseSun = false
+	#With the square sun: a square moon slides over it during the eclipse (else a round one).
+	squareEclipseMoon = false
+
+[sound]
+	#Enable smooth layered wind ambience.
+	enableWindAudio = true
+	#Master volume for Aeronautics wind ambience.
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	windAudioVolume = 0.6
+	#Volume multiplier for glider flight audio and wind rush.
+	# Default: 0.9
+	# Range: 0.0 ~ 1.0
+	gliderAudioVolume = 0.9
+	#Birdsong on spring mornings, a summer meadow by day and crickets by night, dry leaves in autumn wind.
+	enableSeasonalAmbience = true
+	# Default: 0.6
+	# Range: 0.0 ~ 1.0
+	seasonalAmbienceVolume = 0.6
+	#Volume of running water by rivers, louder at rapids and falls.
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	riverAmbienceVolume = 0.7
+	#How loud the sea is: water lapping at hulls, creaks in a heavy sea, the surf on the beach
+	#and the roar of great waves.
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	seaSoundVolume = 0.7
+	#Thunder arrives after the flash at the speed of sound (about 3 seconds per kilometre):
+	#a hard crack close by, a long low rumble from far away.
+	delayedThunder = true
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	thunderVolume = 1.0
+
+[notifications]
+	#Show small on-screen cards confirming actions (rigging, rudder modes, cold warnings).
+	#Off by default: everything the mod knows is readable through Engineer's Goggles or a
+	#Captain's Hat, and actions answer with a sound and a spark at the block.
+	showInfoCards = false
+	#Warn with a toast when a storm, gale, blizzard or worse is forecast to reach you
+	#within the next two minutes or so. The forecast is exact, so the warning is real.
+	stormWarningToasts = true
+	#Announce each almanac event (blossom season, the Perseids, the harvest moon...) with
+	#a toast when it begins where you are.
+	seasonalEventToasts = true
+
+[camera]
+	#Roll the camera slightly in strong crosswinds.
+	windCameraRoll = false
+	# Default: 1.5
+	# Range: 0.0 ~ 8.0
+	windCameraRollDegrees = 1.5
+	#Enable subtle cockpit camera vibration and shaking when riding an aircraft experiencing high-altitude turbulence.
+	enableSailTurbulenceCameraShake = true
+	#Intensity multiplier for turbulence cockpit camera shake.
+	# Default: 0.6
+	# Range: 0.0 ~ 3.0
+	sailTurbulenceCameraShakeIntensity = 0.6
+	#Thunder shakes the camera when it arrives: a sharp jolt from a close strike, a gentle
+	#sway from a distant rumble. Scaled by vanilla's Distortion Effects and Damage Tilt.
+	thunderCameraShake = true
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	thunderShakeStrength = 1.0
+	#Strong gusts buffet the camera a little when you stand out in a gale or hurricane.
+	gustCameraBuffeting = true
+	# Default: 0.6
+	# Range: 0.0 ~ 2.0
+	gustBuffetingStrength = 0.6
+	#Dynamic FOV widening during glider dives and high-speed flight.
+	gliderFovEffect = true
+	#Smooth camera roll/tilt when banking during glider flight.
+	gliderCameraTilt = true
+	#Glider HUD style: 0 = Zelda Circular Stamina Wheel, 1 = Genshin Horizontal Stamina Bar.
+	# Default: 0
+	# Range: 0 ~ 1
+	gliderHudStyle = 0
+	#Center the pilot and wind glider model symmetrically in third-person view instead of focusing high at eye level.
+	centerGliderCameraThirdPerson = true
+	#Camera zoom distance when flying the wind glider in third-person mode.
+	# Default: 5.0
+	# Range: 3.0 ~ 10.0
+	gliderThirdPersonDistance = 5.0
+	#Vertical camera target offset (in blocks) to balance pilot and glider canopy in screen center.
+	# Default: -0.36
+	# Range: -1.5 ~ 1.0
+	gliderThirdPersonVerticalOffset = -0.36
+
+[compatibility]
+	#Render Aeronautics 3D volumetric clouds when Iris shaders are active.
+	renderCloudsWithShaders = true
+	#Feed regional rain, storms, and thunderstorms into client weather gradients for Iris shaders.
+	syncRegionalWeatherToShaderGradients = true
+	#Move vanilla clouds in 2D along physical wind direction and speed when vanilla clouds are active.
+	syncVanillaCloudsWind = true
+	#Drive Better Clouds' travel speed and direction from Aeronautics wind.
+	syncBetterCloudsWind = true
+	#Better Clouds travel-speed units per m/s of wind.
+	# Default: 0.005
+	# Range: 0.0 ~ 0.2
+	betterCloudsTravelSpeedPerMps = 0.005
+	#Drive Better Clouds coverage, cloudiness, density, and atmospheric lighting from Aeronautics regional weather.
+	syncBetterCloudsWeather = true
+	#Drive Physics Mod's ocean (wave height, speed and the direction the swell runs) from this
+	#mod's sea state and sea events instead of vanilla rain and thunder.
+	syncPhysicsModOcean = true
+	#Point Physics Mod's wind (leaves, cloth, debris) along this mod's wind and scale it with
+	#the wind speed instead of vanilla rain and thunder.
+	syncPhysicsModWind = true
+	#Let Physics Mod also bob Sable ships on its visual waves. Off by default when this mod's
+	#wave physics is on, because the ships already ride real waves and would move twice.
+	physicsModShipWaveRiding = false

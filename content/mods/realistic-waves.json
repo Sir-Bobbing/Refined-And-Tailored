@@ -1,0 +1,22 @@
+{
+  "name": "Realistic Waves",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1616111",
+      "slug": "realistic-waves",
+      "versionId": "8462201",
+      "versionNumber": "Whitecap 1.0.0",
+      "filename": "whitecap-neoforge-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8462/201/whitecap-neoforge-1.21.1.jar",
+      "sha1": "a6ba53121039cb8640f9f8a096e2fd9c4cd547b4",
+      "fileSize": 145931
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

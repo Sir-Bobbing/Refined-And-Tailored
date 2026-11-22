@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "OsZiaDHq",
       "slug": "creativecore",
-      "versionId": "v8QrwctR",
-      "versionNumber": "2.13.54",
-      "filename": "CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v8QrwctR/CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar",
-      "sha1": "07db1f441349db503fc21a146606121747780b7b",
-      "sha512": "ad96d5e95278f30d4077fc79ce1ebf48b8ae5fcf204a2f79729cc04e0e22d47ee0c4950d514751d7360e6d04d540c60ea41b142ba4a9e2ee1cfd3f7e41e1af70",
-      "fileSize": 1237192
+      "versionId": "aoWQBRG8",
+      "versionNumber": "2.13.55",
+      "filename": "CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/aoWQBRG8/CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar",
+      "sha1": "5687e0cc21ec86c64688c1e9112d29bca9fcc963",
+      "sha512": "05970c07c16019f042ba8bb24b33efebaa8eb22390bd4f22fa90e44adcb796eff2274d27ceaaa63c09d29978ffc16bffe42c9c03f218add31dcfebcbf2e28db7",
+      "fileSize": 1240240
     }
   },
   "dependents": [

@@ -1,0 +1,23 @@
+{
+  "name": "SC2_SND_REMIX",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GLnvvGhB",
+      "slug": "sc2_snd_remix",
+      "versionId": "sLLUdJ8i",
+      "versionNumber": "0.1",
+      "filename": "SC2_SND_REMIX.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/GLnvvGhB/versions/sLLUdJ8i/SC2_SND_REMIX.zip",
+      "sha1": "b35022e0b8b70a740ad7e1b4135a7d40d4e927cd",
+      "sha512": "f4766b16e527fcd35005713777efc5db4b46a847bd6f4baa20c0f50bd8fcb801029d5d579873c0077ee0e9e725475ac629df762f2d5211dca991cdef6c877839",
+      "fileSize": 2500683
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
