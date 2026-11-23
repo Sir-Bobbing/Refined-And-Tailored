@@ -90,7 +90,7 @@
     },
     {
       "path": "content/mods/blueprint.json",
-      "sha1": "609df8e7f1a3e66b4a014e53aefe0509eadda18a"
+      "sha1": "91208cee1f5ba19dbdb805ee87271d4ba7cf7864"
     },
     {
       "path": "content/mods/bookshelf-lib.json",
@@ -543,6 +543,10 @@
     {
       "path": "content/mods/offgrid.json",
       "sha1": "d15c8144e43fa11e6bae20665dd9b809aa0f168b"
+    },
+    {
+      "path": "content/mods/oreganized.json",
+      "sha1": "9f8bf2e56ff861440754e48c95880634f6f33f74"
     },
     {
       "path": "content/mods/particle-core.json",

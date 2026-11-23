@@ -1,6 +1,6 @@
 # Refined & Tailored: Refresh
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 172 mods (21 dependencies), 2 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 173 mods (21 dependencies), 2 resource packs
 
 ## Contents
 
@@ -128,6 +128,7 @@
 - [Not Alone](https://modrinth.com/project/notalone) `mc1.21.1-1.2.0-neoforge`
 - [Nyf's Spiders](https://modrinth.com/project/nyfs-spiders) `3.0.2`
 - [Offgrid](https://modrinth.com/project/offgrid) `1.0.7+1.21.1-neoforge`
+- [Oreganized](https://modrinth.com/project/oreganized) `5.4.5`
 - [Particle Core](https://modrinth.com/project/particle-core) `0.3.3+1.21+neoforge`
 - [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.4+1.21.1-neoforge`
 - [Pehkui](https://modrinth.com/project/pehkui) `3.8.3+1.21-neoforge`

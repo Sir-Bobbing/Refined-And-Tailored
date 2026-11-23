@@ -1,0 +1,23 @@
+{
+  "name": "Oreganized",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "2FJutzEL",
+      "slug": "oreganized",
+      "versionId": "ZDlOH0rD",
+      "versionNumber": "5.4.5",
+      "filename": "Oreganized 5.4.5+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/2FJutzEL/versions/ZDlOH0rD/Oreganized%205.4.5%2Bmc1.21.1.jar",
+      "sha1": "7691fe460e3703a5a6b9b55a64e16323fb6c9662",
+      "sha512": "dbdce794fd577d70bdf231c69d071731ff234c829eebf01c2b06ec36127603eef4a77f2756a55ff1cae05858dbd6d18893ba9dc6975d845c428972bc87d4effb",
+      "fileSize": 11791624
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
