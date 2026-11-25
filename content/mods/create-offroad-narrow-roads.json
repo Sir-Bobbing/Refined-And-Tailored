@@ -1,0 +1,23 @@
+{
+  "name": "Create Offroad: Narrow Roads",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SFV6RPwE",
+      "slug": "create-offroad-narrow-roads",
+      "versionId": "1xu3aQWh",
+      "versionNumber": "0.5",
+      "filename": "offroadstepup-0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SFV6RPwE/versions/1xu3aQWh/offroadstepup-0.5.jar",
+      "sha1": "a468ae166a6fa3ce2571102dc39bcd181110468f",
+      "sha512": "4cf756fb78e0df91b7220659384699c85d54f56a9a524e9b9b8c8e9c425cda8127b4a48d82645cd89db1a0414d8711954bd4cc2d8a8121655c568c9b22eb9076",
+      "fileSize": 319136
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

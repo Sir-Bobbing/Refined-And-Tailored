@@ -1,6 +1,6 @@
 # Refined & Tailored: Refresh
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 173 mods (21 dependencies), 2 resource packs
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 175 mods (21 dependencies), 2 resource packs
 
 ## Contents
 
@@ -41,6 +41,7 @@
 - [Create Aeronautics Lift Patch](https://modrinth.com/project/create-aeronautics-lift-patch) `1.1.0`
 - [Create Contraption Terminals](https://modrinth.com/project/create-contraption-terminals) `1.21.1-1.4.0`
 - [Create Deco](https://modrinth.com/project/create-deco) `2.1.3`
+- [Create Offroad: Narrow Roads](https://modrinth.com/project/create-offroad-narrow-roads) `0.5`
 - [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
 - [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
 - [Create Smart Bounds](https://modrinth.com/project/create-smart-bounds) `1.0.0`
@@ -53,6 +54,7 @@
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Design n' Decor - Aeronautics Compat](https://modrinth.com/project/create-design-n-decor-aeronautics-compat) `1.0.0`
 - [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.16`
+- [Create: Loconautics](https://modrinth.com/project/loconautics) `0.1.3BETA`
 - [Create: Nowheel](https://modrinth.com/project/create-nowheel) `2.1.1+1.21.1neoforge`
 - [Create: Redstone Link GUI](https://modrinth.com/project/create-redstone-link-gui) `1.21.1-1.9.2`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`

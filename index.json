@@ -217,6 +217,10 @@
       "sha1": "05c0570b3cef9f92f1180aab684905d47c091191"
     },
     {
+      "path": "content/mods/create-offroad-narrow-roads.json",
+      "sha1": "05c4203f3040021768cea5e5f48c60308356c07a"
+    },
+    {
       "path": "content/mods/create-propulsion-simulated.json",
       "sha1": "96bdbdb77fdd11821d2e58159864130209b46a1f"
     },
@@ -479,6 +483,10 @@
     {
       "path": "content/mods/lmft.json",
       "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
+    },
+    {
+      "path": "content/mods/loconautics.json",
+      "sha1": "7539ef46efc8721bb94c4fc3004b3e313ad5abb1"
     },
     {
       "path": "content/mods/loot-integrations.json",
@@ -6237,16 +6245,16 @@
       "sha1": "4ba9386b6c60bdc334b8bcee66e5d350453eca9c"
     },
     {
-      "path": "overrides/mods/loconautics-0.1.3BETA.jar",
-      "sha1": "c37063f3002e85d1a65d35705f123e7df1e9c5af"
-    },
-    {
       "path": "overrides/mods/moonbrooch-neoforge-1.21.1-1.0.0.jar",
       "sha1": "22ef296b28228f898d095d7833f8cfc70920654e"
     },
     {
       "path": "overrides/mods/prospectingpicks-1.3.3.jar",
       "sha1": "78c5a7e0c5c8a200b9434df39d5964063c65c96a"
+    },
+    {
+      "path": "overrides/mods/sprawlmod-neoforge-1.21.1-1.0.0(1).jar",
+      "sha1": "cdca43ba498214eceb4b09f4de09f9a59c2fc92a"
     },
     {
       "path": "overrides/options.txt",
